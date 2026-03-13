@@ -323,6 +323,17 @@ def generate_era_page(era, people_by_era, people):
     return page(name, body, breadcrumbs)
 
 
+def generate_people_index(people):
+    """Generate /en/people/index.html listing all people."""
+    items = []
+    for pid in sorted(people.keys()):
+        name = esc(t(people[pid]['name']))
+        items.append(f'<li><a href="./{pid}.html">{name}</a></li>')
+    body = f'<h1>People ({len(items)})</h1>\n<ul>\n' + '\n'.join(items) + '\n</ul>'
+    breadcrumbs = [('Home', '/index.html'), ('People', None)]
+    return page(f'People ({len(items)})', body, breadcrumbs)
+
+
 def generate_index(people, fields, countries, eras):
     # Build label maps for JS
     field_labels = {fid: t(f['name']) for fid, f in fields.items()}
@@ -431,6 +442,11 @@ def main():
         write_page(os.path.join(SITE_DIR, 'en', 'people', f'{pid}.html'), html)
         count_people += 1
     print(f"Generated {count_people} people pages")
+
+    # 3b. Generate people index page
+    html = generate_people_index(people)
+    write_page(os.path.join(SITE_DIR, 'en', 'people', 'index.html'), html)
+    print("Generated en/people/index.html")
 
     # 4. Generate field pages
     count_fields = 0
