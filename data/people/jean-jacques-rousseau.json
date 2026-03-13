@@ -1,0 +1,197 @@
+{
+  "id": "jean-jacques-rousseau",
+  "name": {
+    "en": "Jean-Jacques Rousseau",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジャン＝ジャック・ルソー"
+  },
+  "birth_year": 1712,
+  "death_year": 1778,
+  "countries": [
+    "ch",
+    "fr"
+  ],
+  "fields": [
+    "philosophy",
+    "literature"
+  ],
+  "overview": {
+    "en": "Jean-Jacques Rousseau was a Genevan philosopher and writer whose ideas on education, society, and the social contract profoundly influenced the French Revolution and modern political thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Rousseau was born in Geneva. Orphaned young and largely self-educated, he moved to Paris where he became associated with the Encyclopedists.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Rousseau's concept of the social contract, his critique of civilization, and his educational philosophy influenced democratic theory, Romanticism, and modern pedagogy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1750,
+      "event": {
+        "en": "Won essay prize from the Academy of Dijon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1755,
+      "event": {
+        "en": "Published Discourse on Inequality",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1762,
+      "event": {
+        "en": "Published The Social Contract and Emile",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1770,
+      "event": {
+        "en": "Completed Confessions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Social Contract",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1762,
+      "description": {
+        "en": "Political philosophy arguing that legitimate authority rests on a social contract",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Emile",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1762,
+      "description": {
+        "en": "Revolutionary treatise on education emphasizing natural development",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Man is born free, and everywhere he is in chains.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Social Contract, 1762"
+    }
+  ],
+  "relations": []
+}

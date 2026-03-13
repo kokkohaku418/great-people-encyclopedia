@@ -1,0 +1,153 @@
+{
+  "id": "george-stephenson",
+  "name": {
+    "en": "George Stephenson",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョージ・スティーブンソン"
+  },
+  "birth_year": 1781,
+  "death_year": 1848,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "George Stephenson was the 'Father of Railways' who built the first public inter-city railway line and established the standard gauge used worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Wylam, Northumberland, to an illiterate family of colliery workers, he taught himself to read at age eighteen and became an expert on steam engines.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He established railways as the dominant mode of transportation, setting the standard gauge of 4 feet 8.5 inches that is still used by most of the world's railways.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1814,
+      "event": {
+        "en": "Built his first locomotive, Blucher, for hauling coal",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1825,
+      "event": {
+        "en": "Opened the Stockton and Darlington Railway, the first public railway",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1829,
+      "event": {
+        "en": "His locomotive Rocket won the Rainhill Trials for the Liverpool and Manchester Railway",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Rocket",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1829,
+      "description": {
+        "en": "Pioneering locomotive that proved the viability of steam-powered rail transport",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have fought for the railway system against the most tremendous odds.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

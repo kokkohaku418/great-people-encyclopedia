@@ -1,0 +1,170 @@
+{
+  "id": "wernher-von-braun",
+  "name": {
+    "en": "Wernher von Braun",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴェルナー・フォン・ブラウン"
+  },
+  "birth_year": 1912,
+  "death_year": 1977,
+  "countries": [
+    "de",
+    "us"
+  ],
+  "fields": [
+    "engineering",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Wernher von Braun was a German-American aerospace engineer who was the chief architect of the Saturn V rocket that launched humans to the Moon.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Von Braun was born in Wirsitz, Germany. He developed rockets for Nazi Germany's V-2 program before surrendering to American forces and joining NASA.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Von Braun's Saturn V rocket remains the most powerful rocket ever flown successfully. He was the driving force behind the Apollo program that landed humans on the Moon.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1944,
+      "event": {
+        "en": "V-2 rocket became first human-made object to reach space",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1945,
+      "event": {
+        "en": "Surrendered to American forces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1960,
+      "event": {
+        "en": "Became director of NASA's Marshall Space Flight Center",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1969,
+      "event": {
+        "en": "Saturn V launched Apollo 11 to the Moon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Saturn V",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1967,
+      "description": {
+        "en": "The rocket that took humans to the Moon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Research is what I'm doing when I don't know what I'm doing.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

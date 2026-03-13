@@ -1,0 +1,180 @@
+{
+  "id": "kara-walker",
+  "name": {
+    "en": "Kara Walker",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カラ・ウォーカー"
+  },
+  "birth_year": 1969,
+  "death_year": null,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Kara Walker is an American artist known for her provocative silhouette installations exploring race, gender, sexuality, and violence in American history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Stockton, California. Moved to Atlanta as a teenager, where she confronted the deep racial history of the American South.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Walker's unflinching visual narratives about race and power have made her one of the most important American artists of her generation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1994,
+      "event": {
+        "en": "Created Gone: An Historical Romance, her breakthrough room-sized silhouette installation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1997,
+      "event": {
+        "en": "Became one of the youngest recipients of a MacArthur Fellowship at age 28",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2014,
+      "event": {
+        "en": "Created A Subtlety, a massive sugar sphinx installation at the old Domino Sugar factory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A Subtlety",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2014,
+      "description": {
+        "en": "Monumental sugar-coated sphinx installation addressing the history of sugar and slavery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Gone: An Historical Romance of a Civil War as It Occurred b'tween the Dusky Thighs of One Young Negress and Her Heart",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1994,
+      "description": {
+        "en": "Room-sized silhouette installation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I make art that is interested in the uncomfortable.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Interview"
+    }
+  ],
+  "relations": []
+}

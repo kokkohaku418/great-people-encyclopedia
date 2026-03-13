@@ -1,0 +1,138 @@
+{
+  "id": "burton-richter",
+  "name": {
+    "en": "Burton Richter",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "バートン・リヒター"
+  },
+  "birth_year": 1931,
+  "death_year": 2018,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Burton Richter was an American physicist who co-discovered the J/psi meson, providing evidence for the charm quark.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Brooklyn, New York. Studied at MIT and spent his career at Stanford's SLAC.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The discovery of the J/psi particle confirmed the existence of the charm quark and triggered the 'November Revolution' in particle physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1974,
+      "event": {
+        "en": "Co-discovered the J/psi meson",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1976,
+      "event": {
+        "en": "Awarded Nobel Prize in Physics with Samuel Ting",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Discovery of the J/psi particle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1974,
+      "description": {
+        "en": "Experimental discovery confirming the existence of the charm quark",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The discovery was a pivotal moment in the history of particle physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Lecture"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,196 @@
+{
+  "id": "ludwig-van-beethoven",
+  "name": {
+    "en": "Ludwig van Beethoven",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルートヴィヒ・ヴァン・ベートーヴェン"
+  },
+  "birth_year": 1770,
+  "death_year": 1827,
+  "countries": [
+    "de",
+    "at"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Ludwig van Beethoven was a German composer and pianist who was a crucial figure in the transition between the Classical and Romantic eras of Western music.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Beethoven was born in Bonn, Germany. He moved to Vienna at 21, where he studied under Haydn and established himself as a virtuoso pianist and composer despite increasing deafness.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Beethoven expanded the scope and ambition of the symphony, sonata, and concerto. His music expressed personal struggle and triumph, transforming music into a medium of profound human expression.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1792,
+      "event": {
+        "en": "Moved to Vienna",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1798,
+      "event": {
+        "en": "First symptoms of deafness",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1804,
+      "event": {
+        "en": "Premiered the Eroica Symphony",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1824,
+      "event": {
+        "en": "Premiered the Ninth Symphony while nearly deaf",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Symphony No. 9",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1824,
+      "description": {
+        "en": "Groundbreaking symphony incorporating voices and Schiller's Ode to Joy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Moonlight Sonata",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1801,
+      "description": {
+        "en": "One of the most famous piano compositions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Music is the mediator between the spiritual and the sensual life.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

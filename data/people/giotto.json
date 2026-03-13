@@ -1,0 +1,138 @@
+{
+  "id": "giotto",
+  "name": {
+    "en": "Giotto di Bondone",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョット・ディ・ボンドーネ"
+  },
+  "birth_year": 1267,
+  "death_year": 1337,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Giotto was the founder of the central tradition of Western painting, breaking from Byzantine formalism to depict natural human emotion.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born near Florence, possibly in Vespignano. According to legend, Cimabue discovered him drawing sheep on a rock.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His naturalistic style revolutionized painting and laid the groundwork for the Italian Renaissance, earning him the title father of European painting.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1305,
+      "event": {
+        "en": "Completed the Scrovegni Chapel frescoes in Padua",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1334,
+      "event": {
+        "en": "Appointed chief architect of Florence Cathedral",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Scrovegni Chapel Frescoes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1305,
+      "description": {
+        "en": "Cycle of frescoes depicting the lives of the Virgin and Christ with unprecedented emotional realism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Every painting is a voyage into a sacred harbour.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

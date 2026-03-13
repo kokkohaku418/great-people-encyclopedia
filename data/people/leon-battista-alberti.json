@@ -1,0 +1,139 @@
+{
+  "id": "leon-battista-alberti",
+  "name": {
+    "en": "Leon Battista Alberti",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レオン・バッティスタ・アルベルティ"
+  },
+  "birth_year": 1404,
+  "death_year": 1472,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "art",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Alberti was the archetypal Renaissance man — an architect, artist, author, poet, and philosopher who codified the principles of Renaissance art.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Genoa to an exiled Florentine noble family. He studied law at Bologna and became a papal secretary in Rome.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His treatises on painting, sculpture, and architecture established theoretical foundations for Renaissance art and influenced artists for centuries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1435,
+      "event": {
+        "en": "Wrote De Pictura, codifying the principles of perspective painting",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1452,
+      "event": {
+        "en": "Wrote De Re Aedificatoria, the first modern architectural treatise",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De Pictura",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1435,
+      "description": {
+        "en": "Treatise on painting that systematized linear perspective for artists",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A man can do all things if he but wills them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "De Iciarchia"
+    }
+  ],
+  "relations": []
+}

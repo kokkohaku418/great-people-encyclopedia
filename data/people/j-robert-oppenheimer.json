@@ -1,0 +1,273 @@
+{
+  "id": "j-robert-oppenheimer",
+  "name": {
+    "en": "J. Robert Oppenheimer",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "J・ロバート・オッペンハイマー"
+  },
+  "birth_year": 1904,
+  "death_year": 1967,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "J. Robert Oppenheimer was an American theoretical physicist who led the Manhattan Project during World War II. Known as the 'father of the atomic bomb,' he made significant contributions to quantum mechanics, nuclear physics, and astrophysics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Oppenheimer was born in New York City to a wealthy family and showed early intellectual brilliance. He studied at Harvard, Cambridge, and the University of Göttingen, where he earned his doctorate in physics under Max Born.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Oppenheimer's leadership of the Manhattan Project resulted in the development of the first nuclear weapons, fundamentally altering global geopolitics. His later advocacy for arms control and his opposition to the hydrogen bomb led to his controversial security hearing in 1954.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1925,
+      "event": {
+        "en": "Graduated summa cum laude from Harvard University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1927,
+      "event": {
+        "en": "Earned PhD from the University of Göttingen under Max Born",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1942,
+      "event": {
+        "en": "Appointed scientific director of the Manhattan Project at Los Alamos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1945,
+      "event": {
+        "en": "First nuclear weapon successfully tested at Trinity site in New Mexico",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Security clearance revoked after controversial hearing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Born-Oppenheimer Approximation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1927,
+      "description": {
+        "en": "A foundational method in quantum chemistry for separating nuclear and electronic motion in molecules.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Oppenheimer-Snyder Model",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1939,
+      "description": {
+        "en": "Theoretical prediction of gravitational collapse leading to what would later be called black holes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Manhattan Project Leadership",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1945,
+      "description": {
+        "en": "Directed the scientific effort that produced the first nuclear weapons at Los Alamos Laboratory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Now I am become Death, the destroyer of worlds.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Quoting the Bhagavad Gita after the Trinity test, 1945"
+    },
+    {
+      "text": {
+        "en": "The physicists have known sin; and this is a knowledge which they cannot lose.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Lecture at MIT, 1947"
+    }
+  ],
+  "relations": [
+    {
+      "person": "niels-bohr",
+      "type": "influenced_by"
+    },
+    {
+      "person": "max-born",
+      "type": "mentor"
+    },
+    {
+      "person": "edward-teller",
+      "type": "colleague"
+    },
+    {
+      "person": "hans-bethe",
+      "type": "colleague"
+    },
+    {
+      "person": "richard-feynman",
+      "type": "colleague"
+    }
+  ]
+}

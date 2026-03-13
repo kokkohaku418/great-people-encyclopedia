@@ -1,0 +1,155 @@
+{
+  "id": "ilya-prigogine",
+  "name": {
+    "en": "Ilya Prigogine",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "イリヤ・プリゴジン"
+  },
+  "birth_year": 1917,
+  "death_year": 2003,
+  "countries": [
+    "be",
+    "ru"
+  ],
+  "fields": [
+    "chemistry",
+    "physics"
+  ],
+  "overview": {
+    "en": "Ilya Prigogine was a Belgian physical chemist who won the Nobel Prize for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Prigogine was born in Moscow, Russia, and his family emigrated to Belgium when he was a child. He studied at the Université Libre de Bruxelles, where he spent most of his career.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Prigogine's theory of dissipative structures showed how order can emerge from chaos in systems far from equilibrium, bridging physics, chemistry, and biology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1945,
+      "event": {
+        "en": "Published early work on irreversible thermodynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Developed theory of dissipative structures",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1977,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Order Out of Chaos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1984,
+      "description": {
+        "en": "Popular book on self-organization in non-equilibrium systems",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The future is not given. It is constructed.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Order Out of Chaos"
+    }
+  ],
+  "relations": []
+}

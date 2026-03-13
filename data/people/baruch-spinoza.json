@@ -1,0 +1,153 @@
+{
+  "id": "baruch-spinoza",
+  "name": {
+    "en": "Baruch Spinoza",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "バールーフ・デ・スピノザ"
+  },
+  "birth_year": 1632,
+  "death_year": 1677,
+  "countries": [
+    "nl"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Baruch Spinoza was a Dutch philosopher of Sephardic Jewish origin whose Ethics is one of the greatest works of Western philosophy. He developed a rationalist metaphysical system equating God with Nature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Spinoza was born in Amsterdam to a Portuguese-Jewish family. He was excommunicated from the Jewish community at age 23 for his radical philosophical views.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Spinoza's pantheistic philosophy and his defense of intellectual freedom influenced the Enlightenment, German idealism, and modern secular thought. Einstein cited Spinoza's God as his own conception.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1656,
+      "event": {
+        "en": "Excommunicated from the Jewish community",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1670,
+      "event": {
+        "en": "Published Theological-Political Treatise anonymously",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1677,
+      "event": {
+        "en": "Ethics published posthumously",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Ethics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1677,
+      "description": {
+        "en": "Systematic philosophical work presented in geometric form, equating God with Nature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have made a ceaseless effort not to ridicule, not to bewail, not to scorn human actions, but to understand them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Theological-Political Treatise, 1670"
+    }
+  ],
+  "relations": []
+}

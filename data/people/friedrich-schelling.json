@@ -1,0 +1,138 @@
+{
+  "id": "friedrich-schelling",
+  "name": {
+    "en": "Friedrich Schelling",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フリードリヒ・シェリング"
+  },
+  "birth_year": 1775,
+  "death_year": 1854,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Friedrich Schelling was a central figure in German idealism who developed a philosophy of nature and art.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Leonberg, Wurttemberg. A prodigy who entered the Tubinger Stift seminary at age 15 alongside Hegel and Holderlin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His Naturphilosophie influenced Romantic science, and his philosophy of identity anticipated later developments in metaphysics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1797,
+      "event": {
+        "en": "Published Ideas for a Philosophy of Nature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1800,
+      "event": {
+        "en": "Published System of Transcendental Idealism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "System of Transcendental Idealism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1800,
+      "description": {
+        "en": "Attempt to unite nature and spirit through a philosophy of art",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Architecture is frozen music.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed via Schelling's Philosophie der Kunst"
+    }
+  ],
+  "relations": []
+}

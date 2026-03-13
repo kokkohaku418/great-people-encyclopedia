@@ -1,0 +1,153 @@
+{
+  "id": "charles-lyell",
+  "name": {
+    "en": "Charles Lyell",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "チャールズ・ライエル"
+  },
+  "birth_year": 1797,
+  "death_year": 1875,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Charles Lyell was a British geologist whose Principles of Geology influenced Darwin's thinking and established uniformitarianism as the basis of geology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lyell was born in Kinnordy, Scotland. He studied law but turned to geology, traveling extensively across Europe and North America to study rock formations.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lyell's principle that present geological processes explain the past — uniformitarianism — provided the deep time framework essential for Darwin's theory of evolution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1830,
+      "event": {
+        "en": "Published first volume of Principles of Geology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1838,
+      "event": {
+        "en": "Published Elements of Geology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1863,
+      "event": {
+        "en": "Published The Geological Evidences of the Antiquity of Man",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Principles of Geology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1830,
+      "description": {
+        "en": "Established uniformitarianism and deep geological time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The present is the key to the past.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Principles of Geology"
+    }
+  ],
+  "relations": []
+}

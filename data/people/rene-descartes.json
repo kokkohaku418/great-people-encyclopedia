@@ -1,0 +1,212 @@
+{
+  "id": "rene-descartes",
+  "name": {
+    "en": "René Descartes",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルネ・デカルト"
+  },
+  "birth_year": 1596,
+  "death_year": 1650,
+  "countries": [
+    "fr",
+    "nl"
+  ],
+  "fields": [
+    "mathematics",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "René Descartes was a French philosopher and mathematician who invented the Cartesian coordinate system, linking algebra and geometry. He is also considered the father of modern Western philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Descartes was born in La Haye en Touraine, France. He was educated at the Jesuit college of La Flèche and later studied law at the University of Poitiers before devoting himself to philosophy and science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Descartes' coordinate system revolutionized mathematics by connecting algebra and geometry. His philosophical method of systematic doubt and his cogito ergo sum became foundations of modern philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1618,
+      "event": {
+        "en": "Met Isaac Beeckman, inspiring his mathematical and scientific work",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1628,
+      "event": {
+        "en": "Began writing Rules for the Direction of the Mind",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1637,
+      "event": {
+        "en": "Published Discourse on the Method with La Géométrie",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1641,
+      "event": {
+        "en": "Published Meditations on First Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1649,
+      "event": {
+        "en": "Moved to Stockholm at Queen Christina's invitation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "La Géométrie",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1637,
+      "description": {
+        "en": "Founded analytic geometry by linking algebra and Euclidean geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Discourse on the Method",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1637,
+      "description": {
+        "en": "Introduced systematic doubt and the famous cogito ergo sum",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I think, therefore I am.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Discourse on the Method, 1637"
+    }
+  ],
+  "relations": []
+}

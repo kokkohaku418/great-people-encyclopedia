@@ -1,0 +1,242 @@
+{
+  "id": "heinrich-hertz",
+  "name": {
+    "en": "Heinrich Hertz",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ハインリヒ・ヘルツ"
+  },
+  "birth_year": 1857,
+  "death_year": 1894,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Heinrich Hertz was a German physicist who first conclusively proved the existence of electromagnetic waves predicted by Maxwell's theory. His experiments demonstrated that electromagnetic waves travel at the speed of light and can be reflected, refracted, and polarized.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Hamburg, Germany, Hertz studied engineering and physics at the University of Berlin under Helmholtz. He showed exceptional experimental skill and quickly rose to academic positions at the Universities of Kiel and Bonn.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hertz's experimental confirmation of electromagnetic waves opened the door to radio communication, television, and all wireless technology. The SI unit of frequency, the hertz, is named in his honor, reflecting the profound importance of his discoveries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1880,
+      "event": {
+        "en": "Earned his PhD under Hermann von Helmholtz at the University of Berlin.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1886,
+      "event": {
+        "en": "Began experiments to detect electromagnetic waves.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1887,
+      "event": {
+        "en": "Successfully generated and detected electromagnetic waves, confirming Maxwell's theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1887,
+      "event": {
+        "en": "Observed the photoelectric effect during his electromagnetic wave experiments.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1892,
+      "event": {
+        "en": "Published 'Electric Waves,' compiling his experimental results on electromagnetism.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On Electromagnetic Effects Produced by Electrical Disturbances in Insulators",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1887,
+      "description": {
+        "en": "Landmark paper reporting the first experimental detection of electromagnetic waves.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Electric Waves",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1893,
+      "description": {
+        "en": "Comprehensive collection of Hertz's experimental work on electromagnetic waves.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I do not think that the wireless waves I have discovered will have any practical application.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, c. 1890"
+    },
+    {
+      "text": {
+        "en": "It is of no use whatsoever. This is just an experiment that proves Maestro Maxwell was right.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "When asked about the practical use of his discoveries"
+    }
+  ],
+  "relations": [
+    {
+      "person": "hermann-von-helmholtz",
+      "type": "student"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced_by"
+    },
+    {
+      "person": "nikola-tesla",
+      "type": "colleague"
+    },
+    {
+      "person": "philipp-lenard",
+      "type": "mentor"
+    }
+  ]
+}

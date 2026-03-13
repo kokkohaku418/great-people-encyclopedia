@@ -1,0 +1,169 @@
+{
+  "id": "stefan-banach",
+  "name": {
+    "en": "Stefan Banach",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ステファン・バナッハ"
+  },
+  "birth_year": 1892,
+  "death_year": 1945,
+  "countries": [
+    "pl",
+    "ua"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Stefan Banach was a Polish mathematician and one of the founders of functional analysis. Banach spaces, named after him, are fundamental objects in modern analysis.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Banach was born in Kraków. Largely self-taught, he was discovered by Hugo Steinhaus in a Kraków park discussing Lebesgue integrals, which led to a lifelong collaboration.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Banach's work established functional analysis as a major branch of mathematics. The Hahn-Banach theorem, Banach-Steinhaus theorem, and Banach fixed-point theorem are cornerstones of modern analysis.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1920,
+      "event": {
+        "en": "Earned doctorate with a thesis on functional operations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1922,
+      "event": {
+        "en": "Published foundational work on normed linear spaces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1929,
+      "event": {
+        "en": "Co-founded the journal Studia Mathematica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1932,
+      "event": {
+        "en": "Published Théorie des opérations linéaires",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Théorie des opérations linéaires",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1932,
+      "description": {
+        "en": "Foundational monograph establishing functional analysis as a discipline",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A mathematician is a person who can find analogies between theorems; a better mathematician is one who can see analogies between proofs.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

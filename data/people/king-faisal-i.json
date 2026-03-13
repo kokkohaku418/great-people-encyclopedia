@@ -1,0 +1,153 @@
+{
+  "id": "king-faisal-i",
+  "name": {
+    "en": "Faisal I of Iraq",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ファイサル1世"
+  },
+  "birth_year": 1885,
+  "death_year": 1933,
+  "countries": [
+    "iq"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Faisal I was the first King of Iraq who played a key role in the Arab Revolt against the Ottoman Empire and helped establish the modern state of Iraq.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Mecca as a son of Sharif Hussein, he was educated in Istanbul and became a leader of the Arab nationalist movement.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He led the Arab forces in the revolt against the Ottomans and, as king, worked to build a unified Iraqi nation from diverse ethnic and religious groups.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1916,
+      "event": {
+        "en": "Led Arab forces in the Great Arab Revolt against the Ottomans",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1920,
+      "event": {
+        "en": "Briefly proclaimed King of Syria before being expelled by the French",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1921,
+      "event": {
+        "en": "Crowned King of Iraq under the British Mandate",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Correspondence with T.E. Lawrence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1916,
+      "description": {
+        "en": "Wartime communications coordinating the Arab Revolt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We are one people with one heart, and we have one aim: the freedom of the Arab nation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

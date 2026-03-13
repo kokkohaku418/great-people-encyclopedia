@@ -1,0 +1,153 @@
+{
+  "id": "averroes",
+  "name": {
+    "en": "Averroes",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "イブン・ルシュド"
+  },
+  "birth_year": 1126,
+  "death_year": 1198,
+  "countries": [
+    "es"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Averroes (Ibn Rushd) was an Andalusian-Arab philosopher and jurist who wrote extensive commentaries on Aristotle, earning him the title 'The Commentator' in medieval Europe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Averroes was born in Córdoba, Al-Andalus. From a family of jurists, he studied law, medicine, and philosophy, becoming chief judge of Córdoba.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Averroes' commentaries on Aristotle preserved and transmitted Greek philosophy to medieval Europe, catalyzing the Scholastic movement. His defense of philosophy's autonomy influenced Aquinas and European thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1169,
+      "event": {
+        "en": "Began writing commentaries on Aristotle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1180,
+      "event": {
+        "en": "Published The Incoherence of the Incoherence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1195,
+      "event": {
+        "en": "Exiled from Córdoba for his philosophical views",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Incoherence of the Incoherence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1180,
+      "description": {
+        "en": "Defense of Aristotelian philosophy against al-Ghazali's critique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Ignorance leads to fear, fear leads to hate, and hate leads to violence. This is the equation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

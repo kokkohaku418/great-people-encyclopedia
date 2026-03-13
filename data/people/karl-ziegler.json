@@ -1,0 +1,153 @@
+{
+  "id": "karl-ziegler",
+  "name": {
+    "en": "Karl Ziegler",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・ツィーグラー"
+  },
+  "birth_year": 1898,
+  "death_year": 1973,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Karl Ziegler was a German chemist who won the Nobel Prize for discoveries in the field of polymer chemistry, developing catalysts for polymerization.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ziegler was born in Helsa, Germany. He studied at the University of Marburg and became director of the Max Planck Institute for Coal Research in Mülheim.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ziegler's development of organometallic catalysts for polyethylene production, together with Natta's work on polypropylene, revolutionized the plastics industry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1953,
+      "event": {
+        "en": "Discovered Ziegler catalyst for polyethylene",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1955,
+      "event": {
+        "en": "Industrial production of polyethylene began",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1963,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry with Natta",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Consequences and Development of an Invention",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1963,
+      "description": {
+        "en": "Nobel lecture describing the development of Ziegler catalysts",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Research must be free and uninhibited.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

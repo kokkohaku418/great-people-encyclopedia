@@ -1,0 +1,286 @@
+{
+  "id": "blaise-pascal",
+  "name": {
+    "en": "Blaise Pascal",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ブレーズ・パスカル"
+  },
+  "birth_year": 1623,
+  "death_year": 1662,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics",
+    "mathematics",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Blaise Pascal was a French mathematician, physicist, inventor, and philosopher. He made fundamental contributions to projective geometry, probability theory, and fluid mechanics, and invented one of the earliest mechanical calculators.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Pascal was born in 1623 in Clermont-Ferrand, France. A child prodigy, he was educated by his father, a mathematician, and by the age of sixteen had written a significant treatise on conic sections that impressed leading mathematicians.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Pascal's work on fluid mechanics established Pascal's law and advanced understanding of atmospheric pressure. His correspondence with Fermat founded probability theory, and his philosophical writings, particularly the Pensees, continue to influence theology and philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1623,
+      "event": {
+        "en": "Born in Clermont-Ferrand, France",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1642,
+      "event": {
+        "en": "Invented the Pascaline, a mechanical calculator",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1648,
+      "event": {
+        "en": "Demonstrated atmospheric pressure variations with the Puy de Dome experiment",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1654,
+      "event": {
+        "en": "Corresponded with Fermat on probability theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1656,
+      "event": {
+        "en": "Published the Provincial Letters defending Jansenism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1662,
+      "event": {
+        "en": "Died in Paris at age 39",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Pensees",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1670,
+      "description": {
+        "en": "A posthumously published collection of philosophical and theological fragments, including Pascal's famous wager argument.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Traite du triangle arithmetique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1654,
+      "description": {
+        "en": "Described what is now known as Pascal's triangle and its applications to combinatorics and probability.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Provincial Letters",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1656,
+      "description": {
+        "en": "A series of eighteen letters attacking Jesuit casuistry, considered a masterpiece of French prose.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The heart has its reasons which reason knows nothing of.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Pensees"
+    },
+    {
+      "text": {
+        "en": "All of humanity's problems stem from man's inability to sit quietly in a room alone.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Pensees"
+    }
+  ],
+  "relations": [
+    {
+      "person": "pierre-de-fermat",
+      "type": "collaborator"
+    },
+    {
+      "person": "rene-descartes",
+      "type": "rival"
+    },
+    {
+      "person": "daniel-bernoulli",
+      "type": "influenced"
+    },
+    {
+      "person": "evangelista-torricelli",
+      "type": "influenced_by"
+    }
+  ]
+}

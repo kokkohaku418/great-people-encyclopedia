@@ -1,0 +1,153 @@
+{
+  "id": "diogenes",
+  "name": {
+    "en": "Diogenes of Sinope",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ディオゲネス"
+  },
+  "birth_year": -412,
+  "death_year": -323,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Diogenes of Sinope was the most famous Cynic philosopher, advocating a life of virtue in accordance with nature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Sinope on the Black Sea. He was exiled and moved to Athens where he lived in extreme poverty by choice.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His radical rejection of social conventions and materialism inspired the Stoics and remains a symbol of philosophical freedom.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -340,
+      "event": {
+        "en": "Famously told Alexander the Great to stand out of his sunlight",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -350,
+      "event": {
+        "en": "Lived in a ceramic jar in the Athenian marketplace",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Republic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -350,
+      "description": {
+        "en": "Lost work advocating a cosmopolitan society without conventional institutions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I am a citizen of the world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Diogenes Laërtius"
+    },
+    {
+      "text": {
+        "en": "It is the privilege of the gods to want nothing, and of godlike men to want little.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

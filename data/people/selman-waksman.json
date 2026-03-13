@@ -1,0 +1,154 @@
+{
+  "id": "selman-waksman",
+  "name": {
+    "en": "Selman Waksman",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "セルマン・ワクスマン"
+  },
+  "birth_year": 1888,
+  "death_year": 1973,
+  "countries": [
+    "ua",
+    "us"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Selman Waksman was a Ukrainian-American microbiologist who discovered streptomycin, the first antibiotic effective against tuberculosis.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Novaya Priluka, Ukraine, he emigrated to the United States and studied soil microbiology at Rutgers University.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His systematic search for antibiotics in soil microorganisms led to the discovery of streptomycin, saving millions from tuberculosis and coining the word 'antibiotic.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1940,
+      "event": {
+        "en": "Coined the term 'antibiotic'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1943,
+      "event": {
+        "en": "His lab discovered streptomycin, the first effective treatment for tuberculosis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1952,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physiology or Medicine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Streptomycin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1943,
+      "description": {
+        "en": "The first antibiotic effective against tuberculosis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The earth will still keep its secret.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On the vast untapped potential of soil microorganisms"
+    }
+  ],
+  "relations": []
+}

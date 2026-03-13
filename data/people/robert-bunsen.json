@@ -1,0 +1,168 @@
+{
+  "id": "robert-bunsen",
+  "name": {
+    "en": "Robert Bunsen",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ロベルト・ブンゼン"
+  },
+  "birth_year": 1811,
+  "death_year": 1899,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Robert Bunsen was a German chemist who developed the Bunsen burner, discovered cesium and rubidium using spectroscopy, and pioneered the field of photochemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bunsen was born in Göttingen, Germany. He studied chemistry at the University of Göttingen and became professor at Heidelberg, where he conducted his most famous research.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bunsen and Kirchhoff's development of spectroscopy as an analytical tool revolutionized chemistry and astronomy, enabling the identification of elements in stars and the discovery of new elements.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1841,
+      "event": {
+        "en": "Invented the Bunsen cell battery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1855,
+      "event": {
+        "en": "Developed the Bunsen burner",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1860,
+      "event": {
+        "en": "Discovered cesium by spectroscopy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1861,
+      "event": {
+        "en": "Discovered rubidium by spectroscopy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Photochemical Investigations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1857,
+      "description": {
+        "en": "Pioneering work on the chemical effects of light",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A chemist who is not a physicist is nothing at all.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

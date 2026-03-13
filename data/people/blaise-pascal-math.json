@@ -1,0 +1,212 @@
+{
+  "id": "blaise-pascal-math",
+  "name": {
+    "en": "Blaise Pascal",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ブレーズ・パスカル"
+  },
+  "birth_year": 1623,
+  "death_year": 1662,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics",
+    "philosophy",
+    "physics"
+  ],
+  "overview": {
+    "en": "Blaise Pascal was a French mathematician, physicist, and philosopher who made fundamental contributions to projective geometry, probability theory, and the physics of fluids and pressure.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Pascal was born in Clermont-Ferrand, France. A child prodigy, he wrote a significant treatise on projective geometry at age 16 and invented a mechanical calculator at 19.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Pascal's contributions span mathematics, physics, and philosophy. Pascal's triangle, the Pascaline calculator, and his work on probability with Fermat laid foundations for multiple fields.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1640,
+      "event": {
+        "en": "Published Essay on Conics at age 16",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1642,
+      "event": {
+        "en": "Invented the Pascaline mechanical calculator",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1654,
+      "event": {
+        "en": "Correspondence with Fermat founding probability theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1656,
+      "event": {
+        "en": "Published Provincial Letters",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1670,
+      "event": {
+        "en": "Pensées published posthumously",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Pensées",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1670,
+      "description": {
+        "en": "Philosophical defense of Christianity containing Pascal's wager",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Provincial Letters",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1656,
+      "description": {
+        "en": "Influential series of letters on theology and ethics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The heart has its reasons which reason knows nothing of.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Pensées, 1670"
+    }
+  ],
+  "relations": []
+}

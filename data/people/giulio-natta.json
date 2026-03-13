@@ -1,0 +1,153 @@
+{
+  "id": "giulio-natta",
+  "name": {
+    "en": "Giulio Natta",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジュリオ・ナッタ"
+  },
+  "birth_year": 1903,
+  "death_year": 1979,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Giulio Natta was an Italian chemist who won the Nobel Prize for his work on high polymers, developing stereospecific polymerization to create isotactic polypropylene.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Natta was born in Imperia, Italy. He studied at the Milan Polytechnic and became professor of industrial chemistry there.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Natta's discovery of stereoregular polymers and isotactic polypropylene, building on Ziegler's catalysts, enabled the production of new plastics with controlled properties.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1954,
+      "event": {
+        "en": "Developed isotactic polypropylene",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Published work on stereoregular polymerization",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1963,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry with Ziegler",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Stereospecific Polymerization",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1955,
+      "description": {
+        "en": "Papers describing the synthesis of stereoregular polymers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Research without application is like a beautiful flower without fragrance.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,211 @@
+{
+  "id": "leo-tolstoy",
+  "name": {
+    "en": "Leo Tolstoy",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レフ・トルストイ"
+  },
+  "birth_year": 1828,
+  "death_year": 1910,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "literature",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Leo Tolstoy was a Russian novelist widely regarded as one of the greatest writers of all time. War and Peace and Anna Karenina are considered pinnacles of realist fiction.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Tolstoy was born into an aristocratic Russian family at Yasnaya Polyana. He studied at Kazan University, served in the army, and traveled in Europe before devoting himself to writing.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Tolstoy's novels set the standard for realist fiction. His later philosophical and religious works on nonviolent resistance influenced Gandhi, Martin Luther King Jr., and peace movements worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1852,
+      "event": {
+        "en": "Published Childhood, his first novel",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1865,
+      "event": {
+        "en": "Began publishing War and Peace",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1877,
+      "event": {
+        "en": "Published Anna Karenina",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1886,
+      "event": {
+        "en": "Published The Death of Ivan Ilyich",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1910,
+      "event": {
+        "en": "Left home and died at a railway station",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "War and Peace",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1869,
+      "description": {
+        "en": "Epic novel of Russian society during the Napoleonic Wars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Anna Karenina",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1877,
+      "description": {
+        "en": "Novel exploring love, family, and society in Imperial Russia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "All happy families are alike; each unhappy family is unhappy in its own way.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Anna Karenina, 1877"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,168 @@
+{
+  "id": "annie-jump-cannon",
+  "name": {
+    "en": "Annie Jump Cannon",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アニー・ジャンプ・キャノン"
+  },
+  "birth_year": 1863,
+  "death_year": 1941,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Annie Jump Cannon was an American astronomer who classified the spectra of hundreds of thousands of stars, creating the Harvard spectral classification system still used today.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cannon was born in Dover, Delaware. She studied at Wellesley College and worked at the Harvard College Observatory as one of the 'Harvard Computers.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Cannon's classification of over 350,000 stellar spectra was the largest body of astronomical work accomplished by a single individual, and her system remains the standard.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1896,
+      "event": {
+        "en": "Joined Harvard College Observatory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1901,
+      "event": {
+        "en": "Developed the Harvard spectral classification",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1911,
+      "event": {
+        "en": "Became curator of astronomical photographs",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1938,
+      "event": {
+        "en": "Appointed William Cranch Bond Astronomer",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Henry Draper Catalogue",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1924,
+      "description": {
+        "en": "Classification of spectra of 225,300 stars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Classifying the stars has helped materially in all studies of the structure of the universe.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

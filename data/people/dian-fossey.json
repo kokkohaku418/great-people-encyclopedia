@@ -1,0 +1,168 @@
+{
+  "id": "dian-fossey",
+  "name": {
+    "en": "Dian Fossey",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ダイアン・フォッシー"
+  },
+  "birth_year": 1932,
+  "death_year": 1985,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Dian Fossey was an American primatologist and conservationist who dedicated her life to studying and protecting mountain gorillas in Rwanda.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Fossey was born in San Francisco. She studied occupational therapy before traveling to Africa, where she met Louis Leakey, who supported her gorilla research.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Fossey's long-term study of mountain gorillas in their natural habitat transformed our understanding of primate behavior and brought global attention to gorilla conservation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1966,
+      "event": {
+        "en": "Began gorilla research in the Virunga Mountains",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Established Karisoke Research Centre",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1983,
+      "event": {
+        "en": "Published Gorillas in the Mist",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1985,
+      "event": {
+        "en": "Murdered at Karisoke",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Gorillas in the Mist",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1983,
+      "description": {
+        "en": "Account of 13 years living with mountain gorillas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When you realize the value of all life, you dwell less on what is past and concentrate more on the preservation of the future.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Gorillas in the Mist"
+    }
+  ],
+  "relations": []
+}

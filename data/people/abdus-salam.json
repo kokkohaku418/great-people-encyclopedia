@@ -1,0 +1,269 @@
+{
+  "id": "abdus-salam",
+  "name": {
+    "en": "Abdus Salam",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アブドゥス・サラム"
+  },
+  "birth_year": 1926,
+  "death_year": 1996,
+  "countries": [
+    "pk"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Abdus Salam was a Pakistani theoretical physicist who shared the 1979 Nobel Prize in Physics for the electroweak unification theory. He was the first Pakistani and the first Muslim to receive a Nobel Prize in science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Salam was born in Jhang, Punjab, in British India (now Pakistan), to a modest family. He showed extraordinary academic talent from an early age and earned his PhD from the University of Cambridge in 1951.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Salam's electroweak theory, developed independently and in parallel with Sheldon Glashow and Steven Weinberg, unified the electromagnetic and weak nuclear forces into a single framework. He also founded the International Centre for Theoretical Physics in Trieste to support scientists from developing countries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1951,
+      "event": {
+        "en": "Earned PhD from the University of Cambridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Became the youngest Fellow of the Royal Society at age 29",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1964,
+      "event": {
+        "en": "Founded the International Centre for Theoretical Physics in Trieste",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1968,
+      "event": {
+        "en": "Proposed the electroweak unification theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1979,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Glashow and Weinberg",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Electroweak Unification Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1968,
+      "description": {
+        "en": "Independently developed the theory unifying electromagnetic and weak nuclear forces into a single gauge theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Pati-Salam Model",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1974,
+      "description": {
+        "en": "Co-proposed a grand unified theory that treats leptons as a fourth color of quarks.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "International Centre for Theoretical Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1964,
+      "description": {
+        "en": "Founded the ICTP in Trieste to provide research opportunities for physicists from developing nations.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Scientific thought is the common heritage of mankind.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Banquet Speech, 1979"
+    },
+    {
+      "text": {
+        "en": "The creation of physics is the shared heritage of all mankind. East and West, North and South have equally participated in it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Ideals and Realities, 1984"
+    }
+  ],
+  "relations": [
+    {
+      "person": "steven-weinberg",
+      "type": "collaborator"
+    },
+    {
+      "person": "sheldon-glashow",
+      "type": "colleague"
+    },
+    {
+      "person": "paul-dirac",
+      "type": "influenced_by"
+    },
+    {
+      "person": "jogesh-pati",
+      "type": "collaborator"
+    }
+  ]
+}

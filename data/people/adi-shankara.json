@@ -1,0 +1,138 @@
+{
+  "id": "adi-shankara",
+  "name": {
+    "en": "Adi Shankara",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "シャンカラ"
+  },
+  "birth_year": 788,
+  "death_year": 820,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Adi Shankara was an Indian philosopher who consolidated the doctrine of Advaita Vedanta (non-dualism).",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Kaladi, Kerala. Became a sannyasi at a very young age and traveled across India.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He revitalized Hindu philosophy, established four mathas (monasteries), and is one of India's greatest thinkers.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 800,
+      "event": {
+        "en": "Composed commentaries on the Upanishads, Brahma Sutras, and Bhagavad Gita",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 810,
+      "event": {
+        "en": "Established the four mathas at Sringeri, Puri, Dwaraka, and Jyotirmath",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Vivekachudamani",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 800,
+      "description": {
+        "en": "Philosophical poem on the discrimination between the real and the unreal",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Brahman is the only truth, the world is illusion, and there is ultimately no difference between Brahman and the individual self.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,168 @@
+{
+  "id": "marcel-proust",
+  "name": {
+    "en": "Marcel Proust",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マルセル・プルースト"
+  },
+  "birth_year": 1871,
+  "death_year": 1922,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Marcel Proust was a French novelist whose In Search of Lost Time is one of the most celebrated works of fiction in any language, exploring memory, time, and society.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Proust was born in Paris to a wealthy family. Sickly from childhood, he became increasingly reclusive, spending his final years writing in a cork-lined bedroom.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "In Search of Lost Time revolutionized the novel through its exploration of involuntary memory, subjective experience, and the passage of time. Its influence on modernist and postmodernist literature is immeasurable.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1896,
+      "event": {
+        "en": "Published Pleasures and Days",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1913,
+      "event": {
+        "en": "Published Swann's Way",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1919,
+      "event": {
+        "en": "Won the Prix Goncourt for Within a Budding Grove",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1922,
+      "event": {
+        "en": "Died while revising later volumes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "In Search of Lost Time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1913,
+      "description": {
+        "en": "Seven-volume novel exploring memory, time, art, and Parisian society",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "In Search of Lost Time"
+    }
+  ],
+  "relations": []
+}

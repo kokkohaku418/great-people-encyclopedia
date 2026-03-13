@@ -1,0 +1,195 @@
+{
+  "id": "alfred-russel-wallace",
+  "name": {
+    "en": "Alfred Russel Wallace",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アルフレッド・ラッセル・ウォレス"
+  },
+  "birth_year": 1823,
+  "death_year": 1913,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Alfred Russel Wallace was a British naturalist who independently conceived the theory of evolution through natural selection, prompting Darwin to publish his own theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wallace was born in Usk, Wales. He was largely self-educated and worked as a surveyor and teacher before becoming a professional naturalist and collector in the Amazon and Malay Archipelago.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wallace's independent discovery of natural selection spurred Darwin to publish. His work on biogeography, including the Wallace Line, established him as the father of biogeography.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1848,
+      "event": {
+        "en": "Began expedition to the Amazon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1854,
+      "event": {
+        "en": "Began eight-year expedition to the Malay Archipelago",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1858,
+      "event": {
+        "en": "Sent paper on natural selection to Darwin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1869,
+      "event": {
+        "en": "Published The Malay Archipelago",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Malay Archipelago",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1869,
+      "description": {
+        "en": "Account of his travels and the biogeography of Southeast Asia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Tendency of Varieties to Depart Indefinitely from the Original Type",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1858,
+      "description": {
+        "en": "Paper independently proposing natural selection",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Every species has come into existence coincident both in space and time with a closely allied species.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "1855 paper"
+    }
+  ],
+  "relations": []
+}

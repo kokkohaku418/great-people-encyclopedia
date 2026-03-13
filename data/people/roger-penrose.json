@@ -1,0 +1,281 @@
+{
+  "id": "roger-penrose",
+  "name": {
+    "en": "Roger Penrose",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ロジャー・ペンローズ"
+  },
+  "birth_year": 1931,
+  "death_year": null,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Roger Penrose is a British mathematical physicist who made fundamental contributions to general relativity, including the singularity theorems proving that black hole formation is an inevitable consequence of gravitational collapse. He was awarded the 2020 Nobel Prize in Physics for this work.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Penrose was born in Colchester, England into an intellectually distinguished family. He studied mathematics at University College London and earned his Ph.D. from Cambridge, later holding professorships at Birkbeck College and the University of Oxford.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Penrose's singularity theorems fundamentally changed the understanding of general relativity and black holes. His work on Penrose tilings, twistor theory, and the connections between mathematics, physics, and consciousness has inspired research across multiple disciplines.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1931,
+      "event": {
+        "en": "Born in Colchester, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Published the singularity theorem proving gravitational collapse leads to singularities",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1969,
+      "event": {
+        "en": "Proposed the cosmic censorship conjecture and the Penrose process for extracting energy from rotating black holes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1974,
+      "event": {
+        "en": "Discovered Penrose tilings, aperiodic tilings with fivefold symmetry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1989,
+      "event": {
+        "en": "Published 'The Emperor's New Mind' on consciousness and computation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2020,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for proving black hole formation under general relativity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Gravitational Collapse and Space-Time Singularities",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1965,
+      "description": {
+        "en": "Paper proving the first singularity theorem showing that gravitational collapse inevitably leads to singularities.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Emperor's New Mind",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1989,
+      "description": {
+        "en": "Book exploring the relationship between physics, mathematics, consciousness, and artificial intelligence.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Road to Reality",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2004,
+      "description": {
+        "en": "Comprehensive guide to the laws of the universe spanning from basic mathematics to cutting-edge physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Mathematics is not just a tool; it is the very language of the universe.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Road to Reality (2004)"
+    },
+    {
+      "text": {
+        "en": "My own view is that consciousness is an essential ingredient of the universe.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Interview, BBC"
+    }
+  ],
+  "relations": [
+    {
+      "person": "stephen-hawking",
+      "type": "collaborator"
+    },
+    {
+      "person": "dennis-sciama",
+      "type": "mentor"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "influenced_by"
+    }
+  ]
+}

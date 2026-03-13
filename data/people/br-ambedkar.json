@@ -1,0 +1,139 @@
+{
+  "id": "br-ambedkar",
+  "name": {
+    "en": "B.R. Ambedkar",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "B・R・アンベードカル"
+  },
+  "birth_year": 1891,
+  "death_year": 1956,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "politics",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "B.R. Ambedkar was the chief architect of the Indian Constitution and a champion of the rights of Dalits.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born into a Dalit family in Mhow. Overcame severe discrimination to earn doctorates from Columbia and the London School of Economics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He transformed Indian society by fighting caste discrimination and drafting the world's longest written constitution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1927,
+      "event": {
+        "en": "Led the Mahad Satyagraha for Dalit rights to public water",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Presented the draft Constitution to the Constituent Assembly",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Annihilation of Caste",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1936,
+      "description": {
+        "en": "Undelivered speech that became a foundational text against the caste system",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I measure the progress of a community by the degree of progress which women have achieved.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Constituent Assembly speech"
+    }
+  ],
+  "relations": []
+}

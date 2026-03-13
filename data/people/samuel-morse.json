@@ -1,0 +1,138 @@
+{
+  "id": "samuel-morse",
+  "name": {
+    "en": "Samuel Morse",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "サミュエル・モース"
+  },
+  "birth_year": 1791,
+  "death_year": 1872,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "Samuel Morse was an American inventor and painter who developed the electric telegraph and the Morse code, revolutionizing long-distance communication.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Charlestown, Massachusetts, he was initially a successful portrait painter who became interested in electromagnetism after a personal tragedy during which delayed news of his wife's death arrived too late.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The telegraph system he developed transformed global communication, enabling near-instantaneous long-distance messaging and laying the groundwork for modern telecommunications.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1838,
+      "event": {
+        "en": "Demonstrated the telegraph to President Van Buren",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1844,
+      "event": {
+        "en": "Sent the first telegraph message 'What hath God wrought' from Washington to Baltimore",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Morse Code",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1838,
+      "description": {
+        "en": "System of dots and dashes for encoding text messages in telegraph communication",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "What hath God wrought!",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "First telegraph message, May 24, 1844"
+    }
+  ],
+  "relations": []
+}

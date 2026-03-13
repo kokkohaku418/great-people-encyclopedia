@@ -1,0 +1,138 @@
+{
+  "id": "david-wineland",
+  "name": {
+    "en": "David Wineland",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "デイヴィッド・ワインランド"
+  },
+  "birth_year": 1944,
+  "death_year": null,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "David Wineland pioneered techniques for trapping and manipulating individual ions with laser light.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Milwaukee, Wisconsin. Studied at the University of California, Berkeley.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His ion trap methods enabled the most precise clocks ever made and laid groundwork for quantum computing.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1978,
+      "event": {
+        "en": "First laser cooling of ions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2012,
+      "event": {
+        "en": "Awarded Nobel Prize in Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Laser Cooling of Atoms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1979,
+      "description": {
+        "en": "Seminal paper on laser cooling and trapping of ions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We can now make clocks so precise that they would not gain or lose a second in the age of the universe.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Public lecture"
+    }
+  ],
+  "relations": []
+}

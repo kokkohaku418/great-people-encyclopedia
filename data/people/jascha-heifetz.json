@@ -1,0 +1,154 @@
+{
+  "id": "jascha-heifetz",
+  "name": {
+    "en": "Jascha Heifetz",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヤッシャ・ハイフェッツ"
+  },
+  "birth_year": 1901,
+  "death_year": 1987,
+  "countries": [
+    "us",
+    "lt"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Jascha Heifetz was a Lithuanian-born American violinist widely considered the greatest violinist of the 20th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Vilnius, Lithuania. A child prodigy, he studied at the Saint Petersburg Conservatory and debuted at Carnegie Hall at age 16.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Heifetz's flawless technique and intense musical personality set the standard for modern violin playing.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1917,
+      "event": {
+        "en": "Made his legendary Carnegie Hall debut at age 16",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1925,
+      "event": {
+        "en": "Became an American citizen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1972,
+      "event": {
+        "en": "Retired from public performance and devoted himself to teaching",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Heifetz recordings of the Tchaikovsky and Brahms concertos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1955,
+      "description": {
+        "en": "Definitive recordings of the major violin concertos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If I don't practice one day, I know it; two days, the critics know it; three days, the public knows it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

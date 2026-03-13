@@ -1,0 +1,139 @@
+{
+  "id": "frederick-sanger",
+  "name": {
+    "en": "Frederick Sanger",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フレデリック・サンガー"
+  },
+  "birth_year": 1918,
+  "death_year": 2013,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "chemistry",
+    "biology"
+  ],
+  "overview": {
+    "en": "Frederick Sanger was a British biochemist who won two Nobel Prizes in Chemistry for his work on protein and DNA sequencing.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Rendcombe, Gloucestershire. Studied at Cambridge and became a Quaker conscientious objector during WWII.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Sanger's DNA sequencing method revolutionized molecular biology and made the Human Genome Project possible.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1958,
+      "event": {
+        "en": "Awarded first Nobel Prize in Chemistry for sequencing insulin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1980,
+      "event": {
+        "en": "Awarded second Nobel Prize for developing DNA sequencing methods",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Sanger sequencing method",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1977,
+      "description": {
+        "en": "Chain-termination method for sequencing DNA that became the gold standard",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Scientific research is one of the most exciting and rewarding of occupations.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Lecture"
+    }
+  ],
+  "relations": []
+}

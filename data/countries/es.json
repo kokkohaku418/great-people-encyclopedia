@@ -1,0 +1,19 @@
+{
+  "id": "es",
+  "name": {
+    "en": "Spain",
+    "es": "España",
+    "pt": "Espanha",
+    "fr": "Espagne",
+    "de": "Spanien",
+    "zh": "西班牙",
+    "hi": "स्पेन",
+    "ar": "إسبانيا",
+    "id": "Spanyol",
+    "ja": "スペイン"
+  },
+  "region": "southern-europe",
+  "description": {
+    "en": "A southern European country with a rich history in exploration, art, and literature."
+  }
+}

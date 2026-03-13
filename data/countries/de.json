@@ -1,0 +1,19 @@
+{
+  "id": "de",
+  "name": {
+    "en": "Germany",
+    "es": "Alemania",
+    "pt": "Alemanha",
+    "fr": "Allemagne",
+    "de": "Deutschland",
+    "zh": "德国",
+    "hi": "जर्मनी",
+    "ar": "ألمانيا",
+    "id": "Jerman",
+    "ja": "ドイツ"
+  },
+  "region": "western-europe",
+  "description": {
+    "en": "A central European country with a rich history in science, philosophy, music, and engineering."
+  }
+}

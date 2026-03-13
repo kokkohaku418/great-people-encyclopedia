@@ -1,0 +1,210 @@
+{
+  "id": "ernest-hemingway",
+  "name": {
+    "en": "Ernest Hemingway",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アーネスト・ヘミングウェイ"
+  },
+  "birth_year": 1899,
+  "death_year": 1961,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Ernest Hemingway was an American novelist and journalist whose spare, understated prose style influenced 20th-century fiction. He won the Nobel Prize in Literature in 1954.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Hemingway was born in Oak Park, Illinois. He served as an ambulance driver in World War I and later worked as a journalist in Paris, where he joined the expatriate literary community.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hemingway's iceberg theory of writing — showing only the surface while implying deeper meaning — revolutionized prose fiction. His influence on American literature is immeasurable.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1926,
+      "event": {
+        "en": "Published The Sun Also Rises",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1929,
+      "event": {
+        "en": "Published A Farewell to Arms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1940,
+      "event": {
+        "en": "Published For Whom the Bell Tolls",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1952,
+      "event": {
+        "en": "Published The Old Man and the Sea",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Awarded the Nobel Prize in Literature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Old Man and the Sea",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1952,
+      "description": {
+        "en": "Novella about an aging fisherman's struggle with a giant marlin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A Farewell to Arms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1929,
+      "description": {
+        "en": "Novel of love and war set during World War I",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "All you have to do is write one true sentence. Write the truest sentence that you know.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "A Moveable Feast, 1964"
+    }
+  ],
+  "relations": []
+}

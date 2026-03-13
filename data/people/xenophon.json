@@ -1,0 +1,139 @@
+{
+  "id": "xenophon",
+  "name": {
+    "en": "Xenophon",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クセノポン"
+  },
+  "birth_year": -430,
+  "death_year": -354,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "literature",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Xenophon was an Athenian soldier, historian, and student of Socrates whose writings are major sources for Greek history and philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Athens to an equestrian family. He was a devoted follower of Socrates and served as a mercenary commander in Persia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His Anabasis became a model of military memoir, and his Socratic writings provide an essential counterpart to Plato's dialogues.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -401,
+      "event": {
+        "en": "Led the retreat of the Ten Thousand Greek mercenaries from Persia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -370,
+      "event": {
+        "en": "Wrote the Anabasis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Anabasis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -370,
+      "description": {
+        "en": "Account of the march of 10,000 Greek mercenaries into and out of the Persian Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The sea! The sea!",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Anabasis, upon the Greeks sighting the Black Sea"
+    }
+  ],
+  "relations": []
+}

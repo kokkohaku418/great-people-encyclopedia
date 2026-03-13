@@ -1,0 +1,138 @@
+{
+  "id": "darius-the-great",
+  "name": {
+    "en": "Darius the Great",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ダレイオス1世"
+  },
+  "birth_year": -550,
+  "death_year": -486,
+  "countries": [
+    "ir"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Darius I was the third king of the Achaemenid Empire who reorganized it into the largest empire the world had yet seen.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "He seized the throne after overthrowing the usurper Gaumata and consolidated power through military campaigns.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His administrative reforms, including the satrap system and the Royal Road, created a model for governing vast empires.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -522,
+      "event": {
+        "en": "Became King of Persia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -490,
+      "event": {
+        "en": "Launched the first Persian invasion of Greece, defeated at Marathon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Behistun Inscription",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -520,
+      "description": {
+        "en": "Monumental rock relief and inscription recording his rise to power in three languages",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "You know that I did not make myself king by deceit.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Behistun Inscription"
+    }
+  ],
+  "relations": []
+}

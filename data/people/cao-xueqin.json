@@ -1,0 +1,168 @@
+{
+  "id": "cao-xueqin",
+  "name": {
+    "en": "Cao Xueqin",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "曹雪芹"
+  },
+  "birth_year": 1715,
+  "death_year": 1763,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Cao Xueqin was a Chinese novelist and author of Dream of the Red Chamber, one of China's Four Great Classical Novels and one of the greatest novels in world literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cao Xueqin was born into a wealthy family that had served as bondservants to the Qing imperial house. The family's decline from wealth to poverty deeply influenced his masterwork.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Dream of the Red Chamber is considered the pinnacle of Chinese fiction, admired for its psychological depth, social realism, and lyrical beauty. An entire field of study, Redology, is devoted to it.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1740,
+      "event": {
+        "en": "Began writing Dream of the Red Chamber",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1754,
+      "event": {
+        "en": "First 80 chapters circulated in manuscript",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1763,
+      "event": {
+        "en": "Died before completing the novel",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1791,
+      "event": {
+        "en": "First printed edition with 120 chapters published",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Dream of the Red Chamber",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1754,
+      "description": {
+        "en": "Novel depicting the decline of a wealthy Chinese family with extraordinary psychological and social detail",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Truth becomes fiction when the fiction is true; real becomes not-real where the unreal is real.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Dream of the Red Chamber"
+    }
+  ],
+  "relations": []
+}

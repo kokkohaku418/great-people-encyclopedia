@@ -1,0 +1,138 @@
+{
+  "id": "tamerlane",
+  "name": {
+    "en": "Tamerlane",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ティムール"
+  },
+  "birth_year": 1336,
+  "death_year": 1405,
+  "countries": [
+    "uz"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Tamerlane was a Turco-Mongol conqueror who founded the Timurid Empire spanning from Turkey to India.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born near Kesh (modern Shahrisabz, Uzbekistan) into a minor Barlas noble family. He was injured in his youth, leaving him lame.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His conquests reshaped Central Asia, and the Timurid Renaissance he sparked produced some of Islamic civilization's greatest achievements.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1370,
+      "event": {
+        "en": "Established the Timurid Empire with Samarkand as its capital",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1398,
+      "event": {
+        "en": "Invaded and sacked Delhi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Samarkand",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1400,
+      "description": {
+        "en": "Transformed into one of the world's most magnificent cities under his rule",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "As there is but one God in heaven, there ought to be but one ruler on the earth.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

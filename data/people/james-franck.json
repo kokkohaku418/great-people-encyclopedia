@@ -1,0 +1,139 @@
+{
+  "id": "james-franck",
+  "name": {
+    "en": "James Franck",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジェームズ・フランク"
+  },
+  "birth_year": 1882,
+  "death_year": 1964,
+  "countries": [
+    "de",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "James Franck, with Gustav Hertz, demonstrated the quantization of energy in atoms through electron-bombardment experiments.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Hamburg to a Jewish banking family. He studied at the University of Berlin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Franck-Hertz experiment provided direct proof of quantum energy levels in atoms, confirming Bohr's atomic model.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1914,
+      "event": {
+        "en": "Conducted the Franck-Hertz experiment",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1925,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics with Gustav Hertz",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On Collisions Between Electrons and Mercury Vapor Molecules",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1914,
+      "description": {
+        "en": "Paper on the experiment confirming quantized atomic energy levels",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I could not lend my name to a cause which I did not believe would bring the desired result.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter opposing use of atomic bomb, 1945"
+    }
+  ],
+  "relations": []
+}

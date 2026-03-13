@@ -1,0 +1,153 @@
+{
+  "id": "ignaz-semmelweis",
+  "name": {
+    "en": "Ignaz Semmelweis",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "イグナーツ・ゼンメルワイス"
+  },
+  "birth_year": 1818,
+  "death_year": 1865,
+  "countries": [
+    "hu"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Ignaz Semmelweis was a Hungarian physician who discovered that handwashing by doctors dramatically reduced the incidence of childbed fever, pioneering antiseptic medicine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Buda to a German-speaking family, he studied medicine in Vienna and became an assistant at the Vienna General Hospital's maternity clinic.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His discovery that hand disinfection could prevent puerperal fever saved countless lives, though his ideas were rejected during his lifetime in one of medicine's greatest tragedies.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1847,
+      "event": {
+        "en": "Introduced mandatory handwashing with chlorinated lime at the Vienna maternity clinic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1850,
+      "event": {
+        "en": "Published data showing dramatic reduction in maternal mortality",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1861,
+      "event": {
+        "en": "Published The Etiology, Concept, and Prophylaxis of Childbed Fever",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Etiology, Concept, and Prophylaxis of Childbed Fever",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1861,
+      "description": {
+        "en": "Book documenting his evidence for hand disinfection in preventing puerperal fever",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When I look back upon the past, I can only dispel the sadness which falls upon me by gazing into that happy future when the infection will be banished.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Etiology, Concept, and Prophylaxis of Childbed Fever"
+    }
+  ],
+  "relations": []
+}

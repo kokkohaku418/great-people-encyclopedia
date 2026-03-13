@@ -1,0 +1,138 @@
+{
+  "id": "edward-jenner",
+  "name": {
+    "en": "Edward Jenner",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エドワード・ジェンナー"
+  },
+  "birth_year": 1749,
+  "death_year": 1823,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Edward Jenner was an English physician and scientist who pioneered the concept of vaccines, developing the first smallpox vaccine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Jenner was born in Berkeley, Gloucestershire. He studied medicine under John Hunter in London and returned to practice in his hometown.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Jenner's smallpox vaccination was the first successful vaccine and eventually led to the global eradication of smallpox, saving millions of lives.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1796,
+      "event": {
+        "en": "Vaccinated James Phipps with cowpox",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1798,
+      "event": {
+        "en": "Published An Inquiry into the Causes and Effects of the Variolae Vaccinae",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "An Inquiry into the Causes and Effects of the Variolae Vaccinae",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1798,
+      "description": {
+        "en": "Paper introducing vaccination against smallpox",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I hope that some day the practice of producing cowpox in human beings will spread over the world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

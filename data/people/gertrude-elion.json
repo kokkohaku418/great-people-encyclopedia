@@ -1,0 +1,169 @@
+{
+  "id": "gertrude-elion",
+  "name": {
+    "en": "Alexander Fleming's contemporary Gertrude Elion",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ガートルード・エリオン"
+  },
+  "birth_year": 1918,
+  "death_year": 1999,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "chemistry",
+    "biology"
+  ],
+  "overview": {
+    "en": "Gertrude Elion was an American pharmacologist and biochemist who shared the Nobel Prize for pioneering a rational approach to drug development.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Elion was born in New York City. She was inspired to study chemistry after her grandfather died of cancer. She joined Burroughs Wellcome despite having no PhD.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Elion's rational drug design approach produced medications for leukemia, herpes, malaria, gout, and HIV/AIDS, saving millions of lives and transforming pharmacology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1950,
+      "event": {
+        "en": "Developed first treatment for childhood leukemia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Developed azathioprine for organ transplants",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1977,
+      "event": {
+        "en": "Developed acyclovir for herpes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1988,
+      "event": {
+        "en": "Awarded Nobel Prize in Physiology or Medicine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Rational Drug Design",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1950,
+      "description": {
+        "en": "Approach to developing drugs based on understanding biochemical mechanisms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Don't be afraid of hard work. Nothing worthwhile comes easily.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

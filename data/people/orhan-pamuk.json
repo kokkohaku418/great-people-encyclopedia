@@ -1,0 +1,168 @@
+{
+  "id": "orhan-pamuk",
+  "name": {
+    "en": "Orhan Pamuk",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "オルハン・パムク"
+  },
+  "birth_year": 1952,
+  "death_year": null,
+  "countries": [
+    "tr"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Orhan Pamuk is a Turkish novelist who won the Nobel Prize in Literature, known for exploring the tensions between East and West.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Pamuk was born in Istanbul. He studied architecture and journalism before devoting himself to writing.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Pamuk's novels explore Istanbul's culture and history, the meeting of civilizations, and the complexities of Turkish identity, earning him the Nobel Prize.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1982,
+      "event": {
+        "en": "Published Cevdet Bey and His Sons",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1998,
+      "event": {
+        "en": "Published My Name Is Red",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2003,
+      "event": {
+        "en": "Published Snow",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2006,
+      "event": {
+        "en": "Awarded Nobel Prize in Literature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "My Name Is Red",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1998,
+      "description": {
+        "en": "Novel about Ottoman miniature painting and culture clash",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The thing that binds us together is that we have both lowered our voices.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Museum of Innocence"
+    }
+  ],
+  "relations": []
+}

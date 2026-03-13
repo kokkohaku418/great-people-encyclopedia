@@ -1,0 +1,196 @@
+{
+  "id": "seneca",
+  "name": {
+    "en": "Seneca",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "セネカ"
+  },
+  "birth_year": -4,
+  "death_year": 65,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "philosophy",
+    "literature"
+  ],
+  "overview": {
+    "en": "Seneca was a Roman Stoic philosopher, statesman, and dramatist who served as advisor to Emperor Nero. His letters and essays are major works of Stoic ethics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Seneca was born in Corduba, Hispania. He was educated in Rome in rhetoric and philosophy and rose to political prominence as tutor and advisor to the young Emperor Nero.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Seneca's Letters and essays made Stoic philosophy accessible and practical. His emphasis on virtue, self-discipline, and the brevity of life continues to resonate widely.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 41,
+      "event": {
+        "en": "Exiled to Corsica by Emperor Claudius",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 49,
+      "event": {
+        "en": "Recalled to tutor the young Nero",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 54,
+      "event": {
+        "en": "Became chief advisor to Emperor Nero",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 65,
+      "event": {
+        "en": "Forced to commit suicide by Nero",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Letters to Lucilius",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 64,
+      "description": {
+        "en": "Collection of 124 philosophical letters on Stoic ethics and practical wisdom",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Shortness of Life",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 49,
+      "description": {
+        "en": "Essay arguing that life is long enough if lived wisely",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is not that we have a short time to live, but that we waste a great deal of it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On the Shortness of Life"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,169 @@
+{
+  "id": "neil-armstrong",
+  "name": {
+    "en": "Neil Armstrong",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ニール・アームストロング"
+  },
+  "birth_year": 1930,
+  "death_year": 2012,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "engineering",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Neil Armstrong was an American astronaut and aeronautical engineer who was the first person to walk on the Moon.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Armstrong was born in Wapakoneta, Ohio. He was a naval aviator, test pilot, and aerospace engineer before being selected as a NASA astronaut.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Armstrong's first step on the Moon on July 20, 1969, was one of humanity's greatest achievements, watched by an estimated 600 million people worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1962,
+      "event": {
+        "en": "Selected as NASA astronaut",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1966,
+      "event": {
+        "en": "Commanded Gemini 8 mission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1969,
+      "event": {
+        "en": "First person to walk on the Moon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1971,
+      "event": {
+        "en": "Left NASA for academia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Apollo 11 Moon Landing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1969,
+      "description": {
+        "en": "First crewed mission to land on the Moon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "That's one small step for man, one giant leap for mankind.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "First words on the Moon, 1969"
+    }
+  ],
+  "relations": []
+}

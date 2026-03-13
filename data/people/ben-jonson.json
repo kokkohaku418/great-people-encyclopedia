@@ -1,0 +1,138 @@
+{
+  "id": "ben-jonson",
+  "name": {
+    "en": "Ben Jonson",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ベン・ジョンソン"
+  },
+  "birth_year": 1572,
+  "death_year": 1637,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Ben Jonson was a major English playwright and poet, Shakespeare's chief rival, who championed classical dramatic principles.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in London. He worked as a bricklayer and soldier before turning to acting and writing for the theater.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His comedies of humours and critical writings shaped English drama and literary theory for generations.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1598,
+      "event": {
+        "en": "Achieved fame with Every Man in His Humour",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1616,
+      "event": {
+        "en": "Published his collected Works, the first English playwright to do so",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Volpone",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1606,
+      "description": {
+        "en": "Satirical comedy about greed and deception in Venice",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Drink to me only with thine eyes, and I will pledge with mine.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "To Celia"
+    }
+  ],
+  "relations": []
+}

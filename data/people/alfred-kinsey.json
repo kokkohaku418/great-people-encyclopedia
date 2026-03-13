@@ -1,0 +1,168 @@
+{
+  "id": "alfred-kinsey",
+  "name": {
+    "en": "Alfred Kinsey",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アルフレッド・キンゼイ"
+  },
+  "birth_year": 1894,
+  "death_year": 1956,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Alfred Kinsey was an American biologist and professor of entomology and zoology who founded the Institute for Sex Research at Indiana University.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kinsey was born in Hoboken, New Jersey. He studied biology at Bowdoin College and Harvard, first specializing in gall wasps before turning to human sexuality.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kinsey's research on human sexual behavior, published as the Kinsey Reports, was among the most influential scientific studies of the 20th century, changing social attitudes.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1938,
+      "event": {
+        "en": "Began teaching course on marriage",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Founded the Institute for Sex Research",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Published Sexual Behavior in the Human Male",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Published Sexual Behavior in the Human Female",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Sexual Behavior in the Human Male",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "Groundbreaking study of male sexual behavior",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The only unnatural sex act is that which you cannot perform.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

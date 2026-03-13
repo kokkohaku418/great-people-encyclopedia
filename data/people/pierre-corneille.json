@@ -1,0 +1,138 @@
+{
+  "id": "pierre-corneille",
+  "name": {
+    "en": "Pierre Corneille",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ピエール・コルネイユ"
+  },
+  "birth_year": 1606,
+  "death_year": 1684,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Pierre Corneille was a founding figure of French classical tragedy, known for heroic dramas exploring duty and honor.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Rouen to a family of lawyers. He studied law before turning to playwriting.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His tragedies established the conventions of French classical theater and explored the conflict between love and duty.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1637,
+      "event": {
+        "en": "Premiered Le Cid, causing a literary controversy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1647,
+      "event": {
+        "en": "Elected to the Académie française",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Le Cid",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1637,
+      "description": {
+        "en": "Tragicomedy based on a Spanish hero, sparking debate over classical dramatic rules",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "To conquer without risk is to triumph without glory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Le Cid"
+    }
+  ],
+  "relations": []
+}

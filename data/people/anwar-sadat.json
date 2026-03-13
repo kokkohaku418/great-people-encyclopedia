@@ -1,0 +1,168 @@
+{
+  "id": "anwar-sadat",
+  "name": {
+    "en": "Anwar Sadat",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アンワル・サダト"
+  },
+  "birth_year": 1918,
+  "death_year": 1981,
+  "countries": [
+    "eg"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Anwar Sadat was the President of Egypt who made the historic peace with Israel, winning the Nobel Peace Prize and fundamentally altering Middle Eastern politics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Mit Abu al-Kum, he was a career military officer who participated in the 1952 revolution and served as Nasser's vice president.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His visit to Jerusalem and the Camp David Accords broke the cycle of Arab-Israeli wars and established the framework for Middle Eastern peace negotiations.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1970,
+      "event": {
+        "en": "Became President of Egypt after Nasser's death",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1973,
+      "event": {
+        "en": "Launched the October War against Israel",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1977,
+      "event": {
+        "en": "Made historic visit to Jerusalem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1978,
+      "event": {
+        "en": "Signed the Camp David Accords with Israel",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "In Search of Identity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1978,
+      "description": {
+        "en": "Autobiography detailing his life and political philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Peace is much more precious than a piece of land.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Speech to the Israeli Knesset, 1977"
+    }
+  ],
+  "relations": []
+}

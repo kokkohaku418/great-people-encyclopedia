@@ -1,0 +1,19 @@
+{
+  "id": "id",
+  "name": {
+    "en": "Indonesia",
+    "es": "Indonesia",
+    "pt": "Indonésia",
+    "fr": "Indonésie",
+    "de": "Indonesien",
+    "zh": "印度尼西亚",
+    "hi": "इंडोनेशिया",
+    "ar": "إندونيسيا",
+    "id": "Indonesia",
+    "ja": "インドネシア"
+  },
+  "region": "southeast-asia",
+  "description": {
+    "en": "The world's largest archipelago nation in Southeast Asia, with diverse cultures and a growing research sector."
+  }
+}

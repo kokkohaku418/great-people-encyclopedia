@@ -1,0 +1,182 @@
+{
+  "id": "albert-schweitzer",
+  "name": {
+    "en": "Albert Schweitzer",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アルベルト・シュヴァイツァー"
+  },
+  "birth_year": 1875,
+  "death_year": 1965,
+  "countries": [
+    "fr",
+    "de"
+  ],
+  "fields": [
+    "biology",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Albert Schweitzer was an Alsatian-German theologian, philosopher, musician, and physician who devoted his life to medical missionary work in Africa.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Kaysersberg, Alsace, he was a renowned organist and Bach scholar who shocked his peers by deciding at age thirty to study medicine and serve in Africa.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He established a hospital in Lambarene, Gabon, developed the ethic of 'Reverence for Life,' and won the Nobel Peace Prize for his humanitarian work.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1913,
+      "event": {
+        "en": "Founded a hospital in Lambarene, French Equatorial Africa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1923,
+      "event": {
+        "en": "Published The Philosophy of Civilization, articulating his ethic of Reverence for Life",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1952,
+      "event": {
+        "en": "Awarded the Nobel Peace Prize",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Quest of the Historical Jesus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1906,
+      "description": {
+        "en": "Landmark work of biblical scholarship",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Philosophy of Civilization",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1923,
+      "description": {
+        "en": "Philosophical work developing the ethic of Reverence for Life",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Until he extends the circle of his compassion to all living things, man will not himself find peace.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Philosophy of Civilization"
+    }
+  ],
+  "relations": []
+}

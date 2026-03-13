@@ -1,0 +1,169 @@
+{
+  "id": "hedy-lamarr",
+  "name": {
+    "en": "Hedy Lamarr",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヘディ・ラマー"
+  },
+  "birth_year": 1914,
+  "death_year": 2000,
+  "countries": [
+    "at",
+    "us"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "Hedy Lamarr was an Austrian-American actress and inventor who co-developed a radio guidance system using frequency-hopping spread spectrum technology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lamarr was born in Vienna, Austria. She became a famous Hollywood actress while also pursuing her interest in invention and engineering.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lamarr's frequency-hopping invention, initially designed for torpedo guidance, became the basis for modern wireless communications including Wi-Fi, Bluetooth, and GPS.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1933,
+      "event": {
+        "en": "Starred in the controversial film Ecstasy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1937,
+      "event": {
+        "en": "Fled Nazi-allied Austria for America",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1942,
+      "event": {
+        "en": "Patented frequency-hopping spread spectrum",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1997,
+      "event": {
+        "en": "Recognized by the Electronic Frontier Foundation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Frequency-Hopping Spread Spectrum Patent",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1942,
+      "description": {
+        "en": "Technology that became the basis for modern wireless communications",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Any girl can be glamorous. All you have to do is stand still and look stupid.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

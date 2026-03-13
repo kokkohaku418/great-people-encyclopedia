@@ -1,0 +1,138 @@
+{
+  "id": "sophus-lie",
+  "name": {
+    "en": "Sophus Lie",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ソフス・リー"
+  },
+  "birth_year": 1842,
+  "death_year": 1899,
+  "countries": [
+    "no"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Sophus Lie created the theory of continuous transformation groups, now called Lie groups, fundamental to modern mathematics and physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Nordfjordeid, Norway. He studied at the University of Christiania and was influenced by the geometers Plücker and Klein.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lie groups and Lie algebras became essential tools in differential equations, geometry, and theoretical physics, especially quantum mechanics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1870,
+      "event": {
+        "en": "Began developing the theory of continuous groups",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1886,
+      "event": {
+        "en": "Succeeded Felix Klein at the University of Leipzig",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Theorie der Transformationsgruppen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1893,
+      "description": {
+        "en": "Three-volume work establishing the theory of Lie groups",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Among all the mathematical disciplines, the theory of differential equations is the most important.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

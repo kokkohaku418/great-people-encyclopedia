@@ -1,0 +1,180 @@
+{
+  "id": "lu-xun",
+  "name": {
+    "en": "Lu Xun",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "魯迅"
+  },
+  "birth_year": 1881,
+  "death_year": 1936,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Lu Xun was a Chinese writer, essayist, and critic considered the founder of modern Chinese literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lu Xun was born in Shaoxing, Zhejiang. He studied medicine in Japan but turned to literature, believing that changing the spirit of the Chinese people was more important than treating their bodies.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lu Xun's stories and essays attacked traditional Chinese culture and inspired the May Fourth Movement. He is regarded as the father of modern Chinese literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1918,
+      "event": {
+        "en": "Published A Madman's Diary, first modern Chinese short story",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1921,
+      "event": {
+        "en": "Published The True Story of Ah Q",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1923,
+      "event": {
+        "en": "Published Call to Arms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A Madman's Diary",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1918,
+      "description": {
+        "en": "First modern Chinese short story, critiquing traditional Confucian culture",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The True Story of Ah Q",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1921,
+      "description": {
+        "en": "Satirical novella about a peasant's delusions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Hope is like a path in the countryside. Originally, there is nothing — but as people walk this way again and again, a path appears.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "My Old Home"
+    }
+  ],
+  "relations": []
+}

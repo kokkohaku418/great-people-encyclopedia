@@ -1,0 +1,165 @@
+{
+  "id": "louise-erdrich",
+  "name": {
+    "en": "Louise Erdrich",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルイーズ・アードリック"
+  },
+  "birth_year": 1954,
+  "death_year": null,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Louise Erdrich is an Ojibwe author whose novels chronicle Native American life in the northern Midwest.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Little Falls, Minnesota. Grew up in Wahpeton, North Dakota and studied at Dartmouth and Johns Hopkins.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Her interconnected novels created a vast literary landscape of Native American experience comparable to Faulkner's Yoknapatawpha.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1984,
+      "event": {
+        "en": "Published Love Medicine, her debut novel",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2021,
+      "event": {
+        "en": "Won the Pulitzer Prize for Fiction for The Night Watchman",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Love Medicine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1984,
+      "description": {
+        "en": "Interconnected stories of Ojibwe families on a North Dakota reservation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Night Watchman",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2020,
+      "description": {
+        "en": "Novel based on her grandfather's fight against Native American termination policy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Life will break you. But you get to choose what grows in the cracks.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Painted Drum"
+    }
+  ],
+  "relations": []
+}

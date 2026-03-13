@@ -1,0 +1,196 @@
+{
+  "id": "leonardo-da-vinci",
+  "name": {
+    "en": "Leonardo da Vinci",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レオナルド・ダ・ヴィンチ"
+  },
+  "birth_year": 1452,
+  "death_year": 1519,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "art",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Leonardo da Vinci was an Italian polymath of the Renaissance whose areas of interest included painting, sculpture, architecture, science, engineering, and anatomy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Leonardo was born in Vinci, Italy. He was apprenticed to Andrea del Verrocchio in Florence, where he developed his extraordinary artistic and scientific talents.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Leonardo's paintings, including the Mona Lisa and The Last Supper, are among the most famous works in art history. His notebooks reveal a mind centuries ahead of his time.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1472,
+      "event": {
+        "en": "Qualified as a master artist",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1482,
+      "event": {
+        "en": "Moved to Milan to work for Ludovico Sforza",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1503,
+      "event": {
+        "en": "Began painting the Mona Lisa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1516,
+      "event": {
+        "en": "Moved to France under Francis I",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mona Lisa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1503,
+      "description": {
+        "en": "The world's most famous portrait painting",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Last Supper",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1498,
+      "description": {
+        "en": "Monumental mural depicting Christ's last meal with his disciples",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Learning never exhausts the mind.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Notebooks"
+    }
+  ],
+  "relations": []
+}

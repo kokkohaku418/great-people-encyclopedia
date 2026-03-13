@@ -1,0 +1,223 @@
+{
+  "id": "pierre-curie",
+  "name": {
+    "en": "Pierre Curie",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ピエール・キュリー"
+  },
+  "birth_year": 1859,
+  "death_year": 1906,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Pierre Curie was a French physicist who made fundamental contributions to the understanding of crystallography, magnetism, and radioactivity. Together with his wife Marie Curie, he shared the 1903 Nobel Prize in Physics for their research on radiation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Paris, Pierre Curie was educated at home by his father before studying at the Sorbonne. He and his brother Jacques discovered piezoelectricity in 1880, establishing Pierre's reputation as an innovative experimentalist.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Pierre Curie's work on piezoelectricity and magnetism (the Curie point) made lasting contributions to materials science. His collaboration with Marie on radioactivity led to the discovery of polonium and radium, transforming our understanding of atomic physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1880,
+      "event": {
+        "en": "Discovered piezoelectricity with his brother Jacques Curie.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1895,
+      "event": {
+        "en": "Published his doctoral thesis on magnetism, introducing the Curie point and Curie's law.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1898,
+      "event": {
+        "en": "Discovered polonium and radium with Marie Curie.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1903,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Marie Curie and Henri Becquerel.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1905,
+      "event": {
+        "en": "Elected to the French Academy of Sciences.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Magnetic Properties of Bodies at Various Temperatures",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1895,
+      "description": {
+        "en": "Doctoral thesis establishing the relationship between temperature and magnetism, introducing the Curie point.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On a New Radioactive Substance Contained in Pitchblende",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1898,
+      "description": {
+        "en": "Paper announcing the discovery of radium, co-authored with Marie Curie and Gustave Bémont.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It would be a fine thing, in which I hardly dare believe, to pass our lives near each other, hypnotized by our dreams.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to Marie Curie, 1894"
+    }
+  ],
+  "relations": [
+    {
+      "person": "marie-curie",
+      "type": "collaborator"
+    },
+    {
+      "person": "henri-becquerel",
+      "type": "colleague"
+    },
+    {
+      "person": "lord-kelvin",
+      "type": "colleague"
+    }
+  ]
+}

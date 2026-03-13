@@ -1,0 +1,184 @@
+{
+  "id": "andrew-wiles",
+  "name": {
+    "en": "Andrew Wiles",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アンドリュー・ワイルズ"
+  },
+  "birth_year": 1953,
+  "death_year": null,
+  "countries": [
+    "gb",
+    "us"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Andrew Wiles is a British mathematician who proved Fermat's Last Theorem in 1995, solving a problem that had been open for 358 years.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wiles was born in Cambridge, England. He became fascinated with Fermat's Last Theorem at age 10 after reading about it in a library book, and dedicated much of his career to solving it.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wiles's proof of Fermat's Last Theorem is one of the greatest achievements in the history of mathematics. His work connected modular forms and elliptic curves, opening new areas of number theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1974,
+      "event": {
+        "en": "Earned PhD from Cambridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1982,
+      "event": {
+        "en": "Became professor at Princeton",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1993,
+      "event": {
+        "en": "Announced proof of Fermat's Last Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1995,
+      "event": {
+        "en": "Published corrected proof with Richard Taylor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2016,
+      "event": {
+        "en": "Awarded the Abel Prize",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Modular Elliptic Curves and Fermat's Last Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1995,
+      "description": {
+        "en": "Proved the modularity theorem for semistable elliptic curves, implying Fermat's Last Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I had this rare privilege of being able to pursue in my adult life what had been my childhood dream.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "PBS interview, 2000"
+    }
+  ],
+  "relations": []
+}

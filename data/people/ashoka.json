@@ -1,0 +1,153 @@
+{
+  "id": "ashoka",
+  "name": {
+    "en": "Ashoka the Great",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アショーカ王"
+  },
+  "birth_year": -304,
+  "death_year": -232,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Ashoka was an Indian emperor of the Maurya Dynasty who is considered one of the greatest rulers in history for his embrace of Buddhism and nonviolence.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ashoka was born into the Maurya dynasty. After a brutal conquest of Kalinga, he renounced violence and embraced Buddhism, transforming his approach to governance.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ashoka's embrace of dharma and nonviolence after the Kalinga war was unprecedented for a ruler. His rock edicts promoting tolerance and welfare are early examples of human rights.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -268,
+      "event": {
+        "en": "Became Emperor of the Maurya Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -261,
+      "event": {
+        "en": "Conquered Kalinga and embraced Buddhism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -250,
+      "event": {
+        "en": "Sent Buddhist missionaries across Asia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Rock Edicts of Ashoka",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -250,
+      "description": {
+        "en": "Stone inscriptions promoting dharma, tolerance, and nonviolence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "All men are my children.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Rock Edict VI"
+    }
+  ],
+  "relations": []
+}

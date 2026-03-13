@@ -1,0 +1,138 @@
+{
+  "id": "epicurus",
+  "name": {
+    "en": "Epicurus",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エピクロス"
+  },
+  "birth_year": -341,
+  "death_year": -270,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Epicurus was an ancient Greek philosopher who founded Epicureanism, a philosophy advocating the pursuit of modest pleasures, friendship, and freedom from fear as the path to happiness.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Epicurus was born on the island of Samos. He began studying philosophy at age 14 and later founded his school, the Garden, in Athens.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Epicurean philosophy offered a materialist worldview and an ethics based on pleasure and pain that influenced Roman thought, the Scientific Revolution, and modern utilitarian ethics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -306,
+      "event": {
+        "en": "Founded the Garden school in Athens",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -300,
+      "event": {
+        "en": "Developed atomic theory of nature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Letter to Menoeceus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -300,
+      "description": {
+        "en": "Outline of Epicurean ethics and the pursuit of ataraxia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Death does not concern us, because as long as we exist, death is not here. And when it does come, we no longer exist.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to Menoeceus"
+    }
+  ],
+  "relations": []
+}

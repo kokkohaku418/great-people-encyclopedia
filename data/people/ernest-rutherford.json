@@ -1,0 +1,286 @@
+{
+  "id": "ernest-rutherford",
+  "name": {
+    "en": "Ernest Rutherford",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アーネスト・ラザフォード"
+  },
+  "birth_year": 1871,
+  "death_year": 1937,
+  "countries": [
+    "nz",
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Ernest Rutherford was a New Zealand-born British physicist who is considered the father of nuclear physics. He discovered the atomic nucleus, proposed the nuclear model of the atom, and performed the first artificial nuclear reaction.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Brightwater, New Zealand, Rutherford won a scholarship to study at Canterbury College and then at the Cavendish Laboratory under J. J. Thomson. His experimental brilliance was recognized early, and he quickly made a name for himself in the study of radioactivity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Rutherford's discovery of the atomic nucleus and his nuclear model of the atom overturned the prevailing plum pudding model and reshaped atomic physics. His work on radioactive decay, alpha particles, and nuclear transmutation laid the foundations for nuclear energy and particle physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1895,
+      "event": {
+        "en": "Arrived at the Cavendish Laboratory in Cambridge to study under J. J. Thomson.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1899,
+      "event": {
+        "en": "Identified alpha and beta radiation as distinct types of radioactive emission.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1908,
+      "event": {
+        "en": "Awarded the Nobel Prize in Chemistry for his investigations into the disintegration of elements.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1911,
+      "event": {
+        "en": "Discovered the atomic nucleus through the gold foil experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1917,
+      "event": {
+        "en": "Performed the first artificial nuclear reaction by transmuting nitrogen into oxygen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1919,
+      "event": {
+        "en": "Succeeded J. J. Thomson as director of the Cavendish Laboratory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Scattering of Alpha and Beta Particles by Matter and the Structure of the Atom",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1911,
+      "description": {
+        "en": "Paper presenting the nuclear model of the atom based on the gold foil scattering experiments.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Radioactive Substances and Their Radiations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1913,
+      "description": {
+        "en": "Comprehensive treatise on radioactivity and the properties of radioactive materials.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Collision of Alpha Particles with Light Atoms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1919,
+      "description": {
+        "en": "Paper reporting the first artificial nuclear transmutation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "All science is either physics or stamp collecting.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, c. 1910"
+    },
+    {
+      "text": {
+        "en": "If your experiment needs statistics, you ought to have done a better experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "jj-thomson",
+      "type": "student"
+    },
+    {
+      "person": "marie-curie",
+      "type": "colleague"
+    },
+    {
+      "person": "max-planck",
+      "type": "colleague"
+    },
+    {
+      "person": "henri-becquerel",
+      "type": "colleague"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "sofia-kovalevskaya",
+  "name": {
+    "en": "Sofia Kovalevskaya",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ソフィア・コワレフスカヤ"
+  },
+  "birth_year": 1850,
+  "death_year": 1891,
+  "countries": [
+    "ru",
+    "se"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Sofia Kovalevskaya was a Russian mathematician who was the first woman to obtain a doctorate in mathematics and the first woman appointed to a full professorship in Europe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kovalevskaya was born in Moscow. She entered a marriage of convenience to travel abroad for education, studying under Weierstrass in Berlin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kovalevskaya made important contributions to analysis, partial differential equations, and mechanics, breaking barriers for women in mathematics and academia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1874,
+      "event": {
+        "en": "Earned doctorate from University of Göttingen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1884,
+      "event": {
+        "en": "Appointed professor at Stockholm University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1888,
+      "event": {
+        "en": "Won Prix Bordin from the French Academy of Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Rotation of a Solid Body about a Fixed Point",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1888,
+      "description": {
+        "en": "Prize-winning work on the mathematics of rotating bodies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is impossible to be a mathematician without being a poet in soul.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

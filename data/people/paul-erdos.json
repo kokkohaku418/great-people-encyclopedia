@@ -1,0 +1,168 @@
+{
+  "id": "paul-erdos",
+  "name": {
+    "en": "Paul Erdős",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ポール・エルデシュ"
+  },
+  "birth_year": 1913,
+  "death_year": 1996,
+  "countries": [
+    "hu"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Paul Erdős was a Hungarian mathematician who was one of the most prolific mathematicians in history, publishing about 1,500 papers. He is known for his work in combinatorics, graph theory, and number theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Erdős was born in Budapest to Jewish parents who were both mathematics teachers. A child prodigy, he proved Chebyshev's theorem at age 19.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Erdős pioneered the fields of discrete mathematics, graph theory, and probabilistic number theory. The Erdős number, measuring collaborative distance, reflects his extraordinary network of over 500 co-authors.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1934,
+      "event": {
+        "en": "Moved to Manchester after receiving his doctorate",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Gave an elementary proof of the prime number theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1959,
+      "event": {
+        "en": "Founded the probabilistic method in combinatorics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1983,
+      "event": {
+        "en": "Won the Wolf Prize in Mathematics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Probabilistic Method",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1947,
+      "description": {
+        "en": "Revolutionary technique using probability to prove existence of mathematical structures",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A mathematician is a device for turning coffee into theorems.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

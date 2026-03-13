@@ -1,0 +1,153 @@
+{
+  "id": "kenichi-fukui",
+  "name": {
+    "en": "Kenichi Fukui",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "福井謙一"
+  },
+  "birth_year": 1918,
+  "death_year": 1998,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Kenichi Fukui was a Japanese chemist who shared the Nobel Prize in Chemistry for his theories concerning the course of chemical reactions, specifically frontier molecular orbital theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Fukui was born in Nara, Japan. He studied at Kyoto Imperial University, where he spent his entire career as professor of physical chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Fukui's frontier molecular orbital theory explained chemical reactivity in terms of the highest occupied and lowest unoccupied molecular orbitals, transforming theoretical organic chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1952,
+      "event": {
+        "en": "Published frontier molecular orbital theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1964,
+      "event": {
+        "en": "Extended FMO theory to pericyclic reactions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1981,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Theory of Orientation and Stereoselection",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1952,
+      "description": {
+        "en": "Paper introducing frontier molecular orbital theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Theory and experiment must go hand in hand in chemistry.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "santiago-ramon-y-cajal",
+  "name": {
+    "en": "Santiago Ramón y Cajal",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "サンティアゴ・ラモン・イ・カハール"
+  },
+  "birth_year": 1852,
+  "death_year": 1934,
+  "countries": [
+    "es"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Santiago Ramón y Cajal was a Spanish neuroscientist who won the Nobel Prize for his work on the structure of the nervous system, establishing the neuron doctrine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cajal was born in Petilla de Aragón, Spain. He studied medicine at the University of Zaragoza and became professor of anatomy at several Spanish universities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Cajal's meticulous drawings and observations proved that the nervous system is composed of individual neurons, not a continuous network. He is considered the father of modern neuroscience.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1887,
+      "event": {
+        "en": "Began systematic study of nervous tissue",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1889,
+      "event": {
+        "en": "Proposed the neuron doctrine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1906,
+      "event": {
+        "en": "Awarded Nobel Prize in Physiology or Medicine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Histology of the Nervous System of Man and Vertebrates",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1899,
+      "description": {
+        "en": "Comprehensive atlas of neural microanatomy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Every man can, if he so desires, become the sculptor of his own brain.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Advice for a Young Investigator"
+    }
+  ],
+  "relations": []
+}

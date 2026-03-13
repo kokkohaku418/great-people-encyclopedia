@@ -1,0 +1,168 @@
+{
+  "id": "jonas-salk",
+  "name": {
+    "en": "Jonas Salk",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョナス・ソーク"
+  },
+  "birth_year": 1914,
+  "death_year": 1995,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Jonas Salk was an American virologist who developed one of the first successful polio vaccines, helping to eradicate the disease worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Salk was born in New York City to Russian-Jewish immigrant parents. He studied at New York University School of Medicine and conducted research at the University of Pittsburgh.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Salk's polio vaccine, released in 1955, virtually eliminated polio in the developed world and saved millions of children from paralysis. He famously refused to patent it.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1947,
+      "event": {
+        "en": "Began polio vaccine research",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Announced successful vaccine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1955,
+      "event": {
+        "en": "Vaccine approved for public use",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1963,
+      "event": {
+        "en": "Founded the Salk Institute for Biological Studies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Polio Vaccine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1955,
+      "description": {
+        "en": "The first successful inactivated poliovirus vaccine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Could you patent the sun?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "When asked who owned the patent on the polio vaccine, 1955"
+    }
+  ],
+  "relations": []
+}

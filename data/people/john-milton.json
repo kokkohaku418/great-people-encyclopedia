@@ -1,0 +1,138 @@
+{
+  "id": "john-milton",
+  "name": {
+    "en": "John Milton",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・ミルトン"
+  },
+  "birth_year": 1608,
+  "death_year": 1674,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "John Milton was an English poet whose epic Paradise Lost is one of the supreme achievements of Western literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in London to a prosperous family. He was educated at Christ's College, Cambridge and traveled in Italy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Paradise Lost reinvented the epic genre, and his political writings championed freedom of speech and republican government.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1644,
+      "event": {
+        "en": "Published Areopagitica defending freedom of the press",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1667,
+      "event": {
+        "en": "Published Paradise Lost",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Paradise Lost",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1667,
+      "description": {
+        "en": "Epic poem on the Fall of Man, exploring free will, temptation, and redemption",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Paradise Lost"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dk",
+  "name": {
+    "en": "Denmark",
+    "es": "Dinamarca",
+    "pt": "Dinamarca",
+    "fr": "Danemark",
+    "de": "Dänemark",
+    "zh": "丹麦",
+    "hi": "डेनमार्क",
+    "ar": "الدنمارك",
+    "id": "Denmark",
+    "ja": "デンマーク"
+  },
+  "region": "northern-europe",
+  "description": {
+    "en": "A Scandinavian country known for contributions to physics, philosophy, and literature."
+  }
+}

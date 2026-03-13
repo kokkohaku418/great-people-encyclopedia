@@ -1,0 +1,168 @@
+{
+  "id": "tycho-brahe",
+  "name": {
+    "en": "Tycho Brahe",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ティコ・ブラーエ"
+  },
+  "birth_year": 1546,
+  "death_year": 1601,
+  "countries": [
+    "dk"
+  ],
+  "fields": [
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Tycho Brahe was a Danish nobleman and astronomer who made the most precise astronomical observations of his time before the invention of the telescope.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Brahe was born in Knudstrup, Denmark. He became fascinated with astronomy after observing a solar eclipse at age 14 and was granted the island of Hven to build his observatory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Brahe's precise observations, particularly of Mars, enabled Kepler to discover the laws of planetary motion. His data was the foundation of the Copernican revolution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1572,
+      "event": {
+        "en": "Observed and published about a supernova",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1576,
+      "event": {
+        "en": "Built Uraniborg observatory on Hven",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1597,
+      "event": {
+        "en": "Left Denmark for Prague",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1600,
+      "event": {
+        "en": "Hired Kepler as assistant",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De nova stella",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1573,
+      "description": {
+        "en": "Study of a supernova that proved the heavens could change",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Let me not seem to have lived in vain.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed deathbed words"
+    }
+  ],
+  "relations": []
+}

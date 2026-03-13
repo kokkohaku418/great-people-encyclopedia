@@ -1,0 +1,169 @@
+{
+  "id": "john-roebling",
+  "name": {
+    "en": "John Augustus Roebling",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・ローブリング"
+  },
+  "birth_year": 1806,
+  "death_year": 1869,
+  "countries": [
+    "de",
+    "us"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "John Roebling was a German-American civil engineer who designed the Brooklyn Bridge, one of the greatest engineering achievements of the 19th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Muhlhausen, Prussia, he studied engineering under Hegel at the Royal Polytechnic Institute before emigrating to America.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He pioneered the use of wire rope in suspension bridge construction and designed the Brooklyn Bridge, which was the longest suspension bridge in the world when completed.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1845,
+      "event": {
+        "en": "Completed the first wire-rope suspension aqueduct over the Allegheny River",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1855,
+      "event": {
+        "en": "Completed the Niagara Falls Suspension Bridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1867,
+      "event": {
+        "en": "Began designing the Brooklyn Bridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1869,
+      "event": {
+        "en": "Died from tetanus after his foot was crushed during bridge survey work",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Brooklyn Bridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1883,
+      "description": {
+        "en": "Iconic suspension bridge completed posthumously by his son Washington Roebling",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The great engineer must be a man of imagination.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

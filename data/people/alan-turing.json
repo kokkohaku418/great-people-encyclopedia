@@ -1,0 +1,196 @@
+{
+  "id": "alan-turing",
+  "name": {
+    "en": "Alan Turing",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アラン・チューリング"
+  },
+  "birth_year": 1912,
+  "death_year": 1954,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "mathematics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Alan Turing was a British mathematician and computer scientist who formalized the concepts of algorithm and computation with the Turing machine. He played a crucial role in breaking the Enigma code during World War II.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Turing was born in London and showed early aptitude for science and mathematics. He studied at King's College, Cambridge, and later at Princeton University under Alonzo Church.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Turing is considered the father of theoretical computer science and artificial intelligence. His work on computability, the Turing test, and code-breaking fundamentally shaped the modern world.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1936,
+      "event": {
+        "en": "Published On Computable Numbers, introducing the Turing machine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1939,
+      "event": {
+        "en": "Joined Bletchley Park to break German codes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1945,
+      "event": {
+        "en": "Designed the Automatic Computing Engine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1950,
+      "event": {
+        "en": "Published Computing Machinery and Intelligence, proposing the Turing test",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On Computable Numbers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1936,
+      "description": {
+        "en": "Introduced the concept of the Turing machine and proved limits of computation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Computing Machinery and Intelligence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1950,
+      "description": {
+        "en": "Proposed the Turing test for machine intelligence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Computing Machinery and Intelligence, 1950"
+    }
+  ],
+  "relations": []
+}

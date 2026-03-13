@@ -1,0 +1,195 @@
+{
+  "id": "augustin-louis-cauchy",
+  "name": {
+    "en": "Augustin-Louis Cauchy",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "オーギュスタン＝ルイ・コーシー"
+  },
+  "birth_year": 1789,
+  "death_year": 1857,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Augustin-Louis Cauchy was a French mathematician who pioneered rigorous foundations of calculus and made fundamental contributions to complex analysis and group theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cauchy was born in Paris during the French Revolution. He studied at the École Polytechnique and the École des Ponts et Chaussées, initially training as a civil engineer.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Cauchy's rigorous approach to analysis established the modern foundations of calculus. His theorems in complex analysis, including Cauchy's integral theorem, remain fundamental to mathematics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1814,
+      "event": {
+        "en": "Submitted memoir on definite integrals to the French Academy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1821,
+      "event": {
+        "en": "Published Cours d'analyse",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1825,
+      "event": {
+        "en": "Developed Cauchy integral theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1829,
+      "event": {
+        "en": "Published Leçons sur le calcul différentiel",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Cours d'analyse",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1821,
+      "description": {
+        "en": "Rigorous foundations for calculus and real analysis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Mémoire sur les intégrales définies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1827,
+      "description": {
+        "en": "Foundation of complex function theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "One must study them all, for none among them is without some truth.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On mathematical methods"
+    }
+  ],
+  "relations": []
+}

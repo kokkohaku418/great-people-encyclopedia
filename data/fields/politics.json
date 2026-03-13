@@ -1,0 +1,27 @@
+{
+  "id": "politics",
+  "name": {
+    "en": "Politics",
+    "es": "Política",
+    "pt": "Política",
+    "fr": "Politique",
+    "de": "Politik",
+    "zh": "政治",
+    "hi": "राजनीति",
+    "ar": "السياسة",
+    "id": "Politik",
+    "ja": "政治"
+  },
+  "description": {
+    "en": "The theory and practice of governance, statecraft, public policy, and the exercise of power in society.",
+    "ja": "統治、国政、公共政策、および社会における権力行使の理論と実践。",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": ""
+  }
+}

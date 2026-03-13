@@ -1,0 +1,168 @@
+{
+  "id": "salvador-dali",
+  "name": {
+    "en": "Salvador Dalí",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "サルバドール・ダリ"
+  },
+  "birth_year": 1904,
+  "death_year": 1989,
+  "countries": [
+    "es"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Salvador Dalí was a Spanish Surrealist artist renowned for his technical skill, precise draftsmanship, and striking bizarre imagery.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Dalí was born in Figueres, Spain. He studied at the Royal Academy of Fine Arts in Madrid and joined the Surrealist group in Paris.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Dalí's melting clocks and dreamlike landscapes became iconic images of Surrealism. His flamboyant personality and artistic versatility made him one of the most famous artists of the 20th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1929,
+      "event": {
+        "en": "Joined the Surrealist group in Paris",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1931,
+      "event": {
+        "en": "Painted The Persistence of Memory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1940,
+      "event": {
+        "en": "Moved to the United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1974,
+      "event": {
+        "en": "Opened the Dalí Theatre-Museum in Figueres",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Persistence of Memory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1931,
+      "description": {
+        "en": "Iconic painting featuring melting watches in a dreamlike landscape",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Have no fear of perfection — you'll never reach it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

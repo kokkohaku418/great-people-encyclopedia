@@ -1,0 +1,210 @@
+{
+  "id": "edgar-allan-poe",
+  "name": {
+    "en": "Edgar Allan Poe",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エドガー・アラン・ポー"
+  },
+  "birth_year": 1809,
+  "death_year": 1849,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Edgar Allan Poe was an American writer and poet who pioneered the detective fiction and horror genres. His dark, atmospheric tales and poems remain among the most popular in English literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Poe was born in Boston and orphaned young. He was raised by John Allan in Richmond, Virginia, and had a troubled life marked by poverty, alcoholism, and personal loss.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Poe invented the detective story genre and his tales of horror and mystery established American Gothic literature. His literary criticism and theories influenced French Symbolism and world literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1827,
+      "event": {
+        "en": "Published first poetry collection Tamerlane",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1839,
+      "event": {
+        "en": "Published The Fall of the House of Usher",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1841,
+      "event": {
+        "en": "Published The Murders in the Rue Morgue, the first detective story",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1845,
+      "event": {
+        "en": "Published The Raven",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1849,
+      "event": {
+        "en": "Died in Baltimore under mysterious circumstances",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Raven",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1845,
+      "description": {
+        "en": "Narrative poem about a grieving lover visited by a mysterious raven",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Murders in the Rue Morgue",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1841,
+      "description": {
+        "en": "The first modern detective story, featuring C. Auguste Dupin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "All that we see or seem is but a dream within a dream.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "A Dream Within a Dream, 1849"
+    }
+  ],
+  "relations": []
+}

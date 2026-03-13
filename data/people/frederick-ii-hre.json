@@ -1,0 +1,139 @@
+{
+  "id": "frederick-ii-hre",
+  "name": {
+    "en": "Frederick II, Holy Roman Emperor",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フリードリヒ2世"
+  },
+  "birth_year": 1194,
+  "death_year": 1250,
+  "countries": [
+    "de",
+    "it"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Frederick II was a Holy Roman Emperor called Stupor Mundi (Wonder of the World) for his extraordinary learning and ambition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Jesi, Italy, to Emperor Henry VI. Orphaned young, he grew up in multicultural Sicily.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His court was a center of science and culture, and he founded the University of Naples, the first state university.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1220,
+      "event": {
+        "en": "Crowned Holy Roman Emperor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1224,
+      "event": {
+        "en": "Founded the University of Naples",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De Arte Venandi cum Avibus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1248,
+      "description": {
+        "en": "Treatise on falconry demonstrating scientific observation of nature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Nothing is more dangerous than a friend without discretion; even a prudent enemy is preferable.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

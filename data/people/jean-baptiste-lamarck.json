@@ -1,0 +1,153 @@
+{
+  "id": "jean-baptiste-lamarck",
+  "name": {
+    "en": "Jean-Baptiste Lamarck",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジャン＝バティスト・ラマルク"
+  },
+  "birth_year": 1744,
+  "death_year": 1829,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Jean-Baptiste Lamarck was a French naturalist who proposed an early theory of evolution based on the inheritance of acquired characteristics and coined the term 'biology.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lamarck was born in Bazentin, France. He served in the military, then studied medicine and botany, becoming professor of invertebrate zoology at the Muséum National d'Histoire Naturelle.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Though his mechanism of evolution was incorrect, Lamarck was one of the first to propose that species change over time. He coined 'biology' and 'invertebrate' and classified invertebrates systematically.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1778,
+      "event": {
+        "en": "Published Flore française",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1801,
+      "event": {
+        "en": "Published Système des animaux sans vertèbres",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1809,
+      "event": {
+        "en": "Published Philosophie Zoologique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Philosophie Zoologique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1809,
+      "description": {
+        "en": "Presented his theory of evolution through inheritance of acquired characteristics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Nature, in producing successively every species of animal, has begun with the most imperfect and ended with the most perfect.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Philosophie Zoologique"
+    }
+  ],
+  "relations": []
+}

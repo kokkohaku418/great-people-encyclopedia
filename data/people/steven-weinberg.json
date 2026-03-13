@@ -1,0 +1,265 @@
+{
+  "id": "steven-weinberg",
+  "name": {
+    "en": "Steven Weinberg",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "スティーヴン・ワインバーグ"
+  },
+  "birth_year": 1933,
+  "death_year": 2021,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Steven Weinberg was an American theoretical physicist who unified the electromagnetic and weak nuclear forces into the electroweak interaction. He shared the 1979 Nobel Prize in Physics and was considered one of the most influential physicists of the late 20th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Weinberg was born in New York City and attended the Bronx High School of Science alongside Sheldon Glashow. He earned his Ph.D. from Princeton University and held positions at Berkeley, MIT, Harvard, and the University of Texas at Austin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Weinberg's electroweak unification became a cornerstone of the Standard Model of particle physics. His textbooks on quantum field theory and cosmology became standard references, and he was a prominent public voice for science, writing extensively for general audiences.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1933,
+      "event": {
+        "en": "Born in New York City, United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Published 'A Model of Leptons' unifying electromagnetic and weak forces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1979,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1995,
+      "event": {
+        "en": "Published 'The Quantum Theory of Fields,' a definitive textbook series",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2021,
+      "event": {
+        "en": "Died in Austin, Texas at age 88",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A Model of Leptons",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1967,
+      "description": {
+        "en": "Seminal paper presenting the electroweak unification, incorporating the Higgs mechanism to give mass to the W and Z bosons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The First Three Minutes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1977,
+      "description": {
+        "en": "Popular science book explaining the Big Bang theory and the first moments of the universe to a general audience.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Quantum Theory of Fields",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1995,
+      "description": {
+        "en": "Comprehensive three-volume textbook on quantum field theory that became a standard graduate reference.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The First Three Minutes (1977)"
+    },
+    {
+      "text": {
+        "en": "The more the universe seems comprehensible, the more it also seems pointless.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The First Three Minutes (1977)"
+    }
+  ],
+  "relations": [
+    {
+      "person": "sheldon-glashow",
+      "type": "collaborator"
+    },
+    {
+      "person": "abdus-salam",
+      "type": "collaborator"
+    },
+    {
+      "person": "peter-higgs",
+      "type": "colleague"
+    }
+  ]
+}

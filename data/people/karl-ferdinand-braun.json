@@ -1,0 +1,169 @@
+{
+  "id": "karl-ferdinand-braun",
+  "name": {
+    "en": "Guglielmo Marconi's contemporary Karl Ferdinand Braun",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・フェルディナント・ブラウン"
+  },
+  "birth_year": 1850,
+  "death_year": 1918,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "engineering",
+    "physics"
+  ],
+  "overview": {
+    "en": "Karl Ferdinand Braun was a German physicist and inventor who shared the Nobel Prize with Marconi for contributions to wireless telegraphy and invented the cathode ray tube.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Braun was born in Fulda, Germany. He studied at the University of Marburg and became professor at several German universities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Braun's invention of the cathode ray tube became the basis for television and computer monitors. His improvements to radio transmission shared the Nobel Prize with Marconi.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1874,
+      "event": {
+        "en": "Discovered the semiconductor crystal rectifier",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1897,
+      "event": {
+        "en": "Invented the cathode ray tube oscilloscope",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1899,
+      "event": {
+        "en": "Improved Marconi's radio transmission system",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1909,
+      "event": {
+        "en": "Shared Nobel Prize in Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Cathode Ray Tube",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1897,
+      "description": {
+        "en": "Display technology that became the basis for television screens",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The cathode ray tube is a window into the invisible world of electrons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

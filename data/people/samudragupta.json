@@ -1,0 +1,138 @@
+{
+  "id": "samudragupta",
+  "name": {
+    "en": "Samudragupta",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "サムドラグプタ"
+  },
+  "birth_year": 315,
+  "death_year": 380,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Samudragupta expanded the Gupta Empire through military conquest and is called the Napoleon of India.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Son of Chandragupta I. Selected as heir for his exceptional abilities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His conquests ushered in the Golden Age of India under the Gupta dynasty.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 335,
+      "event": {
+        "en": "Ascended to the Gupta throne",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 350,
+      "event": {
+        "en": "Conducted extensive military campaigns across India as recorded in the Allahabad Pillar inscription",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Allahabad Pillar Inscription",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 350,
+      "description": {
+        "en": "Prasasti composed by Harishena detailing Samudragupta's conquests",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "He who has prowess wins the world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Allahabad Inscription paraphrase"
+    }
+  ],
+  "relations": []
+}

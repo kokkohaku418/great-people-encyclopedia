@@ -1,0 +1,138 @@
+{
+  "id": "alfred-the-great",
+  "name": {
+    "en": "Alfred the Great",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アルフレッド大王"
+  },
+  "birth_year": 849,
+  "death_year": 899,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Alfred the Great was King of Wessex who defended England against the Vikings and promoted learning and law.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Wantage, Berkshire, the youngest son of King Æthelwulf. He was educated in Rome as a child.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He preserved Anglo-Saxon civilization from Viking conquest and established the foundations of a unified English kingdom.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 878,
+      "event": {
+        "en": "Defeated the Vikings at the Battle of Edington",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 886,
+      "event": {
+        "en": "Captured London and was recognized as king of all English not under Viking rule",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Anglo-Saxon Chronicle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 890,
+      "description": {
+        "en": "Historical record commissioned by Alfred documenting English history",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is not right that anyone should be made rich by his own wrongdoing.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Laws of Alfred"
+    }
+  ],
+  "relations": []
+}

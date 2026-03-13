@@ -1,0 +1,19 @@
+{
+  "id": "ru",
+  "name": {
+    "en": "Russia",
+    "es": "Rusia",
+    "pt": "Rússia",
+    "fr": "Russie",
+    "de": "Russland",
+    "zh": "俄罗斯",
+    "hi": "रूस",
+    "ar": "روسيا",
+    "id": "Rusia",
+    "ja": "ロシア"
+  },
+  "region": "eastern-europe",
+  "description": {
+    "en": "The world's largest country, with significant contributions to physics, mathematics, literature, and space exploration."
+  }
+}

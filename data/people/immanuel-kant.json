@@ -1,0 +1,195 @@
+{
+  "id": "immanuel-kant",
+  "name": {
+    "en": "Immanuel Kant",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "イマヌエル・カント"
+  },
+  "birth_year": 1724,
+  "death_year": 1804,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Immanuel Kant was a German philosopher whose Critique of Pure Reason is one of the most influential works in the history of philosophy. He synthesized rationalism and empiricism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kant was born in Königsberg, Prussia, and spent his entire life in the city. He studied at the University of Königsberg and became a professor of logic and metaphysics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kant's critical philosophy revolutionized epistemology, ethics, and aesthetics. His categorical imperative became a cornerstone of moral philosophy, and his work shaped all subsequent philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1770,
+      "event": {
+        "en": "Appointed professor at Königsberg",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1781,
+      "event": {
+        "en": "Published Critique of Pure Reason",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1788,
+      "event": {
+        "en": "Published Critique of Practical Reason",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1790,
+      "event": {
+        "en": "Published Critique of Judgment",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Critique of Pure Reason",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1781,
+      "description": {
+        "en": "Investigated the limits and possibilities of human knowledge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Groundwork of the Metaphysics of Morals",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1785,
+      "description": {
+        "en": "Introduced the categorical imperative as the basis of moral law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above me and the moral law within me.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Critique of Practical Reason, 1788"
+    }
+  ],
+  "relations": []
+}

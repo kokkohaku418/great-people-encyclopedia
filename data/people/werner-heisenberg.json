@@ -1,0 +1,269 @@
+{
+  "id": "werner-heisenberg",
+  "name": {
+    "en": "Werner Heisenberg",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴェルナー・ハイゼンベルク"
+  },
+  "birth_year": 1901,
+  "death_year": 1976,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Werner Heisenberg was a German theoretical physicist and a key pioneer of quantum mechanics. He formulated the uncertainty principle and developed matrix mechanics, the first complete formulation of quantum mechanics. He received the Nobel Prize in Physics in 1932.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Heisenberg was born in Würzburg, Germany, and studied physics at the University of Munich under Arnold Sommerfeld. He completed his doctorate at age 22 and soon began working with Niels Bohr in Copenhagen.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Heisenberg's uncertainty principle fundamentally changed the philosophy of science by establishing limits on what can be known about a quantum system. His matrix mechanics provided the first mathematically consistent formulation of quantum theory. He also led Germany's nuclear energy program during World War II.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1925,
+      "event": {
+        "en": "Developed matrix mechanics, the first formulation of quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1927,
+      "event": {
+        "en": "Published the uncertainty principle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1932,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the creation of quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1941,
+      "event": {
+        "en": "Became head of the German nuclear energy project during World War II.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Became president of the Alexander von Humboldt Foundation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Quantum-Theoretical Re-interpretation of Kinematic and Mechanical Relations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1925,
+      "description": {
+        "en": "Foundational paper introducing matrix mechanics as the first formulation of quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Perceptual Content of Quantum Theoretical Kinematics and Mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1927,
+      "description": {
+        "en": "Paper introducing the uncertainty principle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Physics and Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1958,
+      "description": {
+        "en": "Book exploring the philosophical implications of quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "What we observe is not nature itself, but nature exposed to our method of questioning.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Werner Heisenberg, Physics and Philosophy"
+    },
+    {
+      "text": {
+        "en": "The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed to Werner Heisenberg"
+    }
+  ],
+  "relations": [
+    {
+      "person": "niels-bohr",
+      "type": "student"
+    },
+    {
+      "person": "max-born",
+      "type": "student"
+    },
+    {
+      "person": "wolfgang-pauli",
+      "type": "friend"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "colleague"
+    }
+  ]
+}

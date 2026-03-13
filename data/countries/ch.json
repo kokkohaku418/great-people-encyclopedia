@@ -1,0 +1,19 @@
+{
+  "id": "ch",
+  "name": {
+    "en": "Switzerland",
+    "es": "Suiza",
+    "pt": "Suíça",
+    "fr": "Suisse",
+    "de": "Schweiz",
+    "zh": "瑞士",
+    "hi": "स्विट्ज़रलैंड",
+    "ar": "سويسرا",
+    "id": "Swiss",
+    "ja": "スイス"
+  },
+  "region": "western-europe",
+  "description": {
+    "en": "A central European country known for neutrality, precision engineering, banking, and world-class research institutions."
+  }
+}

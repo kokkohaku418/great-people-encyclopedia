@@ -1,0 +1,19 @@
+{
+  "id": "au",
+  "name": {
+    "en": "Australia",
+    "es": "Australia",
+    "pt": "Austrália",
+    "fr": "Australie",
+    "de": "Australien",
+    "zh": "澳大利亚",
+    "hi": "ऑस्ट्रेलिया",
+    "ar": "أستراليا",
+    "id": "Australia",
+    "ja": "オーストラリア"
+  },
+  "region": "oceania",
+  "description": {
+    "en": "A continent-nation in the Southern Hemisphere known for its unique biodiversity and strong scientific research institutions."
+  }
+}

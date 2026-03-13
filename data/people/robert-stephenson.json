@@ -1,0 +1,168 @@
+{
+  "id": "robert-stephenson",
+  "name": {
+    "en": "George Stephenson",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョージ・スティーブンソン"
+  },
+  "birth_year": 1781,
+  "death_year": 1848,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "George Stephenson was a British civil engineer and mechanical engineer known as the 'Father of Railways' who built the first public inter-city railway.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Stephenson was born in Wylam, Northumberland. He was illiterate until age 18, when he taught himself to read. He worked in coal mines and developed steam locomotives.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Stephenson's railways transformed transportation, commerce, and society. His standard gauge of 4 feet 8.5 inches became the world standard for most railways.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1814,
+      "event": {
+        "en": "Built his first locomotive, Blücher",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1825,
+      "event": {
+        "en": "Opened the Stockton and Darlington Railway",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1829,
+      "event": {
+        "en": "Rocket won the Rainhill Trials",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1830,
+      "event": {
+        "en": "Opened the Liverpool and Manchester Railway",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Rocket",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1829,
+      "description": {
+        "en": "Locomotive that demonstrated the viability of steam railways",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The locomotive is a wonderful machine; it has power, it has speed, and it can do the work of many horses.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

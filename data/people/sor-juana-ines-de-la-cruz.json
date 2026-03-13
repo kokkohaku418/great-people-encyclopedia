@@ -1,0 +1,180 @@
+{
+  "id": "sor-juana-ines-de-la-cruz",
+  "name": {
+    "en": "Sor Juana Ines de la Cruz",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ソル・フアナ・イネス・デ・ラ・クルス"
+  },
+  "birth_year": 1648,
+  "death_year": 1695,
+  "countries": [
+    "mx"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Sor Juana Ines de la Cruz was a Mexican nun, scholar, and poet considered the greatest literary figure of colonial Latin America.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born an illegitimate child in San Miguel Nepantla, she was a prodigy who learned to read at age three and entered a convent to pursue her intellectual life.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "She championed women's right to education centuries before the feminist movement and produced poetry and philosophical works of enduring brilliance.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1669,
+      "event": {
+        "en": "Entered the Convent of San Jeronimo in Mexico City",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1689,
+      "event": {
+        "en": "Published Inundacion Castalida, her first collected works",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1691,
+      "event": {
+        "en": "Wrote Respuesta a Sor Filotea, her famous defense of women's education",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Respuesta a Sor Filotea",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1691,
+      "description": {
+        "en": "Landmark defense of women's intellectual rights",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Primero Sueno",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1692,
+      "description": {
+        "en": "Epic philosophical poem exploring the quest for knowledge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "One can perfectly well philosophize while cooking supper.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Respuesta a Sor Filotea"
+    }
+  ],
+  "relations": []
+}

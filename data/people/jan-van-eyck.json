@@ -1,0 +1,138 @@
+{
+  "id": "jan-van-eyck",
+  "name": {
+    "en": "Jan van Eyck",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヤン・ファン・エイク"
+  },
+  "birth_year": 1390,
+  "death_year": 1441,
+  "countries": [
+    "be"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Jan van Eyck was a Flemish painter who perfected the technique of oil painting, achieving unprecedented realism and luminosity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born probably in Maaseik in the Prince-Bishopric of Liège. He served as court painter to Philip the Good of Burgundy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His mastery of oil painting technique and his astonishing realism transformed Northern European art and influenced painters for centuries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1432,
+      "event": {
+        "en": "Completed the Ghent Altarpiece",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1434,
+      "event": {
+        "en": "Painted the Arnolfini Portrait",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Ghent Altarpiece",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1432,
+      "description": {
+        "en": "Monumental polyptych altarpiece considered a masterpiece of European art",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "As I can.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "His motto, inscribed on his paintings — 'Als ik kan'"
+    }
+  ],
+  "relations": []
+}

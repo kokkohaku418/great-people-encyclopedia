@@ -1,0 +1,154 @@
+{
+  "id": "jacques-derrida",
+  "name": {
+    "en": "Jacques Derrida",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジャック・デリダ"
+  },
+  "birth_year": 1930,
+  "death_year": 2004,
+  "countries": [
+    "dz",
+    "fr"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Jacques Derrida was a French philosopher who developed deconstruction, a method of critical analysis that examines how meaning is constructed and destabilized in texts.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Derrida was born in El Biar, French Algeria, to a Sephardic Jewish family. He studied at the École Normale Supérieure in Paris and taught philosophy in France and the United States.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Derrida's deconstruction profoundly influenced literary criticism, philosophy, architecture, and cultural studies. His questioning of binary oppositions reshaped postmodern thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1967,
+      "event": {
+        "en": "Published Of Grammatology, Writing and Difference, and Speech and Phenomena",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1972,
+      "event": {
+        "en": "Published Margins of Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1993,
+      "event": {
+        "en": "Published Specters of Marx",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Of Grammatology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1967,
+      "description": {
+        "en": "Foundational text of deconstruction challenging the primacy of speech over writing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There is nothing outside the text.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Of Grammatology, 1967"
+    }
+  ],
+  "relations": []
+}

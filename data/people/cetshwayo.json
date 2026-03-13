@@ -1,0 +1,153 @@
+{
+  "id": "cetshwayo",
+  "name": {
+    "en": "Cetshwayo kaMpande",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "セチュワヨ・カムパンデ"
+  },
+  "birth_year": 1826,
+  "death_year": 1884,
+  "countries": [
+    "za"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Cetshwayo was the last great king of the independent Zulu Kingdom who inflicted a devastating defeat on the British at the Battle of Isandlwana.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born a prince of the Zulu royal house, he fought and won a civil war against his brother to secure the throne.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His victory at Isandlwana was the worst defeat suffered by the British against indigenous forces and demonstrated the effectiveness of Zulu military organization.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1873,
+      "event": {
+        "en": "Crowned King of the Zulu Nation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1879,
+      "event": {
+        "en": "Zulu forces defeated the British at the Battle of Isandlwana",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1879,
+      "event": {
+        "en": "Defeated and captured after the Battle of Ulundi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Zulu Military Reforms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1873,
+      "description": {
+        "en": "Reorganization of the Zulu military system inherited from Shaka",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have done nothing wrong. I have committed no fault against the British.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Statement during his exile"
+    }
+  ],
+  "relations": []
+}

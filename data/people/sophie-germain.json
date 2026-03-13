@@ -1,0 +1,169 @@
+{
+  "id": "sophie-germain",
+  "name": {
+    "en": "Sophie Germain",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ソフィー・ジェルマン"
+  },
+  "birth_year": 1776,
+  "death_year": 1831,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics",
+    "physics"
+  ],
+  "overview": {
+    "en": "Sophie Germain was a French mathematician who made important contributions to number theory and elasticity theory, working in an era when women were excluded from formal scientific education.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Germain was born in Paris. Fascinated by mathematics after reading about Archimedes, she taught herself from books in her father's library and corresponded with leading mathematicians under a male pseudonym.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Germain's work on Fermat's Last Theorem was groundbreaking, proving a special case. Her theory of elastic surfaces won a prize from the French Academy of Sciences and influenced engineering.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1794,
+      "event": {
+        "en": "Began corresponding with Lagrange under male pseudonym",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1804,
+      "event": {
+        "en": "Began correspondence with Gauss on number theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1816,
+      "event": {
+        "en": "Won the French Academy prize for theory of elasticity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1831,
+      "event": {
+        "en": "Published work on mean curvature of surfaces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Memoir on the Vibrations of Elastic Plates",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1816,
+      "description": {
+        "en": "Prize-winning work on the mathematical theory of elasticity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Algebra is but written geometry and geometry is but figured algebra.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,169 @@
+{
+  "id": "caroline-herschel",
+  "name": {
+    "en": "Caroline Herschel",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カロライン・ハーシェル"
+  },
+  "birth_year": 1750,
+  "death_year": 1848,
+  "countries": [
+    "de",
+    "gb"
+  ],
+  "fields": [
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Caroline Herschel was a German-born British astronomer who was the first woman to discover a comet and the first woman to receive a salary as a scientist.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Herschel was born in Hanover, Germany. She assisted her brother William Herschel and became an accomplished astronomer in her own right.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Caroline Herschel's catalog of nebulae and her discovery of eight comets established her as a pioneering woman in science. She was the first woman to receive the Royal Astronomical Society's Gold Medal.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1786,
+      "event": {
+        "en": "Discovered her first comet",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1787,
+      "event": {
+        "en": "Received first salary as a female scientist",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1797,
+      "event": {
+        "en": "Submitted catalog of star clusters and nebulae",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1828,
+      "event": {
+        "en": "Awarded Gold Medal of the Royal Astronomical Society",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Catalogue of Stars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1798,
+      "description": {
+        "en": "Comprehensive catalog of nebulae and star clusters",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I did nothing for my brother but what a well-trained puppy dog would have done.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Memoir, characteristically modest"
+    }
+  ],
+  "relations": []
+}

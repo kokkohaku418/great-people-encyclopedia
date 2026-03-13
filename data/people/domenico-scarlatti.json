@@ -1,0 +1,140 @@
+{
+  "id": "domenico-scarlatti",
+  "name": {
+    "en": "Domenico Scarlatti",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ドメニコ・スカルラッティ"
+  },
+  "birth_year": 1685,
+  "death_year": 1757,
+  "countries": [
+    "it",
+    "es",
+    "pt"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Domenico Scarlatti was an Italian composer who spent most of his career in Spain, famous for his 555 keyboard sonatas.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Naples, son of the composer Alessandro Scarlatti. He studied with his father and other Neapolitan masters.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His keyboard sonatas expanded the technical and expressive possibilities of the harpsichord and influenced all subsequent keyboard music.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1720,
+      "event": {
+        "en": "Moved to Portugal as music master to the Princess Maria Barbara",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1738,
+      "event": {
+        "en": "Published the Essercizi per gravicembalo, 30 keyboard sonatas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Essercizi per gravicembalo",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1738,
+      "description": {
+        "en": "Collection of 30 keyboard sonatas showcasing innovative technique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Show me a musician who does not listen, and I will show you one who does not learn.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

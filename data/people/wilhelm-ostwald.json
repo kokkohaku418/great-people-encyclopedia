@@ -1,0 +1,169 @@
+{
+  "id": "wilhelm-ostwald",
+  "name": {
+    "en": "Wilhelm Ostwald",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴィルヘルム・オストヴァルト"
+  },
+  "birth_year": 1853,
+  "death_year": 1932,
+  "countries": [
+    "de",
+    "lv"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Wilhelm Ostwald was a Baltic German chemist who received the Nobel Prize in Chemistry for his work on catalysis, chemical equilibria, and reaction velocities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ostwald was born in Riga, Latvia. He studied at the University of Dorpat and became professor at Leipzig, where he founded one of the first institutes for physical chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ostwald helped establish physical chemistry as a discipline. His work on catalysis had vast industrial applications, and the Ostwald process for nitric acid production remains industrially important.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1884,
+      "event": {
+        "en": "Published work on chemical affinity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1887,
+      "event": {
+        "en": "Co-founded Zeitschrift für physikalische Chemie",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1902,
+      "event": {
+        "en": "Developed the Ostwald process",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1909,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Lehrbuch der allgemeinen Chemie",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1885,
+      "description": {
+        "en": "Comprehensive textbook of general chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Energy alone is the universal currency of all changes in nature.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

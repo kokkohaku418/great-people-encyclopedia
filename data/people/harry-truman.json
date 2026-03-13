@@ -1,0 +1,153 @@
+{
+  "id": "harry-truman",
+  "name": {
+    "en": "Harry S. Truman",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ハリー・S・トルーマン"
+  },
+  "birth_year": 1884,
+  "death_year": 1972,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Harry Truman was the 33rd President of the United States who made the decision to use atomic weapons and implemented the Marshall Plan.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Lamar, Missouri. Served as an artillery officer in WWI and ran a haberdashery before entering politics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Truman's decisions to use atomic weapons, implement the Marshall Plan, and establish the Truman Doctrine defined the early Cold War.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1945,
+      "event": {
+        "en": "Became president upon FDR's death; authorized use of atomic bombs on Japan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Announced the Truman Doctrine and supported the Marshall Plan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Won a surprise election victory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Memoirs",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1955,
+      "description": {
+        "en": "Two-volume presidential memoir",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The buck stops here.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Sign on his presidential desk"
+    }
+  ],
+  "relations": []
+}

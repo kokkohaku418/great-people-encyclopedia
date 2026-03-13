@@ -1,0 +1,180 @@
+{
+  "id": "chikamatsu-monzaemon",
+  "name": {
+    "en": "Chikamatsu Monzaemon",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "近松門左衛門"
+  },
+  "birth_year": 1653,
+  "death_year": 1725,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Chikamatsu Monzaemon is considered the greatest dramatist in Japanese literature, often called the 'Shakespeare of Japan' for his bunraku puppet plays and kabuki works.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born into a samurai family, he abandoned that life to pursue writing and became the principal playwright for the famous chanter Takemoto Gidayu.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He elevated Japanese drama to a literary art form, pioneering the domestic tragedy genre that depicted the conflicts between duty and human emotion.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1683,
+      "event": {
+        "en": "Wrote his first major kabuki play",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1703,
+      "event": {
+        "en": "Wrote The Love Suicides at Sonezaki, pioneering the domestic tragedy genre",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1715,
+      "event": {
+        "en": "Wrote The Battles of Coxinga, his most popular history play",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Love Suicides at Sonezaki",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1703,
+      "description": {
+        "en": "Groundbreaking domestic tragedy about forbidden love",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Battles of Coxinga",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1715,
+      "description": {
+        "en": "Epic history play about Zheng Chenggong's exploits",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Art is something that lies in the slender margin between the real and the unreal.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Naniwa Miyage"
+    }
+  ],
+  "relations": []
+}

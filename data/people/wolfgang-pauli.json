@@ -1,0 +1,243 @@
+{
+  "id": "wolfgang-pauli",
+  "name": {
+    "en": "Wolfgang Pauli",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴォルフガング・パウリ"
+  },
+  "birth_year": 1900,
+  "death_year": 1958,
+  "countries": [
+    "at",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Wolfgang Pauli was an Austrian-American theoretical physicist known for his discovery of the exclusion principle, which explains the structure of atoms. He also postulated the existence of the neutrino. He received the Nobel Prize in Physics in 1945.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Pauli was born in Vienna, Austria, and showed extraordinary talent from a young age. He studied under Arnold Sommerfeld in Munich and published a review of general relativity at age 21 that impressed Albert Einstein.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Pauli exclusion principle is essential to understanding atomic structure, chemical bonding, and the stability of matter. His prediction of the neutrino opened an entire new field of particle physics. He was known for his sharp critical thinking, and the 'Pauli effect' became a humorous legend in physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1921,
+      "event": {
+        "en": "Published a comprehensive review of relativity theory at age 21.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1925,
+      "event": {
+        "en": "Formulated the Pauli exclusion principle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1930,
+      "event": {
+        "en": "Postulated the existence of the neutrino to explain beta decay.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1940,
+      "event": {
+        "en": "Proved the spin-statistics theorem.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1945,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the exclusion principle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Connexion between the Completion of Electron Groups in an Atom with the Complex Structure of Spectra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1925,
+      "description": {
+        "en": "Paper formulating the exclusion principle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Connection Between Spin and Statistics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1940,
+      "description": {
+        "en": "Proof of the spin-statistics theorem.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "God made the bulk; surfaces were invented by the devil.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Wolfgang Pauli"
+    },
+    {
+      "text": {
+        "en": "That is not only not right; it is not even wrong.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Wolfgang Pauli, on a colleague's imprecise paper"
+    }
+  ],
+  "relations": [
+    {
+      "person": "niels-bohr",
+      "type": "colleague"
+    },
+    {
+      "person": "werner-heisenberg",
+      "type": "friend"
+    },
+    {
+      "person": "max-born",
+      "type": "student"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "colleague"
+    }
+  ]
+}

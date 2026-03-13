@@ -1,0 +1,154 @@
+{
+  "id": "mary-seacole",
+  "name": {
+    "en": "Mary Seacole",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "メアリー・シーコール"
+  },
+  "birth_year": 1805,
+  "death_year": 1881,
+  "countries": [
+    "jm",
+    "gb"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Mary Seacole was a Jamaican-British nurse and businesswoman who provided care to wounded soldiers during the Crimean War despite racial prejudice.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born Mary Jane Grant in Kingston, Jamaica, she learned traditional medicine and nursing from her mother and gained experience treating cholera and other diseases across the Caribbean.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "She overcame racial barriers to provide frontline medical care during the Crimean War and her autobiography became an important document of Black British history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1854,
+      "event": {
+        "en": "Traveled to Crimea at her own expense after being rejected by the War Office",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1855,
+      "event": {
+        "en": "Established the 'British Hotel' near the front lines to treat wounded soldiers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1857,
+      "event": {
+        "en": "Published her autobiography, Wonderful Adventures of Mrs. Seacole",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1857,
+      "description": {
+        "en": "Autobiography describing her travels and medical work in the Crimean War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I trust I have made the reader understand that I did not only nurse the sick, but I was a doctress.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Wonderful Adventures of Mrs. Seacole"
+    }
+  ],
+  "relations": []
+}

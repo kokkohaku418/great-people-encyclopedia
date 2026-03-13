@@ -1,0 +1,168 @@
+{
+  "id": "dorothy-hodgkin",
+  "name": {
+    "en": "Dorothy Hodgkin",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ドロシー・ホジキン"
+  },
+  "birth_year": 1910,
+  "death_year": 1994,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Dorothy Hodgkin was a British chemist who advanced the technique of X-ray crystallography to determine the three-dimensional structures of biomolecules, winning the Nobel Prize in Chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Hodgkin was born in Cairo, Egypt, and grew up in England. She studied at Oxford and Cambridge, becoming fascinated with X-ray crystallography and its potential to reveal molecular structures.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hodgkin's determination of the structures of penicillin, vitamin B12, and insulin were milestones in biochemistry, enabling understanding and synthesis of life-saving medicines.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1945,
+      "event": {
+        "en": "Determined the structure of penicillin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Determined the structure of vitamin B12",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1964,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1969,
+      "event": {
+        "en": "Determined the structure of insulin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The X-ray Analysis of Complicated Molecules",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1964,
+      "description": {
+        "en": "Nobel lecture describing her crystallographic achievements",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I was captured for life by chemistry and by crystals.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

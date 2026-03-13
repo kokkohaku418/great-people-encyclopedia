@@ -1,0 +1,223 @@
+{
+  "id": "william-shockley",
+  "name": {
+    "en": "William Shockley",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウィリアム・ショックレー"
+  },
+  "birth_year": 1910,
+  "death_year": 1989,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "William Shockley was an American physicist who shared the 1956 Nobel Prize in Physics for the invention of the transistor. He later invented the junction transistor, which became the basis for modern semiconductor technology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Shockley was born in London to American parents and grew up in Palo Alto, California. He earned his PhD from MIT in 1936 and joined Bell Telephone Laboratories, where he would lead the semiconductor research group.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Shockley's invention of the junction transistor and his founding of Shockley Semiconductor Laboratory in Silicon Valley helped create the modern electronics industry. His laboratory produced many of the founders of Silicon Valley's major semiconductor companies.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1936,
+      "event": {
+        "en": "Earned PhD from MIT",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Co-received credit for the transistor invention at Bell Labs",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Invented the junction transistor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the transistor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Founded Shockley Semiconductor Laboratory in Mountain View, California",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Junction Transistor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "Invented the bipolar junction transistor, which became the dominant transistor type for decades.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Electrons and Holes in Semiconductors",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1950,
+      "description": {
+        "en": "Authored the definitive textbook on semiconductor physics that trained a generation of engineers.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The will to think is a factor in the process of discovery.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "john-bardeen",
+      "type": "colleague"
+    },
+    {
+      "person": "walter-brattain",
+      "type": "colleague"
+    },
+    {
+      "person": "robert-noyce",
+      "type": "mentor"
+    }
+  ]
+}

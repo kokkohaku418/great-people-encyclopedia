@@ -1,0 +1,184 @@
+{
+  "id": "terence-tao",
+  "name": {
+    "en": "Terence Tao",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "テレンス・タオ"
+  },
+  "birth_year": 1975,
+  "death_year": null,
+  "countries": [
+    "au",
+    "us"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Terence Tao is an Australian-American mathematician widely regarded as one of the greatest living mathematicians. He has made contributions to harmonic analysis, partial differential equations, combinatorics, and number theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Tao was born in Adelaide, Australia, to parents of Chinese descent. A child prodigy, he began taking university-level courses at age nine and earned his PhD from Princeton at 21.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Tao's work spans an extraordinary range of mathematics. His proof with Ben Green that the primes contain arbitrarily long arithmetic progressions was a landmark result. He received the Fields Medal in 2006.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1992,
+      "event": {
+        "en": "Won gold medal at IMO at age 16, the youngest ever",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1996,
+      "event": {
+        "en": "Earned PhD from Princeton University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2004,
+      "event": {
+        "en": "Proved the Green-Tao theorem on primes in arithmetic progressions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2006,
+      "event": {
+        "en": "Awarded the Fields Medal",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2015,
+      "event": {
+        "en": "Proved the Erdős discrepancy problem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Green-Tao Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2004,
+      "description": {
+        "en": "Proved that the set of prime numbers contains arbitrarily long arithmetic progressions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is not so much whether you are talented or not, but whether you work hard or not.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "UCLA lecture"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,168 @@
+{
+  "id": "julius-caesar",
+  "name": {
+    "en": "Julius Caesar",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ガイウス・ユリウス・カエサル"
+  },
+  "birth_year": -100,
+  "death_year": -44,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Julius Caesar was a Roman military general, statesman, and dictator who played a critical role in the transformation of the Roman Republic into the Roman Empire.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Caesar was born into a patrician family in Rome. He rose through the Roman political ranks through military success, oratory, and political alliances.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Caesar's military conquests expanded Roman territory, and his political reforms transformed the Republic. His assassination triggered civil wars that led to the rise of the Roman Empire.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -58,
+      "event": {
+        "en": "Began conquest of Gaul",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -49,
+      "event": {
+        "en": "Crossed the Rubicon, starting civil war",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -46,
+      "event": {
+        "en": "Became dictator of Rome",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -44,
+      "event": {
+        "en": "Assassinated on the Ides of March",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Commentarii de Bello Gallico",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -50,
+      "description": {
+        "en": "Account of the Gallic Wars written by Caesar himself",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Veni, vidi, vici. (I came, I saw, I conquered.)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to the Roman Senate"
+    }
+  ],
+  "relations": []
+}

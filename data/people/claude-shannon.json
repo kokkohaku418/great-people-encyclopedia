@@ -1,0 +1,154 @@
+{
+  "id": "claude-shannon",
+  "name": {
+    "en": "Claude Shannon",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クロード・シャノン"
+  },
+  "birth_year": 1916,
+  "death_year": 2001,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "engineering",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Claude Shannon was an American mathematician, electrical engineer, and cryptographer known as the father of information theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Shannon was born in Petoskey, Michigan. He studied at the University of Michigan and MIT, where his master's thesis applied Boolean algebra to electrical circuits.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Shannon's information theory provided the mathematical foundation for digital communication and computing. His work enabled the digital revolution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1937,
+      "event": {
+        "en": "Applied Boolean algebra to circuit design in master's thesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Published A Mathematical Theory of Communication",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Published Communication Theory of Secrecy Systems",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A Mathematical Theory of Communication",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "Paper founding information theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Information is the resolution of uncertainty.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "A Mathematical Theory of Communication"
+    }
+  ],
+  "relations": []
+}

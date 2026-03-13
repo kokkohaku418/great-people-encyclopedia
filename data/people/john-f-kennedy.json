@@ -1,0 +1,153 @@
+{
+  "id": "john-f-kennedy",
+  "name": {
+    "en": "John F. Kennedy",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・F・ケネディ"
+  },
+  "birth_year": 1917,
+  "death_year": 1963,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "John F. Kennedy was the 35th President of the United States who navigated the Cuban Missile Crisis and inspired the space program.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Brookline, Massachusetts, to a wealthy Irish-American family. Served as a PT boat commander in World War II.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kennedy's presidency defined the optimism of the early 1960s, and his assassination became a defining moment in American history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1961,
+      "event": {
+        "en": "Inaugurated as the youngest elected president",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1962,
+      "event": {
+        "en": "Resolved the Cuban Missile Crisis through diplomacy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1963,
+      "event": {
+        "en": "Assassinated in Dallas, Texas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Profiles in Courage",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1957,
+      "description": {
+        "en": "Pulitzer Prize-winning book about senators who risked their careers for principle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Ask not what your country can do for you — ask what you can do for your country.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Inaugural Address, 1961"
+    }
+  ],
+  "relations": []
+}

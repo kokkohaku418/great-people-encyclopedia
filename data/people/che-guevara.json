@@ -1,0 +1,169 @@
+{
+  "id": "che-guevara",
+  "name": {
+    "en": "Che Guevara",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "チェ・ゲバラ"
+  },
+  "birth_year": 1928,
+  "death_year": 1967,
+  "countries": [
+    "ar",
+    "cu"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Ernesto 'Che' Guevara was an Argentine Marxist revolutionary who was a major figure of the Cuban Revolution and became a symbol of rebellion worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Guevara was born in Rosario, Argentina. He studied medicine and traveled throughout South America, where poverty and injustice radicalized his political views.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Guevara became an iconic figure of revolutionary movements worldwide. His image remains one of the most recognized symbols of counterculture and rebellion.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1955,
+      "event": {
+        "en": "Met Fidel Castro in Mexico",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1959,
+      "event": {
+        "en": "Cuban Revolution succeeded",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Left Cuba for revolutionary activities abroad",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Captured and executed in Bolivia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Guerrilla Warfare",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1961,
+      "description": {
+        "en": "Manual on guerrilla tactics and revolutionary strategy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The revolution is not an apple that falls when it is ripe. You have to make it fall.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,197 @@
+{
+  "id": "frantz-fanon",
+  "name": {
+    "en": "Frantz Fanon",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フランツ・ファノン"
+  },
+  "birth_year": 1925,
+  "death_year": 1961,
+  "countries": [
+    "mq",
+    "dz"
+  ],
+  "fields": [
+    "philosophy",
+    "politics"
+  ],
+  "overview": {
+    "en": "Frantz Fanon was a Martinican-French psychiatrist and political philosopher whose works on the psychopathology of colonization and decolonization influenced liberation movements worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Fanon was born in Fort-de-France, Martinique. He studied medicine and psychiatry in Lyon, France, and practiced in Algeria during the war of independence.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Fanon's analysis of the psychological effects of colonialism and his advocacy for armed resistance against colonial rule influenced anti-colonial movements across the globe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1952,
+      "event": {
+        "en": "Published Black Skin, White Masks",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Joined the Algerian revolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1961,
+      "event": {
+        "en": "Published The Wretched of the Earth",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1961,
+      "event": {
+        "en": "Died of leukemia at age 36",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Wretched of the Earth",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1961,
+      "description": {
+        "en": "Analysis of decolonization and the psychology of the colonized",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Black Skin, White Masks",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1952,
+      "description": {
+        "en": "Study of the psychology of racism and colonialism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Each generation must, out of relative obscurity, discover its mission, fulfill it, or betray it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Wretched of the Earth"
+    }
+  ],
+  "relations": []
+}

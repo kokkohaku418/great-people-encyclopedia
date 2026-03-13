@@ -1,0 +1,138 @@
+{
+  "id": "samuel-johnson",
+  "name": {
+    "en": "Samuel Johnson",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "サミュエル・ジョンソン"
+  },
+  "birth_year": 1709,
+  "death_year": 1784,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Samuel Johnson was the dominant literary figure of mid-18th century England, famous for his dictionary and brilliant conversation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Lichfield, Staffordshire. He attended Pembroke College, Oxford, but left without a degree due to lack of funds.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His Dictionary of the English Language standardized English spelling and usage, and his literary criticism shaped English letters.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1755,
+      "event": {
+        "en": "Published A Dictionary of the English Language",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1763,
+      "event": {
+        "en": "Met James Boswell, who would write his famous biography",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A Dictionary of the English Language",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1755,
+      "description": {
+        "en": "Landmark English dictionary that took nine years to compile",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When a man is tired of London, he is tired of life.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Recorded by Boswell"
+    }
+  ],
+  "relations": []
+}

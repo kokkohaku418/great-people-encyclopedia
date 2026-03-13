@@ -1,0 +1,138 @@
+{
+  "id": "scipio-africanus",
+  "name": {
+    "en": "Scipio Africanus",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "スキピオ・アフリカヌス"
+  },
+  "birth_year": -236,
+  "death_year": -183,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Scipio Africanus was the Roman general who defeated Hannibal at the Battle of Zama, ending the Second Punic War.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born into the patrician Cornelii Scipiones family. He survived the disaster at Cannae as a young military tribune.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His victory over Hannibal established Roman dominance in the Western Mediterranean and made Rome a superpower.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -209,
+      "event": {
+        "en": "Captured New Carthage in Spain",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -202,
+      "event": {
+        "en": "Defeated Hannibal at the Battle of Zama",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Battle of Zama",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -202,
+      "description": {
+        "en": "Decisive victory ending the Second Punic War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I am not the sort of general who does not know what needs to be done until he has been told.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Livy"
+    }
+  ],
+  "relations": []
+}

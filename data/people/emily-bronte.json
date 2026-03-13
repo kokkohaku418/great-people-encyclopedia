@@ -1,0 +1,153 @@
+{
+  "id": "emily-bronte",
+  "name": {
+    "en": "Emily Brontë",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エミリー・ブロンテ"
+  },
+  "birth_year": 1818,
+  "death_year": 1848,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Emily Brontë was an English novelist and poet who is best known for her only novel, Wuthering Heights, considered a classic of English literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Brontë was born in Thornton, Yorkshire. She grew up on the Yorkshire moors with her siblings, creating an imaginary world that nourished her literary imagination.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wuthering Heights, with its passionate intensity and innovative structure, was ahead of its time and is now recognized as one of the greatest novels in the English language.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1846,
+      "event": {
+        "en": "Published poems under the pseudonym Ellis Bell",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1847,
+      "event": {
+        "en": "Published Wuthering Heights",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1848,
+      "event": {
+        "en": "Died of tuberculosis at age 30",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Wuthering Heights",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1847,
+      "description": {
+        "en": "Novel of passionate love and revenge on the Yorkshire moors",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Whatever our souls are made of, his and mine are the same.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Wuthering Heights"
+    }
+  ],
+  "relations": []
+}

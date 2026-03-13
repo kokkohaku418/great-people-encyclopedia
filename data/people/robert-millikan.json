@@ -1,0 +1,223 @@
+{
+  "id": "robert-millikan",
+  "name": {
+    "en": "Robert Millikan",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ロバート・ミリカン"
+  },
+  "birth_year": 1868,
+  "death_year": 1953,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Robert Millikan was an American experimental physicist who measured the charge of the electron using his famous oil drop experiment. He also verified Einstein's photoelectric equation and measured Planck's constant. He received the Nobel Prize in Physics in 1923.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Millikan was born in Morrison, Illinois, and studied at Oberlin College before earning his doctorate at Columbia University. He spent time studying in Europe before joining the University of Chicago.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Millikan's precise measurement of the electron charge was a cornerstone of modern physics, confirming the quantized nature of electric charge. His verification of the photoelectric effect supported quantum theory. He also helped build Caltech into a world-renowned institution as its chairman.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1909,
+      "event": {
+        "en": "Began the oil drop experiment to measure the charge of the electron.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1913,
+      "event": {
+        "en": "Published precise measurements confirming the quantized nature of electric charge.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1916,
+      "event": {
+        "en": "Verified Einstein's photoelectric equation and measured Planck's constant.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1921,
+      "event": {
+        "en": "Became chairman of the executive council at Caltech.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1923,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Elementary Electrical Charge and the Avogadro Constant",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1913,
+      "description": {
+        "en": "Paper reporting precise measurements of the electron charge from the oil drop experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A Direct Photoelectric Determination of Planck's h",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1916,
+      "description": {
+        "en": "Paper verifying Einstein's photoelectric equation and measuring Planck's constant.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Science walks forward on two feet, namely theory and experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Robert Millikan, Nobel lecture, 1924"
+    }
+  ],
+  "relations": [
+    {
+      "person": "albert-einstein",
+      "type": "colleague"
+    },
+    {
+      "person": "arthur-compton",
+      "type": "colleague"
+    },
+    {
+      "person": "albert-michelson",
+      "type": "influenced_by"
+    }
+  ]
+}

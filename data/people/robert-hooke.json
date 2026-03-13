@@ -1,0 +1,244 @@
+{
+  "id": "robert-hooke",
+  "name": {
+    "en": "Robert Hooke",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ロバート・フック"
+  },
+  "birth_year": 1635,
+  "death_year": 1703,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "biology",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Robert Hooke was an English natural philosopher, architect, and polymath who made contributions to an extraordinary range of fields. He is best remembered for Hooke's law of elasticity, his pioneering microscopic observations, and coining the term 'cell' in biology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Hooke was born in 1635 in Freshwater on the Isle of Wight, England. After his father's death, he moved to London and eventually entered Christ Church, Oxford, where he became Robert Boyle's assistant and began his experimental career.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hooke's Micrographia opened up the microscopic world to public wonder and scientific inquiry. His law of elasticity remains fundamental to engineering and materials science, and his architectural work helped rebuild London after the Great Fire of 1666.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1635,
+      "event": {
+        "en": "Born in Freshwater, Isle of Wight, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1655,
+      "event": {
+        "en": "Became Robert Boyle's assistant at Oxford",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1660,
+      "event": {
+        "en": "Discovered the law of elasticity (Hooke's law)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1662,
+      "event": {
+        "en": "Appointed Curator of Experiments at the Royal Society",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1665,
+      "event": {
+        "en": "Published Micrographia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1703,
+      "event": {
+        "en": "Died in London",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Micrographia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1665,
+      "description": {
+        "en": "A groundbreaking illustrated book of microscopic observations, introducing the term 'cell' and revealing the intricate structure of common objects.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "De Potentia Restitutiva",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1678,
+      "description": {
+        "en": "Formally published Hooke's law of elasticity, describing the proportional relationship between force and deformation in springs.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The truth is, the Science of Nature has been already too long made only a work of the Brain and the Fancy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Micrographia, preface"
+    }
+  ],
+  "relations": [
+    {
+      "person": "robert-boyle",
+      "type": "collaborator"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "rival"
+    },
+    {
+      "person": "christiaan-huygens",
+      "type": "colleague"
+    },
+    {
+      "person": "christopher-wren",
+      "type": "collaborator"
+    }
+  ]
+}

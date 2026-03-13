@@ -1,0 +1,154 @@
+{
+  "id": "carl-bosch",
+  "name": {
+    "en": "Carl Bosch",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・ボッシュ"
+  },
+  "birth_year": 1874,
+  "death_year": 1940,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "chemistry",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Carl Bosch was a German chemist and engineer who won the Nobel Prize for contributions to the invention and development of chemical high-pressure methods, including the Haber-Bosch process.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bosch was born in Cologne, Germany. He studied metallurgy and chemistry, then joined BASF where he developed the industrial-scale ammonia synthesis process.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bosch's engineering of the Haber-Bosch process for industrial ammonia production enabled mass production of fertilizers, fundamentally increasing global food production.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1909,
+      "event": {
+        "en": "Began scaling up Haber's ammonia synthesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1913,
+      "event": {
+        "en": "First industrial ammonia plant at Oppau",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1931,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Industrial Ammonia Synthesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1913,
+      "description": {
+        "en": "Engineering achievement scaling laboratory ammonia synthesis to industrial production",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The development of high-pressure chemistry opened up a new world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel lecture, 1932"
+    }
+  ],
+  "relations": []
+}

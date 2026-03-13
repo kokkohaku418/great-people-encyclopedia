@@ -1,0 +1,223 @@
+{
+  "id": "hideki-yukawa",
+  "name": {
+    "en": "Hideki Yukawa",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "湯川秀樹"
+  },
+  "birth_year": 1907,
+  "death_year": 1981,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Hideki Yukawa was a Japanese theoretical physicist who predicted the existence of mesons as the carriers of the nuclear force. He became the first Japanese person to receive the Nobel Prize in Physics in 1949. His work was fundamental to the development of nuclear and particle physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Yukawa was born in Tokyo, Japan, and grew up in Kyoto. He studied physics at Kyoto Imperial University and was deeply influenced by the emerging quantum mechanics from Europe. He adopted the surname Yukawa after marrying into the Yukawa family.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Yukawa's prediction of the meson was confirmed experimentally in 1947 and opened the door to understanding the strong nuclear force. His work inspired generations of Japanese physicists and helped establish Japan as a major center for theoretical physics. He was also an active advocate for nuclear disarmament.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1935,
+      "event": {
+        "en": "Published his theory predicting the existence of the meson particle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "The pi meson was experimentally discovered, confirming his prediction.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics, the first Japanese laureate.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Founded the Research Institute for Fundamental Physics at Kyoto University.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Interaction of Elementary Particles",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1935,
+      "description": {
+        "en": "Paper predicting the meson as the carrier of the strong nuclear force.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Tabibito (The Traveler)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1958,
+      "description": {
+        "en": "Autobiography reflecting on his scientific journey and philosophy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Reality is cruel. All of the naivety is to be put aside. Reality is always changing, and it is always ahead of us.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Hideki Yukawa"
+    },
+    {
+      "text": {
+        "en": "A good theoretical physicist today might find it useful to have a wide range of physical viewpoints and mathematical tools at his disposal.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Hideki Yukawa"
+    }
+  ],
+  "relations": [
+    {
+      "person": "niels-bohr",
+      "type": "influenced_by"
+    },
+    {
+      "person": "werner-heisenberg",
+      "type": "influenced_by"
+    },
+    {
+      "person": "shin-ichiro-tomonaga",
+      "type": "colleague"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "vn",
+  "name": {
+    "en": "Vietnam",
+    "es": "Vietnam",
+    "pt": "Vietnã",
+    "fr": "Viêt Nam",
+    "de": "Vietnam",
+    "zh": "越南",
+    "hi": "वियतनाम",
+    "ar": "فيتنام",
+    "id": "Vietnam",
+    "ja": "ベトナム"
+  },
+  "region": "southeast-asia",
+  "description": {
+    "en": "A Southeast Asian country with a long history and growing contributions to science and technology."
+  }
+}

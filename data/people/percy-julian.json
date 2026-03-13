@@ -1,0 +1,168 @@
+{
+  "id": "percy-julian",
+  "name": {
+    "en": "Percy Lavon Julian",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "パーシー・ジュリアン"
+  },
+  "birth_year": 1899,
+  "death_year": 1975,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Percy Julian was an American research chemist and a pioneer in the chemical synthesis of medicinal drugs from plants, particularly steroids and cortisone.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Julian was born in Montgomery, Alabama. He faced severe racial discrimination but excelled academically, eventually earning his PhD from the University of Vienna.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Julian's synthesis of physostigmine and cortisone from soy products made life-saving medications affordable and accessible. He was one of the first African Americans inducted into the National Academy of Sciences.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1935,
+      "event": {
+        "en": "Completed total synthesis of physostigmine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1940,
+      "event": {
+        "en": "Developed mass production of steroids from soybeans",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Founded Julian Laboratories",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1973,
+      "event": {
+        "en": "Elected to National Academy of Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Total Synthesis of Physostigmine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1935,
+      "description": {
+        "en": "First complete synthesis of the glaucoma drug from plant materials",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have had one goal in my life, that of playing some role in making life a little easier for the persons who come after me.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

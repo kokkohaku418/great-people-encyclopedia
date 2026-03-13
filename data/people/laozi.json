@@ -1,0 +1,138 @@
+{
+  "id": "laozi",
+  "name": {
+    "en": "Laozi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "老子"
+  },
+  "birth_year": -601,
+  "death_year": -531,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Laozi was an ancient Chinese philosopher traditionally regarded as the founder of Taoism and the author of the Tao Te Ching, one of the most translated works in world literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "According to tradition, Laozi served as the keeper of the archives at the royal court of Zhou. His historical existence is debated, but his influence is undeniable.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Tao Te Ching established the philosophical foundation for Taoism, influencing Chinese religion, art, literature, and governance for over two millennia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -530,
+      "event": {
+        "en": "Traditionally attributed composition of Tao Te Ching",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -520,
+      "event": {
+        "en": "Legendarily met with Confucius",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Tao Te Ching",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -500,
+      "description": {
+        "en": "Foundational text of Taoism on the nature of existence and the way of harmony",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The journey of a thousand miles begins with a single step.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Tao Te Ching"
+    }
+  ],
+  "relations": []
+}

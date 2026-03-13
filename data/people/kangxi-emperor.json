@@ -1,0 +1,153 @@
+{
+  "id": "kangxi-emperor",
+  "name": {
+    "en": "Kangxi Emperor",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "康熙帝"
+  },
+  "birth_year": 1654,
+  "death_year": 1722,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "The Kangxi Emperor was the longest-reigning emperor of China and one of the most capable rulers of the Qing Dynasty.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born Xuanye, he ascended to the throne at age seven after his father's death from smallpox and took personal control of the government at fifteen.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He consolidated Qing rule over China, expanded the empire's borders, patronized arts and sciences, and compiled the monumental Kangxi Dictionary.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1673,
+      "event": {
+        "en": "Suppressed the Revolt of the Three Feudatories",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1683,
+      "event": {
+        "en": "Conquered Taiwan under Zheng family control",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1689,
+      "event": {
+        "en": "Signed the Treaty of Nerchinsk with Russia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Kangxi Dictionary",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1716,
+      "description": {
+        "en": "Comprehensive Chinese character dictionary with over 47,000 entries",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "One act of negligence may lead to a thousand years of regret.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Imperial maxims"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,239 @@
+{
+  "id": "rudolf-clausius",
+  "name": {
+    "en": "Rudolf Clausius",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルドルフ・クラウジウス"
+  },
+  "birth_year": 1822,
+  "death_year": 1888,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Rudolf Clausius was a German physicist and mathematician who formulated the second law of thermodynamics and introduced the concept of entropy. He was one of the founders of thermodynamics as a rigorous scientific discipline.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Köslin, Prussia, Clausius studied at the University of Berlin and the University of Halle. He showed early aptitude for mathematics and physics, eventually becoming a professor at several German and Swiss universities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Clausius's introduction of the entropy concept transformed thermodynamics from an engineering tool into a fundamental branch of physics. His formulation of the second law of thermodynamics remains one of the most important principles in all of science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1850,
+      "event": {
+        "en": "Published his first paper on thermodynamics, reformulating Carnot's theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1854,
+      "event": {
+        "en": "Introduced the concept that would later be named entropy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1857,
+      "event": {
+        "en": "Published foundational work on the kinetic theory of gases.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1865,
+      "event": {
+        "en": "Coined the term 'entropy' and formulated the second law of thermodynamics in its modern form.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Motive Power of Heat",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1850,
+      "description": {
+        "en": "Foundational paper that reconciled Carnot's work with the first law of thermodynamics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Mechanical Theory of Heat",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1865,
+      "description": {
+        "en": "Comprehensive treatise introducing the concept of entropy and its role in thermodynamics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Mechanical Theory of Heat",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1867,
+      "description": {
+        "en": "Book compiling his major thermodynamic works into a unified framework.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The energy of the universe is constant. The entropy of the universe tends to a maximum.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Mechanical Theory of Heat, 1865"
+    }
+  ],
+  "relations": [
+    {
+      "person": "lord-kelvin",
+      "type": "rival"
+    },
+    {
+      "person": "james-prescott-joule",
+      "type": "colleague"
+    },
+    {
+      "person": "ludwig-boltzmann",
+      "type": "influenced"
+    },
+    {
+      "person": "hermann-von-helmholtz",
+      "type": "colleague"
+    }
+  ]
+}

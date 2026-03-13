@@ -1,0 +1,154 @@
+{
+  "id": "alfred-wegener",
+  "name": {
+    "en": "Alfred Wegener",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アルフレート・ヴェーゲナー"
+  },
+  "birth_year": 1880,
+  "death_year": 1930,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "biology",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Alfred Wegener was a German meteorologist and geophysicist who proposed the theory of continental drift.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wegener was born in Berlin. He studied astronomy, meteorology, and physics, and participated in expeditions to Greenland.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wegener's theory of continental drift, initially ridiculed, was eventually vindicated by plate tectonics and revolutionized our understanding of Earth's history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1912,
+      "event": {
+        "en": "Proposed continental drift theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1915,
+      "event": {
+        "en": "Published The Origin of Continents and Oceans",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1930,
+      "event": {
+        "en": "Died on an expedition to Greenland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Origin of Continents and Oceans",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1915,
+      "description": {
+        "en": "Book proposing that continents were once joined together",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Scientists still do not appear to understand sufficiently that all earth sciences must contribute evidence toward unveiling the state of our planet.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

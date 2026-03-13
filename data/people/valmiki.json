@@ -1,0 +1,138 @@
+{
+  "id": "valmiki",
+  "name": {
+    "en": "Valmiki",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴァールミーキ"
+  },
+  "birth_year": -500,
+  "death_year": -400,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Valmiki is revered as the first poet of Sanskrit literature and the author of the Ramayana, one of India's two great epics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "According to tradition, he was a reformed bandit who became a sage through meditation and composed the Ramayana through divine inspiration.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Ramayana has shaped Indian culture, religion, and morality for over two millennia and has been adapted across all of South and Southeast Asia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -500,
+      "event": {
+        "en": "Composed the Ramayana",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -450,
+      "event": {
+        "en": "The Ramayana became widely known across the Indian subcontinent",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Ramayana",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -500,
+      "description": {
+        "en": "Epic poem of 24,000 verses recounting the life and adventures of Prince Rama",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There is no sin greater than cruelty, and no virtue higher than compassion.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Ramayana"
+    }
+  ],
+  "relations": []
+}

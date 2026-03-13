@@ -1,0 +1,154 @@
+{
+  "id": "robert-goddard",
+  "name": {
+    "en": "Robert H. Goddard",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ロバート・ゴダード"
+  },
+  "birth_year": 1882,
+  "death_year": 1945,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "engineering",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Robert H. Goddard was an American engineer, professor, physicist, and inventor who is credited with creating and building the world's first liquid-fueled rocket.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Goddard was born in Worcester, Massachusetts. He studied at Worcester Polytechnic Institute and Clark University, where he spent most of his career.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Goddard's pioneering work with liquid-fueled rockets laid the foundation for the Space Age. His patents and experiments in rocketry made space travel possible.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1919,
+      "event": {
+        "en": "Published A Method of Reaching Extreme Altitudes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1926,
+      "event": {
+        "en": "Launched first liquid-fueled rocket",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1935,
+      "event": {
+        "en": "Launched rocket faster than the speed of sound",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "First Liquid-Fueled Rocket",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1926,
+      "description": {
+        "en": "Launch of the world's first liquid-fueled rocket in Auburn, Massachusetts",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

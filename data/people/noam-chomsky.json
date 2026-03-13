@@ -1,0 +1,210 @@
+{
+  "id": "noam-chomsky",
+  "name": {
+    "en": "Noam Chomsky",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ノーム・チョムスキー"
+  },
+  "birth_year": 1928,
+  "death_year": null,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Noam Chomsky is an American linguist, philosopher, and political activist who revolutionized linguistics with his theory of generative grammar. He is also one of the most prominent public intellectuals.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Chomsky was born in Philadelphia to a family of Jewish immigrants. He studied linguistics and philosophy at the University of Pennsylvania and has spent most of his career at MIT.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Chomsky's theory of universal grammar transformed linguistics and cognitive science. His political writings on media, foreign policy, and power have made him one of the most cited scholars alive.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1955,
+      "event": {
+        "en": "Joined MIT faculty",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Published Syntactic Structures",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Published Aspects of the Theory of Syntax",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Published The Responsibility of Intellectuals",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1988,
+      "event": {
+        "en": "Published Manufacturing Consent",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Syntactic Structures",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1957,
+      "description": {
+        "en": "Revolutionary work proposing transformational generative grammar",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Manufacturing Consent",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1988,
+      "description": {
+        "en": "Analysis of media propaganda in democratic societies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If we don't believe in freedom of expression for people we despise, we don't believe in it at all.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "BBC interview, 1992"
+    }
+  ],
+  "relations": []
+}

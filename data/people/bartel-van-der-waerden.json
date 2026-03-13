@@ -1,0 +1,139 @@
+{
+  "id": "bartel-van-der-waerden",
+  "name": {
+    "en": "Emmy Noether's student Bartel Leendert van der Waerden",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "バルテル・ファン・デル・ヴェルデン"
+  },
+  "birth_year": 1903,
+  "death_year": 1996,
+  "countries": [
+    "nl",
+    "de"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "B.L. van der Waerden was a Dutch mathematician who transformed algebra through his influential textbook Moderne Algebra.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Van der Waerden was born in Amsterdam. He studied at Amsterdam and Göttingen, where he was influenced by Emmy Noether.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Van der Waerden's Moderne Algebra systematized abstract algebra, making Noether's ideas accessible and transforming how algebra is taught worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1930,
+      "event": {
+        "en": "Published Moderne Algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Published Science Awakening on ancient mathematics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Moderne Algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1930,
+      "description": {
+        "en": "Textbook that revolutionized the teaching of algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Mathematics is quite simply the purest expression of human thought.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

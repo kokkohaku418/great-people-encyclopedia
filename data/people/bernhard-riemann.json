@@ -1,0 +1,180 @@
+{
+  "id": "bernhard-riemann",
+  "name": {
+    "en": "Bernhard Riemann",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ベルンハルト・リーマン"
+  },
+  "birth_year": 1826,
+  "death_year": 1866,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Bernhard Riemann was a German mathematician who made lasting contributions to analysis, number theory, and differential geometry. His work laid the mathematical foundation for general relativity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Riemann was born in Breselenz, Hanover. Shy and sickly as a child, he showed exceptional mathematical ability and studied under Gauss and Dirichlet at the University of Göttingen.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Riemann's ideas on curved spaces became the basis for Einstein's general relativity. The Riemann hypothesis, concerning the distribution of prime numbers, remains one of the most important unsolved problems in mathematics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1851,
+      "event": {
+        "en": "Completed doctoral thesis on complex function theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1854,
+      "event": {
+        "en": "Delivered habilitation lecture on the foundations of geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1859,
+      "event": {
+        "en": "Published paper on the distribution of primes containing the Riemann hypothesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Hypotheses Which Lie at the Foundations of Geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1854,
+      "description": {
+        "en": "Revolutionary lecture that introduced Riemannian geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Number of Primes Less Than a Given Magnitude",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1859,
+      "description": {
+        "en": "Introduced the Riemann zeta function and the famous hypothesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If only I had the theorems! Then I should find the proofs easily enough.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

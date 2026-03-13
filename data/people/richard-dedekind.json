@@ -1,0 +1,153 @@
+{
+  "id": "richard-dedekind",
+  "name": {
+    "en": "Richard Dedekind",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "リヒャルト・デデキント"
+  },
+  "birth_year": 1831,
+  "death_year": 1916,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Richard Dedekind was a German mathematician who made major contributions to abstract algebra and the foundations of the real number system through Dedekind cuts.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Dedekind was born in Brunswick, Germany. He studied at the University of Göttingen under Gauss and later became a close collaborator of Dirichlet.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Dedekind's construction of real numbers via Dedekind cuts provided a rigorous foundation for analysis. His work on ideals in ring theory was foundational for modern algebra.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1858,
+      "event": {
+        "en": "Developed Dedekind cuts to construct real numbers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1871,
+      "event": {
+        "en": "Introduced ideals in algebraic number theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1888,
+      "event": {
+        "en": "Published Was sind und was sollen die Zahlen?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Was sind und was sollen die Zahlen?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1888,
+      "description": {
+        "en": "Rigorous foundation for natural numbers using set-theoretic methods",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Numbers are free creations of the human mind.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Was sind und was sollen die Zahlen?, 1888"
+    }
+  ],
+  "relations": []
+}

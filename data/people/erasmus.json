@@ -1,0 +1,196 @@
+{
+  "id": "erasmus",
+  "name": {
+    "en": "Desiderius Erasmus",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "デジデリウス・エラスムス"
+  },
+  "birth_year": 1466,
+  "death_year": 1536,
+  "countries": [
+    "nl"
+  ],
+  "fields": [
+    "philosophy",
+    "literature"
+  ],
+  "overview": {
+    "en": "Desiderius Erasmus was a Dutch Renaissance humanist, Catholic priest, and theologian. He was the most famous scholar of his time and a leading figure of Christian humanism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Erasmus was born in Rotterdam. Orphaned young, he entered a monastery before traveling throughout Europe, studying at Paris and Cambridge, and building a vast network of scholarly correspondents.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Erasmus's satirical works and new translations of the Bible promoted educational reform and religious tolerance. His humanism profoundly influenced the Reformation and the development of European intellectual culture.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1500,
+      "event": {
+        "en": "Published Adages",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1509,
+      "event": {
+        "en": "Published The Praise of Folly",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1516,
+      "event": {
+        "en": "Published Greek New Testament",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1524,
+      "event": {
+        "en": "Published On Free Will against Luther",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Praise of Folly",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1509,
+      "description": {
+        "en": "Satirical work criticizing the corruption of the Church and intellectual pretensions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Greek New Testament",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1516,
+      "description": {
+        "en": "Critical edition that became the basis for vernacular Bible translations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "In the land of the blind, the one-eyed man is king.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Adages, 1500"
+    }
+  ],
+  "relations": []
+}

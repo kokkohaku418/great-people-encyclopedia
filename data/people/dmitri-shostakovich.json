@@ -1,0 +1,195 @@
+{
+  "id": "dmitri-shostakovich",
+  "name": {
+    "en": "Dmitri Shostakovich",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ドミートリイ・ショスタコーヴィチ"
+  },
+  "birth_year": 1906,
+  "death_year": 1975,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Dmitri Shostakovich was a Russian composer who is regarded as one of the major composers of the 20th century, navigating art and survival under Soviet repression.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Shostakovich was born in Saint Petersburg. A prodigy, he entered the Petrograd Conservatory at age 13 and gained fame with his Symphony No. 1 at age 19.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Shostakovich's 15 symphonies and 15 string quartets chronicle the Soviet experience with music of extraordinary power. His ability to embed dissent within Soviet-approved forms was remarkable.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1926,
+      "event": {
+        "en": "Premiered Symphony No. 1",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1936,
+      "event": {
+        "en": "Denounced by Pravda for Lady Macbeth",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1937,
+      "event": {
+        "en": "Premiered Symphony No. 5",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Premiered Symphony No. 10 after Stalin's death",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Symphony No. 5",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1937,
+      "description": {
+        "en": "Comeback symphony after political denunciation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "String Quartet No. 8",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1960,
+      "description": {
+        "en": "Intensely personal quartet dedicated to victims of fascism and war",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A creative artist works on his next composition because he is not satisfied with his previous one.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Testimony"
+    }
+  ],
+  "relations": []
+}

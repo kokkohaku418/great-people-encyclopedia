@@ -1,0 +1,168 @@
+{
+  "id": "emiliano-zapata",
+  "name": {
+    "en": "Emiliano Zapata",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エミリアーノ・サパタ"
+  },
+  "birth_year": 1879,
+  "death_year": 1919,
+  "countries": [
+    "mx"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Emiliano Zapata was a leading figure in the Mexican Revolution who championed agrarian reform and the rights of Mexico's indigenous peasants.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Anenecuilco, Morelos, to a peasant family, he became a local leader fighting for the return of communal lands stolen by hacienda owners.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His cry of 'Tierra y Libertad' (Land and Liberty) and the Plan de Ayala became foundational to Mexican agrarian reform and indigenous rights movements.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1911,
+      "event": {
+        "en": "Joined the Revolution against Porfirio Diaz",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1911,
+      "event": {
+        "en": "Proclaimed the Plan de Ayala demanding agrarian reform",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1919,
+      "event": {
+        "en": "Assassinated in an ambush at Chinameca",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Plan de Ayala",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1911,
+      "description": {
+        "en": "Revolutionary manifesto demanding redistribution of land to peasants",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is better to die on your feet than to live on your knees.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "The land belongs to those who work it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Political slogan"
+    }
+  ],
+  "relations": []
+}

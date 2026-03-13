@@ -1,0 +1,139 @@
+{
+  "id": "kary-mullis",
+  "name": {
+    "en": "Kary Mullis",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "キャリー・マリス"
+  },
+  "birth_year": 1944,
+  "death_year": 2019,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "chemistry",
+    "biology"
+  ],
+  "overview": {
+    "en": "Kary Mullis was an American biochemist who invented the polymerase chain reaction (PCR), transforming molecular biology and forensic science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Lenoir, North Carolina. Earned his PhD in biochemistry from UC Berkeley.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "PCR became one of the most important techniques in molecular biology, enabling DNA fingerprinting, disease diagnosis, and the Human Genome Project.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1983,
+      "event": {
+        "en": "Conceived the polymerase chain reaction technique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1993,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry for inventing PCR",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Unusual Origin of the Polymerase Chain Reaction",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1990,
+      "description": {
+        "en": "Essay describing the invention of PCR",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I was just driving and thinking about experiments.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On conceiving PCR"
+    }
+  ],
+  "relations": []
+}

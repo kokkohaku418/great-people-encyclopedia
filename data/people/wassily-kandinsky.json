@@ -1,0 +1,197 @@
+{
+  "id": "wassily-kandinsky",
+  "name": {
+    "en": "Wassily Kandinsky",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ワシリー・カンディンスキー"
+  },
+  "birth_year": 1866,
+  "death_year": 1944,
+  "countries": [
+    "ru",
+    "de",
+    "fr"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Wassily Kandinsky was a Russian painter and art theorist generally credited as one of the pioneers of abstract art.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kandinsky was born in Moscow. He studied law and economics before moving to Munich at age 30 to study painting, eventually becoming a leading figure in modern art.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kandinsky's theoretical writings and abstract paintings freed art from representation. His belief that art could express spiritual reality through form and color influenced all subsequent abstract art.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1896,
+      "event": {
+        "en": "Moved to Munich to study art",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1910,
+      "event": {
+        "en": "Painted first abstract watercolor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1911,
+      "event": {
+        "en": "Co-founded Der Blaue Reiter",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1922,
+      "event": {
+        "en": "Joined the Bauhaus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Concerning the Spiritual in Art",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1911,
+      "description": {
+        "en": "Theoretical text arguing for the spiritual basis of abstract art",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Composition VII",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1913,
+      "description": {
+        "en": "Complex abstract painting considered his masterpiece",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Color is the keyboard, the eyes are the hammers, the soul is the piano with many strings.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Concerning the Spiritual in Art"
+    }
+  ],
+  "relations": []
+}

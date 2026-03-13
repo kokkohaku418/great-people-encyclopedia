@@ -1,0 +1,228 @@
+{
+  "id": "isidor-isaac-rabi",
+  "name": {
+    "en": "Isidor Isaac Rabi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "イジドール・イザーク・ラービ"
+  },
+  "birth_year": 1898,
+  "death_year": 1988,
+  "countries": [
+    "at",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Isidor Isaac Rabi was an Austrian-American physicist who discovered nuclear magnetic resonance, a technique that later became the basis for MRI medical imaging. He received the Nobel Prize in Physics in 1944 and was an influential science advisor to the United States government.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Rabi was born in Rymanów, Austria-Hungary (now Poland), and emigrated to the United States as an infant. He grew up in New York City and studied chemistry and physics at Cornell and Columbia universities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Rabi's discovery of nuclear magnetic resonance revolutionized both physics and medicine, leading to the development of MRI technology. As a science advisor, he helped establish CERN and was instrumental in shaping postwar American science policy. He mentored several future Nobel laureates at Columbia University.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1937,
+      "event": {
+        "en": "Developed the magnetic resonance method for measuring nuclear magnetic properties.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1944,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the resonance method.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1952,
+      "event": {
+        "en": "Played a key role in the founding of CERN.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Served as chairman of the General Advisory Committee of the Atomic Energy Commission.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Space Quantization in a Gyrating Magnetic Field",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1937,
+      "description": {
+        "en": "Paper describing the molecular beam magnetic resonance detection method.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "My Life and Times as a Physicist",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1960,
+      "description": {
+        "en": "Memoir recounting his career and views on science and society.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Who ordered that?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Isidor Isaac Rabi, upon learning of the muon's discovery"
+    },
+    {
+      "text": {
+        "en": "My mother made me a scientist without ever intending to. Every other Jewish mother in Brooklyn would ask her child after school: 'So? Did you learn anything today?' But not my mother. 'Izzy,' she would say, 'did you ask a good question today?'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Isidor Isaac Rabi"
+    }
+  ],
+  "relations": [
+    {
+      "person": "niels-bohr",
+      "type": "influenced_by"
+    },
+    {
+      "person": "werner-heisenberg",
+      "type": "influenced_by"
+    },
+    {
+      "person": "j-robert-oppenheimer",
+      "type": "friend"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "colleague"
+    }
+  ]
+}

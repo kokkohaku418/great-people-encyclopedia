@@ -1,0 +1,243 @@
+{
+  "id": "thomas-young",
+  "name": {
+    "en": "Thomas Young",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "トマス・ヤング"
+  },
+  "birth_year": 1773,
+  "death_year": 1829,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "biology"
+  ],
+  "overview": {
+    "en": "Thomas Young was an English polymath who made important contributions to optics, physiology, and Egyptology. He is best known for his double-slit experiment, which demonstrated the wave nature of light and established the principle of interference.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Young was born in 1773 in Milverton, Somerset, England, a child prodigy who could read fluently by age two. He studied medicine at London, Edinburgh, and Gottingen, and became a physician, but his scientific curiosity ranged across an astonishing number of disciplines.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Young's double-slit experiment became one of the most important experiments in physics, providing definitive evidence for the wave theory of light. His work on color vision and elasticity (Young's modulus) also had lasting influence on physics and engineering.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1773,
+      "event": {
+        "en": "Born in Milverton, Somerset, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1793,
+      "event": {
+        "en": "Published a paper on the mechanism of the eye's accommodation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1801,
+      "event": {
+        "en": "Demonstrated the double-slit experiment proving light interference",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1807,
+      "event": {
+        "en": "Introduced the concept of Young's modulus of elasticity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1814,
+      "event": {
+        "en": "Began deciphering the Rosetta Stone's demotic script",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1829,
+      "event": {
+        "en": "Died in London",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Theory of Light and Colours",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1801,
+      "description": {
+        "en": "Presented the wave theory of light and described the principle of interference, supported by the double-slit experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A Course of Lectures on Natural Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1807,
+      "description": {
+        "en": "A comprehensive work covering mechanics, optics, and acoustics, introducing Young's modulus.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The experiments I am about to relate may be repeated with great ease, whenever the sun shines.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On the Theory of Light and Colours"
+    }
+  ],
+  "relations": [
+    {
+      "person": "christiaan-huygens",
+      "type": "influenced_by"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "influenced_by"
+    },
+    {
+      "person": "augustin-jean-fresnel",
+      "type": "colleague"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced"
+    }
+  ]
+}

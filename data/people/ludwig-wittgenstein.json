@@ -1,0 +1,196 @@
+{
+  "id": "ludwig-wittgenstein",
+  "name": {
+    "en": "Ludwig Wittgenstein",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルートヴィヒ・ウィトゲンシュタイン"
+  },
+  "birth_year": 1889,
+  "death_year": 1951,
+  "countries": [
+    "at",
+    "gb"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Ludwig Wittgenstein was an Austrian-British philosopher who made revolutionary contributions to logic, philosophy of language, and philosophy of mind. He is considered one of the greatest philosophers of the 20th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wittgenstein was born in Vienna into one of Europe's wealthiest families. He studied engineering before turning to philosophy under Bertrand Russell at Cambridge.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wittgenstein's two major works represent two distinct philosophical approaches: the logical atomism of the Tractatus and the language-game theory of the Investigations. Both transformed analytic philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1921,
+      "event": {
+        "en": "Published Tractatus Logico-Philosophicus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1929,
+      "event": {
+        "en": "Returned to Cambridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1939,
+      "event": {
+        "en": "Succeeded G.E. Moore as professor at Cambridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Philosophical Investigations published posthumously",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Tractatus Logico-Philosophicus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1921,
+      "description": {
+        "en": "Logical analysis of the relationship between language and reality",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Philosophical Investigations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1953,
+      "description": {
+        "en": "Rejected earlier work, introduced language games and family resemblance",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Whereof one cannot speak, thereof one must be silent.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Tractatus Logico-Philosophicus, 1921"
+    }
+  ],
+  "relations": []
+}

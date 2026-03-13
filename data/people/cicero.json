@@ -1,0 +1,154 @@
+{
+  "id": "cicero",
+  "name": {
+    "en": "Marcus Tullius Cicero",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "キケロ"
+  },
+  "birth_year": -106,
+  "death_year": -43,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "philosophy",
+    "politics"
+  ],
+  "overview": {
+    "en": "Cicero was Rome's greatest orator and a pivotal figure in transmitting Greek philosophy to the Latin-speaking world.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Arpinum to an equestrian family. He studied philosophy and rhetoric in Rome, Athens, and Rhodes.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His speeches, letters, and philosophical works shaped Latin prose style and profoundly influenced the Renaissance and Enlightenment.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -63,
+      "event": {
+        "en": "Suppressed the Catiline Conspiracy as consul",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -43,
+      "event": {
+        "en": "Executed on orders of Mark Antony",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De Re Publica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -51,
+      "description": {
+        "en": "Philosophical dialogue on the ideal state and natural law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A room without books is like a body without a soul.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "The safety of the people shall be the highest law.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "De Legibus"
+    }
+  ],
+  "relations": []
+}

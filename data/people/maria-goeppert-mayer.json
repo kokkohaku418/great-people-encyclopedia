@@ -1,0 +1,255 @@
+{
+  "id": "maria-goeppert-mayer",
+  "name": {
+    "en": "Maria Goeppert Mayer",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マリア・ゲッパート＝メイヤー"
+  },
+  "birth_year": 1906,
+  "death_year": 1972,
+  "countries": [
+    "de",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Maria Goeppert Mayer was a German-American theoretical physicist who won the 1963 Nobel Prize in Physics for proposing the nuclear shell model. She was only the second woman to win a Nobel Prize in Physics, after Marie Curie.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Goeppert Mayer was born in Kattowitz, Germany (now Katowice, Poland), and studied at the University of Göttingen, where she earned her PhD under Max Born. She married the American chemist Joseph Mayer and moved to the United States in 1930.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Goeppert Mayer's nuclear shell model explained why certain numbers of nucleons (magic numbers) result in particularly stable atomic nuclei. Her work provided a fundamental framework for understanding nuclear structure and remains a cornerstone of nuclear physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1930,
+      "event": {
+        "en": "Earned PhD from the University of Göttingen under Max Born",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1930,
+      "event": {
+        "en": "Moved to the United States with her husband Joseph Mayer",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Proposed the nuclear shell model with spin-orbit coupling",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1950,
+      "event": {
+        "en": "Published 'Elementary Theory of Nuclear Shell Structure' with Jensen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1963,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Jensen and Wigner",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Nuclear Shell Model",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "Proposed a model explaining the stability of nuclei with magic numbers through spin-orbit coupling of nucleons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Göppert-Mayer Theory of Two-Photon Absorption",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1931,
+      "description": {
+        "en": "Predicted in her doctoral thesis that atoms can absorb two photons simultaneously, confirmed decades later by lasers.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Elementary Theory of Nuclear Shell Structure",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1955,
+      "description": {
+        "en": "Co-authored the definitive book on the nuclear shell model with J. Hans D. Jensen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Mathematics began to seem too much like puzzle solving. Physics is puzzle solving, too, but of puzzles created by nature, not by the mind of man.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "max-born",
+      "type": "student"
+    },
+    {
+      "person": "j-hans-d-jensen",
+      "type": "collaborator"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "colleague"
+    },
+    {
+      "person": "eugene-wigner",
+      "type": "colleague"
+    }
+  ]
+}

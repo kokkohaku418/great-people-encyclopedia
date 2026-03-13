@@ -1,0 +1,180 @@
+{
+  "id": "virgil",
+  "name": {
+    "en": "Virgil",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウェルギリウス"
+  },
+  "birth_year": -70,
+  "death_year": -19,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Virgil was an ancient Roman poet, best known for the Aeneid, the epic poem that tells the story of Rome's founding and became the definitive literary work of the Roman Empire.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Virgil was born near Mantua in Cisalpine Gaul. He studied in Cremona, Milan, and Rome, and gained fame with his Eclogues before becoming Rome's national poet.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Aeneid became the foundational myth of Rome and one of the most influential poems in Western literature. Virgil's influence extends through Dante, Milton, and all of Western literary tradition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -42,
+      "event": {
+        "en": "Published the Eclogues",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -29,
+      "event": {
+        "en": "Published the Georgics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -19,
+      "event": {
+        "en": "Died leaving the Aeneid unfinished",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Aeneid",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -19,
+      "description": {
+        "en": "Epic poem tracing Rome's origins through the journey of the Trojan hero Aeneas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Georgics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -29,
+      "description": {
+        "en": "Didactic poem on farming that celebrates the Italian countryside",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Fortune favors the bold.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Aeneid, Book X"
+    }
+  ],
+  "relations": []
+}

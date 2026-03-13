@@ -1,0 +1,20 @@
+{
+  "id": "industrial",
+  "name": {
+    "en": "Industrial",
+    "es": "Industrial",
+    "pt": "Industrial",
+    "fr": "Industriel",
+    "de": "Industriezeitalter",
+    "zh": "工业时代",
+    "hi": "औद्योगिक युग",
+    "ar": "العصر الصناعي",
+    "id": "Industri",
+    "ja": "産業革命時代"
+  },
+  "start_year": 1800,
+  "end_year": 1900,
+  "description": {
+    "en": "The era of rapid industrialization, technological innovation, and scientific breakthroughs in thermodynamics, electromagnetism, and chemistry."
+  }
+}

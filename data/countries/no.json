@@ -1,0 +1,19 @@
+{
+  "id": "no",
+  "name": {
+    "en": "Norway",
+    "es": "Noruega",
+    "pt": "Noruega",
+    "fr": "Norvège",
+    "de": "Norwegen",
+    "zh": "挪威",
+    "hi": "नॉर्वे",
+    "ar": "النرويج",
+    "id": "Norwegia",
+    "ja": "ノルウェー"
+  },
+  "region": "northern-europe",
+  "description": {
+    "en": "A Scandinavian country known for its exploration heritage, natural resources, and contributions to peace and science."
+  }
+}

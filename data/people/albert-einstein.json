@@ -1,0 +1,124 @@
+{
+  "id": "albert-einstein",
+  "name": {
+    "en": "Albert Einstein",
+    "es": "Albert Einstein",
+    "pt": "Albert Einstein",
+    "fr": "Albert Einstein",
+    "de": "Albert Einstein",
+    "zh": "阿尔伯特·爱因斯坦",
+    "hi": "अल्बर्ट आइंस्टीन",
+    "ar": "ألبرت أينشتاين",
+    "id": "Albert Einstein",
+    "ja": "アルベルト・アインシュタイン"
+  },
+  "birth_year": 1879,
+  "death_year": 1955,
+  "countries": ["de", "ch", "us"],
+  "fields": ["physics", "mathematics"],
+  "overview": {
+    "en": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics. His work on the photoelectric effect earned him the Nobel Prize in Physics in 1921. He is widely regarded as one of the most influential scientists of all time.",
+    "es": "Albert Einstein fue un físico teórico nacido en Alemania que desarrolló la teoría de la relatividad, uno de los dos pilares de la física moderna. Su trabajo sobre el efecto fotoeléctrico le valió el Premio Nobel de Física en 1921.",
+    "pt": "Albert Einstein foi um físico teórico nascido na Alemanha que desenvolveu a teoria da relatividade, um dos dois pilares da física moderna. Seu trabalho sobre o efeito fotoelétrico lhe rendeu o Prêmio Nobel de Física em 1921.",
+    "fr": "Albert Einstein était un physicien théoricien né en Allemagne qui a développé la théorie de la relativité, l'un des deux piliers de la physique moderne. Ses travaux sur l'effet photoélectrique lui ont valu le prix Nobel de physique en 1921.",
+    "de": "Albert Einstein war ein in Deutschland geborener theoretischer Physiker, der die Relativitätstheorie entwickelte, eine der beiden Säulen der modernen Physik. Seine Arbeit zum photoelektrischen Effekt brachte ihm 1921 den Nobelpreis für Physik ein.",
+    "zh": "阿尔伯特·爱因斯坦是一位出生于德国的理论物理学家，他创立了相对论，这是现代物理学的两大支柱之一。他因光电效应方面的研究获得了1921年诺贝尔物理学奖。",
+    "hi": "अल्बर्ट आइंस्टीन एक जर्मन मूल के सैद्धांतिक भौतिक विज्ञानी थे जिन्होंने सापेक्षता का सिद्धांत विकसित किया, जो आधुनिक भौतिकी के दो स्तंभों में से एक है। प्रकाश-विद्युत प्रभाव पर उनके कार्य ने उन्हें 1921 में भौतिकी का नोबेल पुरस्कार दिलाया।",
+    "ar": "ألبرت أينشتاين كان فيزيائيًا نظريًا ألماني المولد طوّر نظرية النسبية، أحد ركيزتي الفيزياء الحديثة. حصل على جائزة نوبل في الفيزياء عام 1921 عن عمله في التأثير الكهروضوئي.",
+    "id": "Albert Einstein adalah seorang fisikawan teoretis kelahiran Jerman yang mengembangkan teori relativitas, salah satu dari dua pilar fisika modern. Karyanya tentang efek fotolistrik membuatnya meraih Hadiah Nobel Fisika pada tahun 1921.",
+    "ja": "アルベルト・アインシュタインはドイツ生まれの理論物理学者であり、現代物理学の二本柱の一つである相対性理論を構築した。光電効果に関する研究により1921年にノーベル物理学賞を受賞した。"
+  },
+  "early_life": {
+    "en": "Einstein was born in Ulm, in the Kingdom of Württemberg in the German Empire, on 14 March 1879. His family moved to Munich shortly after his birth. He showed an early aptitude for mathematics and physics, teaching himself algebra and Euclidean geometry at age twelve. He attended the Swiss Federal Polytechnic in Zürich, graduating in 1900.",
+    "es": "Einstein nació en Ulm, en el Reino de Wurtemberg del Imperio alemán, el 14 de marzo de 1879. Su familia se mudó a Múnich poco después de su nacimiento. Mostró una aptitud temprana para las matemáticas y la física, aprendiendo por sí mismo álgebra y geometría euclidiana a los doce años.",
+    "pt": "Einstein nasceu em Ulm, no Reino de Württemberg, no Império Alemão, em 14 de março de 1879. Sua família mudou-se para Munique logo após seu nascimento. Demonstrou aptidão precoce para matemática e física, aprendendo sozinho álgebra e geometria euclidiana aos doze anos.",
+    "fr": "Einstein est né à Ulm, dans le Royaume de Wurtemberg de l'Empire allemand, le 14 mars 1879. Sa famille a déménagé à Munich peu après sa naissance. Il a montré une aptitude précoce pour les mathématiques et la physique, apprenant seul l'algèbre et la géométrie euclidienne à douze ans.",
+    "de": "Einstein wurde am 14. März 1879 in Ulm im Königreich Württemberg im Deutschen Reich geboren. Seine Familie zog kurz nach seiner Geburt nach München. Er zeigte eine frühe Begabung für Mathematik und Physik und brachte sich im Alter von zwölf Jahren selbst Algebra und euklidische Geometrie bei.",
+    "zh": "爱因斯坦于1879年3月14日出生在德意志帝国符腾堡王国的乌尔姆。出生后不久，他的家庭搬到了慕尼黑。他很早就展现出数学和物理方面的天赋，十二岁时自学了代数和欧几里得几何。",
+    "hi": "आइंस्टीन का जन्म 14 मार्च 1879 को जर्मन साम्राज्य के वुर्टेमबर्ग राज्य के उल्म में हुआ था। जन्म के कुछ समय बाद उनका परिवार म्यूनिख चला गया। उन्होंने गणित और भौतिकी के लिए प्रारंभिक योग्यता दिखाई और बारह वर्ष की आयु में स्वयं बीजगणित और यूक्लिडियन ज्यामिति सीखी।",
+    "ar": "ولد أينشتاين في أولم بمملكة فورتمبرغ في الإمبراطورية الألمانية في 14 مارس 1879. انتقلت عائلته إلى ميونخ بعد ولادته بفترة قصيرة. أظهر كفاءة مبكرة في الرياضيات والفيزياء، حيث علّم نفسه الجبر والهندسة الإقليدية في سن الثانية عشرة.",
+    "id": "Einstein lahir di Ulm, Kerajaan Württemberg di Kekaisaran Jerman, pada 14 Maret 1879. Keluarganya pindah ke München tak lama setelah kelahirannya. Ia menunjukkan bakat awal dalam matematika dan fisika, belajar sendiri aljabar dan geometri Euklides pada usia dua belas tahun.",
+    "ja": "アインシュタインは1879年3月14日、ドイツ帝国ヴュルテンベルク王国のウルムに生まれた。生後まもなく家族はミュンヘンに移住した。幼い頃から数学と物理学に才能を示し、12歳で独学で代数とユークリッド幾何学を習得した。"
+  },
+  "impact": {
+    "en": "Einstein's theories of relativity revolutionized our understanding of space, time, and gravity. His mass-energy equivalence formula E=mc² became the most famous equation in physics. His work laid the foundation for quantum mechanics, cosmology, and nuclear energy. He fundamentally changed how humanity understands the universe.",
+    "es": "Las teorías de la relatividad de Einstein revolucionaron nuestra comprensión del espacio, el tiempo y la gravedad. Su fórmula de equivalencia masa-energía E=mc² se convirtió en la ecuación más famosa de la física. Su trabajo sentó las bases de la mecánica cuántica, la cosmología y la energía nuclear.",
+    "pt": "As teorias da relatividade de Einstein revolucionaram nossa compreensão do espaço, tempo e gravidade. Sua fórmula de equivalência massa-energia E=mc² tornou-se a equação mais famosa da física. Seu trabalho lançou as bases da mecânica quântica, cosmologia e energia nuclear.",
+    "fr": "Les théories de la relativité d'Einstein ont révolutionné notre compréhension de l'espace, du temps et de la gravité. Sa formule d'équivalence masse-énergie E=mc² est devenue l'équation la plus célèbre de la physique. Ses travaux ont posé les fondements de la mécanique quantique, de la cosmologie et de l'énergie nucléaire.",
+    "de": "Einsteins Relativitätstheorien revolutionierten unser Verständnis von Raum, Zeit und Gravitation. Seine Masse-Energie-Äquivalenzformel E=mc² wurde zur berühmtesten Gleichung der Physik. Seine Arbeit legte den Grundstein für Quantenmechanik, Kosmologie und Kernenergie.",
+    "zh": "爱因斯坦的相对论彻底改变了人类对空间、时间和引力的理解。他的质能等价公式E=mc²成为物理学中最著名的方程式。他的研究为量子力学、宇宙学和核能奠定了基础。",
+    "hi": "आइंस्टीन के सापेक्षता के सिद्धांतों ने अंतरिक्ष, समय और गुरुत्वाकर्षण की हमारी समझ में क्रांति ला दी। उनका द्रव्यमान-ऊर्जा समतुल्यता सूत्र E=mc² भौतिकी का सबसे प्रसिद्ध समीकरण बन गया। उनके कार्य ने क्वांटम यांत्रिकी, ब्रह्मांड विज्ञान और परमाणु ऊर्जा की नींव रखी।",
+    "ar": "أحدثت نظريات أينشتاين في النسبية ثورة في فهمنا للمكان والزمان والجاذبية. أصبحت معادلته لتكافؤ الكتلة والطاقة E=mc² أشهر معادلة في الفيزياء. وضع عمله الأساس لميكانيكا الكم وعلم الكونيات والطاقة النووية.",
+    "id": "Teori relativitas Einstein merevolusi pemahaman kita tentang ruang, waktu, dan gravitasi. Rumus kesetaraan massa-energi E=mc² menjadi persamaan paling terkenal dalam fisika. Karyanya meletakkan dasar bagi mekanika kuantum, kosmologi, dan energi nuklir.",
+    "ja": "アインシュタインの相対性理論は、空間・時間・重力に対する人類の理解を根本から変えた。質量とエネルギーの等価性を示すE=mc²は物理学で最も有名な方程式となった。彼の研究は量子力学、宇宙論、原子力エネルギーの基礎を築いた。"
+  },
+  "timeline": [
+    { "year": 1879, "event": { "en": "Born in Ulm, Germany", "ja": "ドイツ・ウルムに生まれる" } },
+    { "year": 1896, "event": { "en": "Enrolled at the Swiss Federal Polytechnic in Zürich", "ja": "チューリッヒのスイス連邦工科大学に入学" } },
+    { "year": 1900, "event": { "en": "Graduated from the Polytechnic with a diploma in teaching", "ja": "工科大学を卒業し教職免状を取得" } },
+    { "year": 1902, "event": { "en": "Began work at the Swiss Patent Office in Bern", "ja": "ベルンのスイス特許庁で勤務開始" } },
+    { "year": 1905, "event": { "en": "Annus Mirabilis: published four groundbreaking papers including special relativity and the photoelectric effect", "ja": "奇跡の年：特殊相対性理論や光電効果を含む4本の画期的な論文を発表" } },
+    { "year": 1915, "event": { "en": "Completed the general theory of relativity", "ja": "一般相対性理論を完成" } },
+    { "year": 1919, "event": { "en": "Solar eclipse observations confirmed general relativity, making Einstein world-famous", "ja": "日食観測により一般相対性理論が実証され、世界的に有名になる" } },
+    { "year": 1921, "event": { "en": "Awarded the Nobel Prize in Physics for the photoelectric effect", "ja": "光電効果の研究でノーベル物理学賞を受賞" } },
+    { "year": 1933, "event": { "en": "Emigrated to the United States to escape the Nazi regime", "ja": "ナチス政権を逃れてアメリカに移住" } },
+    { "year": 1939, "event": { "en": "Signed a letter to President Roosevelt warning about the potential of atomic weapons", "ja": "ルーズベルト大統領に原子兵器の可能性を警告する書簡に署名" } },
+    { "year": 1940, "event": { "en": "Became a United States citizen", "ja": "アメリカ合衆国の市民権を取得" } },
+    { "year": 1955, "event": { "en": "Died in Princeton, New Jersey", "ja": "ニュージャージー州プリンストンで死去" } }
+  ],
+  "famous_works": [
+    {
+      "title": { "en": "Special Theory of Relativity", "ja": "特殊相対性理論" },
+      "year": 1905,
+      "description": { "en": "Introduced the concept that the laws of physics are the same for all non-accelerating observers and that the speed of light is constant regardless of the observer's motion.", "ja": "すべての慣性系で物理法則は同一であり、光速は観測者の運動に関わらず一定であるという概念を導入した。" }
+    },
+    {
+      "title": { "en": "General Theory of Relativity", "ja": "一般相対性理論" },
+      "year": 1915,
+      "description": { "en": "Extended special relativity to include gravity, describing it as a curvature of spacetime caused by mass and energy.", "ja": "特殊相対性理論を拡張し、重力を質量とエネルギーによる時空の曲がりとして記述した。" }
+    },
+    {
+      "title": { "en": "Photoelectric Effect", "ja": "光電効果" },
+      "year": 1905,
+      "description": { "en": "Explained the photoelectric effect by proposing that light consists of discrete quanta of energy, laying groundwork for quantum theory.", "ja": "光が離散的なエネルギー量子からなることを提唱して光電効果を説明し、量子論の基礎を築いた。" }
+    },
+    {
+      "title": { "en": "Mass-Energy Equivalence (E=mc²)", "ja": "質量とエネルギーの等価性（E=mc²）" },
+      "year": 1905,
+      "description": { "en": "Demonstrated that mass and energy are interchangeable, expressed in the famous equation E=mc².", "ja": "質量とエネルギーが相互変換可能であることを示し、有名な方程式E=mc²として表現した。" }
+    },
+    {
+      "title": { "en": "Brownian Motion", "ja": "ブラウン運動" },
+      "year": 1905,
+      "description": { "en": "Provided empirical evidence for the existence of atoms by explaining the random motion of particles suspended in fluid.", "ja": "流体中に浮遊する粒子のランダムな運動を説明し、原子の存在を実証的に裏付けた。" }
+    }
+  ],
+  "quotes": [
+    {
+      "text": { "en": "Imagination is more important than knowledge.", "ja": "想像力は知識よりも重要である。" },
+      "source": "Saturday Evening Post interview, 1929"
+    },
+    {
+      "text": { "en": "God does not play dice with the universe.", "ja": "神はサイコロを振らない。" },
+      "source": "Letter to Max Born, 1926"
+    },
+    {
+      "text": { "en": "If you can't explain it simply, you don't understand it well enough.", "ja": "簡単に説明できなければ、十分に理解していないということだ。" },
+      "source": "Attributed"
+    },
+    {
+      "text": { "en": "The important thing is not to stop questioning. Curiosity has its own reason for existence.", "ja": "大切なのは疑問を持ち続けることだ。好奇心にはそれ自体の存在理由がある。" },
+      "source": "LIFE Magazine, 1955"
+    }
+  ],
+  "relations": [
+    { "person": "niels-bohr", "type": "collaborator" },
+    { "person": "max-planck", "type": "colleague" },
+    { "person": "marcel-grossmann", "type": "collaborator" },
+    { "person": "michele-besso", "type": "friend" },
+    { "person": "isaac-newton", "type": "influenced_by" },
+    { "person": "james-clerk-maxwell", "type": "influenced_by" },
+    { "person": "richard-feynman", "type": "influenced" },
+    { "person": "j-robert-oppenheimer", "type": "colleague" }
+  ]
+}

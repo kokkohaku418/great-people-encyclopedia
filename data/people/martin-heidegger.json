@@ -1,0 +1,168 @@
+{
+  "id": "martin-heidegger",
+  "name": {
+    "en": "Martin Heidegger",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マルティン・ハイデッガー"
+  },
+  "birth_year": 1889,
+  "death_year": 1976,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Martin Heidegger was a German philosopher whose exploration of the question of Being is one of the most significant contributions to 20th-century philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Heidegger was born in Meßkirch, Baden. He studied theology and philosophy at the University of Freiburg and became Edmund Husserl's assistant.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Heidegger's Being and Time fundamentally reoriented philosophy toward the question of existence. His influence extends through existentialism, hermeneutics, postmodernism, and environmental philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1927,
+      "event": {
+        "en": "Published Being and Time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1933,
+      "event": {
+        "en": "Became rector of the University of Freiburg under the Nazi regime",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1946,
+      "event": {
+        "en": "Banned from teaching by denazification authorities",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1951,
+      "event": {
+        "en": "Resumed teaching and lecturing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Being and Time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1927,
+      "description": {
+        "en": "Fundamental ontology exploring the meaning of Being through human existence (Dasein)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Language is the house of Being.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter on Humanism, 1947"
+    }
+  ],
+  "relations": []
+}

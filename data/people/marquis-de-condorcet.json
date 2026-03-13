@@ -1,0 +1,154 @@
+{
+  "id": "marquis-de-condorcet",
+  "name": {
+    "en": "Marquis de Condorcet",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "コンドルセ侯爵"
+  },
+  "birth_year": 1743,
+  "death_year": 1794,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "The Marquis de Condorcet was a French mathematician and political philosopher who championed reason, human rights, and the idea of human progress.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born into an aristocratic family in Ribemont, he became a renowned mathematician before turning to social and political philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He pioneered social mathematics, advocated for women's rights and the abolition of slavery, and articulated the Enlightenment idea of inevitable human progress.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1785,
+      "event": {
+        "en": "Published Essai sur l'application de l'analyse, introducing the Condorcet method",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1791,
+      "event": {
+        "en": "Proposed a plan for public education to the French National Assembly",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1794,
+      "event": {
+        "en": "Died in prison during the Terror after being arrested",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Sketch for a Historical Picture of the Progress of the Human Mind",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1795,
+      "description": {
+        "en": "Posthumous work outlining a theory of inevitable human progress through reason",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The perfection of the human race is indefinite.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Sketch for a Historical Picture"
+    }
+  ],
+  "relations": []
+}

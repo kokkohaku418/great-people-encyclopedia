@@ -1,0 +1,254 @@
+{
+  "id": "erwin-schrodinger",
+  "name": {
+    "en": "Erwin Schrödinger",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エルヴィン・シュレーディンガー"
+  },
+  "birth_year": 1887,
+  "death_year": 1961,
+  "countries": [
+    "at"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Erwin Schrödinger was an Austrian physicist who developed wave mechanics, a fundamental formulation of quantum mechanics. He is best known for the Schrödinger equation and his famous thought experiment, Schrödinger's cat. He shared the 1933 Nobel Prize in Physics with Paul Dirac.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Schrödinger was born in Vienna, Austria, and was educated at the University of Vienna. He showed early talent in mathematics and physics, earning his doctorate in 1910 and serving in World War I before pursuing an academic career.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Schrödinger equation became one of the most important equations in physics, governing the behavior of quantum systems. His wave mechanics formulation provided an alternative to matrix mechanics and is essential to modern chemistry and physics. Schrödinger's cat remains one of the most famous thought experiments in science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1926,
+      "event": {
+        "en": "Published the Schrödinger equation, founding wave mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1933,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Paul Dirac.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1935,
+      "event": {
+        "en": "Proposed the Schrödinger's cat thought experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1944,
+      "event": {
+        "en": "Published 'What Is Life?', influencing the development of molecular biology.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Quantization as an Eigenvalue Problem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1926,
+      "description": {
+        "en": "Series of papers introducing the Schrödinger equation and wave mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "What Is Life?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1944,
+      "description": {
+        "en": "Influential book exploring the physical basis of living systems, inspiring Watson and Crick.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Present Situation in Quantum Mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1935,
+      "description": {
+        "en": "Paper introducing the Schrödinger's cat thought experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If we are going to stick to this damned quantum-jumping, then I regret that I ever had anything to do with quantum theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Erwin Schrödinger, in conversation at the Bohr Institute, 1926"
+    },
+    {
+      "text": {
+        "en": "The task is not so much to see what no one has yet seen, but to think what nobody has yet thought about that which everybody sees.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Erwin Schrödinger"
+    }
+  ],
+  "relations": [
+    {
+      "person": "paul-dirac",
+      "type": "colleague"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "friend"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "rival"
+    },
+    {
+      "person": "louis-de-broglie",
+      "type": "influenced_by"
+    }
+  ]
+}

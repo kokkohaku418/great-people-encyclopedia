@@ -1,0 +1,223 @@
+{
+  "id": "willis-lamb",
+  "name": {
+    "en": "Willis Lamb",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウィリス・ラム"
+  },
+  "birth_year": 1913,
+  "death_year": 2008,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Willis Lamb was an American physicist who discovered the Lamb shift, a small difference in energy levels of the hydrogen atom that could not be explained by the Dirac equation. This discovery was pivotal in the development of quantum electrodynamics and earned him the 1955 Nobel Prize in Physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lamb was born in Los Angeles, California. He studied chemistry at the University of California, Berkeley, but switched to theoretical physics, earning his Ph.D. under J. Robert Oppenheimer in 1938.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Lamb shift provided crucial experimental evidence that spurred the development of renormalization techniques in quantum electrodynamics by Richard Feynman, Julian Schwinger, and Sin-Itiro Tomonaga. This measurement is considered one of the most important experiments in the history of physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1913,
+      "event": {
+        "en": "Born in Los Angeles, California, United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Measured the Lamb shift in the hydrogen spectrum with Robert Retherford",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1955,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the discovery of the Lamb shift",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1974,
+      "event": {
+        "en": "Joined the University of Arizona, where he continued teaching until his 90s",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2008,
+      "event": {
+        "en": "Died in Tucson, Arizona at age 94",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Fine Structure of the Hydrogen Atom by a Microwave Method",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1947,
+      "description": {
+        "en": "Landmark paper reporting the precise measurement of the energy level splitting in hydrogen that became known as the Lamb shift.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Anti-photon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1995,
+      "description": {
+        "en": "Paper challenging common interpretations of the photon concept in quantum optics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A photon is what a photodetector detects.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Anti-photon paper, 1995"
+    }
+  ],
+  "relations": [
+    {
+      "person": "j-robert-oppenheimer",
+      "type": "mentor"
+    },
+    {
+      "person": "richard-feynman",
+      "type": "influenced"
+    },
+    {
+      "person": "julian-schwinger",
+      "type": "influenced"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "enlightenment",
+  "name": {
+    "en": "Enlightenment",
+    "es": "Ilustración",
+    "pt": "Iluminismo",
+    "fr": "Siècle des Lumières",
+    "de": "Aufklärung",
+    "zh": "启蒙时代",
+    "hi": "प्रबोधन काल",
+    "ar": "عصر التنوير",
+    "id": "Pencerahan",
+    "ja": "啓蒙時代"
+  },
+  "start_year": 1600,
+  "end_year": 1800,
+  "description": {
+    "en": "An intellectual movement emphasizing reason, science, and individual rights, laying the groundwork for modern democratic and scientific institutions."
+  }
+}

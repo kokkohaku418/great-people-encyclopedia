@@ -1,0 +1,168 @@
+{
+  "id": "felix-klein",
+  "name": {
+    "en": "Felix Klein",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フェリックス・クライン"
+  },
+  "birth_year": 1849,
+  "death_year": 1925,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Felix Klein was a German mathematician known for his work in group theory, complex analysis, non-Euclidean geometry, and the Erlangen program classifying geometries by their symmetry groups.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Klein was born in Düsseldorf, Prussia. He studied at the University of Bonn and became one of the leading mathematicians of his era.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Klein's Erlangen program unified various geometries by characterizing each as the study of invariants under a group of transformations. The Klein bottle remains one of the most famous objects in topology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1872,
+      "event": {
+        "en": "Published the Erlangen program",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1882,
+      "event": {
+        "en": "Described the Klein bottle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1886,
+      "event": {
+        "en": "Became professor at Göttingen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1908,
+      "event": {
+        "en": "Published Elementary Mathematics from an Advanced Standpoint",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Erlangen Program",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1872,
+      "description": {
+        "en": "Classified geometries by their underlying symmetry groups",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Everyone knows what a curve is, until he has studied enough mathematics to become confused through the countless number of possible exceptions.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

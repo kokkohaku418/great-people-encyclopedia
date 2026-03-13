@@ -1,0 +1,239 @@
+{
+  "id": "leo-szilard",
+  "name": {
+    "en": "Leo Szilard",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レオ・シラード"
+  },
+  "birth_year": 1898,
+  "death_year": 1964,
+  "countries": [
+    "hu",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Leo Szilard was a Hungarian-American physicist who conceived the nuclear chain reaction and was instrumental in the development of the atomic bomb. He drafted the famous Einstein-Szilard letter to President Roosevelt that initiated the Manhattan Project. He later became a prominent advocate for arms control.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Szilard was born in Budapest, Hungary, into a Jewish family. He studied engineering and physics in Budapest and Berlin, where he worked with Albert Einstein on the design of a home refrigerator.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Szilard's conception of the nuclear chain reaction was the key insight that made nuclear weapons and nuclear power possible. His role in initiating the Manhattan Project shaped world history. After the war, he became one of the most vocal scientists advocating for arms control and peaceful uses of nuclear energy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1929,
+      "event": {
+        "en": "Established the connection between information and thermodynamic entropy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1933,
+      "event": {
+        "en": "Conceived the idea of the nuclear chain reaction while crossing a London street.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1939,
+      "event": {
+        "en": "Co-authored the Einstein-Szilard letter to President Roosevelt warning of atomic weapons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1942,
+      "event": {
+        "en": "Collaborated with Enrico Fermi on achieving the first nuclear chain reaction.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1945,
+      "event": {
+        "en": "Circulated a petition opposing the use of atomic bombs on Japan.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Einstein-Szilard Letter",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1939,
+      "description": {
+        "en": "Letter to President Roosevelt urging the development of atomic weapons before Nazi Germany.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Decrease of Entropy in a Thermodynamic System by the Intervention of Intelligent Beings",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1929,
+      "description": {
+        "en": "Pioneering paper connecting information theory to thermodynamics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If you want to succeed in this world, you don't have to be much cleverer than other people. You just have to be one day earlier.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Leo Szilard"
+    },
+    {
+      "text": {
+        "en": "A scientist's aim in a discussion with his colleagues is not to persuade, but to clarify.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Leo Szilard"
+    }
+  ],
+  "relations": [
+    {
+      "person": "albert-einstein",
+      "type": "collaborator"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "collaborator"
+    },
+    {
+      "person": "eugene-wigner",
+      "type": "friend"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "homi-j-bhabha",
+  "name": {
+    "en": "Homi J. Bhabha",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ホミ・J・バーバ"
+  },
+  "birth_year": 1909,
+  "death_year": 1966,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Homi Jehangir Bhabha was an Indian nuclear physicist who played a central role in establishing India's nuclear program. He made significant contributions to the theory of cosmic radiation and electron-positron scattering, and founded both the Tata Institute of Fundamental Research and India's Atomic Energy Commission.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bhabha was born into a prominent Parsi family in Bombay (Mumbai). He studied mechanical engineering and later physics at Cambridge University, where he worked under Paul Dirac and made important contributions to cosmic ray theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bhabha is considered the father of India's nuclear program, establishing the institutional framework that led to India's development of nuclear energy and weapons capability. His scientific contributions to the theory of cosmic ray showers and Bhabha scattering remain significant in particle physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1909,
+      "event": {
+        "en": "Born in Bombay (Mumbai), India",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1935,
+      "event": {
+        "en": "Published the theory of Bhabha scattering (electron-positron scattering)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1945,
+      "event": {
+        "en": "Founded the Tata Institute of Fundamental Research in Bombay",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Appointed first chairman of India's Atomic Energy Commission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Presided over the first United Nations Conference on the Peaceful Uses of Atomic Energy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1966,
+      "event": {
+        "en": "Died in a plane crash on Mont Blanc at age 56",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Scattering of Positrons by Electrons with Exchange on Dirac's Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1935,
+      "description": {
+        "en": "Paper on electron-positron scattering using Dirac's relativistic quantum theory, now known as Bhabha scattering.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Theory of Cosmic Ray Showers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1937,
+      "description": {
+        "en": "Theoretical explanation of the cascade process in cosmic ray showers, co-authored with Walter Heitler.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When nuclear energy has been successfully applied for power production, India will not have to look abroad for its experts.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Address to the Indian Science Congress, 1944"
+    }
+  ],
+  "relations": [
+    {
+      "person": "paul-dirac",
+      "type": "mentor"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "colleague"
+    },
+    {
+      "person": "jawaharlal-nehru",
+      "type": "collaborator"
+    }
+  ]
+}

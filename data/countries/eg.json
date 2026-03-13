@@ -1,0 +1,19 @@
+{
+  "id": "eg",
+  "name": {
+    "en": "Egypt",
+    "es": "Egipto",
+    "pt": "Egito",
+    "fr": "Égypte",
+    "de": "Ägypten",
+    "zh": "埃及",
+    "hi": "मिस्र",
+    "ar": "مصر",
+    "id": "Mesir",
+    "ja": "エジプト"
+  },
+  "region": "north-africa",
+  "description": {
+    "en": "A North African country with one of the oldest civilizations, renowned for ancient engineering, mathematics, and astronomy."
+  }
+}

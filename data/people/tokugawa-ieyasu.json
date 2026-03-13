@@ -1,0 +1,153 @@
+{
+  "id": "tokugawa-ieyasu",
+  "name": {
+    "en": "Tokugawa Ieyasu",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "徳川家康"
+  },
+  "birth_year": 1543,
+  "death_year": 1616,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Tokugawa Ieyasu was the founder and first shogun of the Tokugawa shogunate of Japan, which ruled for over 260 years of peace.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ieyasu was born in Mikawa Province. He spent years as a hostage in his youth but rose to become one of Japan's most powerful warlords through patience and strategy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Tokugawa Ieyasu unified Japan after centuries of civil war and established the Tokugawa shogunate, bringing over 250 years of peace, stability, and cultural development.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1600,
+      "event": {
+        "en": "Won the Battle of Sekigahara",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1603,
+      "event": {
+        "en": "Became Shogun, establishing the Tokugawa shogunate",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1615,
+      "event": {
+        "en": "Destroyed Osaka Castle, ending opposition",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Tokugawa Shogunate",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1603,
+      "description": {
+        "en": "Establishment of a stable government that ruled Japan for 265 years",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Life is like unto a long journey with a heavy burden.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

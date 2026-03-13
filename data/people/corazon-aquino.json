@@ -1,0 +1,153 @@
+{
+  "id": "corazon-aquino",
+  "name": {
+    "en": "Corazon Aquino",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "コラソン・アキノ"
+  },
+  "birth_year": 1933,
+  "death_year": 2009,
+  "countries": [
+    "ph"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Corazon Aquino was the first female President of the Philippines who led the People Power Revolution that peacefully overthrew the Marcos dictatorship.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Aquino was born into a wealthy political family in Tarlac. She married Benigno Aquino Jr., whose assassination galvanized her into politics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Aquino's People Power Revolution demonstrated that nonviolent action could topple dictatorships. She restored democracy to the Philippines and inspired democratic movements globally.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1983,
+      "event": {
+        "en": "Husband Benigno Aquino assassinated",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1986,
+      "event": {
+        "en": "Led People Power Revolution; became President",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1987,
+      "event": {
+        "en": "Promulgated new Philippine constitution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "People Power Revolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1986,
+      "description": {
+        "en": "Nonviolent revolution that restored democracy to the Philippines",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I would rather die a meaningful death than to live a meaningless life.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

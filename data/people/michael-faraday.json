@@ -1,0 +1,289 @@
+{
+  "id": "michael-faraday",
+  "name": {
+    "en": "Michael Faraday",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マイケル・ファラデー"
+  },
+  "birth_year": 1791,
+  "death_year": 1867,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Michael Faraday was an English scientist who made extraordinary contributions to the study of electromagnetism and electrochemistry. He discovered electromagnetic induction, diamagnetism, and the laws of electrolysis, and his concept of the field transformed physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Faraday was born in 1791 in Newington Butts, Surrey, England, to a poor blacksmith's family. With little formal education, he educated himself while working as a bookbinder's apprentice and gained entry to science through attending lectures by Humphry Davy at the Royal Institution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Faraday's discovery of electromagnetic induction made possible the electric generator and transformer, forming the basis of modern electrical technology. His concept of lines of force and the electromagnetic field inspired Maxwell's equations and the entire framework of field theory in physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1791,
+      "event": {
+        "en": "Born in Newington Butts, Surrey, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1813,
+      "event": {
+        "en": "Became Humphry Davy's assistant at the Royal Institution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1821,
+      "event": {
+        "en": "Demonstrated electromagnetic rotation (the principle of the electric motor)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1831,
+      "event": {
+        "en": "Discovered electromagnetic induction",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1834,
+      "event": {
+        "en": "Formulated Faraday's laws of electrolysis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1867,
+      "event": {
+        "en": "Died at Hampton Court, Middlesex, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Experimental Researches in Electricity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1839,
+      "description": {
+        "en": "A three-volume collection of Faraday's papers on electricity, covering electromagnetic induction, electrolysis, and field theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Chemical History of a Candle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1861,
+      "description": {
+        "en": "A series of six public lectures on the chemistry and physics of a candle flame, famous for their clarity and elegance.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Various Forces of Nature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1860,
+      "description": {
+        "en": "A popular series of lectures explaining the fundamental forces of nature to a general audience.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Nothing is too wonderful to be true, if it be consistent with the laws of nature.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Faraday's diary, March 19, 1849"
+    },
+    {
+      "text": {
+        "en": "The important thing is to know how to take all things quietly.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter, 1858"
+    }
+  ],
+  "relations": [
+    {
+      "person": "humphry-davy",
+      "type": "mentor"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced"
+    },
+    {
+      "person": "andre-marie-ampere",
+      "type": "colleague"
+    },
+    {
+      "person": "alessandro-volta",
+      "type": "influenced_by"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "influenced_by"
+    }
+  ]
+}

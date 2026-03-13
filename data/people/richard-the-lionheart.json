@@ -1,0 +1,139 @@
+{
+  "id": "richard-the-lionheart",
+  "name": {
+    "en": "Richard the Lionheart",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "リチャード獅子心王"
+  },
+  "birth_year": 1157,
+  "death_year": 1199,
+  "countries": [
+    "gb",
+    "fr"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Richard I of England was a warrior-king renowned for his military leadership during the Third Crusade.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Oxford, son of Henry II and Eleanor of Aquitaine. He was raised primarily in Aquitaine and fought in France.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His exploits during the Third Crusade made him a legendary figure, though he spent little of his reign in England.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1189,
+      "event": {
+        "en": "Crowned King of England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1191,
+      "event": {
+        "en": "Captured Acre and defeated Saladin at the Battle of Arsuf",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Third Crusade",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1192,
+      "description": {
+        "en": "Military campaign that secured a truce allowing Christian pilgrims access to Jerusalem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I would sell London itself if I could find a buyer.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Roger of Howden"
+    }
+  ],
+  "relations": []
+}

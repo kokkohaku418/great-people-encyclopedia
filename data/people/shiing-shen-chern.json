@@ -1,0 +1,184 @@
+{
+  "id": "shiing-shen-chern",
+  "name": {
+    "en": "Shiing-Shen Chern",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "陳省身"
+  },
+  "birth_year": 1911,
+  "death_year": 2004,
+  "countries": [
+    "cn",
+    "us"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Shiing-Shen Chern was a Chinese-American mathematician who made fundamental contributions to differential geometry and topology, including the Chern classes.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Chern was born in Jiaxing, China. He studied at Nankai University and later at the University of Hamburg under Wilhelm Blaschke, earning his doctorate in 1936.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Chern's work on characteristic classes and fiber bundles unified differential geometry and topology. The Chern-Gauss-Bonnet theorem and Chern classes are central to modern geometry and theoretical physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1936,
+      "event": {
+        "en": "Earned PhD from University of Hamburg",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1946,
+      "event": {
+        "en": "Founded the Institute of Mathematics at Academia Sinica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1960,
+      "event": {
+        "en": "Joined UC Berkeley",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1984,
+      "event": {
+        "en": "Won the Wolf Prize in Mathematics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2004,
+      "event": {
+        "en": "Awarded the inaugural Shaw Prize in Mathematics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Chern-Gauss-Bonnet Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1944,
+      "description": {
+        "en": "Generalized the classical Gauss-Bonnet theorem to higher dimensions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Do not worry about your difficulties in mathematics; I assure you that mine are greater.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

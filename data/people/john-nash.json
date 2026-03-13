@@ -1,0 +1,183 @@
+{
+  "id": "john-nash",
+  "name": {
+    "en": "John Forbes Nash Jr.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・ナッシュ"
+  },
+  "birth_year": 1928,
+  "death_year": 2015,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "John Nash was an American mathematician who made fundamental contributions to game theory, differential geometry, and partial differential equations. His life was depicted in the film A Beautiful Mind.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Nash was born in Bluefield, West Virginia. He showed early mathematical aptitude and earned his PhD from Princeton at age 22 with a 28-page thesis on non-cooperative games.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Nash's equilibrium concept revolutionized economics, political science, and evolutionary biology. Despite decades of schizophrenia, he recovered and shared the 1994 Nobel Prize in Economics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1950,
+      "event": {
+        "en": "Published PhD thesis introducing Nash equilibrium",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Published embedding theorem in differential geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1958,
+      "event": {
+        "en": "Diagnosed with schizophrenia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1994,
+      "event": {
+        "en": "Awarded Nobel Prize in Economics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2015,
+      "event": {
+        "en": "Awarded the Abel Prize",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Non-Cooperative Games",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1950,
+      "description": {
+        "en": "Introduced Nash equilibrium, transforming game theory and economics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "People are always selling the idea that people with mental illness are suffering. I think madness can be an escape.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "A Beautiful Mind"
+    }
+  ],
+  "relations": []
+}

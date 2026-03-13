@@ -1,0 +1,196 @@
+{
+  "id": "franz-kafka",
+  "name": {
+    "en": "Franz Kafka",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フランツ・カフカ"
+  },
+  "birth_year": 1883,
+  "death_year": 1924,
+  "countries": [
+    "cz",
+    "at"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Franz Kafka was a German-speaking Bohemian novelist whose surreal and nightmarish works explore alienation, bureaucracy, and existential anxiety. The word 'Kafkaesque' derives from his vision.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kafka was born in Prague to a middle-class Jewish family. He studied law and worked in insurance while writing in his spare time, publishing little during his lifetime.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kafka's works became defining texts of 20th-century literature. His exploration of absurdity, powerlessness, and alienation influenced existentialism, magical realism, and postmodern literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1912,
+      "event": {
+        "en": "Wrote The Judgment and began The Metamorphosis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1915,
+      "event": {
+        "en": "Published The Metamorphosis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1920,
+      "event": {
+        "en": "Published short story collections",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1924,
+      "event": {
+        "en": "Died of tuberculosis; asked Max Brod to burn his manuscripts",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Metamorphosis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1915,
+      "description": {
+        "en": "Novella about a man who wakes up transformed into a giant insect",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Trial",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1925,
+      "description": {
+        "en": "Posthumous novel about a man prosecuted by an inaccessible authority",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A book must be the axe for the frozen sea within us.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to Oskar Pollak, 1904"
+    }
+  ],
+  "relations": []
+}

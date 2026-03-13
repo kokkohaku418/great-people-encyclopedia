@@ -1,0 +1,169 @@
+{
+  "id": "thomas-hobbes",
+  "name": {
+    "en": "Thomas Hobbes",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "トマス・ホッブズ"
+  },
+  "birth_year": 1588,
+  "death_year": 1679,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "philosophy",
+    "politics"
+  ],
+  "overview": {
+    "en": "Thomas Hobbes was an English philosopher best known for his political philosophy, particularly Leviathan, which argues for a strong sovereign authority to prevent the chaos of the state of nature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Hobbes was born in Westport, Wiltshire. He studied at the University of Oxford and spent time in Continental Europe, where he met Galileo and Descartes.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hobbes's social contract theory and his materialist philosophy profoundly influenced political science and modern political thought. Leviathan remains a foundational text of political philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1628,
+      "event": {
+        "en": "Translated Thucydides' History",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1640,
+      "event": {
+        "en": "Published The Elements of Law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1651,
+      "event": {
+        "en": "Published Leviathan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1655,
+      "event": {
+        "en": "Published De Corpore",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Leviathan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1651,
+      "description": {
+        "en": "Foundational work arguing for social contract and strong sovereign authority",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The life of man, solitary, poor, nasty, brutish, and short.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Leviathan, 1651"
+    }
+  ],
+  "relations": []
+}

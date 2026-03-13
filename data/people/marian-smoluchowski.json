@@ -1,0 +1,224 @@
+{
+  "id": "marian-smoluchowski",
+  "name": {
+    "en": "Marian Smoluchowski",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マリアン・スモルコフスキ"
+  },
+  "birth_year": 1872,
+  "death_year": 1917,
+  "countries": [
+    "pl"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Marian Smoluchowski was a Polish physicist who made fundamental contributions to statistical physics, kinetic theory, and the theory of Brownian motion. His independent derivation of the theory of Brownian motion, concurrent with Einstein's work, established him as one of the founders of statistical mechanics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Smoluchowski was born in Vorderbruhl near Vienna in the Austro-Hungarian Empire to a Polish family. He studied physics at the University of Vienna under Josef Stefan and Ludwig Boltzmann, earning his doctorate in 1895.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Smoluchowski's theory of Brownian motion, developed independently of Einstein, provided a rigorous statistical mechanical framework for understanding fluctuation phenomena. His work on coagulation kinetics (Smoluchowski coagulation equation) remains widely used in colloid science, atmospheric physics, and astrophysics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1872,
+      "event": {
+        "en": "Born in Vorderbruhl near Vienna, Austro-Hungarian Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1906,
+      "event": {
+        "en": "Published his theory of Brownian motion independently of Einstein",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1908,
+      "event": {
+        "en": "Appointed professor of physics at the University of Lwow (Lviv)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1916,
+      "event": {
+        "en": "Published the Smoluchowski coagulation equation for particle aggregation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1917,
+      "event": {
+        "en": "Died in Krakow during a dysentery epidemic at age 45",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Kinetic Theory of Brownian Molecular Motion",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1906,
+      "description": {
+        "en": "Independent derivation of the theory of Brownian motion from kinetic theory, arriving at results consistent with Einstein's contemporaneous work.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Coagulation of Colloids (Smoluchowski Coagulation Equation)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1916,
+      "description": {
+        "en": "Mathematical framework describing the kinetics of particle aggregation, foundational to colloid chemistry and aerosol physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The irregular movements of particles suspended in a fluid are a visible manifestation of the thermal molecular motions.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On Brownian motion, 1906"
+    }
+  ],
+  "relations": [
+    {
+      "person": "ludwig-boltzmann",
+      "type": "mentor"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "colleague"
+    },
+    {
+      "person": "jean-baptiste-perrin",
+      "type": "colleague"
+    }
+  ]
+}

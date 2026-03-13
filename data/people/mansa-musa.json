@@ -1,0 +1,153 @@
+{
+  "id": "mansa-musa",
+  "name": {
+    "en": "Mansa Musa",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マンサ・ムーサ"
+  },
+  "birth_year": 1280,
+  "death_year": 1337,
+  "countries": [
+    "ml"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Mansa Musa was the ruler of the Mali Empire who is considered one of the wealthiest people in history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Musa was born into the ruling dynasty of the Mali Empire. He became mansa (emperor) and expanded the empire to encompass much of West Africa.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Musa's famous pilgrimage to Mecca in 1324 displayed such extraordinary wealth that it disrupted gold markets. He made Timbuktu a center of Islamic learning.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1312,
+      "event": {
+        "en": "Became Mansa of the Mali Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1324,
+      "event": {
+        "en": "Pilgrimage to Mecca",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1327,
+      "event": {
+        "en": "Built the Djinguereber Mosque in Timbuktu",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Pilgrimage to Mecca",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1324,
+      "description": {
+        "en": "Legendary journey that displayed the wealth of the Mali Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I will build mosques and schools to spread knowledge.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

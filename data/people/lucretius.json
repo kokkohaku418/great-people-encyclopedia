@@ -1,0 +1,138 @@
+{
+  "id": "lucretius",
+  "name": {
+    "en": "Lucretius",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルクレティウス"
+  },
+  "birth_year": -99,
+  "death_year": -55,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Lucretius was a Roman poet and philosopher whose epic poem De Rerum Natura expounded Epicurean physics and philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Very little is known about his life. He was likely a Roman aristocrat who devoted himself to philosophical poetry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "De Rerum Natura preserved and transmitted Epicurean atomism, influencing the Scientific Revolution and modern materialism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -60,
+      "event": {
+        "en": "Composed De Rerum Natura",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -55,
+      "event": {
+        "en": "Died, possibly by suicide according to later tradition",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De Rerum Natura",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -60,
+      "description": {
+        "en": "Epic philosophical poem on the nature of the universe based on Epicurean atomism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Nothing can be created out of nothing.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "De Rerum Natura, Book I"
+    }
+  ],
+  "relations": []
+}

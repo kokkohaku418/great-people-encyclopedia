@@ -1,0 +1,19 @@
+{
+  "id": "fi",
+  "name": {
+    "en": "Finland",
+    "es": "Finlandia",
+    "pt": "Finlândia",
+    "fr": "Finlande",
+    "de": "Finnland",
+    "zh": "芬兰",
+    "hi": "फ़िनलैंड",
+    "ar": "فنلندا",
+    "id": "Finlandia",
+    "ja": "フィンランド"
+  },
+  "region": "northern-europe",
+  "description": {
+    "en": "A Nordic country known for its education system, technology innovation, and contributions to mathematics and design."
+  }
+}

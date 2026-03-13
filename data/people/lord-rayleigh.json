@@ -1,0 +1,223 @@
+{
+  "id": "lord-rayleigh",
+  "name": {
+    "en": "Lord Rayleigh (John William Strutt)",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レイリー卿（ジョン・ウィリアム・ストラット）"
+  },
+  "birth_year": 1842,
+  "death_year": 1919,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Lord Rayleigh was an English physicist who made fundamental contributions to wave physics, acoustics, and the scattering of light. He won the Nobel Prize in Physics in 1904 for his discovery of argon and investigations of gas densities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born John William Strutt in Langford Grove, Essex, he studied at Trinity College, Cambridge, where he excelled in mathematics. He succeeded Maxwell as the Cavendish Professor of Physics at Cambridge in 1879.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Rayleigh scattering explains why the sky is blue, and his work on wave phenomena influenced fields from acoustics to optics. His discovery of argon opened the door to the study of noble gases and earned him the Nobel Prize.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1871,
+      "event": {
+        "en": "Published his theory of light scattering, explaining why the sky is blue (Rayleigh scattering).",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1877,
+      "event": {
+        "en": "Published 'The Theory of Sound,' a comprehensive treatise on acoustics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1879,
+      "event": {
+        "en": "Became Cavendish Professor of Physics at Cambridge, succeeding Maxwell.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1894,
+      "event": {
+        "en": "Discovered argon with William Ramsay.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1904,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the discovery of argon.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Theory of Sound",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1877,
+      "description": {
+        "en": "Comprehensive two-volume treatise on acoustics and wave phenomena that became a standard reference.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Light from the Sky, Its Polarisation and Colour",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1871,
+      "description": {
+        "en": "Paper explaining the scattering of light by small particles, now known as Rayleigh scattering.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The whole is simpler than the sum of its parts.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced_by"
+    },
+    {
+      "person": "jj-thomson",
+      "type": "colleague"
+    },
+    {
+      "person": "lord-kelvin",
+      "type": "colleague"
+    }
+  ]
+}

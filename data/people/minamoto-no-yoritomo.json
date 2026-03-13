@@ -1,0 +1,153 @@
+{
+  "id": "minamoto-no-yoritomo",
+  "name": {
+    "en": "Minamoto no Yoritomo",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "源頼朝"
+  },
+  "birth_year": 1147,
+  "death_year": 1199,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Minamoto no Yoritomo founded the Kamakura Shogunate, establishing the first military government in Japanese history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born into the prestigious Minamoto clan, he was exiled as a teenager after his father's defeat in the Heiji Rebellion.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He created the shogunate system of military government that would define Japanese politics for nearly seven centuries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1180,
+      "event": {
+        "en": "Raised an army against the Taira clan, beginning the Genpei War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1185,
+      "event": {
+        "en": "Defeated the Taira at the naval Battle of Dan-no-ura",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1192,
+      "event": {
+        "en": "Appointed Seii Taishogun, establishing the Kamakura Shogunate",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Azuma Kagami",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1266,
+      "description": {
+        "en": "Chronicle of the Kamakura Shogunate compiled under his successors",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A warrior who has lost his honor is like a tree that has lost its roots.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

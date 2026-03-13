@@ -1,0 +1,153 @@
+{
+  "id": "aleksandr-butlerov",
+  "name": {
+    "en": "Dmitri Mendeleev's Teacher Aleksandr Butlerov",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アレクサンドル・ブートレロフ"
+  },
+  "birth_year": 1828,
+  "death_year": 1886,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Aleksandr Butlerov was a Russian chemist who was one of the principal creators of the theory of chemical structure and the first to introduce the term.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Butlerov was born in Chistopol, Russia. He studied at the University of Kazan, where he spent most of his career as professor of chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Butlerov's theory of chemical structure explained isomerism and enabled the systematic study of organic compounds. He trained a generation of Russian chemists.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1858,
+      "event": {
+        "en": "Traveled to European laboratories",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1861,
+      "event": {
+        "en": "Published theory of chemical structure",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1864,
+      "event": {
+        "en": "Published Introduction to the Full Study of Organic Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Introduction to the Full Study of Organic Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1864,
+      "description": {
+        "en": "Comprehensive textbook presenting structural theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Only one chemistry exists and it is defined by the structure of substances.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

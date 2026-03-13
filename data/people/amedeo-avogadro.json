@@ -1,0 +1,139 @@
+{
+  "id": "amedeo-avogadro",
+  "name": {
+    "en": "Amedeo Avogadro",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アメデオ・アヴォガドロ"
+  },
+  "birth_year": 1776,
+  "death_year": 1856,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "chemistry",
+    "physics"
+  ],
+  "overview": {
+    "en": "Amedeo Avogadro was an Italian scientist known for his contribution to molecular theory, including what is now known as Avogadro's law and Avogadro's number.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Avogadro was born in Turin, Italy. He initially studied law and practiced as a lawyer before turning to science, becoming professor of mathematical physics at the University of Turin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Avogadro's hypothesis that equal volumes of gases contain equal numbers of molecules provided a key bridge between atomic theory and measurable quantities, unifying chemistry and physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1811,
+      "event": {
+        "en": "Published essay proposing Avogadro's law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1820,
+      "event": {
+        "en": "Became professor at University of Turin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Essay on Determining the Relative Masses of Elementary Molecules",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1811,
+      "description": {
+        "en": "Paper proposing that equal volumes of gases contain equal numbers of molecules",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Equal volumes of all gases, at the same temperature and pressure, contain the same number of molecules.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Essay, 1811"
+    }
+  ],
+  "relations": []
+}

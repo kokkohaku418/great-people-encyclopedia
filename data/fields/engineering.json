@@ -1,0 +1,27 @@
+{
+  "id": "engineering",
+  "name": {
+    "en": "Engineering",
+    "es": "Ingeniería",
+    "pt": "Engenharia",
+    "fr": "Ingénierie",
+    "de": "Ingenieurwesen",
+    "zh": "工程学",
+    "hi": "अभियांत्रिकी",
+    "ar": "الهندسة",
+    "id": "Teknik",
+    "ja": "工学"
+  },
+  "description": {
+    "en": "The application of scientific and mathematical principles to design, build, and maintain structures, machines, and systems.",
+    "ja": "科学的・数学的原理を応用して構造物、機械、システムを設計・建設・維持する学問。",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": ""
+  }
+}

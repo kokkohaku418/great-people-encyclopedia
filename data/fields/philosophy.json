@@ -1,0 +1,27 @@
+{
+  "id": "philosophy",
+  "name": {
+    "en": "Philosophy",
+    "es": "Filosofía",
+    "pt": "Filosofia",
+    "fr": "Philosophie",
+    "de": "Philosophie",
+    "zh": "哲学",
+    "hi": "दर्शनशास्त्र",
+    "ar": "الفلسفة",
+    "id": "Filsafat",
+    "ja": "哲学"
+  },
+  "description": {
+    "en": "The study of fundamental questions about existence, knowledge, reason, mind, values, and language.",
+    "ja": "存在、知識、理性、心、価値、言語に関する根本的な問いを探究する学問。",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": ""
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "cyrus-the-great",
+  "name": {
+    "en": "Cyrus the Great",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "キュロス2世"
+  },
+  "birth_year": -600,
+  "death_year": -530,
+  "countries": [
+    "ir"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Cyrus the Great was the founder of the Achaemenid Empire, the first Persian Empire, and is known for his respect for the customs and religions of conquered peoples.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cyrus was born in Anshan, Persia. He united the Persian and Median tribes and embarked on a series of conquests that created the largest empire the world had seen.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Cyrus established the first extensive multi-ethnic empire governed by tolerance and respect for local customs. The Cyrus Cylinder is considered an early charter of human rights.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -550,
+      "event": {
+        "en": "Defeated the Median Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -547,
+      "event": {
+        "en": "Conquered the Lydian Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -539,
+      "event": {
+        "en": "Conquered Babylon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -538,
+      "event": {
+        "en": "Issued the Cyrus Cylinder",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Cyrus Cylinder",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -538,
+      "description": {
+        "en": "Declaration of religious tolerance and freedom, often called the first human rights charter",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I am Cyrus, king of the world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Cyrus Cylinder"
+    }
+  ],
+  "relations": []
+}

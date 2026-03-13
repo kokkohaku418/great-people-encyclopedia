@@ -1,0 +1,195 @@
+{
+  "id": "al-ghazali",
+  "name": {
+    "en": "Al-Ghazali",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アル＝ガザーリー"
+  },
+  "birth_year": 1058,
+  "death_year": 1111,
+  "countries": [
+    "ir"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Al-Ghazali was a Persian theologian, philosopher, and mystic who profoundly influenced Islamic thought. His critique of philosophy and embrace of Sufism reshaped the Islamic intellectual tradition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Al-Ghazali was born in Tus, Persia. He became a professor at the Nizamiyyah university in Baghdad before experiencing a spiritual crisis that led him to abandon his position for Sufi practice.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Al-Ghazali's The Incoherence of the Philosophers challenged rationalist philosophy in Islam, while his Revival of the Religious Sciences synthesized orthodox theology with Sufi mysticism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1091,
+      "event": {
+        "en": "Appointed professor at the Nizamiyyah in Baghdad",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1095,
+      "event": {
+        "en": "Experienced spiritual crisis and left Baghdad",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1095,
+      "event": {
+        "en": "Published The Incoherence of the Philosophers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1106,
+      "event": {
+        "en": "Published The Revival of the Religious Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Revival of the Religious Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1106,
+      "description": {
+        "en": "Comprehensive synthesis of Islamic theology, jurisprudence, and Sufi mysticism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Incoherence of the Philosophers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1095,
+      "description": {
+        "en": "Critique of Aristotelian and Neoplatonic philosophy in the Islamic world",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Knowledge without action is wastefulness, and action without knowledge is foolishness.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Revival of the Religious Sciences"
+    }
+  ],
+  "relations": []
+}

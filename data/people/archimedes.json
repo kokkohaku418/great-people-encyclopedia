@@ -1,0 +1,282 @@
+{
+  "id": "archimedes",
+  "name": {
+    "en": "Archimedes",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アルキメデス"
+  },
+  "birth_year": -287,
+  "death_year": -212,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "physics",
+    "mathematics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Archimedes of Syracuse was an ancient Greek mathematician, physicist, engineer, and astronomer, widely regarded as one of the greatest scientists of antiquity. He made groundbreaking contributions to geometry, statics, hydrostatics, and the design of innovative machines.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Archimedes was born around 287 BC in Syracuse, a Greek colony on the island of Sicily. He likely studied in Alexandria, Egypt, at the great library, before returning to Syracuse where he spent most of his life in the service of King Hiero II.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Archimedes laid the foundations of hydrostatics and statics, discovering the principle of buoyancy and the law of the lever. His mathematical methods anticipated integral calculus by nearly two millennia, and his war machines defended Syracuse against Roman siege.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -287,
+      "event": {
+        "en": "Born in Syracuse, Sicily",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -270,
+      "event": {
+        "en": "Studied at the Library of Alexandria in Egypt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -250,
+      "event": {
+        "en": "Discovered the principle of buoyancy (Archimedes' principle)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -240,
+      "event": {
+        "en": "Developed the Archimedes screw for raising water",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -214,
+      "event": {
+        "en": "Designed war machines to defend Syracuse against Roman siege",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -212,
+      "event": {
+        "en": "Killed by a Roman soldier during the siege of Syracuse",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Sphere and Cylinder",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -250,
+      "description": {
+        "en": "Derived the relationship between a sphere and its circumscribing cylinder, showing the surface area and volume ratios.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On Floating Bodies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -250,
+      "description": {
+        "en": "Established the foundations of hydrostatics and stated the principle of buoyancy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Method of Mechanical Theorems",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -250,
+      "description": {
+        "en": "Described a method using mechanics to discover mathematical theorems, anticipating integral calculus.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Give me a place to stand and I will move the earth.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Pappus of Alexandria"
+    },
+    {
+      "text": {
+        "en": "Eureka! Eureka!",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, upon discovering the principle of buoyancy"
+    }
+  ],
+  "relations": [
+    {
+      "person": "euclid",
+      "type": "influenced_by"
+    },
+    {
+      "person": "eratosthenes",
+      "type": "friend"
+    },
+    {
+      "person": "hero-of-alexandria",
+      "type": "influenced"
+    }
+  ]
+}

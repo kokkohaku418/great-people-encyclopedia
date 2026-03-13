@@ -1,0 +1,138 @@
+{
+  "id": "william-byrd",
+  "name": {
+    "en": "William Byrd",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウィリアム・バード"
+  },
+  "birth_year": 1543,
+  "death_year": 1623,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "William Byrd was the greatest English composer of the Renaissance, excelling in sacred music, consort songs, and keyboard works.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born probably in London. He was a pupil of Thomas Tallis and became organist at Lincoln Cathedral at age 20.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His music represents the pinnacle of English Renaissance composition, and he maintained his Catholic faith despite persecution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1575,
+      "event": {
+        "en": "Granted a monopoly on music printing with Tallis by Elizabeth I",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1605,
+      "event": {
+        "en": "Published the first volume of Gradualia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Gradualia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1605,
+      "description": {
+        "en": "Collection of Catholic liturgical music composed under conditions of religious persecution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Since singing is so good a thing, I wish all men would learn to sing.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Psalmes, Sonets and Songs, preface"
+    }
+  ],
+  "relations": []
+}

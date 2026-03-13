@@ -1,0 +1,248 @@
+{
+  "id": "zhang-heng",
+  "name": {
+    "en": "Zhang Heng",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "張衡"
+  },
+  "birth_year": 78,
+  "death_year": 139,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "physics",
+    "astronomy",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Zhang Heng was a Chinese polymath of the Eastern Han dynasty who made groundbreaking contributions to astronomy, mathematics, seismology, and engineering. He invented the world's first seismoscope to detect distant earthquakes and constructed a water-powered armillary sphere for astronomical observation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Zhang Heng was born in Nanyang, Henan province, during the Eastern Han dynasty. He received a classical education and served in various government positions, eventually becoming the chief astronomer and later a prefect.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Zhang Heng's seismoscope, invented nearly 1,700 years before similar Western devices, demonstrated remarkable engineering ingenuity. His astronomical work, including his estimate of 2,500 visible stars and his correct explanation of lunar eclipses, represented some of the most advanced scientific thinking of the ancient world.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 78,
+      "event": {
+        "en": "Born in Nanyang, Henan, Eastern Han dynasty China",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 111,
+      "event": {
+        "en": "Appointed chief astronomer at the imperial court",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 117,
+      "event": {
+        "en": "Constructed a water-powered armillary sphere for celestial observation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 132,
+      "event": {
+        "en": "Invented the first seismoscope (Houfeng Didong Yi) to detect earthquakes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 139,
+      "event": {
+        "en": "Died in Luoyang at age 61",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Houfeng Didong Yi (Earthquake Weathervane)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 132,
+      "description": {
+        "en": "The world's first seismoscope, a bronze vessel that could detect the direction of distant earthquakes using a pendulum mechanism.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ling Xian (The Spiritual Constitution of the Universe)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 120,
+      "description": {
+        "en": "Astronomical treatise describing the hun tian (celestial sphere) model and cataloging over 2,500 stars.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Water-Powered Armillary Sphere",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 117,
+      "description": {
+        "en": "Mechanized celestial globe driven by water power that could track the movements of celestial bodies.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The sun is like fire and the moon is like water. The fire gives out light and the water reflects it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Ling Xian (The Spiritual Constitution of the Universe)"
+    }
+  ],
+  "relations": [
+    {
+      "person": "cai-lun",
+      "type": "colleague"
+    },
+    {
+      "person": "sima-qian",
+      "type": "influenced_by"
+    }
+  ]
+}

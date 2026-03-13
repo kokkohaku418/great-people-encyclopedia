@@ -1,0 +1,27 @@
+{
+  "id": "mathematics",
+  "name": {
+    "en": "Mathematics",
+    "es": "Matemáticas",
+    "pt": "Matemática",
+    "fr": "Mathématiques",
+    "de": "Mathematik",
+    "zh": "数学",
+    "hi": "गणित",
+    "ar": "الرياضيات",
+    "id": "Matematika",
+    "ja": "数学"
+  },
+  "description": {
+    "en": "The abstract science of number, quantity, structure, space, and change.",
+    "ja": "数、量、構造、空間、変化を扱う抽象的な学問。",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": ""
+  }
+}

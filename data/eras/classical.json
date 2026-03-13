@@ -1,0 +1,20 @@
+{
+  "id": "classical",
+  "name": {
+    "en": "Classical",
+    "es": "Clásico",
+    "pt": "Clássico",
+    "fr": "Classique",
+    "de": "Klassik",
+    "zh": "古典时代",
+    "hi": "शास्त्रीय काल",
+    "ar": "العصر الكلاسيكي",
+    "id": "Klasik",
+    "ja": "古典期"
+  },
+  "start_year": -500,
+  "end_year": 500,
+  "description": {
+    "en": "The age of Greek and Roman civilization, marked by foundational advances in philosophy, science, mathematics, and governance."
+  }
+}

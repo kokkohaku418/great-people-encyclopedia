@@ -1,0 +1,153 @@
+{
+  "id": "gerhard-ertl",
+  "name": {
+    "en": "Gerhard Ertl",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ゲアハルト・エルトル"
+  },
+  "birth_year": 1936,
+  "death_year": null,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Gerhard Ertl is a German physicist and physical chemist who won the Nobel Prize in Chemistry for his studies of chemical processes on solid surfaces.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ertl was born in Stuttgart, Germany. He studied physics at the Technical University of Stuttgart and the University of Munich, becoming director at the Fritz Haber Institute in Berlin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ertl's meticulous studies of surface chemistry explained the Haber-Bosch process at the atomic level and advanced understanding of catalysis, corrosion, and fuel cells.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1967,
+      "event": {
+        "en": "Began systematic surface chemistry research",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1986,
+      "event": {
+        "en": "Explained Haber-Bosch process mechanism on iron surfaces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2007,
+      "event": {
+        "en": "Awarded Nobel Prize in Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Reactions at Solid Surfaces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2009,
+      "description": {
+        "en": "Comprehensive work on the chemistry of solid surfaces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Surface science is the art of looking at surfaces at the atomic level.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

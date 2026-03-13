@@ -1,0 +1,138 @@
+{
+  "id": "sheikh-mujibur-rahman",
+  "name": {
+    "en": "Sheikh Mujibur Rahman",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "シェイク・ムジブル・ラフマン"
+  },
+  "birth_year": 1920,
+  "death_year": 1975,
+  "countries": [
+    "bd"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Sheikh Mujibur Rahman was the founding father of Bangladesh and its first president.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Tungipara, Bengal. Studied at the University of Dhaka and became a political activist.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He led the Bengali independence movement, resulting in the creation of Bangladesh in 1971.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1971,
+      "event": {
+        "en": "Declared the independence of Bangladesh on March 26",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1972,
+      "event": {
+        "en": "Became the first Prime Minister of Bangladesh",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "March 7 Speech",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1971,
+      "description": {
+        "en": "Historic speech calling for non-cooperation and independence from Pakistan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The struggle this time is for our freedom. The struggle this time is for independence.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "March 7 Speech, 1971"
+    }
+  ],
+  "relations": []
+}

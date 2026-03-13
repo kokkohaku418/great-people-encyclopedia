@@ -1,0 +1,19 @@
+{
+  "id": "ua",
+  "name": {
+    "en": "Ukraine",
+    "es": "Ucrania",
+    "pt": "Ucrânia",
+    "fr": "Ukraine",
+    "de": "Ukraine",
+    "zh": "乌克兰",
+    "hi": "यूक्रेन",
+    "ar": "أوكرانيا",
+    "id": "Ukraina",
+    "ja": "ウクライナ"
+  },
+  "region": "eastern-europe",
+  "description": {
+    "en": "An eastern European country with contributions to science, aerospace, and mathematics."
+  }
+}

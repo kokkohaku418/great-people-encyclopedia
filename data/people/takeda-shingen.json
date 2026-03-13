@@ -1,0 +1,153 @@
+{
+  "id": "takeda-shingen",
+  "name": {
+    "en": "Takeda Shingen",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "武田信玄"
+  },
+  "birth_year": 1521,
+  "death_year": 1573,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Takeda Shingen was a powerful daimyo of Kai Province, famous for his innovative cavalry tactics and his rivalry with Uesugi Kenshin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born Takeda Harunobu, he overthrew his father to become lord of Kai and built one of the most formidable military forces of the Sengoku period.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His military innovations, especially in cavalry tactics and the use of the Furinkazan banner, influenced Japanese warfare profoundly.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1541,
+      "event": {
+        "en": "Became lord of Kai Province after deposing his father",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1553,
+      "event": {
+        "en": "Began the series of battles of Kawanakajima against Uesugi Kenshin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1572,
+      "event": {
+        "en": "Defeated Tokugawa Ieyasu at the Battle of Mikatagahara",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Koyo Gunkan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1616,
+      "description": {
+        "en": "Military chronicle of the Takeda clan compiled after Shingen's time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Swift as the wind, silent as a forest, fierce as fire, immovable as a mountain.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Furinkazan banner, adapted from Sun Tzu"
+    }
+  ],
+  "relations": []
+}

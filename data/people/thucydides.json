@@ -1,0 +1,138 @@
+{
+  "id": "thucydides",
+  "name": {
+    "en": "Thucydides",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "トゥキュディデス"
+  },
+  "birth_year": -460,
+  "death_year": -400,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Thucydides wrote the History of the Peloponnesian War, establishing rigorous standards of historical evidence and analysis.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Athens to a wealthy Thracian family. He served as an Athenian general but was exiled after failing to prevent the capture of Amphipolis.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His systematic approach to historical inquiry, rejecting myths and seeking causes, made him the father of scientific history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -424,
+      "event": {
+        "en": "Exiled from Athens after military failure",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -411,
+      "event": {
+        "en": "Wrote the History of the Peloponnesian War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "History of the Peloponnesian War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -411,
+      "description": {
+        "en": "Detailed account of the war between Athens and Sparta",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The strong do what they can and the weak suffer what they must.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Melian Dialogue"
+    }
+  ],
+  "relations": []
+}

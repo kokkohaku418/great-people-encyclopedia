@@ -1,0 +1,168 @@
+{
+  "id": "lech-walesa",
+  "name": {
+    "en": "Lech Wałęsa",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レフ・ワウェンサ"
+  },
+  "birth_year": 1943,
+  "death_year": null,
+  "countries": [
+    "pl"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Lech Wałęsa is a Polish statesman and labor activist who co-founded Solidarity, the first independent trade union in the Soviet bloc, and later became President of Poland.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wałęsa was born in Popowo, Poland. He worked as an electrician at the Gdańsk Shipyard and became a leader of labor protests against the communist government.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wałęsa's Solidarity movement was the first crack in the Soviet bloc, inspiring democratic movements across Eastern Europe and contributing to the end of communism in Europe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1980,
+      "event": {
+        "en": "Led Gdańsk shipyard strike and co-founded Solidarity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1981,
+      "event": {
+        "en": "Solidarity declared illegal; Wałęsa interned",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1983,
+      "event": {
+        "en": "Awarded Nobel Peace Prize",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1990,
+      "event": {
+        "en": "Elected President of Poland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Solidarity Movement",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1980,
+      "description": {
+        "en": "First independent trade union in the Soviet bloc",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We hold our heads high, despite the price we have paid, because freedom is priceless.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel lecture, 1983"
+    }
+  ],
+  "relations": []
+}

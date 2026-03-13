@@ -1,0 +1,168 @@
+{
+  "id": "james-watt",
+  "name": {
+    "en": "James Watt",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジェームズ・ワット"
+  },
+  "birth_year": 1736,
+  "death_year": 1819,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "James Watt was a Scottish inventor and mechanical engineer whose improvements to the steam engine were fundamental to the Industrial Revolution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Watt was born in Greenock, Scotland. He trained as an instrument maker and was asked to repair a Newcomen steam engine at the University of Glasgow.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Watt's separate condenser dramatically improved steam engine efficiency, powering the Industrial Revolution. The unit of power — the watt — is named in his honor.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1765,
+      "event": {
+        "en": "Conceived the separate condenser",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1769,
+      "event": {
+        "en": "Patented the separate condenser",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1776,
+      "event": {
+        "en": "First commercial Watt engines installed",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1782,
+      "event": {
+        "en": "Introduced the double-acting engine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Watt Steam Engine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1769,
+      "description": {
+        "en": "Improved steam engine with separate condenser that powered the Industrial Revolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I can think of nothing else but this machine.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter, 1765"
+    }
+  ],
+  "relations": []
+}

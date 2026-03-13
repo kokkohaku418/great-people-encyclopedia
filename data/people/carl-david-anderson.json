@@ -1,0 +1,223 @@
+{
+  "id": "carl-david-anderson",
+  "name": {
+    "en": "Carl David Anderson",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・デイヴィッド・アンダーソン"
+  },
+  "birth_year": 1905,
+  "death_year": 1991,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Carl David Anderson was an American experimental physicist who discovered the positron, the first known antimatter particle, in 1932. He also co-discovered the muon in 1936, and was awarded the 1936 Nobel Prize in Physics for the positron discovery.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Anderson was born in New York City to Swedish immigrant parents. He studied physics and engineering at Caltech, earning his Ph.D. under Robert Millikan, and spent his entire career at the institute.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Anderson's discovery of the positron confirmed Paul Dirac's theoretical prediction of antimatter and opened the field of particle physics to the study of antiparticles. His subsequent co-discovery of the muon revealed the existence of unexpected new particles, beginning the era of particle proliferation that would transform physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1905,
+      "event": {
+        "en": "Born in New York City, United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1932,
+      "event": {
+        "en": "Discovered the positron in cosmic ray cloud chamber photographs",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1936,
+      "event": {
+        "en": "Co-discovered the muon with Seth Neddermeyer",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1936,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the discovery of the positron",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1991,
+      "event": {
+        "en": "Died in San Marino, California at age 85",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Positive Electron",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1933,
+      "description": {
+        "en": "Paper presenting definitive evidence for the positron from cloud chamber observations of cosmic rays.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Apparent Existence of Easily Deflectable Positives",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1932,
+      "description": {
+        "en": "Initial publication reporting the observation of positively charged particles with electron mass in cosmic ray photographs.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The discovery of the positron was wholly accidental.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Prize lecture, 1936"
+    }
+  ],
+  "relations": [
+    {
+      "person": "robert-millikan",
+      "type": "mentor"
+    },
+    {
+      "person": "paul-dirac",
+      "type": "influenced_by"
+    },
+    {
+      "person": "seth-neddermeyer",
+      "type": "collaborator"
+    }
+  ]
+}

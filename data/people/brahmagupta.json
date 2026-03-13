@@ -1,0 +1,139 @@
+{
+  "id": "brahmagupta",
+  "name": {
+    "en": "Brahmagupta",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ブラフマグプタ"
+  },
+  "birth_year": 598,
+  "death_year": 668,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "mathematics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Brahmagupta was an Indian mathematician and astronomer who was the first to formalize arithmetic rules for zero and negative numbers and made major contributions to algebra.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Brahmagupta was born in Bhinmal, Rajasthan, India. He became the head of the astronomical observatory at Ujjain, the foremost mathematical center of ancient India.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Brahmagupta's rules for arithmetic with zero and negative numbers were revolutionary. His formula for the area of cyclic quadrilaterals and work on Pell's equation influenced mathematics worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 628,
+      "event": {
+        "en": "Published Brahmasphutasiddhanta",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 665,
+      "event": {
+        "en": "Published Khandakhadyaka on astronomy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Brahmasphutasiddhanta",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 628,
+      "description": {
+        "en": "Major treatise establishing rules for zero, negative numbers, and algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "As the sun eclipses the stars by its brilliancy, so the man of knowledge will eclipse the fame of others.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Brahmasphutasiddhanta"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "iq",
+  "name": {
+    "en": "Iraq",
+    "es": "Irak",
+    "pt": "Iraque",
+    "fr": "Irak",
+    "de": "Irak",
+    "zh": "伊拉克",
+    "hi": "इराक़",
+    "ar": "العراق",
+    "id": "Irak",
+    "ja": "イラク"
+  },
+  "region": "middle-east",
+  "description": {
+    "en": "A Middle Eastern country in Mesopotamia, the cradle of civilization, with foundational contributions to writing, mathematics, and astronomy."
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "qin-shi-huang",
+  "name": {
+    "en": "Qin Shi Huang",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "始皇帝"
+  },
+  "birth_year": -259,
+  "death_year": -210,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Qin Shi Huang was the first emperor of a unified China, founding the Qin dynasty and establishing the imperial system that lasted over two millennia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born as Ying Zheng, he became king of Qin at age 13. Through military campaigns and political strategy, he conquered all rival states to unify China.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Qin Shi Huang unified China's writing, currency, and measurements, built the first Great Wall, and established a centralized bureaucratic system that shaped Chinese governance for centuries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -246,
+      "event": {
+        "en": "Became king of Qin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -221,
+      "event": {
+        "en": "Unified China and became First Emperor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -214,
+      "event": {
+        "en": "Began construction of the Great Wall",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -210,
+      "event": {
+        "en": "Died and was buried with the Terracotta Army",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Unification of China",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -221,
+      "description": {
+        "en": "Unification of seven warring states into a single empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have collected all the writings of the Empire and burnt those which were of no use.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Sima Qian"
+    }
+  ],
+  "relations": []
+}

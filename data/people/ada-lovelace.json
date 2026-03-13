@@ -1,0 +1,154 @@
+{
+  "id": "ada-lovelace",
+  "name": {
+    "en": "Ada Lovelace",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エイダ・ラブレス"
+  },
+  "birth_year": 1815,
+  "death_year": 1852,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "mathematics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Ada Lovelace was a British mathematician and writer, recognized as the first computer programmer for her work on Charles Babbage's Analytical Engine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ada was born in London, the daughter of poet Lord Byron. Her mother promoted her study of mathematics and logic to counter any inheritance of her father's poetic temperament.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lovelace's notes on the Analytical Engine contain what is recognized as the first algorithm intended for machine processing. Her vision of computers going beyond mere calculation anticipated modern computing by a century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1833,
+      "event": {
+        "en": "Met Charles Babbage and saw his Difference Engine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1842,
+      "event": {
+        "en": "Translated Luigi Menabrea's article on the Analytical Engine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1843,
+      "event": {
+        "en": "Published her Notes, containing the first computer algorithm",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Notes on the Analytical Engine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1843,
+      "description": {
+        "en": "Contained the first published computer algorithm and visionary ideas about computing's potential",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Notes on the Analytical Engine, 1843"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,195 @@
+{
+  "id": "haruki-murakami",
+  "name": {
+    "en": "Haruki Murakami",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "村上春樹"
+  },
+  "birth_year": 1949,
+  "death_year": null,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Haruki Murakami is a Japanese novelist whose surreal, melancholic fiction blends Western and Japanese literary traditions. He is one of the most widely read contemporary authors.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Murakami was born in Kyoto and grew up in Kobe. He ran a jazz bar in Tokyo before becoming a full-time writer after his first novel won a literary prize.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Murakami's blend of realism and surrealism, Western references, and exploration of loneliness has created a distinctive literary voice that resonates globally.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1979,
+      "event": {
+        "en": "Published Hear the Wind Sing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1987,
+      "event": {
+        "en": "Published Norwegian Wood",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1994,
+      "event": {
+        "en": "Published The Wind-Up Bird Chronicle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2009,
+      "event": {
+        "en": "Published 1Q84",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Norwegian Wood",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1987,
+      "description": {
+        "en": "Realistic novel of love and loss set in 1960s Tokyo",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Kafka on the Shore",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2002,
+      "description": {
+        "en": "Surreal novel weaving two narratives exploring fate and consciousness",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Norwegian Wood, 1987"
+    }
+  ],
+  "relations": []
+}

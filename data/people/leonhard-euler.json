@@ -1,0 +1,197 @@
+{
+  "id": "leonhard-euler",
+  "name": {
+    "en": "Leonhard Euler",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レオンハルト・オイラー"
+  },
+  "birth_year": 1707,
+  "death_year": 1783,
+  "countries": [
+    "ch",
+    "ru"
+  ],
+  "fields": [
+    "mathematics",
+    "physics"
+  ],
+  "overview": {
+    "en": "Leonhard Euler was a Swiss mathematician and physicist who made fundamental contributions to almost every area of mathematics. He is one of the most prolific mathematicians in history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Euler was born in Basel, Switzerland. He studied under Johann Bernoulli at the University of Basel and showed extraordinary mathematical talent from an early age.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Euler's contributions span calculus, graph theory, number theory, mechanics, and optics. His notation and terminology, including e, i, f(x), and sigma notation, remain standard today.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1727,
+      "event": {
+        "en": "Joined the St. Petersburg Academy of Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1736,
+      "event": {
+        "en": "Solved the Seven Bridges of Königsberg problem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1748,
+      "event": {
+        "en": "Published Introductio in analysin infinitorum",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1766,
+      "event": {
+        "en": "Returned to St. Petersburg, continued work despite blindness",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Introductio in analysin infinitorum",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1748,
+      "description": {
+        "en": "A foundational text in mathematical analysis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Mechanica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1736,
+      "description": {
+        "en": "Systematized Newtonian mechanics using analytical methods",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Read Euler, read Euler, he is the master of us all.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Pierre-Simon Laplace"
+    }
+  ],
+  "relations": []
+}

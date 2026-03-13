@@ -1,0 +1,138 @@
+{
+  "id": "ferdowsi",
+  "name": {
+    "en": "Ferdowsi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フェルドウスィー"
+  },
+  "birth_year": 940,
+  "death_year": 1020,
+  "countries": [
+    "ir"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Ferdowsi was the author of the Shahnameh, the Persian national epic, which preserved Persian identity after the Arab conquest.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Tus, Khorasan, to a family of landed gentry. He spent over 30 years composing the Shahnameh.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Shahnameh preserved the Persian language and cultural identity, and remains the longest epic poem written by a single author.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 977,
+      "event": {
+        "en": "Began composing the Shahnameh",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1010,
+      "event": {
+        "en": "Completed the Shahnameh after over 30 years of work",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Shahnameh",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1010,
+      "description": {
+        "en": "Epic poem of 50,000 couplets recounting the mythical and historical past of Persia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I suffered much in these thirty years, but I have revived the Persians with the Persian language.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Shahnameh"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,180 @@
+{
+  "id": "herbert-spencer",
+  "name": {
+    "en": "Herbert Spencer",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ハーバート・スペンサー"
+  },
+  "birth_year": 1820,
+  "death_year": 1903,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Herbert Spencer was an English philosopher and sociologist who developed an all-encompassing evolutionary philosophy and coined the phrase 'survival of the fittest.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Derby, he was largely self-educated and worked as a railway engineer and journalist before devoting himself to philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His synthetic philosophy attempted to unify all knowledge under evolutionary principles and profoundly influenced sociology, though his social Darwinism remains controversial.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1851,
+      "event": {
+        "en": "Published Social Statics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1857,
+      "event": {
+        "en": "Coined the term 'survival of the fittest' in Principles of Biology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1862,
+      "event": {
+        "en": "Published First Principles, beginning his Synthetic Philosophy series",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "First Principles",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1862,
+      "description": {
+        "en": "Foundation of his Synthetic Philosophy applying evolution to all domains",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Principles of Sociology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1876,
+      "description": {
+        "en": "Systematic treatment of sociology as a science",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The great aim of education is not knowledge but action.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Education: Intellectual, Moral, and Physical"
+    }
+  ],
+  "relations": []
+}

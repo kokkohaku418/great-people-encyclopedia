@@ -1,0 +1,154 @@
+{
+  "id": "michael-debakey",
+  "name": {
+    "en": "Michael DeBakey",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マイケル・ドゥベイキー"
+  },
+  "birth_year": 1908,
+  "death_year": 2008,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "biology",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Michael DeBakey was an American cardiac surgeon and medical inventor who pioneered many cardiovascular surgical procedures and devices.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Lake Charles, Louisiana, to Lebanese immigrant parents, he studied at Tulane University and developed a roller pump as a medical student that later became a key component of the heart-lung machine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He performed the first successful carotid endarterectomy, developed artificial hearts and ventricular assist devices, and trained two generations of cardiac surgeons.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1953,
+      "event": {
+        "en": "Performed the first successful carotid endarterectomy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1964,
+      "event": {
+        "en": "Performed the first successful coronary artery bypass surgery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1966,
+      "event": {
+        "en": "Implanted the first ventricular assist device in a patient",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Roller Pump",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1932,
+      "description": {
+        "en": "Blood pump that became essential to heart-lung machines and open-heart surgery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The pursuit of excellence is a never-ending process.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

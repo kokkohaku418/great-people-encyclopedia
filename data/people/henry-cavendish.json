@@ -1,0 +1,154 @@
+{
+  "id": "henry-cavendish",
+  "name": {
+    "en": "Henry Cavendish",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヘンリー・キャヴェンディッシュ"
+  },
+  "birth_year": 1731,
+  "death_year": 1810,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "chemistry",
+    "physics"
+  ],
+  "overview": {
+    "en": "Henry Cavendish was an English natural philosopher and chemist who discovered hydrogen, determined the composition of water, and measured the density of the Earth.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cavendish was born in Nice to an aristocratic English family. Extremely shy and reclusive, he studied at Cambridge and devoted his life to scientific research, rarely publishing his results.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Cavendish's discovery of hydrogen, determination of water's composition, and measurement of Earth's density were landmark achievements. Many of his unpublished electrical discoveries predated later rediscoveries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1766,
+      "event": {
+        "en": "Published paper on hydrogen ('inflammable air')",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1781,
+      "event": {
+        "en": "Demonstrated water is a compound",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1798,
+      "event": {
+        "en": "Measured the density of the Earth",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Experiments on Air",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1766,
+      "description": {
+        "en": "Paper identifying hydrogen as a distinct substance",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The only remedy for want of observation is more observation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

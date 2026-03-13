@@ -1,0 +1,27 @@
+{
+  "id": "art",
+  "name": {
+    "en": "Art",
+    "es": "Arte",
+    "pt": "Arte",
+    "fr": "Art",
+    "de": "Kunst",
+    "zh": "艺术",
+    "hi": "कला",
+    "ar": "الفن",
+    "id": "Seni",
+    "ja": "芸術"
+  },
+  "description": {
+    "en": "The expression of human creativity and imagination through visual, auditory, or performative works intended to evoke emotion or convey ideas.",
+    "ja": "感情を喚起したり思想を伝えることを目的とした、視覚的・聴覚的・演劇的作品を通じた人間の創造性と想像力の表現。",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fr",
+  "name": {
+    "en": "France",
+    "es": "Francia",
+    "pt": "França",
+    "fr": "France",
+    "de": "Frankreich",
+    "zh": "法国",
+    "hi": "फ़्रांस",
+    "ar": "فرنسا",
+    "id": "Prancis",
+    "ja": "フランス"
+  },
+  "region": "western-europe",
+  "description": {
+    "en": "A western European nation known for its contributions to art, philosophy, science, and political thought."
+  }
+}

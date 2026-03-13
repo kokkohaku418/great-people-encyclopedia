@@ -1,0 +1,269 @@
+{
+  "id": "julian-schwinger",
+  "name": {
+    "en": "Julian Schwinger",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジュリアン・シュウィンガー"
+  },
+  "birth_year": 1918,
+  "death_year": 1994,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Julian Schwinger was an American theoretical physicist who shared the 1965 Nobel Prize in Physics for his contributions to quantum electrodynamics. He developed a rigorous, operator-based formulation of QED and made fundamental contributions to many areas of theoretical physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Schwinger was born in New York City and showed extraordinary mathematical ability from an early age. He published his first physics paper at age 16 and earned his PhD from Columbia University at age 21 under Isidor Isaac Rabi.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Schwinger's formulation of quantum electrodynamics provided the most rigorous mathematical framework for the theory and influenced generations of theoretical physicists. His development of source theory and effective action methods had lasting impact on quantum field theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1934,
+      "event": {
+        "en": "Published first physics paper at age 16",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1939,
+      "event": {
+        "en": "Earned PhD from Columbia University under I.I. Rabi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Calculated the anomalous magnetic moment of the electron",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Presented his formulation of quantum electrodynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Tomonaga and Feynman",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Anomalous Magnetic Moment of the Electron",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "First calculation of the electron's anomalous magnetic moment, confirming QED predictions to extraordinary precision.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Schwinger-Dyson Equations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1951,
+      "description": {
+        "en": "Derived the fundamental equations of motion for quantum field theories relating Green's functions.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Schwinger Effect",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1951,
+      "description": {
+        "en": "Predicted the creation of electron-positron pairs from vacuum in the presence of strong electric fields.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If you can't join 'em, beat 'em.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On his independent approach to QED, attributed"
+    },
+    {
+      "text": {
+        "en": "Is the purpose of theoretical physics to be no more than a cataloging of all the things that can happen when particles interact with each other and separate?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Lecture, 1965"
+    }
+  ],
+  "relations": [
+    {
+      "person": "richard-feynman",
+      "type": "rival"
+    },
+    {
+      "person": "sin-itiro-tomonaga",
+      "type": "colleague"
+    },
+    {
+      "person": "freeman-dyson",
+      "type": "colleague"
+    },
+    {
+      "person": "isidor-isaac-rabi",
+      "type": "student"
+    }
+  ]
+}

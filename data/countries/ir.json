@@ -1,0 +1,19 @@
+{
+  "id": "ir",
+  "name": {
+    "en": "Iran",
+    "es": "Irán",
+    "pt": "Irã",
+    "fr": "Iran",
+    "de": "Iran",
+    "zh": "伊朗",
+    "hi": "ईरान",
+    "ar": "إيران",
+    "id": "Iran",
+    "ja": "イラン"
+  },
+  "region": "middle-east",
+  "description": {
+    "en": "A Middle Eastern country with a rich Persian heritage and major historical contributions to mathematics, astronomy, and medicine."
+  }
+}

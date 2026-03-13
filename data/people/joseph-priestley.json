@@ -1,0 +1,169 @@
+{
+  "id": "joseph-priestley",
+  "name": {
+    "en": "Joseph Priestley",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョゼフ・プリーストリー"
+  },
+  "birth_year": 1733,
+  "death_year": 1804,
+  "countries": [
+    "gb",
+    "us"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Joseph Priestley was an English chemist, natural philosopher, and theologian who is credited with the discovery of oxygen, which he called 'dephlogisticated air.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Priestley was born in Birstall, West Riding of Yorkshire. He was educated for the ministry but developed strong interests in natural philosophy, electricity, and the chemistry of gases.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Priestley's discovery of oxygen and other gases, including nitrous oxide and carbon dioxide, transformed chemistry. His work on photosynthesis showed that plants restore air vitiated by combustion.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1767,
+      "event": {
+        "en": "Published The History of Electricity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1771,
+      "event": {
+        "en": "Discovered photosynthesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1774,
+      "event": {
+        "en": "Isolated oxygen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1794,
+      "event": {
+        "en": "Emigrated to America due to political persecution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Experiments and Observations on Different Kinds of Air",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1774,
+      "description": {
+        "en": "Multi-volume work describing the discovery of several gases including oxygen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The more elaborate our means of communication, the less we communicate.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,168 @@
+{
+  "id": "frederick-douglass",
+  "name": {
+    "en": "Frederick Douglass",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フレデリック・ダグラス"
+  },
+  "birth_year": 1818,
+  "death_year": 1895,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Frederick Douglass was an American social reformer, abolitionist, orator, writer, and statesman who became the most prominent spokesperson for abolition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Douglass was born into slavery in Maryland. He escaped in 1838 and became a powerful orator and writer for the abolitionist cause.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Douglass's eloquent advocacy for abolition and equal rights helped end slavery and advance civil rights. His autobiographies are classics of American literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1838,
+      "event": {
+        "en": "Escaped from slavery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1845,
+      "event": {
+        "en": "Published Narrative of the Life of Frederick Douglass",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1847,
+      "event": {
+        "en": "Founded The North Star newspaper",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1872,
+      "event": {
+        "en": "Nominated as vice president on Equal Rights Party ticket",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Narrative of the Life of Frederick Douglass",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1845,
+      "description": {
+        "en": "Autobiography that became a bestseller and powerful abolitionist tool",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If there is no struggle, there is no progress.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Speech, 1857"
+    }
+  ],
+  "relations": []
+}

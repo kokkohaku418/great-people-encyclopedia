@@ -1,0 +1,284 @@
+{
+  "id": "kip-thorne",
+  "name": {
+    "en": "Kip Thorne",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "キップ・ソーン"
+  },
+  "birth_year": 1940,
+  "death_year": null,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Kip Thorne is an American theoretical physicist who made pioneering contributions to gravitational physics and astrophysics. He shared the 2017 Nobel Prize in Physics for the first direct detection of gravitational waves by the LIGO experiment, which he co-founded.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Thorne was born in Logan, Utah and showed early aptitude for science. He earned his Ph.D. at Princeton University under John Archibald Wheeler and became one of the youngest full professors in Caltech's history at age 30.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Thorne's co-founding of the LIGO project led to one of the most significant experimental achievements in physics: the detection of gravitational waves from merging black holes. His theoretical work on wormholes and time warps also contributed to the scientific accuracy of the film Interstellar.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1940,
+      "event": {
+        "en": "Born in Logan, Utah, United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Earned Ph.D. from Princeton under John Archibald Wheeler",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1984,
+      "event": {
+        "en": "Co-founded the LIGO project for detecting gravitational waves",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2014,
+      "event": {
+        "en": "Served as scientific consultant and executive producer for the film Interstellar",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2015,
+      "event": {
+        "en": "LIGO made the first direct detection of gravitational waves",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2017,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for gravitational wave detection",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Black Holes and Time Warps: Einstein's Outrageous Legacy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1994,
+      "description": {
+        "en": "Popular science book exploring the physics of black holes, wormholes, and the nature of spacetime.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Gravitation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1973,
+      "description": {
+        "en": "Landmark graduate textbook on general relativity co-authored with Charles Misner and John Wheeler, widely known as 'MTW'.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Science of Interstellar",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2014,
+      "description": {
+        "en": "Book explaining the real science behind the film Interstellar, covering black holes, wormholes, and higher dimensions.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The universe is made of stories, not of atoms.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Public lecture"
+    },
+    {
+      "text": {
+        "en": "LIGO is the most precise measuring device ever built by humankind.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Prize lecture, 2017"
+    }
+  ],
+  "relations": [
+    {
+      "person": "stephen-hawking",
+      "type": "friend"
+    },
+    {
+      "person": "john-archibald-wheeler",
+      "type": "mentor"
+    },
+    {
+      "person": "roger-penrose",
+      "type": "colleague"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "influenced_by"
+    }
+  ]
+}

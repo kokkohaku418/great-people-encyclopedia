@@ -1,0 +1,153 @@
+{
+  "id": "ernst-kummer",
+  "name": {
+    "en": "Ernst Kummer",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エルンスト・クンマー"
+  },
+  "birth_year": 1810,
+  "death_year": 1893,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Ernst Kummer was a German mathematician who introduced ideal numbers and made important contributions to number theory and algebraic geometry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kummer was born in Sorau, Brandenburg. He studied at the University of Halle and became a professor at the University of Berlin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kummer's ideal numbers, introduced to address unique factorization failures, became the foundation for modern algebraic number theory. His work proved Fermat's Last Theorem for many cases.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1844,
+      "event": {
+        "en": "Showed unique factorization fails in cyclotomic fields",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1847,
+      "event": {
+        "en": "Introduced ideal numbers to restore unique factorization",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1857,
+      "event": {
+        "en": "Proved Fermat's Last Theorem for all regular primes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Theory of Ideal Numbers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1847,
+      "description": {
+        "en": "Introduced ideal numbers to restore unique factorization in algebraic number fields",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The problem of the higher reciprocity laws constitutes one of the most beautiful domains of pure mathematics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

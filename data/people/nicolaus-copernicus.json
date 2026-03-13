@@ -1,0 +1,244 @@
+{
+  "id": "nicolaus-copernicus",
+  "name": {
+    "en": "Nicolaus Copernicus",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ニコラウス・コペルニクス"
+  },
+  "birth_year": 1473,
+  "death_year": 1543,
+  "countries": [
+    "pl"
+  ],
+  "fields": [
+    "physics",
+    "astronomy",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Nicolaus Copernicus was a Polish astronomer and mathematician who formulated the heliocentric model of the universe, placing the Sun rather than the Earth at the center. His work triggered the Copernican Revolution and fundamentally transformed astronomy and science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Copernicus was born in 1473 in the city of Torun in Royal Prussia, part of the Kingdom of Poland. After his father's death, he was raised by his uncle, a bishop, who supported his education at the University of Krakow and later in Italy at Bologna and Padua.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Copernicus's heliocentric theory displaced the Earth from the center of the universe and initiated the Scientific Revolution. His model inspired Kepler, Galileo, and Newton, ultimately reshaping humanity's understanding of its place in the cosmos.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1473,
+      "event": {
+        "en": "Born in Torun, Royal Prussia, Kingdom of Poland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1491,
+      "event": {
+        "en": "Enrolled at the University of Krakow",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1497,
+      "event": {
+        "en": "Began studying canon law and astronomy in Bologna, Italy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1514,
+      "event": {
+        "en": "Circulated the Commentariolus outlining the heliocentric hypothesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1543,
+      "event": {
+        "en": "De Revolutionibus Orbium Coelestium published; died in Frauenburg",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De Revolutionibus Orbium Coelestium",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1543,
+      "description": {
+        "en": "The landmark work presenting the heliocentric model of the solar system, arguing that the Earth and planets revolve around the Sun.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Commentariolus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1514,
+      "description": {
+        "en": "A short manuscript outlining the heliocentric hypothesis that was circulated among a small group of scholars before the full publication.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "At rest, however, in the middle of everything is the Sun.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "De Revolutionibus Orbium Coelestium"
+    },
+    {
+      "text": {
+        "en": "To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "ptolemy",
+      "type": "influenced_by"
+    },
+    {
+      "person": "galileo-galilei",
+      "type": "influenced"
+    },
+    {
+      "person": "johannes-kepler",
+      "type": "influenced"
+    },
+    {
+      "person": "georg-joachim-rheticus",
+      "type": "colleague"
+    }
+  ]
+}

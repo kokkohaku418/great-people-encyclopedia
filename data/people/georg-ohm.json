@@ -1,0 +1,212 @@
+{
+  "id": "georg-ohm",
+  "name": {
+    "en": "Georg Ohm",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ゲオルク・オーム"
+  },
+  "birth_year": 1789,
+  "death_year": 1854,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Georg Simon Ohm was a German physicist and mathematician who discovered the fundamental law governing electrical resistance. Ohm's law, relating voltage, current, and resistance, is one of the most basic and important laws in electrical science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ohm was born in 1789 in Erlangen, Bavaria, to a Protestant family. His father, a locksmith, was a self-taught man who gave Georg and his brother an excellent education in mathematics, physics, and philosophy, enabling Georg to attend the University of Erlangen.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ohm's law provided the quantitative foundation for understanding and designing electrical circuits. Despite initial rejection in Germany, his work was recognized internationally and became essential to the development of electrical engineering. The ohm, the unit of electrical resistance, is named after him.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1789,
+      "event": {
+        "en": "Born in Erlangen, Bavaria",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1811,
+      "event": {
+        "en": "Received his doctorate from the University of Erlangen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1825,
+      "event": {
+        "en": "Published his first paper on electrical resistance",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1827,
+      "event": {
+        "en": "Published The Galvanic Circuit Investigated Mathematically, containing Ohm's law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1841,
+      "event": {
+        "en": "Awarded the Copley Medal by the Royal Society of London",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1854,
+      "event": {
+        "en": "Died in Munich, Bavaria",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Galvanic Circuit Investigated Mathematically",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1827,
+      "description": {
+        "en": "Presented Ohm's law in a systematic mathematical form, relating current, voltage, and resistance in electrical circuits.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The force of the current in a galvanic circuit is directly as the sum of all the tensions, and inversely as the entire reduced length of the circuit.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Galvanic Circuit Investigated Mathematically"
+    }
+  ],
+  "relations": [
+    {
+      "person": "alessandro-volta",
+      "type": "influenced_by"
+    },
+    {
+      "person": "michael-faraday",
+      "type": "colleague"
+    },
+    {
+      "person": "gustav-kirchhoff",
+      "type": "influenced"
+    }
+  ]
+}

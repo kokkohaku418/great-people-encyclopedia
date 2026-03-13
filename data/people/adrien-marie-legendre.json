@@ -1,0 +1,138 @@
+{
+  "id": "adrien-marie-legendre",
+  "name": {
+    "en": "Adrien-Marie Legendre",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アドリアン＝マリ・ルジャンドル"
+  },
+  "birth_year": 1752,
+  "death_year": 1833,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Legendre made major contributions to number theory, statistics, and analysis, including the method of least squares.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Paris to a wealthy family. He studied at the Collège Mazarin and taught at the École Militaire.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Legendre polynomials, the Legendre transform, and his work on elliptic integrals remain fundamental across mathematics and physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1782,
+      "event": {
+        "en": "Won the Berlin Academy prize for his work on projectile trajectories",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1798,
+      "event": {
+        "en": "Published his conjecture on the prime-counting function",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Essai sur la théorie des nombres",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1798,
+      "description": {
+        "en": "Major treatise on number theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The method of least squares is applicable to the most varied investigations.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nouvelles méthodes pour la détermination des orbites des comètes"
+    }
+  ],
+  "relations": []
+}

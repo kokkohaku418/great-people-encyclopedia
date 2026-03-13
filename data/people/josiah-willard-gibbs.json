@@ -1,0 +1,266 @@
+{
+  "id": "josiah-willard-gibbs",
+  "name": {
+    "en": "Josiah Willard Gibbs",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョサイア・ウィラード・ギブズ"
+  },
+  "birth_year": 1839,
+  "death_year": 1903,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Josiah Willard Gibbs was an American scientist who made foundational contributions to thermodynamics, statistical mechanics, and vector calculus. He is considered one of the greatest American scientists of the 19th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in New Haven, Connecticut, Gibbs was the son of a Yale professor. He studied at Yale and earned one of the first PhD degrees granted in the United States, then spent three years studying in Europe before returning to Yale.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Gibbs's work on chemical thermodynamics introduced the concept of free energy and the phase rule, which became essential tools in chemistry and materials science. His development of statistical mechanics independently of Boltzmann provided an elegant mathematical framework for the field.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1863,
+      "event": {
+        "en": "Received one of the first engineering PhDs in the United States from Yale.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1873,
+      "event": {
+        "en": "Published his first papers on geometric methods in thermodynamics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1876,
+      "event": {
+        "en": "Published 'On the Equilibrium of Heterogeneous Substances,' his masterwork.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1881,
+      "event": {
+        "en": "Developed vector analysis as a simplification of quaternion methods.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1902,
+      "event": {
+        "en": "Published 'Elementary Principles in Statistical Mechanics.'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Equilibrium of Heterogeneous Substances",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1876,
+      "description": {
+        "en": "Landmark paper establishing the foundations of chemical thermodynamics, introducing Gibbs free energy and the phase rule.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Elementary Principles in Statistical Mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1902,
+      "description": {
+        "en": "Comprehensive treatise developing statistical mechanics from first principles using ensemble theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Vector Analysis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1881,
+      "description": {
+        "en": "Development of modern vector calculus notation, replacing the more cumbersome quaternion formalism.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "One of the principal objects of theoretical research in any department of knowledge is to find the point of view from which the subject appears in its greatest simplicity.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On the Equilibrium of Heterogeneous Substances, 1876"
+    },
+    {
+      "text": {
+        "en": "Mathematics is a language.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "ludwig-boltzmann",
+      "type": "colleague"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced_by"
+    },
+    {
+      "person": "max-planck",
+      "type": "influenced"
+    }
+  ]
+}

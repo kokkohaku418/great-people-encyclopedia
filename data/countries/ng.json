@@ -1,0 +1,19 @@
+{
+  "id": "ng",
+  "name": {
+    "en": "Nigeria",
+    "es": "Nigeria",
+    "pt": "Nigéria",
+    "fr": "Nigéria",
+    "de": "Nigeria",
+    "zh": "尼日利亚",
+    "hi": "नाइजीरिया",
+    "ar": "نيجيريا",
+    "id": "Nigeria",
+    "ja": "ナイジェリア"
+  },
+  "region": "sub-saharan-africa",
+  "description": {
+    "en": "Africa's most populous country, with a growing technology ecosystem and contributions to literature and the arts."
+  }
+}

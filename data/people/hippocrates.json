@@ -1,0 +1,153 @@
+{
+  "id": "hippocrates",
+  "name": {
+    "en": "Hippocrates",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヒポクラテス"
+  },
+  "birth_year": -460,
+  "death_year": -370,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Hippocrates was an ancient Greek physician known as the 'Father of Medicine' who established medicine as a discipline separate from philosophy and superstition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born on the island of Kos, he came from a family of physicians and studied under his father before traveling widely in Greece.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He established the ethical foundations of medical practice through the Hippocratic Oath and pioneered clinical observation and systematic diagnosis.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -400,
+      "event": {
+        "en": "Established a medical school on Kos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -380,
+      "event": {
+        "en": "Hippocratic Corpus compiled by his followers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Hippocratic Corpus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -400,
+      "description": {
+        "en": "Collection of medical texts establishing principles of clinical medicine and ethics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "First, do no harm.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, paraphrasing the Hippocratic tradition"
+    },
+    {
+      "text": {
+        "en": "Healing is a matter of time, but it is sometimes also a matter of opportunity.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Precepts"
+    }
+  ],
+  "relations": []
+}

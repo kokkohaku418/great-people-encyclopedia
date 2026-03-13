@@ -1,0 +1,181 @@
+{
+  "id": "maimonides",
+  "name": {
+    "en": "Maimonides",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マイモニデス"
+  },
+  "birth_year": 1138,
+  "death_year": 1204,
+  "countries": [
+    "es",
+    "eg"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Maimonides (Moses ben Maimon) was a medieval Jewish philosopher, physician, and rabbi who is considered the greatest Jewish philosopher of the Middle Ages.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Maimonides was born in Córdoba, Al-Andalus. His family fled the Almohad persecution and eventually settled in Egypt, where he became the leader of the Jewish community and court physician.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Maimonides' Guide for the Perplexed reconciled Aristotelian philosophy with Jewish theology, influencing both Jewish and Christian Scholastic thought. His Mishneh Torah systematized Jewish law.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1168,
+      "event": {
+        "en": "Completed Commentary on the Mishnah",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1178,
+      "event": {
+        "en": "Completed the Mishneh Torah",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1190,
+      "event": {
+        "en": "Published The Guide for the Perplexed",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Guide for the Perplexed",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1190,
+      "description": {
+        "en": "Philosophical work reconciling Aristotelian philosophy with Jewish theology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Mishneh Torah",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1178,
+      "description": {
+        "en": "Comprehensive code of Jewish law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

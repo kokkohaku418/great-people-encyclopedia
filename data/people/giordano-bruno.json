@@ -1,0 +1,169 @@
+{
+  "id": "giordano-bruno",
+  "name": {
+    "en": "Giordano Bruno",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョルダーノ・ブルーノ"
+  },
+  "birth_year": 1548,
+  "death_year": 1600,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "philosophy",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Giordano Bruno was an Italian philosopher and cosmological theorist who proposed that the universe is infinite and contains many worlds. He was burned at the stake for heresy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bruno was born in Nola, near Naples. He entered the Dominican order but fled after developing unorthodox views, wandering through Europe for years.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bruno's vision of an infinite universe with innumerable worlds anticipated modern cosmology. His martyrdom for free thought made him a symbol of intellectual freedom.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1576,
+      "event": {
+        "en": "Fled the Dominican order",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1584,
+      "event": {
+        "en": "Published On the Infinite Universe and Worlds",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1591,
+      "event": {
+        "en": "Arrested by the Inquisition in Venice",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1600,
+      "event": {
+        "en": "Burned at the stake in Rome for heresy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Infinite Universe and Worlds",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1584,
+      "description": {
+        "en": "Proposed an infinite universe containing innumerable inhabited worlds",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Perhaps your fear in passing judgment on me is greater than mine in receiving it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, to his judges"
+    }
+  ],
+  "relations": []
+}

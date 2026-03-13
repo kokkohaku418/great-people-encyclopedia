@@ -1,0 +1,169 @@
+{
+  "id": "john-dalton",
+  "name": {
+    "en": "John Dalton",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・ドルトン"
+  },
+  "birth_year": 1766,
+  "death_year": 1844,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "chemistry",
+    "physics"
+  ],
+  "overview": {
+    "en": "John Dalton was an English chemist, physicist, and meteorologist, best known for introducing atomic theory into chemistry and for his research into color blindness.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Dalton was born in Eaglesfield, England, into a Quaker family. He began teaching at age twelve and became interested in meteorology and the properties of gases.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Dalton's atomic theory provided a quantitative foundation for chemistry. His law of partial pressures and concept of atomic weights enabled the systematic study of chemical reactions.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1793,
+      "event": {
+        "en": "Published Meteorological Observations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1801,
+      "event": {
+        "en": "Formulated law of partial pressures",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1803,
+      "event": {
+        "en": "Proposed atomic theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1808,
+      "event": {
+        "en": "Published A New System of Chemical Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A New System of Chemical Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1808,
+      "description": {
+        "en": "Presented the atomic theory of matter and table of atomic weights",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Matter, though divisible in an extreme degree, is nevertheless not infinitely divisible.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "A New System of Chemical Philosophy"
+    }
+  ],
+  "relations": []
+}

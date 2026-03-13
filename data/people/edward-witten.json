@@ -1,0 +1,266 @@
+{
+  "id": "edward-witten",
+  "name": {
+    "en": "Edward Witten",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エドワード・ウィッテン"
+  },
+  "birth_year": 1951,
+  "death_year": null,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Edward Witten is an American theoretical physicist and mathematician widely regarded as one of the most brilliant physicists of his generation. He is the leading figure in string theory and proposed M-theory, which unified the five consistent superstring theories.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Witten was born in Baltimore, Maryland, the son of theoretical physicist Louis Witten. He studied history at Brandeis University before switching to physics, earning his Ph.D. from Princeton University under David Gross.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Witten's work has profoundly influenced both theoretical physics and mathematics. He is the only physicist to have won the Fields Medal, awarded in 1990 for his mathematical contributions, and his M-theory conjecture unified the landscape of string theories.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1951,
+      "event": {
+        "en": "Born in Baltimore, Maryland, United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1981,
+      "event": {
+        "en": "Proved the positive energy theorem in general relativity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1988,
+      "event": {
+        "en": "Developed topological quantum field theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1990,
+      "event": {
+        "en": "Awarded the Fields Medal for contributions to mathematics inspired by physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1995,
+      "event": {
+        "en": "Proposed M-theory unifying the five superstring theories",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "String Theory Dynamics in Various Dimensions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1995,
+      "description": {
+        "en": "Landmark paper proposing M-theory as the unifying framework for all five consistent superstring theories.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Topological Quantum Field Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1988,
+      "description": {
+        "en": "Foundational paper that established deep connections between quantum field theory and topology.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A New Proof of the Positive Energy Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1981,
+      "description": {
+        "en": "Elegant physics-based proof of the positive mass theorem in general relativity using spinor methods.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "String theory is 21st century physics that fell into the 20th century by accident.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Interview, PBS NOVA"
+    },
+    {
+      "text": {
+        "en": "The theory of everything would be the ultimate triumph of human reason.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Public lecture"
+    }
+  ],
+  "relations": [
+    {
+      "person": "david-gross",
+      "type": "mentor"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "influenced_by"
+    },
+    {
+      "person": "roger-penrose",
+      "type": "colleague"
+    }
+  ]
+}

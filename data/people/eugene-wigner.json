@@ -1,0 +1,270 @@
+{
+  "id": "eugene-wigner",
+  "name": {
+    "en": "Eugene Wigner",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ユージン・ウィグナー"
+  },
+  "birth_year": 1902,
+  "death_year": 1995,
+  "countries": [
+    "hu",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Eugene Wigner was a Hungarian-American theoretical physicist who made fundamental contributions to quantum mechanics and nuclear physics through the application of group theory. He received the Nobel Prize in Physics in 1963 for his work on the theory of the atomic nucleus and elementary particles.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wigner was born in Budapest, Hungary, and studied chemical engineering in Berlin, where he became interested in physics. He was influenced by discussions with fellow Hungarian physicists Leo Szilard and John von Neumann.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wigner's application of group theory to quantum mechanics transformed theoretical physics and became an essential mathematical tool. His work on nuclear reactor theory was crucial to the Manhattan Project. He also raised profound philosophical questions about the role of consciousness in quantum measurement.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1931,
+      "event": {
+        "en": "Published 'Group Theory and Its Application to the Quantum Mechanics of Atomic Spectra'.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1936,
+      "event": {
+        "en": "Developed the theory of neutron absorption in nuclear reactors.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1939,
+      "event": {
+        "en": "Co-delivered the Einstein-Szilard letter to President Roosevelt.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1960,
+      "event": {
+        "en": "Published 'The Unreasonable Effectiveness of Mathematics in the Natural Sciences'.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1963,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Group Theory and Its Application to the Quantum Mechanics of Atomic Spectra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1931,
+      "description": {
+        "en": "Foundational work applying group theory to quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1960,
+      "description": {
+        "en": "Influential essay on why mathematics is so remarkably useful in physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Symmetries and Reflections",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1967,
+      "description": {
+        "en": "Collection of essays on science, philosophy, and the role of symmetry in physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is not at all natural that 'laws of nature' exist, much less that man is able to discover them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Eugene Wigner, The Unreasonable Effectiveness of Mathematics"
+    },
+    {
+      "text": {
+        "en": "The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Eugene Wigner"
+    }
+  ],
+  "relations": [
+    {
+      "person": "leo-szilard",
+      "type": "friend"
+    },
+    {
+      "person": "john-von-neumann",
+      "type": "friend"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "colleague"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "colleague"
+    }
+  ]
+}

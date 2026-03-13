@@ -1,0 +1,243 @@
+{
+  "id": "augustin-jean-fresnel",
+  "name": {
+    "en": "Augustin-Jean Fresnel",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "オーギュスタン・ジャン・フレネル"
+  },
+  "birth_year": 1788,
+  "death_year": 1827,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Augustin-Jean Fresnel was a French civil engineer and physicist who made major contributions to the wave theory of light. He developed the mathematical framework for diffraction and polarization, and invented the Fresnel lens used in lighthouses worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Fresnel was born in 1788 in Broglie, Normandy, France. A slow learner as a child who could barely read at age eight, he later excelled in mathematics and attended the Ecole Polytechnique and the Ecole des Ponts et Chaussees to become a civil engineer.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Fresnel's wave theory of light, complete with a rigorous mathematical treatment of diffraction, definitively defeated Newton's corpuscular theory. His Fresnel lens revolutionized lighthouse technology and his equations for reflection and refraction remain fundamental in optics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1788,
+      "event": {
+        "en": "Born in Broglie, Normandy, France",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1806,
+      "event": {
+        "en": "Entered the Ecole des Ponts et Chaussees",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1815,
+      "event": {
+        "en": "Began his optical research during a period of political exile",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1818,
+      "event": {
+        "en": "Won the French Academy prize for his memoir on diffraction",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1822,
+      "event": {
+        "en": "Developed the Fresnel lens for lighthouses",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1827,
+      "event": {
+        "en": "Died in Ville-d'Avray near Paris at age 39",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Memoir on the Diffraction of Light",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1818,
+      "description": {
+        "en": "Presented a comprehensive mathematical wave theory of diffraction that won the French Academy of Sciences prize.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Fresnel Lens Design",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1822,
+      "description": {
+        "en": "Invented the stepped lens design that dramatically improved lighthouse illumination and is still used today.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Nature is not embarrassed by difficulties of analysis.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, during debates on wave theory"
+    }
+  ],
+  "relations": [
+    {
+      "person": "christiaan-huygens",
+      "type": "influenced_by"
+    },
+    {
+      "person": "thomas-young",
+      "type": "colleague"
+    },
+    {
+      "person": "francois-arago",
+      "type": "collaborator"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced"
+    }
+  ]
+}

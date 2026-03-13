@@ -1,0 +1,138 @@
+{
+  "id": "philip-ii-of-macedon",
+  "name": {
+    "en": "Philip II of Macedon",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ピリッポス2世"
+  },
+  "birth_year": -382,
+  "death_year": -336,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Philip II transformed Macedon from a weak kingdom into the dominant power of Greece, setting the stage for Alexander's conquests.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Pella, the youngest son of King Amyntas III. He spent years as a hostage in Thebes where he learned military tactics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His military reforms and diplomatic skill unified Greece under Macedonian hegemony, enabling Alexander's empire.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -338,
+      "event": {
+        "en": "Defeated Athens and Thebes at the Battle of Chaeronea",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -337,
+      "event": {
+        "en": "Formed the League of Corinth",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Macedonian Phalanx",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -350,
+      "description": {
+        "en": "Revolutionary military formation using the sarissa pike",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "My son, ask for thyself another kingdom, for that which I leave is too small for thee.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Plutarch"
+    }
+  ],
+  "relations": []
+}

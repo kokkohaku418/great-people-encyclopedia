@@ -1,0 +1,168 @@
+{
+  "id": "toyotomi-hideyoshi",
+  "name": {
+    "en": "Toyotomi Hideyoshi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "豊臣秀吉"
+  },
+  "birth_year": 1537,
+  "death_year": 1598,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Toyotomi Hideyoshi rose from peasant origins to become the second great unifier of Japan, completing the work Oda Nobunaga had begun.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born to a poor peasant family in Owari Province, he entered Nobunaga's service as a sandal-bearer and rose through merit to become a top general.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He unified all of Japan, implemented the land survey and sword hunt that solidified the class system, and launched ambitious but ultimately failed invasions of Korea.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1582,
+      "event": {
+        "en": "Avenged Nobunaga by defeating Akechi Mitsuhide at Yamazaki",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1585,
+      "event": {
+        "en": "Appointed Kampaku (regent) by the Emperor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1590,
+      "event": {
+        "en": "Completed the unification of Japan by conquering the Hojo clan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1592,
+      "event": {
+        "en": "Launched the first invasion of Korea",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Taiko Kenchi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1582,
+      "description": {
+        "en": "Nationwide land survey that standardized taxation across Japan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If the cuckoo does not sing, coax it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Traditional Japanese saying attributed to Hideyoshi"
+    }
+  ],
+  "relations": []
+}

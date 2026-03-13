@@ -1,0 +1,224 @@
+{
+  "id": "evangelista-torricelli",
+  "name": {
+    "en": "Evangelista Torricelli",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エヴァンジェリスタ・トリチェリ"
+  },
+  "birth_year": 1608,
+  "death_year": 1647,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Evangelista Torricelli was an Italian physicist and mathematician who invented the barometer and demonstrated the existence of atmospheric pressure and the vacuum. He also made important contributions to mathematics, including the discovery of Torricelli's trumpet, a shape with finite volume but infinite surface area.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Torricelli was born in Faenza, Italy and was educated by Benedictine monks before studying mathematics under Benedetto Castelli, a student of Galileo. He served as Galileo's secretary in the last months of the elder scientist's life and succeeded him as court mathematician to the Grand Duke of Tuscany.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Torricelli's invention of the mercury barometer proved the existence of atmospheric pressure and the vacuum, settling a centuries-long debate. His work laid the foundation for the development of vacuum technology and atmospheric science, and his mathematical contributions influenced the development of calculus.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1608,
+      "event": {
+        "en": "Born in Faenza, Italy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1641,
+      "event": {
+        "en": "Became secretary and assistant to Galileo Galilei in Arcetri",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1642,
+      "event": {
+        "en": "Succeeded Galileo as court mathematician to Grand Duke Ferdinand II of Tuscany",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1644,
+      "event": {
+        "en": "Invented the mercury barometer, demonstrating atmospheric pressure and the vacuum",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1647,
+      "event": {
+        "en": "Died in Florence at age 39, likely of typhoid fever",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Opera Geometrica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1644,
+      "description": {
+        "en": "Major mathematical work containing studies on the cycloid, the motion of fluids, and the properties of the parabola.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Mercury Barometer Experiment",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1644,
+      "description": {
+        "en": "Experimental demonstration using a mercury-filled tube inverted in a dish, proving the existence of atmospheric pressure and creating the first sustained vacuum.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We live submerged at the bottom of an ocean of air.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to Michelangelo Ricci, 1644"
+    }
+  ],
+  "relations": [
+    {
+      "person": "galileo-galilei",
+      "type": "mentor"
+    },
+    {
+      "person": "benedetto-castelli",
+      "type": "mentor"
+    },
+    {
+      "person": "blaise-pascal",
+      "type": "influenced"
+    }
+  ]
+}

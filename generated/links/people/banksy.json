@@ -1,0 +1,51 @@
+{
+  "person": "banksy",
+  "same_field": [
+    "ai-weiwei",
+    "albrecht-durer",
+    "andy-warhol",
+    "anish-kapoor",
+    "ansel-adams",
+    "antonin-dvorak",
+    "antonio-vivaldi",
+    "aretha-franklin",
+    "artemisia-gentileschi",
+    "arthur-rubinstein",
+    "auguste-renoir",
+    "auguste-rodin",
+    "bela-bartok",
+    "billie-holiday",
+    "bob-dylan",
+    "bob-marley",
+    "caravaggio",
+    "charlie-parker",
+    "christo",
+    "christoph-willibald-gluck"
+  ],
+  "same_country": [
+    "ada-lovelace",
+    "adam-smith",
+    "alan-turing",
+    "alexander-fleming",
+    "alexander-graham-bell",
+    "alfred-north-whitehead",
+    "alfred-russel-wallace",
+    "alfred-the-great",
+    "andrew-wiles",
+    "anish-kapoor",
+    "archibald-scott-couper",
+    "ben-jonson",
+    "benjamin-disraeli",
+    "bertrand-russell",
+    "caroline-herschel",
+    "cecilia-payne-gaposchkin",
+    "charles-babbage",
+    "charles-darwin",
+    "charles-dickens",
+    "charles-lyell"
+  ],
+  "same_era": [
+    "maryam-mirzakhani",
+    "terence-tao"
+  ]
+}

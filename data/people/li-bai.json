@@ -1,0 +1,168 @@
+{
+  "id": "li-bai",
+  "name": {
+    "en": "Li Bai",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "李白"
+  },
+  "birth_year": 701,
+  "death_year": 762,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Li Bai was a Chinese poet of the Tang dynasty, regarded as one of the two greatest poets in Chinese literary history alongside Du Fu. His romantic, imaginative poetry celebrates nature, friendship, and wine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Li Bai was born in Central Asia and grew up in Sichuan. He traveled widely, gained fame as a poet, and briefly served at the court of Emperor Xuanzong.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Li Bai's poetry, combining spontaneity with classical mastery, represents the pinnacle of Tang dynasty verse. His works remain among the most beloved in the Chinese literary canon.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 725,
+      "event": {
+        "en": "Began extensive travels throughout China",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 742,
+      "event": {
+        "en": "Summoned to the Tang court by Emperor Xuanzong",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 744,
+      "event": {
+        "en": "Left the court and resumed wandering",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 762,
+      "event": {
+        "en": "Died in Dangtu, Anhui province",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Collected Works",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 750,
+      "description": {
+        "en": "Over 1,000 poems covering themes of nature, friendship, wine, and immortality",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We sit together, the mountain and me, until only the mountain remains.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

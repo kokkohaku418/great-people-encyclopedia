@@ -1,0 +1,139 @@
+{
+  "id": "william-blake",
+  "name": {
+    "en": "William Blake",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウィリアム・ブレイク"
+  },
+  "birth_year": 1757,
+  "death_year": 1827,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "art",
+    "literature"
+  ],
+  "overview": {
+    "en": "William Blake was a visionary poet, painter, and printmaker whose works combined prophetic imagination with artistic innovation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in London to a hosier's family. He trained as an engraver and developed his unique method of illuminated printing.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His poetry and art challenged Enlightenment rationalism and inspired the Romantic movement, Symbolism, and modern counterculture.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1789,
+      "event": {
+        "en": "Published Songs of Innocence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1794,
+      "event": {
+        "en": "Published Songs of Innocence and of Experience",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Songs of Innocence and of Experience",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1794,
+      "description": {
+        "en": "Collection of illustrated poems exploring the two contrary states of the human soul",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "To see a World in a Grain of Sand, and a Heaven in a Wild Flower.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Auguries of Innocence"
+    }
+  ],
+  "relations": []
+}

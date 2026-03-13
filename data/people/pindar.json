@@ -1,0 +1,138 @@
+{
+  "id": "pindar",
+  "name": {
+    "en": "Pindar",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ピンダロス"
+  },
+  "birth_year": -518,
+  "death_year": -438,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Pindar was the greatest lyric poet of ancient Greece, famous for his odes celebrating victors at the Panhellenic games.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Cynoscephalae, Boeotia, near Thebes. He studied poetry in Athens and achieved fame throughout the Greek world.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His victory odes set the standard for choral lyric poetry and influenced Horace, the English Romantics, and modern poets.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -498,
+      "event": {
+        "en": "Composed his earliest surviving ode",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -476,
+      "event": {
+        "en": "Wrote his most famous ode for Hieron of Syracuse",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Olympian Odes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -476,
+      "description": {
+        "en": "Choral odes celebrating victors at the Olympic Games",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Water is best, and gold, like a blazing fire in the night, stands out supreme of all lordly wealth.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Olympian Ode 1"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,254 @@
+{
+  "id": "paul-dirac",
+  "name": {
+    "en": "Paul Dirac",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ポール・ディラック"
+  },
+  "birth_year": 1902,
+  "death_year": 1984,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Paul Dirac was an English theoretical physicist who made fundamental contributions to quantum mechanics and quantum electrodynamics. He predicted the existence of antimatter through the Dirac equation. He shared the 1933 Nobel Prize in Physics with Erwin Schrödinger.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Dirac was born in Bristol, England, to a Swiss father and English mother. He studied electrical engineering at the University of Bristol before switching to mathematics at the University of Cambridge, where he completed his PhD in 1926.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Dirac equation unified quantum mechanics and special relativity, predicting the existence of antimatter before its experimental discovery. His formulation of quantum mechanics using bra-ket notation became standard in physics. He is widely regarded as one of the greatest theoretical physicists of the 20th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1925,
+      "event": {
+        "en": "Made key contributions to the new quantum mechanics independently of Heisenberg.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1928,
+      "event": {
+        "en": "Published the Dirac equation, predicting the existence of antimatter.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1930,
+      "event": {
+        "en": "Published 'The Principles of Quantum Mechanics', a foundational textbook.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1933,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Erwin Schrödinger.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Quantum Theory of the Electron",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1928,
+      "description": {
+        "en": "Paper introducing the Dirac equation, which predicted antimatter.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Principles of Quantum Mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1930,
+      "description": {
+        "en": "Landmark textbook that became the standard reference for quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Quantised Singularities in the Electromagnetic Field",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1931,
+      "description": {
+        "en": "Paper predicting the existence of magnetic monopoles.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The laws of nature should be expressed in beautiful equations.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Paul Dirac"
+    },
+    {
+      "text": {
+        "en": "Pick a flower on Earth and you move the farthest star.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed to Paul Dirac"
+    }
+  ],
+  "relations": [
+    {
+      "person": "erwin-schrodinger",
+      "type": "colleague"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "colleague"
+    },
+    {
+      "person": "werner-heisenberg",
+      "type": "colleague"
+    },
+    {
+      "person": "richard-feynman",
+      "type": "influenced"
+    }
+  ]
+}

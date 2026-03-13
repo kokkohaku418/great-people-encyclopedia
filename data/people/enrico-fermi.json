@@ -1,0 +1,270 @@
+{
+  "id": "enrico-fermi",
+  "name": {
+    "en": "Enrico Fermi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エンリコ・フェルミ"
+  },
+  "birth_year": 1901,
+  "death_year": 1954,
+  "countries": [
+    "it",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Enrico Fermi was an Italian-American physicist known for creating the first nuclear reactor and for his contributions to quantum theory, nuclear and particle physics, and statistical mechanics. He was one of the few physicists who excelled in both theory and experiment. He received the Nobel Prize in Physics in 1938.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Fermi was born in Rome, Italy, and showed precocious talent in physics and mathematics. He earned his doctorate from the Scuola Normale Superiore in Pisa at age 21 and quickly rose to prominence in Italian physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Fermi's creation of the first self-sustaining nuclear chain reaction ushered in the nuclear age. His work on beta decay theory and neutron-induced radioactivity advanced nuclear physics enormously. He trained a generation of physicists and his problem-solving approach remains legendary in the field.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1926,
+      "event": {
+        "en": "Developed Fermi-Dirac statistics for particles obeying the exclusion principle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1934,
+      "event": {
+        "en": "Developed the theory of beta decay.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1938,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for work on induced radioactivity.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1942,
+      "event": {
+        "en": "Achieved the first self-sustaining nuclear chain reaction at the University of Chicago.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Co-proposed the Fermi-Ulam model for cosmic ray acceleration.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Tentative Theory of Beta Radiation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1934,
+      "description": {
+        "en": "Groundbreaking paper proposing the theory of beta decay involving the weak force.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Chicago Pile-1",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1942,
+      "description": {
+        "en": "First artificial self-sustaining nuclear chain reaction, a milestone in nuclear physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Thermodynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1937,
+      "description": {
+        "en": "Classic textbook on thermodynamics that remains influential.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed to Enrico Fermi"
+    },
+    {
+      "text": {
+        "en": "It is no good to try to stop knowledge from going forward. Ignorance is never better than knowledge.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Enrico Fermi"
+    }
+  ],
+  "relations": [
+    {
+      "person": "leo-szilard",
+      "type": "collaborator"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "colleague"
+    },
+    {
+      "person": "paul-dirac",
+      "type": "influenced_by"
+    },
+    {
+      "person": "subrahmanyan-chandrasekhar",
+      "type": "colleague"
+    }
+  ]
+}

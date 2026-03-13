@@ -1,0 +1,271 @@
+{
+  "id": "freeman-dyson",
+  "name": {
+    "en": "Freeman Dyson",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フリーマン・ダイソン"
+  },
+  "birth_year": 1923,
+  "death_year": 2020,
+  "countries": [
+    "gb",
+    "us"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Freeman Dyson was a British-American theoretical physicist and mathematician who unified the competing formulations of quantum electrodynamics by Schwinger, Tomonaga, and Feynman. He made wide-ranging contributions to physics, mathematics, and futuristic engineering concepts.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Dyson was born in Crowthorne, England, and studied mathematics at the University of Cambridge. He moved to the United States in 1947 to study at Cornell University, where he worked with Hans Bethe and Richard Feynman.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Dyson's proof that the Feynman and Schwinger-Tomonaga approaches to QED were equivalent was a landmark in theoretical physics. His concept of the Dyson sphere became iconic in science fiction and the search for extraterrestrial intelligence.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1945,
+      "event": {
+        "en": "Graduated from the University of Cambridge in mathematics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Published the proof unifying QED formulations by Feynman, Schwinger, and Tomonaga",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Joined the Institute for Advanced Study in Princeton permanently",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1960,
+      "event": {
+        "en": "Proposed the concept of the Dyson sphere",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2000,
+      "event": {
+        "en": "Awarded the Templeton Prize for contributions bridging science and religion",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Unification of QED Formulations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1949,
+      "description": {
+        "en": "Proved the mathematical equivalence of Feynman's and Schwinger-Tomonaga's approaches to quantum electrodynamics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Dyson Sphere Concept",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1960,
+      "description": {
+        "en": "Proposed a megastructure enclosing a star to capture its energy output, stimulating SETI research.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Disturbing the Universe",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1979,
+      "description": {
+        "en": "An autobiographical work blending science, ethics, and reflections on nuclear weapons and space exploration.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is better to be wrong than to be vague.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "God is what mind becomes when it has passed beyond the scale of our comprehension.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Infinite in All Directions, 1988"
+    }
+  ],
+  "relations": [
+    {
+      "person": "richard-feynman",
+      "type": "colleague"
+    },
+    {
+      "person": "julian-schwinger",
+      "type": "colleague"
+    },
+    {
+      "person": "hans-bethe",
+      "type": "influenced_by"
+    },
+    {
+      "person": "sin-itiro-tomonaga",
+      "type": "colleague"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "joseph-fourier",
+  "name": {
+    "en": "Joseph Fourier",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョゼフ・フーリエ"
+  },
+  "birth_year": 1768,
+  "death_year": 1830,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics",
+    "physics"
+  ],
+  "overview": {
+    "en": "Joseph Fourier developed Fourier analysis, showing that any function can be represented as a series of sines and cosines.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Auxerre to a tailor's family. Orphaned at age nine, he was educated at a military school run by Benedictines.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Fourier analysis became indispensable across mathematics, physics, and engineering, from signal processing to quantum mechanics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1807,
+      "event": {
+        "en": "Presented his theory of heat conduction to the French Academy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1822,
+      "event": {
+        "en": "Published Théorie analytique de la chaleur",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Théorie analytique de la chaleur",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1822,
+      "description": {
+        "en": "Foundational work on heat conduction introducing Fourier series",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Théorie analytique de la chaleur"
+    }
+  ],
+  "relations": []
+}

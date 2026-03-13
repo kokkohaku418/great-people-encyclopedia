@@ -1,0 +1,153 @@
+{
+  "id": "george-boole",
+  "name": {
+    "en": "George Boole",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョージ・ブール"
+  },
+  "birth_year": 1815,
+  "death_year": 1864,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "George Boole was an English mathematician and logician who developed Boolean algebra, the basis for modern digital computer circuits and programming.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Boole was born in Lincoln, England, to a working-class family. Largely self-taught in mathematics, he became the first professor of mathematics at Queen's College, Cork.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Boolean algebra became the mathematical foundation of digital computing. Every modern computer uses Boolean logic gates, making Boole's work fundamental to the information age.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1847,
+      "event": {
+        "en": "Published The Mathematical Analysis of Logic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1849,
+      "event": {
+        "en": "Appointed professor at Queen's College, Cork",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1854,
+      "event": {
+        "en": "Published An Investigation of the Laws of Thought",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "An Investigation of the Laws of Thought",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1854,
+      "description": {
+        "en": "Foundational work establishing Boolean algebra and mathematical logic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "No general method for the solution of questions in the theory of probabilities can be established which does not explicitly recognise the connexion of the science with logic.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Laws of Thought, 1854"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,169 @@
+{
+  "id": "mary-wollstonecraft",
+  "name": {
+    "en": "Mary Wollstonecraft",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "メアリ・ウルストンクラフト"
+  },
+  "birth_year": 1759,
+  "death_year": 1797,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "philosophy",
+    "politics"
+  ],
+  "overview": {
+    "en": "Mary Wollstonecraft was a British writer and philosopher who is considered the founder of feminist philosophy. Her Vindication of the Rights of Woman argued for women's equality.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wollstonecraft was born in London to a family of declining means. Largely self-educated, she worked as a governess and teacher before becoming a writer and political commentator.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wollstonecraft's Vindication of the Rights of Woman is a foundational text of feminism. Her arguments for women's education and equality influenced the suffragist movements and modern gender equality.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1787,
+      "event": {
+        "en": "Published Thoughts on the Education of Daughters",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1790,
+      "event": {
+        "en": "Published A Vindication of the Rights of Men",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1792,
+      "event": {
+        "en": "Published A Vindication of the Rights of Woman",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1797,
+      "event": {
+        "en": "Died shortly after giving birth to Mary Shelley",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A Vindication of the Rights of Woman",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1792,
+      "description": {
+        "en": "Groundbreaking argument for women's equality and access to education",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I do not wish women to have power over men, but over themselves.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "A Vindication of the Rights of Woman, 1792"
+    }
+  ],
+  "relations": []
+}

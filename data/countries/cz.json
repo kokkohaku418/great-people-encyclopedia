@@ -1,0 +1,19 @@
+{
+  "id": "cz",
+  "name": {
+    "en": "Czech Republic",
+    "es": "República Checa",
+    "pt": "República Tcheca",
+    "fr": "République tchèque",
+    "de": "Tschechien",
+    "zh": "捷克",
+    "hi": "चेक गणराज्य",
+    "ar": "التشيك",
+    "id": "Republik Ceko",
+    "ja": "チェコ"
+  },
+  "region": "eastern-europe",
+  "description": {
+    "en": "A central European country with a rich history in science, literature, and music."
+  }
+}

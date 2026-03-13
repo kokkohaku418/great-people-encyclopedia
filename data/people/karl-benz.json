@@ -1,0 +1,153 @@
+{
+  "id": "karl-benz",
+  "name": {
+    "en": "Karl Benz",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・ベンツ"
+  },
+  "birth_year": 1844,
+  "death_year": 1929,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "Karl Benz was a German engine designer and automobile engineer who created the first practical automobile powered by an internal combustion engine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Muhlburg, Baden, he studied mechanical engineering at the University of Karlsruhe and dedicated himself to creating a motorized vehicle.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His Patent-Motorwagen of 1886 is widely regarded as the first true automobile, and his wife Bertha's famous long-distance drive proved its practicality to the world.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1886,
+      "event": {
+        "en": "Patented the Benz Patent-Motorwagen, the first automobile",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1888,
+      "event": {
+        "en": "Bertha Benz drove the Patent-Motorwagen on the first long-distance automobile trip",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1926,
+      "event": {
+        "en": "Benz & Cie merged with Daimler to form Daimler-Benz",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Benz Patent-Motorwagen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1886,
+      "description": {
+        "en": "The world's first automobile powered by an internal combustion engine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Nothing in this world is more powerful than an idea whose time has come.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

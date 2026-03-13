@@ -1,0 +1,168 @@
+{
+  "id": "toussaint-louverture",
+  "name": {
+    "en": "Toussaint Louverture",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "トゥーサン・ルーヴェルチュール"
+  },
+  "birth_year": 1743,
+  "death_year": 1803,
+  "countries": [
+    "ht"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Toussaint Louverture was the leader of the Haitian Revolution, the most successful slave revolt in history, which established Haiti as the first free Black republic.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Louverture was born into slavery in Saint-Domingue. Self-educated, he became a skilled horseman and healer before emerging as the leader of the slave uprising.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Louverture's leadership of the Haitian Revolution demonstrated that enslaved people could achieve their own liberation, inspiring abolition movements worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1791,
+      "event": {
+        "en": "Joined the Haitian slave revolt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1794,
+      "event": {
+        "en": "Allied with France; became dominant leader",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1801,
+      "event": {
+        "en": "Issued constitution abolishing slavery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1803,
+      "event": {
+        "en": "Died in French captivity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Haitian Revolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1791,
+      "description": {
+        "en": "The largest and most successful slave revolt in history",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "In overthrowing me you have cut down in Saint-Domingue only the trunk of the tree of liberty; it will spring up again from the roots.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Statement to captors, 1802"
+    }
+  ],
+  "relations": []
+}

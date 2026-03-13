@@ -1,0 +1,254 @@
+{
+  "id": "vera-rubin",
+  "name": {
+    "en": "Vera Rubin",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴェラ・ルービン"
+  },
+  "birth_year": 1928,
+  "death_year": 2016,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Vera Rubin was an American astronomer who provided some of the first strong observational evidence for the existence of dark matter. Her measurements of galaxy rotation curves showed that galaxies contain far more mass than is visible, fundamentally changing our understanding of the universe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Rubin was born in Philadelphia, Pennsylvania and developed a passion for astronomy as a child. She earned her master's degree from Cornell under Philip Morrison and her Ph.D. from Georgetown University, overcoming significant gender discrimination in astronomy throughout her career.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Rubin's galaxy rotation curve measurements provided compelling evidence that most of the matter in the universe is invisible dark matter. Her work opened an entirely new field of research and she became a prominent advocate for women in science, mentoring many female astronomers.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1928,
+      "event": {
+        "en": "Born in Philadelphia, Pennsylvania, United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Earned Ph.D. from Georgetown University with work on galaxy clustering",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1970,
+      "event": {
+        "en": "Began systematic measurements of galaxy rotation curves with Kent Ford",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1980,
+      "event": {
+        "en": "Published landmark paper establishing flat rotation curves as evidence for dark matter",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1993,
+      "event": {
+        "en": "Awarded the National Medal of Science",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2016,
+      "event": {
+        "en": "Died in Princeton, New Jersey at age 88",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1970,
+      "description": {
+        "en": "Groundbreaking study of the Andromeda galaxy's rotation curve revealing unexpectedly high orbital velocities in the outer regions.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Rotational Properties of 21 SC Galaxies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1980,
+      "description": {
+        "en": "Systematic study of spiral galaxy rotation curves demonstrating flat rotation curves inconsistent with visible mass alone, supporting the dark matter hypothesis.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "In a spiral galaxy, the weights of stars are not important; what really matters is the invisible dark matter.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Scientific American interview"
+    },
+    {
+      "text": {
+        "en": "Fame is fleeting. My numbers mean more to me than my name.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Discover Magazine interview"
+    }
+  ],
+  "relations": [
+    {
+      "person": "kent-ford",
+      "type": "collaborator"
+    },
+    {
+      "person": "fritz-zwicky",
+      "type": "influenced_by"
+    },
+    {
+      "person": "margaret-burbidge",
+      "type": "colleague"
+    }
+  ]
+}

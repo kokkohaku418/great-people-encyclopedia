@@ -1,0 +1,19 @@
+{
+  "id": "ke",
+  "name": {
+    "en": "Kenya",
+    "es": "Kenia",
+    "pt": "Quênia",
+    "fr": "Kenya",
+    "de": "Kenia",
+    "zh": "肯尼亚",
+    "hi": "केन्या",
+    "ar": "كينيا",
+    "id": "Kenya",
+    "ja": "ケニア"
+  },
+  "region": "sub-saharan-africa",
+  "description": {
+    "en": "An East African country known for its wildlife, innovation in mobile technology, and growing scientific research."
+  }
+}

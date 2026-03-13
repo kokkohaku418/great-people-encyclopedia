@@ -1,0 +1,153 @@
+{
+  "id": "shotoku-taishi",
+  "name": {
+    "en": "Shotoku Taishi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "聖徳太子"
+  },
+  "birth_year": 574,
+  "death_year": 622,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Prince Shotoku was a semi-legendary regent of Japan who promoted Buddhism and Chinese political institutions, shaping the foundations of Japanese civilization.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born as Prince Umayado, he served as regent for Empress Suiko and was renowned for his intelligence and piety.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He established Buddhism as a state religion, introduced the Chinese calendar and court ranks, and authored Japan's first constitution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 593,
+      "event": {
+        "en": "Became regent for Empress Suiko",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 604,
+      "event": {
+        "en": "Promulgated the Seventeen-Article Constitution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 607,
+      "event": {
+        "en": "Sent envoys to Sui Dynasty China",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Seventeen-Article Constitution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 604,
+      "description": {
+        "en": "Japan's first written code of governance emphasizing harmony and Buddhist values",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Harmony is to be valued, and an avoidance of wanton opposition to be honored.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Seventeen-Article Constitution, Article 1"
+    }
+  ],
+  "relations": []
+}

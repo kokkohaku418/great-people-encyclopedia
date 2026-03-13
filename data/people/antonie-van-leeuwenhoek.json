@@ -1,0 +1,168 @@
+{
+  "id": "antonie-van-leeuwenhoek",
+  "name": {
+    "en": "Antonie van Leeuwenhoek",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アントニ・ファン・レーウェンフック"
+  },
+  "birth_year": 1632,
+  "death_year": 1723,
+  "countries": [
+    "nl"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Antonie van Leeuwenhoek was a Dutch businessman and scientist, often called the father of microbiology. He was the first to observe bacteria and protozoa using microscopes he built himself.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Van Leeuwenhoek was born in Delft, Netherlands. He was a draper and haberdasher who developed skill in grinding lenses and built simple but powerful single-lens microscopes.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Van Leeuwenhoek's observations of microorganisms opened an entirely new world to science. His meticulous descriptions of bacteria, blood cells, and sperm cells founded microbiology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1674,
+      "event": {
+        "en": "Observed protozoa for the first time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1676,
+      "event": {
+        "en": "Observed bacteria",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1677,
+      "event": {
+        "en": "Described spermatozoa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1683,
+      "event": {
+        "en": "Drew bacteria from dental plaque",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Letter to the Royal Society",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1676,
+      "description": {
+        "en": "First descriptions of bacteria and protozoa observed through his microscopes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "My work, which I've done for a long time, was not pursued in order to gain the praise I now enjoy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to the Royal Society"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,168 @@
+{
+  "id": "augustus-caesar",
+  "name": {
+    "en": "Augustus",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アウグストゥス"
+  },
+  "birth_year": -63,
+  "death_year": 14,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Augustus was the first Roman emperor, founding the Roman Principate and transforming the Republic into an empire that would endure for centuries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born Gaius Octavius in Rome, he was adopted by Julius Caesar and became his heir. After defeating rivals Mark Antony and Cleopatra, he became the undisputed ruler of Rome.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Augustus established the Pax Romana, a period of relative peace and stability lasting over 200 years. He reformed administration, built infrastructure, and transformed Rome.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -44,
+      "event": {
+        "en": "Adopted as Caesar's heir",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -31,
+      "event": {
+        "en": "Defeated Antony and Cleopatra at Actium",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -27,
+      "event": {
+        "en": "Became first Roman Emperor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 14,
+      "event": {
+        "en": "Died after 40 years of rule",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Res Gestae Divi Augusti",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 14,
+      "description": {
+        "en": "Autobiography of Augustus's achievements inscribed on bronze tablets",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I found Rome a city of bricks and left it a city of marble.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Suetonius"
+    }
+  ],
+  "relations": []
+}

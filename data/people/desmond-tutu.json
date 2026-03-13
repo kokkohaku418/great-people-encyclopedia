@@ -1,0 +1,168 @@
+{
+  "id": "desmond-tutu",
+  "name": {
+    "en": "Desmond Tutu",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "デズモンド・ツツ"
+  },
+  "birth_year": 1931,
+  "death_year": 2021,
+  "countries": [
+    "za"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Desmond Tutu was a South African Anglican cleric and theologian who was a leading voice against apartheid and won the Nobel Peace Prize.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Tutu was born in Klerksdorp, South Africa. He was ordained as an Anglican priest and became the first Black Archbishop of Cape Town.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Tutu's moral leadership during the anti-apartheid struggle and his chairmanship of the Truth and Reconciliation Commission helped South Africa's peaceful transition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1978,
+      "event": {
+        "en": "Became first Black general secretary of the South African Council of Churches",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1984,
+      "event": {
+        "en": "Awarded Nobel Peace Prize",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1986,
+      "event": {
+        "en": "Became Archbishop of Cape Town",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1996,
+      "event": {
+        "en": "Chaired Truth and Reconciliation Commission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Truth and Reconciliation Commission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1996,
+      "description": {
+        "en": "Body that investigated apartheid-era human rights abuses",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If you are neutral in situations of injustice, you have chosen the side of the oppressor.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

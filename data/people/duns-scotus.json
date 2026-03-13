@@ -1,0 +1,138 @@
+{
+  "id": "duns-scotus",
+  "name": {
+    "en": "Duns Scotus",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ドゥンス・スコトゥス"
+  },
+  "birth_year": 1266,
+  "death_year": 1308,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Duns Scotus was a Franciscan philosopher-theologian known for his subtle and rigorous arguments.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Duns, Scotland. Studied and taught at Oxford, Paris, and Cologne.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His concept of haecceity (individual essence) and univocity of being were major contributions to metaphysics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1300,
+      "event": {
+        "en": "Lectured on the Sentences of Peter Lombard at Oxford and Paris",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1308,
+      "event": {
+        "en": "Died in Cologne; beatified in 1993",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Ordinatio",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1300,
+      "description": {
+        "en": "Major theological and philosophical commentary on the Sentences of Peter Lombard",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The will is the supreme faculty.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Ordinatio paraphrase"
+    }
+  ],
+  "relations": []
+}

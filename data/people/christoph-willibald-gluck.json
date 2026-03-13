@@ -1,0 +1,139 @@
+{
+  "id": "christoph-willibald-gluck",
+  "name": {
+    "en": "Christoph Willibald Gluck",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クリストフ・ヴィリバルト・グルック"
+  },
+  "birth_year": 1714,
+  "death_year": 1787,
+  "countries": [
+    "de",
+    "at"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Gluck reformed opera by emphasizing dramatic expression over vocal display, paving the way for Mozart and Wagner.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Erasbach, Bavaria. He studied in Prague and Milan before becoming a prominent opera composer across Europe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His operatic reforms stripped away Baroque excess to serve the drama, fundamentally reshaping the art of opera.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1762,
+      "event": {
+        "en": "Premiered Orfeo ed Euridice, the first reform opera",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1774,
+      "event": {
+        "en": "Premiered Iphigénie en Aulide in Paris",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Orfeo ed Euridice",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1762,
+      "description": {
+        "en": "Opera that launched the reform of opera seria through dramatic simplicity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Simplicity, truth, and naturalness are the great principles of beauty in all productions of art.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Preface to Alceste"
+    }
+  ],
+  "relations": []
+}

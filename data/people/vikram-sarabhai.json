@@ -1,0 +1,139 @@
+{
+  "id": "vikram-sarabhai",
+  "name": {
+    "en": "Vikram Sarabhai",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴィクラム・サラバイ"
+  },
+  "birth_year": 1919,
+  "death_year": 1971,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "physics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Vikram Sarabhai was the father of the Indian space program and a pioneer in applying science to national development.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Ahmedabad to a prominent industrialist family. He studied at Cambridge under C.V. Raman and at the Cavendish Laboratory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He founded ISRO and the Physical Research Laboratory, establishing India as a space-faring nation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1947,
+      "event": {
+        "en": "Founded the Physical Research Laboratory in Ahmedabad",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1969,
+      "event": {
+        "en": "Founded the Indian Space Research Organisation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Cosmic Ray Studies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1947,
+      "description": {
+        "en": "Research on cosmic rays and their relationship to solar activity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There are some who question the relevance of space activities in a developing nation. To us, there is no ambiguity of purpose.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Address on the Indian space program"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,138 @@
+{
+  "id": "tulsidas",
+  "name": {
+    "en": "Tulsidas",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "トゥルシーダース"
+  },
+  "birth_year": 1532,
+  "death_year": 1623,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Tulsidas was a Hindu poet-saint best known for the Ramcharitmanas, a retelling of the Ramayana in Awadhi.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Rajapur, Uttar Pradesh. Orphaned young and raised by a sadhu.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Ramcharitmanas became the most popular version of the Rama story in northern India and shaped Hindi literary culture.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1574,
+      "event": {
+        "en": "Began composing the Ramcharitmanas in Ayodhya",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1623,
+      "event": {
+        "en": "Died in Varanasi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Ramcharitmanas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1574,
+      "description": {
+        "en": "Epic retelling of the Ramayana in Awadhi Hindi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The root of religion is compassion.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Ramcharitmanas"
+    }
+  ],
+  "relations": []
+}

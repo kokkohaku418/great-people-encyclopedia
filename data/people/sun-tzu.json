@@ -1,0 +1,123 @@
+{
+  "id": "sun-tzu",
+  "name": {
+    "en": "Sun Tzu",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "孫子"
+  },
+  "birth_year": -544,
+  "death_year": -496,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Sun Tzu was a Chinese military strategist, philosopher, and author of The Art of War, one of the most influential treatises on military strategy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Little is known about Sun Tzu's life. He is traditionally identified as a military advisor to the King of Wu during the Spring and Autumn Period.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Art of War has influenced military strategy, business, and competitive thinking for over two millennia across cultures worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -512,
+      "event": {
+        "en": "Served as military advisor to King Helü of Wu",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Art of War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -500,
+      "description": {
+        "en": "Treatise on military strategy and tactics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The supreme art of war is to subdue the enemy without fighting.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Art of War"
+    }
+  ],
+  "relations": []
+}

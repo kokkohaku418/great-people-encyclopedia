@@ -1,0 +1,138 @@
+{
+  "id": "sophocles",
+  "name": {
+    "en": "Sophocles",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ソポクレス"
+  },
+  "birth_year": -496,
+  "death_year": -406,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Sophocles was one of the three great tragedians of classical Athens, known for masterful character development and dramatic irony.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Colonus near Athens to a wealthy family. He won his first victory at the Dionysia at age 28, defeating Aeschylus.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His plays, especially Oedipus Rex, set the standard for tragic drama and remain central to the Western literary canon.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -468,
+      "event": {
+        "en": "Won first prize at the City Dionysia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -441,
+      "event": {
+        "en": "Served as one of the ten Athenian generals",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Oedipus Rex",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -429,
+      "description": {
+        "en": "Tragedy considered the perfect example of dramatic structure by Aristotle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The greatest griefs are those we cause ourselves.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Oedipus Rex"
+    }
+  ],
+  "relations": []
+}

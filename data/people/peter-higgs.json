@@ -1,0 +1,238 @@
+{
+  "id": "peter-higgs",
+  "name": {
+    "en": "Peter Higgs",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ピーター・ヒッグス"
+  },
+  "birth_year": 1929,
+  "death_year": 2024,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Peter Higgs was a British theoretical physicist who proposed the mechanism of spontaneous symmetry breaking in gauge theories, predicting the existence of a massive scalar boson. The discovery of the Higgs boson at CERN in 2012 confirmed his theory, and he was awarded the 2013 Nobel Prize in Physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Higgs was born in Newcastle upon Tyne and grew up in Bristol. He studied at King's College London, earning his Ph.D. in 1954, and spent most of his academic career at the University of Edinburgh.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Higgs mechanism explains how fundamental particles acquire mass and is a central pillar of the Standard Model of particle physics. The experimental confirmation of the Higgs boson at the Large Hadron Collider was one of the greatest triumphs in the history of physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1929,
+      "event": {
+        "en": "Born in Newcastle upon Tyne, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1964,
+      "event": {
+        "en": "Published papers proposing the Higgs mechanism and predicting the Higgs boson",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2012,
+      "event": {
+        "en": "CERN announced the discovery of the Higgs boson at the Large Hadron Collider",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2013,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics with Francois Englert",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2024,
+      "event": {
+        "en": "Died in Edinburgh, Scotland at age 94",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Broken Symmetries and the Masses of Gauge Bosons",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1964,
+      "description": {
+        "en": "Paper proposing that spontaneous symmetry breaking in gauge theories could give mass to gauge bosons, predicting a new massive scalar particle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Broken Symmetries, Massless Particles and Gauge Fields",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1964,
+      "description": {
+        "en": "Companion paper further developing the mechanism of mass generation through symmetry breaking.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I had no expectation that I would still be alive when it happened.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On the discovery of the Higgs boson, 2012"
+    },
+    {
+      "text": {
+        "en": "It's very nice to be right sometimes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Press conference after Nobel Prize announcement, 2013"
+    }
+  ],
+  "relations": [
+    {
+      "person": "francois-englert",
+      "type": "collaborator"
+    },
+    {
+      "person": "steven-weinberg",
+      "type": "colleague"
+    },
+    {
+      "person": "sheldon-glashow",
+      "type": "colleague"
+    }
+  ]
+}

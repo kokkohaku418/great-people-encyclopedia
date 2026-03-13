@@ -1,0 +1,138 @@
+{
+  "id": "christopher-wren",
+  "name": {
+    "en": "Christopher Wren",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クリストファー・レン"
+  },
+  "birth_year": 1632,
+  "death_year": 1723,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "Christopher Wren was England's greatest architect, who redesigned London after the Great Fire and built St Paul's Cathedral.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in East Knoyle, Wiltshire. He was a brilliant mathematician and astronomer before turning to architecture.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His architectural works defined the English Baroque style and reshaped the skyline of London for centuries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1666,
+      "event": {
+        "en": "Commissioned to rebuild London churches after the Great Fire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1675,
+      "event": {
+        "en": "Began construction of St Paul's Cathedral",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "St Paul's Cathedral",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1710,
+      "description": {
+        "en": "Masterpiece of English Baroque architecture, completed after 35 years",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Architecture aims at Eternity.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Parentalia"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,139 @@
+{
+  "id": "jack-steinberger",
+  "name": {
+    "en": "Jack Steinberger",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジャック・シュタインバーガー"
+  },
+  "birth_year": 1921,
+  "death_year": 2020,
+  "countries": [
+    "us",
+    "ch"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Jack Steinberger was a German-born American physicist who co-discovered the muon neutrino and made key contributions to neutrino physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Bad Kissingen, Germany. Fled Nazi Germany in 1934 as part of a Kindertransport and settled in Chicago.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Steinberger's experimental work on neutrinos helped establish the Standard Model of particle physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1962,
+      "event": {
+        "en": "Co-discovered the muon neutrino at Brookhaven",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1988,
+      "event": {
+        "en": "Awarded Nobel Prize in Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Observation of High-Energy Neutrino Reactions and the Existence of Two Kinds of Neutrinos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1962,
+      "description": {
+        "en": "Landmark paper proving the existence of the muon neutrino",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I owe my life and my career to the kindness of strangers.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Autobiography"
+    }
+  ],
+  "relations": []
+}

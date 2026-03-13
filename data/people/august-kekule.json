@@ -1,0 +1,153 @@
+{
+  "id": "august-kekule",
+  "name": {
+    "en": "August Kekulé",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アウグスト・ケクレ"
+  },
+  "birth_year": 1829,
+  "death_year": 1896,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "August Kekulé was a German organic chemist who was the principal founder of the theory of chemical structure, including the structure of benzene as a ring.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kekulé was born in Darmstadt, Germany. He originally studied architecture but switched to chemistry after attending Liebig's lectures. He studied under several prominent chemists across Europe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kekulé's theory of carbon's tetravalence and the ring structure of benzene were foundational insights that enabled the development of structural organic chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1857,
+      "event": {
+        "en": "Proposed carbon tetravalence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1858,
+      "event": {
+        "en": "Published theory of chemical structure",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1865,
+      "event": {
+        "en": "Proposed ring structure of benzene",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Constitution and Metamorphoses of Chemical Compounds",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1858,
+      "description": {
+        "en": "Paper establishing structural theory in organic chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Let us learn to dream, gentlemen, and then we may perhaps find the truth.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Speech at the Berlin Chemical Society, 1890"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "be",
+  "name": {
+    "en": "Belgium",
+    "es": "Bélgica",
+    "pt": "Bélgica",
+    "fr": "Belgique",
+    "de": "Belgien",
+    "zh": "比利时",
+    "hi": "बेल्जियम",
+    "ar": "بلجيكا",
+    "id": "Belgia",
+    "ja": "ベルギー"
+  },
+  "region": "western-europe",
+  "description": {
+    "en": "A western European country at the crossroads of Germanic and Latin cultures, home to major international institutions."
+  }
+}

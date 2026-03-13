@@ -1,0 +1,212 @@
+{
+  "id": "carl-friedrich-gauss",
+  "name": {
+    "en": "Carl Friedrich Gauss",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・フリードリヒ・ガウス"
+  },
+  "birth_year": 1777,
+  "death_year": 1855,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "mathematics",
+    "physics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Carl Friedrich Gauss was a German mathematician and physicist who made extraordinary contributions to number theory, algebra, statistics, analysis, and astronomy. He is often called the Prince of Mathematicians.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Gauss was born in Brunswick to a poor family. A child prodigy, he reportedly summed integers from 1 to 100 instantly as a schoolboy. The Duke of Brunswick sponsored his education at the University of Göttingen.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Gauss's work in number theory, differential geometry, and statistics shaped modern mathematics. The Gaussian distribution, Gauss's law, and the fundamental theorem of algebra bear his name.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1796,
+      "event": {
+        "en": "Proved constructibility of the regular 17-gon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1799,
+      "event": {
+        "en": "Proved the fundamental theorem of algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1801,
+      "event": {
+        "en": "Published Disquisitiones Arithmeticae",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1809,
+      "event": {
+        "en": "Published Theoria Motus on celestial mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1832,
+      "event": {
+        "en": "Developed non-Euclidean geometry concepts",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Disquisitiones Arithmeticae",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1801,
+      "description": {
+        "en": "A foundational work in number theory that shaped the field",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Theoria Motus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1809,
+      "description": {
+        "en": "Methods for determining orbits of celestial bodies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Mathematics is the queen of the sciences and number theory is the queen of mathematics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,139 @@
+{
+  "id": "plotinus",
+  "name": {
+    "en": "Plotinus",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "プロティノス"
+  },
+  "birth_year": 204,
+  "death_year": 270,
+  "countries": [
+    "eg",
+    "it"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Plotinus was the founder of Neoplatonism, one of the most influential philosophical systems in Western and Islamic thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Lycopolis, Egypt. Studied in Alexandria under Ammonius Saccas for eleven years.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His philosophy of the One, emanation, and the soul's return deeply influenced Christian, Islamic, and Jewish theology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 244,
+      "event": {
+        "en": "Settled in Rome and began teaching philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 270,
+      "event": {
+        "en": "His student Porphyry later compiled his writings as the Enneads",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Enneads",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 270,
+      "description": {
+        "en": "Collection of 54 treatises on metaphysics, ethics, and aesthetics compiled by Porphyry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Withdraw into yourself and look.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Enneads I.6"
+    }
+  ],
+  "relations": []
+}

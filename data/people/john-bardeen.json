@@ -1,0 +1,242 @@
+{
+  "id": "john-bardeen",
+  "name": {
+    "en": "John Bardeen",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・バーディーン"
+  },
+  "birth_year": 1908,
+  "death_year": 1991,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "John Bardeen was an American physicist and the only person to win the Nobel Prize in Physics twice: in 1956 for the invention of the transistor and in 1972 for the BCS theory of superconductivity. His work transformed both electronics and condensed matter physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bardeen was born in Madison, Wisconsin, and was a child prodigy who graduated from high school at age 15. He studied electrical engineering at the University of Wisconsin and later earned his PhD in mathematical physics from Princeton University.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bardeen's co-invention of the transistor launched the semiconductor revolution that underpins modern electronics and computing. His BCS theory provided the first microscopic explanation of superconductivity, solving one of the great puzzles of 20th-century physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1936,
+      "event": {
+        "en": "Earned PhD from Princeton University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Co-invented the point-contact transistor at Bell Labs with Brattain",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1951,
+      "event": {
+        "en": "Joined the University of Illinois at Urbana-Champaign",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for the transistor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Published the BCS theory of superconductivity with Cooper and Schrieffer",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1972,
+      "event": {
+        "en": "Awarded a second Nobel Prize in Physics for BCS theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Invention of the Transistor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1947,
+      "description": {
+        "en": "Co-invented the point-contact transistor at Bell Labs, launching the semiconductor revolution.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "BCS Theory of Superconductivity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1957,
+      "description": {
+        "en": "Developed a comprehensive microscopic theory explaining superconductivity through Cooper pair formation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Lecture, 1956"
+    }
+  ],
+  "relations": [
+    {
+      "person": "william-shockley",
+      "type": "colleague"
+    },
+    {
+      "person": "walter-brattain",
+      "type": "collaborator"
+    },
+    {
+      "person": "leon-cooper",
+      "type": "collaborator"
+    },
+    {
+      "person": "eugene-wigner",
+      "type": "influenced_by"
+    }
+  ]
+}

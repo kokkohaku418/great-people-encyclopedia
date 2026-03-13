@@ -1,0 +1,138 @@
+{
+  "id": "christiaan-barnard",
+  "name": {
+    "en": "Christiaan Barnard",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クリスチャン・バーナード"
+  },
+  "birth_year": 1922,
+  "death_year": 2001,
+  "countries": [
+    "za"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Christiaan Barnard was a South African cardiac surgeon who performed the world's first successful human-to-human heart transplant.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Beaufort West, Cape Province, he studied medicine at the University of Cape Town and trained in cardiac surgery at the University of Minnesota.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His pioneering heart transplant opened the era of organ transplantation and transformed cardiac surgery from an experimental field into a life-saving practice.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1967,
+      "event": {
+        "en": "Performed the world's first human-to-human heart transplant at Groote Schuur Hospital",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1974,
+      "event": {
+        "en": "Performed the first heterotopic heart transplant",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "One Life",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1969,
+      "description": {
+        "en": "Autobiography describing his path to the first heart transplant",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is infinitely better to transplant a heart than to bury it to be devoured by worms.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Press conference after the first heart transplant"
+    }
+  ],
+  "relations": []
+}

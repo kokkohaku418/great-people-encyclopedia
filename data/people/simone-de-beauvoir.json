@@ -1,0 +1,169 @@
+{
+  "id": "simone-de-beauvoir",
+  "name": {
+    "en": "Simone de Beauvoir",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "シモーヌ・ド・ボーヴォワール"
+  },
+  "birth_year": 1908,
+  "death_year": 1986,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "philosophy",
+    "literature"
+  ],
+  "overview": {
+    "en": "Simone de Beauvoir was a French existentialist philosopher and feminist writer. Her book The Second Sex is a foundational text of modern feminism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "De Beauvoir was born in Paris to a bourgeois family. She studied philosophy at the Sorbonne and the École Normale Supérieure, where she met Jean-Paul Sartre.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Second Sex's analysis of women's oppression launched the second wave of feminism. De Beauvoir's existentialist ethics and feminist philosophy transformed social thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1943,
+      "event": {
+        "en": "Published She Came to Stay",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1949,
+      "event": {
+        "en": "Published The Second Sex",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Won the Prix Goncourt for The Mandarins",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1970,
+      "event": {
+        "en": "Became active in the women's liberation movement",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Second Sex",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1949,
+      "description": {
+        "en": "Groundbreaking analysis of women's oppression and the construction of femininity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "One is not born, but rather becomes, a woman.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Second Sex, 1949"
+    }
+  ],
+  "relations": []
+}

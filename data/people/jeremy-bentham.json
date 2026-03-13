@@ -1,0 +1,168 @@
+{
+  "id": "jeremy-bentham",
+  "name": {
+    "en": "Jeremy Bentham",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジェレミー・ベンサム"
+  },
+  "birth_year": 1748,
+  "death_year": 1832,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Jeremy Bentham was an English philosopher and jurist who founded utilitarianism, the ethical theory that actions should maximize the greatest happiness for the greatest number.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in London to a wealthy family, he was a child prodigy who attended Oxford at age twelve and trained as a lawyer but never practiced.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His utilitarian philosophy reshaped law, economics, and public policy, and his ideas on individual liberty, animal rights, and prison reform were centuries ahead of their time.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1776,
+      "event": {
+        "en": "Published A Fragment on Government, critiquing Blackstone",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1789,
+      "event": {
+        "en": "Published An Introduction to the Principles of Morals and Legislation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1791,
+      "event": {
+        "en": "Designed the Panopticon, an innovative prison concept",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "An Introduction to the Principles of Morals and Legislation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1789,
+      "description": {
+        "en": "Foundational text of utilitarian philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The greatest happiness of the greatest number is the foundation of morals and legislation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "An Introduction to the Principles of Morals and Legislation"
+    },
+    {
+      "text": {
+        "en": "The question is not, Can they reason?, nor Can they talk?, but, Can they suffer?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On animal rights"
+    }
+  ],
+  "relations": []
+}

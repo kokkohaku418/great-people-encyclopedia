@@ -1,0 +1,284 @@
+{
+  "id": "james-clerk-maxwell",
+  "name": {
+    "en": "James Clerk Maxwell",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジェームズ・クラーク・マクスウェル"
+  },
+  "birth_year": 1831,
+  "death_year": 1879,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "James Clerk Maxwell was a Scottish physicist who unified electricity, magnetism, and optics into a single theoretical framework through his equations of electromagnetism. He is widely regarded as one of the most influential physicists in history, on par with Newton and Einstein.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Edinburgh, Scotland, Maxwell showed remarkable mathematical ability from a young age, publishing his first scientific paper at fourteen. He studied at the University of Edinburgh and then Cambridge, where he became one of the top students.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Maxwell's equations unified electricity, magnetism, and light into a single coherent theory, paving the way for radio, television, and modern telecommunications. His work on statistical mechanics and the kinetic theory of gases also laid essential foundations for modern physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1855,
+      "event": {
+        "en": "Published 'On Faraday's Lines of Force,' beginning his mathematical treatment of electromagnetism.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1861,
+      "event": {
+        "en": "Produced the first color photograph, demonstrating the three-color process.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1864,
+      "event": {
+        "en": "Presented 'A Dynamical Theory of the Electromagnetic Field,' unifying electricity, magnetism, and light.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1867,
+      "event": {
+        "en": "Proposed the thought experiment known as Maxwell's demon in thermodynamics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1871,
+      "event": {
+        "en": "Became the first Cavendish Professor of Physics at Cambridge.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1873,
+      "event": {
+        "en": "Published 'A Treatise on Electricity and Magnetism,' his masterwork.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "A Dynamical Theory of the Electromagnetic Field",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1865,
+      "description": {
+        "en": "The paper presenting Maxwell's equations unifying electricity, magnetism, and optics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A Treatise on Electricity and Magnetism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1873,
+      "description": {
+        "en": "Comprehensive two-volume treatise presenting the full mathematical framework of electromagnetism.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Dynamical Theory of Gases",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1867,
+      "description": {
+        "en": "Key paper developing the Maxwell-Boltzmann distribution in statistical mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The special theory of electricity and magnetism, the undulatory theory of light, and the theory of heat are now unified.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "A Dynamical Theory of the Electromagnetic Field, 1865"
+    },
+    {
+      "text": {
+        "en": "In science, there are no authorities; only those who have investigated and those who have not.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "ludwig-boltzmann",
+      "type": "influenced"
+    },
+    {
+      "person": "heinrich-hertz",
+      "type": "influenced"
+    },
+    {
+      "person": "lord-kelvin",
+      "type": "colleague"
+    },
+    {
+      "person": "hermann-von-helmholtz",
+      "type": "colleague"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "arthur-schopenhauer",
+  "name": {
+    "en": "Arthur Schopenhauer",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アルトゥル・ショーペンハウアー"
+  },
+  "birth_year": 1788,
+  "death_year": 1860,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Arthur Schopenhauer was a German philosopher best known for his work The World as Will and Representation, which characterized the phenomenal world as driven by a blind, purposeless will.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Schopenhauer was born in Danzig to a wealthy merchant family. He studied philosophy at the University of Berlin, where he developed a rivalry with Hegel.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Schopenhauer's pessimistic philosophy and his emphasis on the will influenced Nietzsche, Freud, Wagner, Wittgenstein, and existentialism. He was also one of the first Western philosophers to engage seriously with Eastern thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1818,
+      "event": {
+        "en": "Published The World as Will and Representation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1836,
+      "event": {
+        "en": "Published On the Will in Nature",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1851,
+      "event": {
+        "en": "Published Parerga and Paralipomena, bringing fame",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The World as Will and Representation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1818,
+      "description": {
+        "en": "Major work arguing the world is driven by an irrational, purposeless will",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "All truth passes through three stages: first it is ridiculed, second it is violently opposed, third it is accepted as self-evident.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

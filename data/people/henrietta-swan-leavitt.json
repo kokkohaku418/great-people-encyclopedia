@@ -1,0 +1,153 @@
+{
+  "id": "henrietta-swan-leavitt",
+  "name": {
+    "en": "Henrietta Swan Leavitt",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヘンリエッタ・スワン・リーヴィット"
+  },
+  "birth_year": 1868,
+  "death_year": 1921,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Henrietta Swan Leavitt was an American astronomer who discovered the period-luminosity relationship of Cepheid variables, enabling measurement of cosmic distances.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Leavitt was born in Lancaster, Massachusetts. She graduated from Radcliffe College and worked as a 'computer' at the Harvard College Observatory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Leavitt's discovery that the brightness of Cepheid variable stars correlates with their period of variation became the key to measuring distances in the universe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1893,
+      "event": {
+        "en": "Began work at Harvard College Observatory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1908,
+      "event": {
+        "en": "Published findings on Cepheid variable stars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1912,
+      "event": {
+        "en": "Established the period-luminosity relationship",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Periods of 25 Variable Stars in the Small Magellanic Cloud",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1912,
+      "description": {
+        "en": "Paper establishing the period-luminosity relationship for Cepheid variables",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The brighter variables have the longer periods.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "1912 paper"
+    }
+  ],
+  "relations": []
+}

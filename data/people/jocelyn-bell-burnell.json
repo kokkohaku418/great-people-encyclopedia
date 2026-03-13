@@ -1,0 +1,240 @@
+{
+  "id": "jocelyn-bell-burnell",
+  "name": {
+    "en": "Jocelyn Bell Burnell",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョスリン・ベル・バーネル"
+  },
+  "birth_year": 1943,
+  "death_year": null,
+  "countries": [
+    "gb",
+    "ie"
+  ],
+  "fields": [
+    "physics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Jocelyn Bell Burnell is a British-Irish astrophysicist who, as a graduate student, discovered the first radio pulsars in 1967. Despite her crucial role in the discovery, the Nobel Prize was controversially awarded only to her supervisor Antony Hewish.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bell Burnell was born in Lurgan, Northern Ireland and grew up near the Armagh Observatory, which sparked her interest in astronomy. She studied physics at the University of Glasgow and began her Ph.D. at Cambridge, where she built and operated the radio telescope that detected pulsars.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The discovery of pulsars opened a new window on extreme physics, confirming the existence of neutron stars and later enabling indirect detection of gravitational waves. Bell Burnell became a role model for women in science and has used her platform to advocate for diversity and inclusion in physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1943,
+      "event": {
+        "en": "Born in Lurgan, Northern Ireland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Discovered the first pulsar signals as a graduate student at Cambridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1974,
+      "event": {
+        "en": "Nobel Prize in Physics awarded to Hewish and Ryle for pulsar discovery; Bell Burnell was excluded",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2018,
+      "event": {
+        "en": "Awarded the Special Breakthrough Prize in Fundamental Physics worth 3 million dollars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2021,
+      "event": {
+        "en": "Received the Copley Medal from the Royal Society",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Observation of a Rapidly Pulsating Radio Source",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1968,
+      "description": {
+        "en": "Paper announcing the discovery of the first pulsar, CP 1919, initially detected as a mysterious regularly pulsing radio signal.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A New Class of Radio Sources",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1968,
+      "description": {
+        "en": "Follow-up paper identifying additional pulsars and establishing them as a new class of astrophysical objects.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I believe it would demean Nobel Prizes if they were awarded to research students.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Speech on the Nobel Prize controversy"
+    },
+    {
+      "text": {
+        "en": "Breakthroughs tend to come from people who are a bit unusual.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Breakthrough Prize acceptance speech, 2018"
+    }
+  ],
+  "relations": [
+    {
+      "person": "antony-hewish",
+      "type": "mentor"
+    },
+    {
+      "person": "martin-ryle",
+      "type": "colleague"
+    },
+    {
+      "person": "fred-hoyle",
+      "type": "colleague"
+    }
+  ]
+}

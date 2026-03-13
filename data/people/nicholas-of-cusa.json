@@ -1,0 +1,138 @@
+{
+  "id": "nicholas-of-cusa",
+  "name": {
+    "en": "Nicholas of Cusa",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ニコラウス・クザーヌス"
+  },
+  "birth_year": 1401,
+  "death_year": 1464,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Nicholas of Cusa was a philosopher, theologian, and cardinal who anticipated many modern ideas.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Kues on the Moselle River. Studied at Heidelberg, Padua, and Cologne.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His concept of learned ignorance and the coincidence of opposites influenced later philosophy and theology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1440,
+      "event": {
+        "en": "Published De Docta Ignorantia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1448,
+      "event": {
+        "en": "Created a cardinal by Pope Nicholas V",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De Docta Ignorantia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1440,
+      "description": {
+        "en": "Philosophical treatise on the limits of human knowledge and the infinity of God",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The more we learn of our own ignorance, the closer we come to truth.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "De Docta Ignorantia paraphrase"
+    }
+  ],
+  "relations": []
+}

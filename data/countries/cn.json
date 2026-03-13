@@ -1,0 +1,19 @@
+{
+  "id": "cn",
+  "name": {
+    "en": "China",
+    "es": "China",
+    "pt": "China",
+    "fr": "Chine",
+    "de": "China",
+    "zh": "中国",
+    "hi": "चीन",
+    "ar": "الصين",
+    "id": "Tiongkok",
+    "ja": "中国"
+  },
+  "region": "east-asia",
+  "description": {
+    "en": "An East Asian country with one of the world's oldest civilizations and foundational inventions in science and technology."
+  }
+}

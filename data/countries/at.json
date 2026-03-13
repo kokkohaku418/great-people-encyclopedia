@@ -1,0 +1,19 @@
+{
+  "id": "at",
+  "name": {
+    "en": "Austria",
+    "es": "Austria",
+    "pt": "Áustria",
+    "fr": "Autriche",
+    "de": "Österreich",
+    "zh": "奥地利",
+    "hi": "ऑस्ट्रिया",
+    "ar": "النمسا",
+    "id": "Austria",
+    "ja": "オーストリア"
+  },
+  "region": "western-europe",
+  "description": {
+    "en": "A central European country with a distinguished legacy in music, philosophy, and physics."
+  }
+}

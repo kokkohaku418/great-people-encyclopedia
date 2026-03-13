@@ -1,0 +1,153 @@
+{
+  "id": "carl-jacobi",
+  "name": {
+    "en": "Carl Gustav Jacob Jacobi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・グスタフ・ヤコブ・ヤコビ"
+  },
+  "birth_year": 1804,
+  "death_year": 1851,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Carl Jacobi was a German mathematician who made fundamental contributions to elliptic functions, dynamics, differential equations, and number theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Jacobi was born in Potsdam, Prussia. He entered the University of Berlin at age 16 and earned his doctorate at 21, quickly becoming one of the leading mathematicians of his time.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Jacobi's work on elliptic functions, the Jacobian determinant, and the Hamilton-Jacobi equation remain fundamental to mathematics and physics. He was one of the greatest computational mathematicians of his era.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1829,
+      "event": {
+        "en": "Published Fundamenta nova theoriae functionum ellipticarum",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1841,
+      "event": {
+        "en": "Developed the theory of determinants including the Jacobian",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1843,
+      "event": {
+        "en": "Lectured on dynamics developing the Hamilton-Jacobi equation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Fundamenta nova",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1829,
+      "description": {
+        "en": "Major treatise developing the theory of elliptic functions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Man must always invert.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed mathematical principle"
+    }
+  ],
+  "relations": []
+}

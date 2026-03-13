@@ -1,0 +1,169 @@
+{
+  "id": "francis-crick",
+  "name": {
+    "en": "Francis Crick",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フランシス・クリック"
+  },
+  "birth_year": 1916,
+  "death_year": 2004,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "biology",
+    "physics"
+  ],
+  "overview": {
+    "en": "Francis Crick was a British molecular biologist, biophysicist, and neuroscientist who co-discovered the structure of DNA and later proposed the central dogma of molecular biology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Crick was born in Northampton, England. He studied physics at University College London and worked on military research during WWII before turning to biology at Cambridge.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Crick's co-discovery of DNA's structure and his articulation of the central dogma of molecular biology provided the framework for modern genetics and biotechnology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1953,
+      "event": {
+        "en": "Co-discovered DNA double helix structure",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1958,
+      "event": {
+        "en": "Proposed the central dogma of molecular biology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1962,
+      "event": {
+        "en": "Awarded Nobel Prize in Physiology or Medicine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1966,
+      "event": {
+        "en": "Published Of Molecules and Men",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Molecular Structure of Nucleic Acids",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1953,
+      "description": {
+        "en": "One-page paper in Nature describing the DNA double helix",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We have discovered the secret of life.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Remark at the Eagle pub, Cambridge, 1953"
+    }
+  ],
+  "relations": []
+}

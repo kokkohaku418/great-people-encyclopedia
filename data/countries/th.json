@@ -1,0 +1,19 @@
+{
+  "id": "th",
+  "name": {
+    "en": "Thailand",
+    "es": "Tailandia",
+    "pt": "Tailândia",
+    "fr": "Thaïlande",
+    "de": "Thailand",
+    "zh": "泰国",
+    "hi": "थाईलैंड",
+    "ar": "تايلاند",
+    "id": "Thailand",
+    "ja": "タイ"
+  },
+  "region": "southeast-asia",
+  "description": {
+    "en": "A Southeast Asian country known for its cultural heritage, Buddhist traditions, and growing scientific community."
+  }
+}

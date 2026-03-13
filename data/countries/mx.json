@@ -1,0 +1,19 @@
+{
+  "id": "mx",
+  "name": {
+    "en": "Mexico",
+    "es": "México",
+    "pt": "México",
+    "fr": "Mexique",
+    "de": "Mexiko",
+    "zh": "墨西哥",
+    "hi": "मेक्सिको",
+    "ar": "المكسيك",
+    "id": "Meksiko",
+    "ja": "メキシコ"
+  },
+  "region": "north-america",
+  "description": {
+    "en": "A North American country with a rich pre-Columbian heritage and growing scientific research infrastructure."
+  }
+}

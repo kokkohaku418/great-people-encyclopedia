@@ -1,0 +1,197 @@
+{
+  "id": "joseph-louis-lagrange",
+  "name": {
+    "en": "Joseph-Louis Lagrange",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョゼフ＝ルイ・ラグランジュ"
+  },
+  "birth_year": 1736,
+  "death_year": 1813,
+  "countries": [
+    "it",
+    "fr"
+  ],
+  "fields": [
+    "mathematics",
+    "physics"
+  ],
+  "overview": {
+    "en": "Joseph-Louis Lagrange was an Italian-French mathematician who made major contributions to number theory, analysis, and both classical and celestial mechanics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lagrange was born in Turin, Sardinia. He became professor of mathematics at the Royal Artillery School in Turin at age 19 and later succeeded Euler at the Berlin Academy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lagrange's reformulation of classical mechanics, his work on the calculus of variations, and Lagrange's theorem in group theory remain fundamental to mathematics and physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1755,
+      "event": {
+        "en": "Appointed professor at Turin at age 19",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1766,
+      "event": {
+        "en": "Succeeded Euler at the Berlin Academy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1788,
+      "event": {
+        "en": "Published Mécanique analytique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1797,
+      "event": {
+        "en": "Published Théorie des fonctions analytiques",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mécanique analytique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1788,
+      "description": {
+        "en": "Reformulated classical mechanics using purely analytical methods without diagrams",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Théorie des fonctions analytiques",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1797,
+      "description": {
+        "en": "Attempted to put calculus on a rigorous algebraic foundation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When we ask advice, we are usually looking for an accomplice.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

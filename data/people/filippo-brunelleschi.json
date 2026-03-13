@@ -1,0 +1,139 @@
+{
+  "id": "filippo-brunelleschi",
+  "name": {
+    "en": "Filippo Brunelleschi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フィリッポ・ブルネレスキ"
+  },
+  "birth_year": 1377,
+  "death_year": 1446,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "engineering",
+    "art"
+  ],
+  "overview": {
+    "en": "Brunelleschi was the founding father of Renaissance architecture who engineered the dome of Florence Cathedral, a feat deemed impossible.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Florence to a notary. He trained as a goldsmith and sculptor before turning to architecture and engineering.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His dome remains the largest masonry dome ever built, and his discovery of linear perspective transformed Western art.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1420,
+      "event": {
+        "en": "Began construction of the dome of Florence Cathedral",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1436,
+      "event": {
+        "en": "Completed the dome of Florence Cathedral",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Dome of Florence Cathedral",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1436,
+      "description": {
+        "en": "Engineering marvel built without a supporting framework, still the largest masonry dome in the world",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Do not share your inventions with many, share them only with the few who understand.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

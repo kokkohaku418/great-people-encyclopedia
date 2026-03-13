@@ -1,0 +1,19 @@
+{
+  "id": "gr",
+  "name": {
+    "en": "Greece",
+    "es": "Grecia",
+    "pt": "Grécia",
+    "fr": "Grèce",
+    "de": "Griechenland",
+    "zh": "希腊",
+    "hi": "यूनान",
+    "ar": "اليونان",
+    "id": "Yunani",
+    "ja": "ギリシャ"
+  },
+  "region": "southern-europe",
+  "description": {
+    "en": "The birthplace of Western philosophy, democracy, and foundational contributions to mathematics and science."
+  }
+}

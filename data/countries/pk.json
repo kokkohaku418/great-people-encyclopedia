@@ -1,0 +1,19 @@
+{
+  "id": "pk",
+  "name": {
+    "en": "Pakistan",
+    "es": "Pakistán",
+    "pt": "Paquistão",
+    "fr": "Pakistan",
+    "de": "Pakistan",
+    "zh": "巴基斯坦",
+    "hi": "पाकिस्तान",
+    "ar": "باكستان",
+    "id": "Pakistan",
+    "ja": "パキスタン"
+  },
+  "region": "south-asia",
+  "description": {
+    "en": "A South Asian country that produced the first Muslim Nobel laureate in physics and has a growing scientific infrastructure."
+  }
+}

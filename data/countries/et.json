@@ -1,0 +1,19 @@
+{
+  "id": "et",
+  "name": {
+    "en": "Ethiopia",
+    "es": "Etiopía",
+    "pt": "Etiópia",
+    "fr": "Éthiopie",
+    "de": "Äthiopien",
+    "zh": "埃塞俄比亚",
+    "hi": "इथियोपिया",
+    "ar": "إثيوبيا",
+    "id": "Ethiopia",
+    "ja": "エチオピア"
+  },
+  "region": "sub-saharan-africa",
+  "description": {
+    "en": "One of the oldest nations in the world, located in the Horn of Africa, with a unique cultural and historical heritage."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "omar-khayyam",
+  "name": {
+    "en": "Omar Khayyam",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウマル・ハイヤーム"
+  },
+  "birth_year": 1048,
+  "death_year": 1131,
+  "countries": [
+    "ir"
+  ],
+  "fields": [
+    "mathematics",
+    "literature"
+  ],
+  "overview": {
+    "en": "Omar Khayyam was a Persian mathematician, astronomer, and poet who made important contributions to algebra and is famous for the Rubaiyat.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Khayyam was born in Nishapur, Persia. He studied under leading scholars and became renowned for his mathematical and astronomical work.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Khayyam classified and solved cubic equations, reformed the Persian calendar with remarkable accuracy, and his Rubaiyat became one of the world's most beloved poetry collections.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1070,
+      "event": {
+        "en": "Published Treatise on Demonstration of Problems of Algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1079,
+      "event": {
+        "en": "Developed the Jalali calendar",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1120,
+      "event": {
+        "en": "Wrote the Rubaiyat poems",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Treatise on Algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1070,
+      "description": {
+        "en": "Classification and geometric solution of cubic equations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Rubaiyat",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1120,
+      "description": {
+        "en": "Collection of quatrains translated by Edward FitzGerald",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A loaf of bread, a jug of wine, and thou.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Rubaiyat"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "contemporary",
+  "name": {
+    "en": "Contemporary",
+    "es": "Contemporáneo",
+    "pt": "Contemporâneo",
+    "fr": "Contemporain",
+    "de": "Zeitgenössisch",
+    "zh": "当代",
+    "hi": "समकालीन",
+    "ar": "العصر المعاصر",
+    "id": "Kontemporer",
+    "ja": "現代"
+  },
+  "start_year": 1970,
+  "end_year": 2030,
+  "description": {
+    "en": "The current era defined by digital technology, globalization, the Standard Model of physics, and advances in cosmology and quantum computing."
+  }
+}

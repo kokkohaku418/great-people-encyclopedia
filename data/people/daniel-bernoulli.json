@@ -1,0 +1,244 @@
+{
+  "id": "daniel-bernoulli",
+  "name": {
+    "en": "Daniel Bernoulli",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ダニエル・ベルヌーイ"
+  },
+  "birth_year": 1700,
+  "death_year": 1782,
+  "countries": [
+    "ch",
+    "nl"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Daniel Bernoulli was a Swiss mathematician and physicist best known for his work in fluid dynamics. His most important contribution, Bernoulli's principle, describes the relationship between fluid speed and pressure, forming a cornerstone of aerodynamics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bernoulli was born in 1700 in Groningen, Netherlands, into the famed Bernoulli family of mathematicians. His father Johann initially discouraged him from pursuing mathematics, insisting he study medicine, but Daniel combined both interests throughout his career.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bernoulli's principle became fundamental to understanding fluid flow and is essential to the design of aircraft wings, carburetors, and many other technologies. His kinetic theory of gases also anticipated developments in statistical mechanics by over a century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1700,
+      "event": {
+        "en": "Born in Groningen, Netherlands",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1724,
+      "event": {
+        "en": "Published Exercitationes Mathematicae and gained recognition",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1725,
+      "event": {
+        "en": "Moved to St. Petersburg to join the Academy of Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1733,
+      "event": {
+        "en": "Returned to Basel, Switzerland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1738,
+      "event": {
+        "en": "Published Hydrodynamica, containing Bernoulli's principle",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1782,
+      "event": {
+        "en": "Died in Basel, Switzerland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Hydrodynamica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1738,
+      "description": {
+        "en": "Presented the fundamental principles of fluid dynamics, including the relationship between fluid velocity and pressure now known as Bernoulli's principle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Exposition of a New Theory on the Measurement of Risk",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1738,
+      "description": {
+        "en": "Introduced the concept of expected utility and the St. Petersburg paradox solution, foundational to economic theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It would be better for the true physics if there were no mathematicians on earth.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, in jest about mathematical abstraction"
+    }
+  ],
+  "relations": [
+    {
+      "person": "leonhard-euler",
+      "type": "friend"
+    },
+    {
+      "person": "johann-bernoulli",
+      "type": "student"
+    },
+    {
+      "person": "blaise-pascal",
+      "type": "influenced_by"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "influenced_by"
+    }
+  ]
+}

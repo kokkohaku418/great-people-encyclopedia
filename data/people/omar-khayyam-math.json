@@ -1,0 +1,155 @@
+{
+  "id": "omar-khayyam-math",
+  "name": {
+    "en": "Omar Khayyam",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウマル・ハイヤーム"
+  },
+  "birth_year": 1048,
+  "death_year": 1131,
+  "countries": [
+    "ir"
+  ],
+  "fields": [
+    "mathematics",
+    "astronomy",
+    "literature"
+  ],
+  "overview": {
+    "en": "Omar Khayyam was a Persian polymath who made important contributions to algebra, geometry, and astronomy, and is also celebrated as a poet for his Rubaiyat.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Khayyam was born in Nishapur, Persia. He studied under leading scholars and became renowned for his mathematical and astronomical abilities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Khayyam classified and solved cubic equations geometrically, reformed the Persian calendar to remarkable accuracy, and challenged Euclid's parallel postulate centuries before non-Euclidean geometry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1070,
+      "event": {
+        "en": "Wrote Treatise on Demonstration of Problems of Algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1079,
+      "event": {
+        "en": "Led reform of the Persian calendar",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1077,
+      "event": {
+        "en": "Wrote Commentary on Euclid's Elements",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Treatise on Demonstration of Problems of Algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1070,
+      "description": {
+        "en": "Classified and solved cubic equations using conic section intersections",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Be happy for this moment. This moment is your life.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Rubaiyat"
+    }
+  ],
+  "relations": []
+}

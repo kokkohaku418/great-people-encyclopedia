@@ -1,0 +1,19 @@
+{
+  "id": "se",
+  "name": {
+    "en": "Sweden",
+    "es": "Suecia",
+    "pt": "Suécia",
+    "fr": "Suède",
+    "de": "Schweden",
+    "zh": "瑞典",
+    "hi": "स्वीडन",
+    "ar": "السويد",
+    "id": "Swedia",
+    "ja": "スウェーデン"
+  },
+  "region": "northern-europe",
+  "description": {
+    "en": "A Scandinavian country known for the Nobel Prizes, innovation, and contributions to science and social policy."
+  }
+}

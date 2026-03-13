@@ -1,0 +1,227 @@
+{
+  "id": "sin-itiro-tomonaga",
+  "name": {
+    "en": "Sin-Itiro Tomonaga",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "朝永振一郎"
+  },
+  "birth_year": 1906,
+  "death_year": 1979,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Sin-Itiro Tomonaga was a Japanese theoretical physicist who shared the 1965 Nobel Prize in Physics for his independent development of quantum electrodynamics. Working largely in isolation in wartime Japan, he developed a relativistically covariant formulation of QED.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Tomonaga was born in Tokyo and grew up in Kyoto, where his father was a professor of philosophy. He studied at Kyoto Imperial University alongside Hideki Yukawa and later worked with Werner Heisenberg in Leipzig.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Tomonaga's renormalization technique in quantum electrodynamics, developed independently of Schwinger and Feynman, was crucial for making QED a consistent and predictive theory. He also mentored a generation of Japanese theoretical physicists.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1929,
+      "event": {
+        "en": "Graduated from Kyoto Imperial University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1937,
+      "event": {
+        "en": "Worked with Werner Heisenberg at the University of Leipzig",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1943,
+      "event": {
+        "en": "Published his covariant formulation of quantum electrodynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Completed renormalization of QED independently",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Schwinger and Feynman",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Super-Many-Time Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1943,
+      "description": {
+        "en": "A relativistically covariant formulation of quantum field theory using multiple time variables for each particle.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Renormalization of QED",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "Independently developed the renormalization procedure to remove infinities from quantum electrodynamics calculations.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There is no expedient to which a man will not resort to avoid the real labor of thinking.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, paraphrasing Joshua Reynolds"
+    }
+  ],
+  "relations": [
+    {
+      "person": "hideki-yukawa",
+      "type": "colleague"
+    },
+    {
+      "person": "werner-heisenberg",
+      "type": "influenced_by"
+    },
+    {
+      "person": "julian-schwinger",
+      "type": "colleague"
+    },
+    {
+      "person": "richard-feynman",
+      "type": "colleague"
+    }
+  ]
+}

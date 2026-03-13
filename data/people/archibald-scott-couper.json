@@ -1,0 +1,138 @@
+{
+  "id": "archibald-scott-couper",
+  "name": {
+    "en": "Archibald Scott Couper",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アーチボルド・スコット・クーパー"
+  },
+  "birth_year": 1831,
+  "death_year": 1892,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Archibald Scott Couper was a Scottish chemist who proposed that carbon atoms can link to each other to form chains, independently of Kekulé, laying groundwork for structural chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Couper was born in Kirkintilloch, Scotland. He studied philosophy and languages before turning to chemistry, working with Charles Adolphe Wurtz in Paris.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Couper's theory of carbon self-linking and his use of lines to represent bonds were foundational contributions to structural organic chemistry, though he received less recognition than Kekulé.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1858,
+      "event": {
+        "en": "Published 'On a New Chemical Theory' proposing carbon chains",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1859,
+      "event": {
+        "en": "Suffered mental breakdown, ending his career",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On a New Chemical Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1858,
+      "description": {
+        "en": "Paper proposing that carbon atoms bond to each other in chains",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The art of the chemist consists in making the right experiments.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

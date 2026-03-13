@@ -1,0 +1,138 @@
+{
+  "id": "matthias-schleiden",
+  "name": {
+    "en": "Matthias Schleiden",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マティアス・シュライデン"
+  },
+  "birth_year": 1804,
+  "death_year": 1881,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Matthias Schleiden was a German botanist who co-founded cell theory with Theodor Schwann, establishing that all plants are composed of cells.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Schleiden was born in Hamburg, Germany. He first studied law but turned to botany, studying at the University of Jena.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Schleiden's recognition that cells are the fundamental units of plants, combined with Schwann's work on animals, established cell theory as a cornerstone of biology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1838,
+      "event": {
+        "en": "Published cell theory for plants",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1842,
+      "event": {
+        "en": "Published Principles of Scientific Botany",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Contributions to Phytogenesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1838,
+      "description": {
+        "en": "Paper establishing that all plant tissues are composed of cells",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Every plant is an aggregate of individual, fully individualized, independent, separate beings—the cells.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Contributions to Phytogenesis"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ar",
+  "name": {
+    "en": "Argentina",
+    "es": "Argentina",
+    "pt": "Argentina",
+    "fr": "Argentine",
+    "de": "Argentinien",
+    "zh": "阿根廷",
+    "hi": "अर्जेंटीना",
+    "ar": "الأرجنتين",
+    "id": "Argentina",
+    "ja": "アルゼンチン"
+  },
+  "region": "south-america",
+  "description": {
+    "en": "A South American country with notable contributions to nuclear physics, medicine, and literature."
+  }
+}

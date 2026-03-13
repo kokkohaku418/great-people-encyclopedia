@@ -1,0 +1,290 @@
+{
+  "id": "isaac-newton",
+  "name": {
+    "en": "Isaac Newton",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アイザック・ニュートン"
+  },
+  "birth_year": 1643,
+  "death_year": 1727,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "mathematics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Sir Isaac Newton was an English mathematician, physicist, and astronomer, widely recognized as one of the most influential scientists of all time. He formulated the laws of motion and universal gravitation, co-invented calculus, and made seminal contributions to optics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Newton was born in 1643 in Woolsthorpe, Lincolnshire, England, a premature infant not expected to survive. Raised largely by his grandmother after his mother remarried, he attended the King's School in Grantham before enrolling at Trinity College, Cambridge, in 1661.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Newton's Principia Mathematica unified terrestrial and celestial mechanics under the law of universal gravitation, transforming physics into a mathematical science. His work dominated scientific thought for over two centuries and remains foundational to classical mechanics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1643,
+      "event": {
+        "en": "Born in Woolsthorpe, Lincolnshire, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1665,
+      "event": {
+        "en": "Developed early ideas on calculus, optics, and gravitation during the 'annus mirabilis'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1668,
+      "event": {
+        "en": "Built the first practical reflecting telescope",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1687,
+      "event": {
+        "en": "Published Philosophiae Naturalis Principia Mathematica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1704,
+      "event": {
+        "en": "Published Opticks on the nature of light and color",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1727,
+      "event": {
+        "en": "Died in Kensington, London",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Philosophiae Naturalis Principia Mathematica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1687,
+      "description": {
+        "en": "Laid out the three laws of motion and the law of universal gravitation, unifying terrestrial and celestial mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Opticks",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1704,
+      "description": {
+        "en": "Explored the nature of light through prism experiments, demonstrating that white light is composed of a spectrum of colors.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Method of Fluxions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1736,
+      "description": {
+        "en": "Posthumously published work describing Newton's development of calculus, including differentiation and integration techniques.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If I have seen further it is by standing on the shoulders of Giants.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to Robert Hooke, 1675"
+    },
+    {
+      "text": {
+        "en": "I can calculate the motion of heavenly bodies, but not the madness of people.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, after the South Sea Bubble"
+    }
+  ],
+  "relations": [
+    {
+      "person": "galileo-galilei",
+      "type": "influenced_by"
+    },
+    {
+      "person": "johannes-kepler",
+      "type": "influenced_by"
+    },
+    {
+      "person": "robert-hooke",
+      "type": "rival"
+    },
+    {
+      "person": "gottfried-wilhelm-leibniz",
+      "type": "rival"
+    },
+    {
+      "person": "michael-faraday",
+      "type": "influenced"
+    }
+  ]
+}

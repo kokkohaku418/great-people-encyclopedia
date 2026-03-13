@@ -1,0 +1,139 @@
+{
+  "id": "aryabhata",
+  "name": {
+    "en": "Aryabhata",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アーリヤバタ"
+  },
+  "birth_year": 476,
+  "death_year": 550,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "mathematics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Aryabhata was an Indian mathematician and astronomer who made groundbreaking contributions to both fields.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Kusumapura (modern Patna). Studied at the ancient university of Nalanda.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He introduced the concept of zero as a placeholder, calculated pi to remarkable accuracy, and proposed that the Earth rotates on its axis.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 499,
+      "event": {
+        "en": "Composed the Aryabhatiya at age 23",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 510,
+      "event": {
+        "en": "Led the astronomical observatory at Nalanda",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Aryabhatiya",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 499,
+      "description": {
+        "en": "Treatise on mathematics and astronomy covering arithmetic, algebra, and spherical astronomy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Add four to one hundred, multiply by eight, and add sixty-two thousand; the result is approximately the circumference of a circle of diameter twenty thousand.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Aryabhatiya"
+    }
+  ],
+  "relations": []
+}

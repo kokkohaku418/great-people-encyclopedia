@@ -1,0 +1,168 @@
+{
+  "id": "ovid",
+  "name": {
+    "en": "Ovid",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "オウィディウス"
+  },
+  "birth_year": -43,
+  "death_year": 17,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Ovid was a Roman poet whose Metamorphoses, a narrative poem about transformations in Greek and Roman mythology, is one of the most influential works in Western literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ovid was born in Sulmo, east of Rome. He studied rhetoric in Rome and traveled to Athens before devoting himself to poetry. Emperor Augustus exiled him to the Black Sea in 8 AD.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ovid's Metamorphoses shaped Western art, literature, and culture more than almost any other classical work. Shakespeare, Dante, and countless artists drew directly from his mythological narratives.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -20,
+      "event": {
+        "en": "Published Amores",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -2,
+      "event": {
+        "en": "Published Ars Amatoria",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 8,
+      "event": {
+        "en": "Published Metamorphoses; exiled by Augustus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 17,
+      "event": {
+        "en": "Died in exile at Tomis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Metamorphoses",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 8,
+      "description": {
+        "en": "Narrative poem retelling Greek and Roman myths as a continuous history of transformations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Dripping water hollows out stone, not through force but through persistence.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Epistulae Ex Ponto"
+    }
+  ],
+  "relations": []
+}

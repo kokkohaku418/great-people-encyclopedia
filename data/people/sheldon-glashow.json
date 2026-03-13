@@ -1,0 +1,223 @@
+{
+  "id": "sheldon-glashow",
+  "name": {
+    "en": "Sheldon Glashow",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "シェルドン・グラショー"
+  },
+  "birth_year": 1932,
+  "death_year": null,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Sheldon Glashow is an American theoretical physicist who made foundational contributions to the electroweak unification of the electromagnetic and weak nuclear forces. He shared the 1979 Nobel Prize in Physics with Abdus Salam and Steven Weinberg for this work.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Glashow was born in New York City to immigrant parents from Russia. He attended the Bronx High School of Science alongside Steven Weinberg and went on to earn his Ph.D. from Harvard University under Julian Schwinger.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Glashow's proposal of a unified electroweak theory laid the groundwork for the Standard Model of particle physics. His work on the charm quark mechanism, known as the GIM mechanism, resolved key theoretical inconsistencies and predicted the existence of the charm quark before its experimental discovery.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1932,
+      "event": {
+        "en": "Born in New York City, United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1961,
+      "event": {
+        "en": "Proposed the electroweak unification incorporating the SU(2) x U(1) gauge structure",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1970,
+      "event": {
+        "en": "Co-proposed the GIM mechanism predicting the charm quark",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1974,
+      "event": {
+        "en": "Charm quark experimentally confirmed at Brookhaven and SLAC",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1979,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for electroweak theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Partial-symmetries of weak interactions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1961,
+      "description": {
+        "en": "Landmark paper proposing a gauge theory unifying electromagnetic and weak interactions, introducing the SU(2) x U(1) symmetry group.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Weak Interactions with Lepton-Hadron Symmetry (GIM mechanism)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1970,
+      "description": {
+        "en": "Co-authored paper introducing the GIM mechanism, which predicted the charm quark and resolved anomalies in weak interaction theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Teaching and research are complementary, not competitive, parsing of time.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Interview, Harvard University"
+    }
+  ],
+  "relations": [
+    {
+      "person": "steven-weinberg",
+      "type": "collaborator"
+    },
+    {
+      "person": "abdus-salam",
+      "type": "collaborator"
+    },
+    {
+      "person": "julian-schwinger",
+      "type": "mentor"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "chandragupta-maurya",
+  "name": {
+    "en": "Chandragupta Maurya",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "チャンドラグプタ・マウリヤ"
+  },
+  "birth_year": -340,
+  "death_year": -298,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Chandragupta Maurya founded the Maurya Empire, the first empire to unify most of the Indian subcontinent.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born into modest circumstances. Mentored by the strategist Chanakya.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He created the largest empire in Indian history at that time and established a centralized administration.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -322,
+      "event": {
+        "en": "Overthrew the Nanda dynasty and founded the Maurya Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -305,
+      "event": {
+        "en": "Defeated Seleucus Nicator and gained territory in the northwest",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Arthashastra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -300,
+      "description": {
+        "en": "Political treatise attributed to his advisor Chanakya describing statecraft under the Mauryas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A person should not be too honest. Straight trees are cut first.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed via Chanakya"
+    }
+  ],
+  "relations": []
+}

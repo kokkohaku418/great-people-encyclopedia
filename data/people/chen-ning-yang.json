@@ -1,0 +1,270 @@
+{
+  "id": "chen-ning-yang",
+  "name": {
+    "en": "Chen-Ning Yang",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "楊振寧"
+  },
+  "birth_year": 1922,
+  "death_year": null,
+  "countries": [
+    "cn",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Chen-Ning Yang is a Chinese-American theoretical physicist who shared the 1957 Nobel Prize in Physics for the prediction of parity violation. He is also renowned for the Yang-Mills theory, which became the foundation of the Standard Model of particle physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Yang was born in Hefei, Anhui, China, and studied at the National Southwest Associated University and Tsinghua University. He moved to the United States in 1945 and earned his PhD from the University of Chicago under Edward Teller.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Yang's contributions to physics are among the most profound of the 20th century. The Yang-Mills gauge theory provides the mathematical framework for the Standard Model, describing the strong, weak, and electromagnetic interactions that govern all known fundamental particles.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1948,
+      "event": {
+        "en": "Earned PhD from the University of Chicago",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Published Yang-Mills gauge theory with Robert Mills",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Co-proposed parity violation in weak interactions with T.D. Lee",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics at age 34",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1966,
+      "event": {
+        "en": "Joined Stony Brook University as Albert Einstein Professor of Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Yang-Mills Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1954,
+      "description": {
+        "en": "Co-developed with Robert Mills a non-abelian gauge theory that became the mathematical foundation of the Standard Model.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Parity Violation Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1956,
+      "description": {
+        "en": "Co-proposed with Lee that parity symmetry is violated in weak interactions.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Yang-Baxter Equation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1967,
+      "description": {
+        "en": "Derived an equation in statistical mechanics that became fundamental in mathematical physics and knot theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "In 1954 we felt that a beautiful principle must have some realization in nature. We did not know what it would be.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Selected Papers 1945-1980 with Commentary, 1983"
+    },
+    {
+      "text": {
+        "en": "Symmetry dictates interaction.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "tsung-dao-lee",
+      "type": "collaborator"
+    },
+    {
+      "person": "robert-mills",
+      "type": "collaborator"
+    },
+    {
+      "person": "edward-teller",
+      "type": "student"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "influenced_by"
+    }
+  ]
+}

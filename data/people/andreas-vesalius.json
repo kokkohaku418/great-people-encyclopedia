@@ -1,0 +1,153 @@
+{
+  "id": "andreas-vesalius",
+  "name": {
+    "en": "Andreas Vesalius",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アンドレアス・ヴェサリウス"
+  },
+  "birth_year": 1514,
+  "death_year": 1564,
+  "countries": [
+    "be"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Andreas Vesalius was a Flemish anatomist and physician who is considered the founder of modern human anatomy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Vesalius was born in Brussels. He studied at the Universities of Leuven and Paris before becoming professor of anatomy at the University of Padua at age 23.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Vesalius's De Humani Corporis Fabrica corrected centuries of errors in Galenic anatomy and established anatomy as a science based on direct observation and dissection.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1537,
+      "event": {
+        "en": "Became professor at University of Padua",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1543,
+      "event": {
+        "en": "Published De Humani Corporis Fabrica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1544,
+      "event": {
+        "en": "Became physician to Emperor Charles V",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "De Humani Corporis Fabrica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1543,
+      "description": {
+        "en": "Comprehensive illustrated atlas of human anatomy based on actual dissection",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I am not accustomed to saying anything with certainty after only one or two observations.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "De Humani Corporis Fabrica"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,138 @@
+{
+  "id": "hammurabi",
+  "name": {
+    "en": "Hammurabi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ハンムラビ"
+  },
+  "birth_year": -1810,
+  "death_year": -1750,
+  "countries": [
+    "iq"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Hammurabi was the sixth king of the First Babylonian Dynasty, famous for one of the earliest known written legal codes.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "He inherited a small kingdom centered on Babylon and through military campaigns and diplomacy united most of Mesopotamia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Code of Hammurabi established the principle of written law and influenced legal traditions throughout the ancient Near East.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -1792,
+      "event": {
+        "en": "Became king of Babylon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -1754,
+      "event": {
+        "en": "Promulgated the Code of Hammurabi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Code of Hammurabi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -1754,
+      "description": {
+        "en": "Collection of 282 laws inscribed on a stone stele",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If a man put out the eye of another man, his eye shall be put out.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Code of Hammurabi, Law 196"
+    }
+  ],
+  "relations": []
+}

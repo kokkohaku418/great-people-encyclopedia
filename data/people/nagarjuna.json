@@ -1,0 +1,138 @@
+{
+  "id": "nagarjuna",
+  "name": {
+    "en": "Nagarjuna",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ナーガールジュナ"
+  },
+  "birth_year": 150,
+  "death_year": 250,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Nagarjuna was an Indian Buddhist philosopher who founded the Madhyamaka school of Mahayana Buddhism. He is widely regarded as the most important Buddhist philosopher after the Buddha himself.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Little is known about Nagarjuna's early life. He is traditionally believed to have been born in South India and to have become a Buddhist monk and scholar at Nalanda.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Nagarjuna's concept of sunyata (emptiness) and his dialectical method profoundly shaped Mahayana Buddhism across East and Central Asia. His philosophy influenced all subsequent Buddhist thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 150,
+      "event": {
+        "en": "Born in South India",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 200,
+      "event": {
+        "en": "Composed Mulamadhyamakakarika",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mulamadhyamakakarika",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 200,
+      "description": {
+        "en": "Foundational verses of the Middle Way, establishing the Madhyamaka school",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Whatever is dependently co-arisen, that is explained to be emptiness.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Mulamadhyamakakarika"
+    }
+  ],
+  "relations": []
+}

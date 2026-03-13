@@ -1,0 +1,153 @@
+{
+  "id": "william-henry-perkin",
+  "name": {
+    "en": "William Henry Perkin",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウィリアム・ヘンリー・パーキン"
+  },
+  "birth_year": 1838,
+  "death_year": 1907,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "William Henry Perkin was a British chemist who discovered the first synthetic aniline dye, mauveine, launching the synthetic dye industry and transforming organic chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Perkin was born in London. At age 15 he entered the Royal College of Chemistry, where he studied under August Wilhelm von Hofmann and began experiments attempting to synthesize quinine.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Perkin's accidental discovery of mauveine launched the synthetic dye industry, which in turn gave rise to the pharmaceutical and chemical industries. His work showed the commercial potential of organic chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1856,
+      "event": {
+        "en": "Discovered mauveine, the first synthetic dye",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1857,
+      "event": {
+        "en": "Opened dye factory at age 18",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1874,
+      "event": {
+        "en": "Discovered the Perkin reaction",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mauveine",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1856,
+      "description": {
+        "en": "The first commercially successful synthetic dye, producing a purple color",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Chemistry itself knows altogether too well that—given the real molecules—the others, their geometrical isomers, provide endless difficulties.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

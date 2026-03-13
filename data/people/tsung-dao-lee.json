@@ -1,0 +1,228 @@
+{
+  "id": "tsung-dao-lee",
+  "name": {
+    "en": "Tsung-Dao Lee",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "李政道"
+  },
+  "birth_year": 1926,
+  "death_year": 2024,
+  "countries": [
+    "cn",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Tsung-Dao Lee was a Chinese-American physicist who shared the 1957 Nobel Prize in Physics with Chen-Ning Yang for their theoretical prediction that parity is not conserved in weak interactions. He was one of the youngest Nobel laureates in physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lee was born in Shanghai, China, and studied at the National Che Kiang University and Southwest Associated University during wartime. He moved to the United States in 1946 and earned his PhD from the University of Chicago under Enrico Fermi.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lee and Yang's prediction of parity violation, confirmed by Wu's experiment, fundamentally changed our understanding of the laws of physics and the nature of symmetry. Lee also made important contributions to statistical mechanics, astrophysics, and field theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1950,
+      "event": {
+        "en": "Earned PhD from the University of Chicago under Enrico Fermi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Became the youngest full professor at Columbia University at age 29",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Co-proposed parity violation in weak interactions with Chen-Ning Yang",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics at age 30",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1997,
+      "event": {
+        "en": "Established the Chun-Tsung Endowment to support young Chinese scientists",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Parity Violation Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1956,
+      "description": {
+        "en": "Co-proposed with Yang that the weak interaction does not conserve parity, a fundamental symmetry of nature.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Lee Model",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1954,
+      "description": {
+        "en": "Developed a solvable quantum field theory model that illuminated renormalization and the structure of field theories.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Since the beginning of physics, symmetry considerations have provided us with an extremely powerful and useful tool in our effort to understand nature.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Lecture, 1957"
+    }
+  ],
+  "relations": [
+    {
+      "person": "chen-ning-yang",
+      "type": "collaborator"
+    },
+    {
+      "person": "chien-shiung-wu",
+      "type": "collaborator"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "student"
+    },
+    {
+      "person": "j-robert-oppenheimer",
+      "type": "colleague"
+    }
+  ]
+}

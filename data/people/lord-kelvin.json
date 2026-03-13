@@ -1,0 +1,258 @@
+{
+  "id": "lord-kelvin",
+  "name": {
+    "en": "Lord Kelvin (William Thomson)",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ケルヴィン卿（ウィリアム・トムソン）"
+  },
+  "birth_year": 1824,
+  "death_year": 1907,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Lord Kelvin was a British mathematical physicist and engineer who formulated the absolute temperature scale and made major contributions to thermodynamics and electromagnetism. He played a key role in the transatlantic telegraph cable project.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born William Thomson in Belfast, Ireland, he entered the University of Glasgow at age ten and later studied at Cambridge. His extraordinary mathematical talent was evident from childhood, and he became a professor at Glasgow at age 22.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lord Kelvin's absolute temperature scale provided a fundamental reference for thermodynamics. His contributions to the laying of the transatlantic telegraph cable demonstrated the practical power of theoretical physics, and he was one of the most influential scientists of the Victorian era.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1848,
+      "event": {
+        "en": "Proposed the absolute temperature scale, later named the Kelvin scale.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1851,
+      "event": {
+        "en": "Published a comprehensive paper on the dynamical theory of heat.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1852,
+      "event": {
+        "en": "Discovered the Joule-Thomson effect with James Prescott Joule.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1858,
+      "event": {
+        "en": "Successfully supervised the laying of the first transatlantic telegraph cable.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1866,
+      "event": {
+        "en": "Knighted for contributions to the transatlantic telegraph project.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1892,
+      "event": {
+        "en": "Elevated to the peerage as Baron Kelvin of Largs.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On an Absolute Thermometric Scale",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1848,
+      "description": {
+        "en": "Paper proposing an absolute temperature scale based on Carnot's theory of heat.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Dynamical Theory of Heat",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1851,
+      "description": {
+        "en": "Major work establishing the mathematical foundations of thermodynamics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When you can measure what you are speaking about, and express it in numbers, you know something about it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Lecture on Electrical Units of Measurement, 1883"
+    },
+    {
+      "text": {
+        "en": "There is nothing new to be discovered in physics now. All that remains is more and more precise measurement.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Address to the British Association for the Advancement of Science, 1900"
+    }
+  ],
+  "relations": [
+    {
+      "person": "james-prescott-joule",
+      "type": "collaborator"
+    },
+    {
+      "person": "rudolf-clausius",
+      "type": "rival"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "colleague"
+    },
+    {
+      "person": "hermann-von-helmholtz",
+      "type": "friend"
+    }
+  ]
+}

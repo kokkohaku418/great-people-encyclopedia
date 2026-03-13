@@ -1,0 +1,154 @@
+{
+  "id": "muhammad-al-khwarizmi",
+  "name": {
+    "en": "Muhammad al-Khwarizmi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フワーリズミー"
+  },
+  "birth_year": 780,
+  "death_year": 850,
+  "countries": [
+    "iq"
+  ],
+  "fields": [
+    "mathematics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Muhammad al-Khwarizmi was a Persian mathematician whose works introduced Hindu-Arabic numerals and algebra to the Western world. The word 'algorithm' derives from his name.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Al-Khwarizmi was born in Khwarezm, in present-day Uzbekistan. He worked at the House of Wisdom in Baghdad, the leading intellectual center of the Islamic Golden Age.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Al-Khwarizmi's algebra textbook created a new mathematical discipline and his work on Hindu-Arabic numerals revolutionized mathematics. The words 'algebra' and 'algorithm' both derive from his work and name.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 820,
+      "event": {
+        "en": "Published The Compendious Book on Calculation by Completion and Balancing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 825,
+      "event": {
+        "en": "Published work on Hindu-Arabic numerals",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 830,
+      "event": {
+        "en": "Published astronomical tables",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Compendious Book on Calculation by Completion and Balancing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 820,
+      "description": {
+        "en": "Founded algebra as an independent mathematical discipline",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When I consider what people generally want in calculating, I found that it always is a number.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Al-Jabr, 820"
+    }
+  ],
+  "relations": []
+}

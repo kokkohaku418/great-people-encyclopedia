@@ -1,0 +1,19 @@
+{
+  "id": "pl",
+  "name": {
+    "en": "Poland",
+    "es": "Polonia",
+    "pt": "Polônia",
+    "fr": "Pologne",
+    "de": "Polen",
+    "zh": "波兰",
+    "hi": "पोलैंड",
+    "ar": "بولندا",
+    "id": "Polandia",
+    "ja": "ポーランド"
+  },
+  "region": "eastern-europe",
+  "description": {
+    "en": "A central-eastern European country with notable contributions to astronomy, mathematics, and literature."
+  }
+}

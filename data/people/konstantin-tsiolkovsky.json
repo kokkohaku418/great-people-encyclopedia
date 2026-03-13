@@ -1,0 +1,139 @@
+{
+  "id": "konstantin-tsiolkovsky",
+  "name": {
+    "en": "Konstantin Tsiolkovsky",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "コンスタンチン・ツィオルコフスキー"
+  },
+  "birth_year": 1857,
+  "death_year": 1935,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "engineering",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Konstantin Tsiolkovsky was a Russian scientist and pioneer of astronautic theory who derived the rocket equation and envisioned space exploration.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Tsiolkovsky was born in Izhevskoye, Russia. Nearly deaf from childhood, he was mostly self-educated and worked as a schoolteacher while developing his theories.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Tsiolkovsky's rocket equation and his vision of multi-stage rockets, space stations, and interplanetary travel made him the theoretical father of spaceflight.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1903,
+      "event": {
+        "en": "Published The Exploration of Cosmic Space by Means of Reaction Devices",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1929,
+      "event": {
+        "en": "Published multi-stage rocket theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Exploration of Cosmic Space",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1903,
+      "description": {
+        "en": "Paper deriving the fundamental rocket equation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

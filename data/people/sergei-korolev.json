@@ -1,0 +1,154 @@
+{
+  "id": "sergei-korolev",
+  "name": {
+    "en": "Sergei Korolev",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "セルゲイ・コロリョフ"
+  },
+  "birth_year": 1907,
+  "death_year": 1966,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "engineering",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Sergei Korolev was a Soviet rocket engineer and spacecraft designer who is considered the father of practical astronautics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Korolev was born in Zhytomyr, Ukraine. He survived imprisonment in the Gulag and became the chief designer of the Soviet space program.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Korolev's achievements — Sputnik, Vostok, the first human in space — made the Soviet Union a space superpower and drove the Space Race.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1957,
+      "event": {
+        "en": "Launched Sputnik, the first satellite",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1961,
+      "event": {
+        "en": "Launched Yuri Gagarin into space",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1963,
+      "event": {
+        "en": "Launched first woman in space",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Sputnik",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1957,
+      "description": {
+        "en": "First artificial satellite to orbit Earth",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Quoting Tsiolkovsky"
+    }
+  ],
+  "relations": []
+}

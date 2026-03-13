@@ -1,0 +1,20 @@
+{
+  "id": "renaissance",
+  "name": {
+    "en": "Renaissance",
+    "es": "Renacimiento",
+    "pt": "Renascimento",
+    "fr": "Renaissance",
+    "de": "Renaissance",
+    "zh": "文艺复兴",
+    "hi": "पुनर्जागरण",
+    "ar": "عصر النهضة",
+    "id": "Renaisans",
+    "ja": "ルネサンス"
+  },
+  "start_year": 1300,
+  "end_year": 1600,
+  "description": {
+    "en": "A cultural movement that marked the transition from the Middle Ages to modernity, reviving interest in classical art, science, and humanism."
+  }
+}

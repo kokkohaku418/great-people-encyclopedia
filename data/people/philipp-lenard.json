@@ -1,0 +1,209 @@
+{
+  "id": "philipp-lenard",
+  "name": {
+    "en": "Philipp Lenard",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フィリップ・レーナルト"
+  },
+  "birth_year": 1862,
+  "death_year": 1947,
+  "countries": [
+    "hu",
+    "de"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Philipp Lenard was a Hungarian-German physicist who made significant contributions to the study of cathode rays and the photoelectric effect. He won the Nobel Prize in Physics in 1905 for his work on cathode rays.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Pressburg (now Bratislava), in the Kingdom of Hungary, Lenard studied physics in Budapest, Vienna, and Berlin. He worked as an assistant to Heinrich Hertz at the University of Bonn, which deeply shaped his early research career.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lenard's experiments on cathode rays and the photoelectric effect provided crucial experimental evidence that helped shape early quantum theory. His observation that the energy of photoelectrons depends on light frequency, not intensity, was later explained by Einstein's photon theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1892,
+      "event": {
+        "en": "Developed the Lenard window for studying cathode rays outside vacuum tubes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1894,
+      "event": {
+        "en": "Succeeded Heinrich Hertz as professor at the University of Bonn.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1902,
+      "event": {
+        "en": "Published detailed studies on the photoelectric effect.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1905,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for his work on cathode rays.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On Cathode Rays",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1894,
+      "description": {
+        "en": "Systematic experimental study of cathode rays using the Lenard window technique.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Photoelectric Effect",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1902,
+      "description": {
+        "en": "Detailed investigation showing that photoelectron energy depends on light frequency, a key observation for quantum theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The most important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "heinrich-hertz",
+      "type": "student"
+    },
+    {
+      "person": "wilhelm-rontgen",
+      "type": "colleague"
+    },
+    {
+      "person": "jj-thomson",
+      "type": "colleague"
+    }
+  ]
+}

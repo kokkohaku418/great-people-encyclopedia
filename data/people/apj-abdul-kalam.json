@@ -1,0 +1,138 @@
+{
+  "id": "apj-abdul-kalam",
+  "name": {
+    "en": "A.P.J. Abdul Kalam",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "A・P・J・アブドゥル・カラーム"
+  },
+  "birth_year": 1931,
+  "death_year": 2015,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "A.P.J. Abdul Kalam was India's Missile Man and 11th President, who led the development of India's ballistic missile and nuclear weapons programs.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Rameswaram, Tamil Nadu, to a boat owner's family. He studied aerospace engineering at MIT, Chennai.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He transformed India's defense capabilities and inspired millions as a scientist-president dedicated to national development.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1980,
+      "event": {
+        "en": "Successfully launched India's first satellite launch vehicle SLV-III",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2002,
+      "event": {
+        "en": "Elected 11th President of India",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Wings of Fire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1999,
+      "description": {
+        "en": "Autobiography tracing his rise from humble origins to leading India's missile program",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "You have to dream before your dreams can come true.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Wings of Fire"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "xuanzang",
+  "name": {
+    "en": "Xuanzang",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "玄奘"
+  },
+  "birth_year": 602,
+  "death_year": 664,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Xuanzang was a Chinese Buddhist monk who undertook an epic seventeen-year journey to India to obtain sacred Buddhist texts.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Luoyang, Henan, he became a monk at age thirteen and grew dissatisfied with the incomplete Chinese Buddhist scriptures.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His translations of Sanskrit texts transformed Chinese Buddhism, and his travel account inspired the classic novel Journey to the West.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 629,
+      "event": {
+        "en": "Departed Chang'an on his journey to India",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 645,
+      "event": {
+        "en": "Returned to China with 657 Buddhist texts",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 648,
+      "event": {
+        "en": "Completed Great Tang Records on the Western Regions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Great Tang Records on the Western Regions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 646,
+      "description": {
+        "en": "Detailed account of his travels through Central and South Asia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If I do not reach India, I will not turn back to the east.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed during his journey"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,240 @@
+{
+  "id": "robert-boyle",
+  "name": {
+    "en": "Robert Boyle",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ロバート・ボイル"
+  },
+  "birth_year": 1627,
+  "death_year": 1691,
+  "countries": [
+    "ie",
+    "gb"
+  ],
+  "fields": [
+    "physics",
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Robert Boyle was an Anglo-Irish natural philosopher, chemist, and physicist who is regarded as one of the founders of modern chemistry. He is best known for Boyle's law, which describes the inverse relationship between the pressure and volume of a gas.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Boyle was born in 1627 at Lismore Castle in County Waterford, Ireland, the fourteenth child of the Earl of Cork. He was educated at Eton and traveled extensively in Europe before settling in Oxford, where he conducted his most important scientific work.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Boyle's emphasis on experimentation and his mechanical philosophy helped establish chemistry as a rigorous science distinct from alchemy. His gas law became foundational to physics and chemistry, and his work The Sceptical Chymist challenged Aristotelian and alchemical traditions.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1627,
+      "event": {
+        "en": "Born at Lismore Castle, County Waterford, Ireland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1654,
+      "event": {
+        "en": "Moved to Oxford and began experimental work",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1660,
+      "event": {
+        "en": "Published New Experiments Physico-Mechanical, describing the air pump",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1661,
+      "event": {
+        "en": "Published The Sceptical Chymist",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1662,
+      "event": {
+        "en": "Formulated Boyle's law on gas pressure and volume",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1691,
+      "event": {
+        "en": "Died in London",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Sceptical Chymist",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1661,
+      "description": {
+        "en": "Challenged the Aristotelian theory of four elements and alchemical traditions, arguing for a corpuscular view of matter.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "New Experiments Physico-Mechanical",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1660,
+      "description": {
+        "en": "Described experiments with the air pump conducted with Robert Hooke, leading to Boyle's law.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The generality of men are so accustomed to judge of things by their senses that, because the air is invisible, they ascribe but little to it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "New Experiments Physico-Mechanical"
+    }
+  ],
+  "relations": [
+    {
+      "person": "robert-hooke",
+      "type": "collaborator"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "colleague"
+    },
+    {
+      "person": "antoine-lavoisier",
+      "type": "influenced"
+    }
+  ]
+}

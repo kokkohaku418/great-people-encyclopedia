@@ -1,0 +1,139 @@
+{
+  "id": "al-khwarizmi",
+  "name": {
+    "en": "Al-Khwarizmi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アル＝フワーリズミー"
+  },
+  "birth_year": 780,
+  "death_year": 850,
+  "countries": [
+    "ir",
+    "iq"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Al-Khwarizmi was a Persian mathematician and astronomer whose works introduced Hindu-Arabic numerals and algebra to Europe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Al-Khwarizmi was born in Khwarezm, in present-day Uzbekistan. He worked at the House of Wisdom in Baghdad during the Islamic Golden Age.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Al-Khwarizmi's works gave us the words 'algebra' and 'algorithm.' His introduction of Hindu-Arabic numerals transformed mathematics and commerce worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 820,
+      "event": {
+        "en": "Published The Compendious Book on Calculation by Completion and Balancing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 825,
+      "event": {
+        "en": "Published On the Calculation with Hindu Numerals",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Compendious Book on Calculation by Completion and Balancing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 820,
+      "description": {
+        "en": "Foundational text of algebra",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "When I consider what people generally want in calculating, I found that it always is a number.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Compendious Book"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "astronomy",
+  "name": {
+    "en": "Astronomy",
+    "es": "Astronomía",
+    "pt": "Astronomia",
+    "fr": "Astronomie",
+    "de": "Astronomie",
+    "zh": "天文学",
+    "hi": "खगोल विज्ञान",
+    "ar": "علم الفلك",
+    "id": "Astronomi",
+    "ja": "天文学"
+  },
+  "description": {
+    "en": "The scientific study of celestial objects, space, and the physical universe as a whole.",
+    "ja": "天体、宇宙空間、および物理的宇宙全体を研究する科学。",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": ""
+  }
+}

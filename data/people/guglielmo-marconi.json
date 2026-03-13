@@ -1,0 +1,254 @@
+{
+  "id": "guglielmo-marconi",
+  "name": {
+    "en": "Guglielmo Marconi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "グリエルモ・マルコーニ"
+  },
+  "birth_year": 1874,
+  "death_year": 1937,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "physics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Guglielmo Marconi was an Italian inventor and electrical engineer who pioneered long-distance radio transmission. He shared the 1909 Nobel Prize in Physics for his contributions to the development of wireless telegraphy, which revolutionized global communications.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Marconi was born in Bologna, Italy to an Italian father and Irish mother. He was educated privately and became fascinated with the work of Heinrich Hertz on electromagnetic waves, conducting his first radio experiments at his family estate at age 20.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Marconi's development of practical radio communication transformed maritime safety, military communications, and eventually led to the radio broadcasting industry. His transatlantic radio transmission in 1901 proved that radio waves could follow the curvature of the Earth, opening the era of global wireless communication.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1874,
+      "event": {
+        "en": "Born in Bologna, Italy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1895,
+      "event": {
+        "en": "Conducted first successful radio transmission experiments at his family estate",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1897,
+      "event": {
+        "en": "Founded the Wireless Telegraph and Signal Company in London",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1901,
+      "event": {
+        "en": "Transmitted the first transatlantic radio signal from Cornwall to Newfoundland",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1909,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics with Karl Ferdinand Braun",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1937,
+      "event": {
+        "en": "Died in Rome at age 63",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Transatlantic Radio Transmission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1901,
+      "description": {
+        "en": "First successful transmission of a radio signal across the Atlantic Ocean, from Poldhu, Cornwall to St. John's, Newfoundland.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Wireless Telegraphy System",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1897,
+      "description": {
+        "en": "Practical system for wireless communication using radio waves, commercially deployed for maritime and land-based communication.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Every day sees humanity more victorious in the struggle with space and time.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Prize banquet speech, 1909"
+    },
+    {
+      "text": {
+        "en": "I have never been disillusioned about the possibilities of wireless.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Interview"
+    }
+  ],
+  "relations": [
+    {
+      "person": "heinrich-hertz",
+      "type": "influenced_by"
+    },
+    {
+      "person": "nikola-tesla",
+      "type": "rival"
+    },
+    {
+      "person": "karl-ferdinand-braun",
+      "type": "colleague"
+    }
+  ]
+}

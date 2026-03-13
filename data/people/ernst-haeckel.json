@@ -1,0 +1,180 @@
+{
+  "id": "ernst-haeckel",
+  "name": {
+    "en": "Ernst Haeckel",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エルンスト・ヘッケル"
+  },
+  "birth_year": 1834,
+  "death_year": 1919,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Ernst Haeckel was a German biologist, naturalist, and artist who named thousands of new species, mapped a genealogical tree of life, and coined terms including 'ecology' and 'phylogeny.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Haeckel was born in Potsdam, Germany. He studied medicine and zoology and was deeply influenced by Darwin's Origin of Species, becoming one of evolution's most passionate advocates in Germany.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Haeckel coined foundational biological terms, created stunning scientific illustrations, and popularized Darwin's ideas in Germany. His tree of life concept influenced how we visualize evolution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1862,
+      "event": {
+        "en": "Published first monograph on radiolarians",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1866,
+      "event": {
+        "en": "Published Generelle Morphologie and coined 'ecology'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1899,
+      "event": {
+        "en": "Published Kunstformen der Natur (Art Forms in Nature)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Kunstformen der Natur",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1899,
+      "description": {
+        "en": "Beautiful scientific illustrations of various organisms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Generelle Morphologie der Organismen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1866,
+      "description": {
+        "en": "Systematic presentation of evolutionary morphology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Ecology is the body of knowledge concerning the economy of nature.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Generelle Morphologie"
+    }
+  ],
+  "relations": []
+}

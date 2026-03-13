@@ -1,0 +1,269 @@
+{
+  "id": "john-wheeler",
+  "name": {
+    "en": "John Archibald Wheeler",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・アーチボルド・ホイーラー"
+  },
+  "birth_year": 1911,
+  "death_year": 2008,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "John Archibald Wheeler was an American theoretical physicist who made major contributions to general relativity and quantum gravity. He coined the terms 'black hole,' 'wormhole,' and 'quantum foam,' and mentored many of the most influential physicists of the 20th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wheeler was born in Jacksonville, Florida, and earned his PhD from Johns Hopkins University at age 21. He studied with Niels Bohr in Copenhagen and collaborated with Bohr on the liquid drop model of nuclear fission.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wheeler revitalized the study of general relativity in the United States and trained a generation of leading physicists including Richard Feynman, Kip Thorne, and Hugh Everett. His conceptual insights into the nature of spacetime and quantum mechanics continue to inspire foundational physics research.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1933,
+      "event": {
+        "en": "Earned PhD from Johns Hopkins University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1939,
+      "event": {
+        "en": "Co-authored the Bohr-Wheeler theory of nuclear fission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1955,
+      "event": {
+        "en": "Developed the concept of quantum foam and spacetime geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Supervised Hugh Everett's many-worlds interpretation thesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Coined the term 'black hole' at a conference",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Bohr-Wheeler Theory of Fission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1939,
+      "description": {
+        "en": "Co-developed with Niels Bohr the liquid drop model explaining nuclear fission.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Geometrodynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1957,
+      "description": {
+        "en": "Developed the program of describing physics in terms of the geometry of spacetime, introducing quantum foam.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Geons, Black Holes, and Quantum Foam",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1998,
+      "description": {
+        "en": "An autobiography detailing his life and contributions to physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Time is what prevents everything from happening at once.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "We live on an island surrounded by a sea of ignorance. As our island of knowledge grows, so does the shore of our ignorance.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Scientific American, 1992"
+    }
+  ],
+  "relations": [
+    {
+      "person": "richard-feynman",
+      "type": "mentor"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "collaborator"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "colleague"
+    },
+    {
+      "person": "kip-thorne",
+      "type": "mentor"
+    }
+  ]
+}

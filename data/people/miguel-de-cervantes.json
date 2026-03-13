@@ -1,0 +1,168 @@
+{
+  "id": "miguel-de-cervantes",
+  "name": {
+    "en": "Miguel de Cervantes",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ミゲル・デ・セルバンテス"
+  },
+  "birth_year": 1547,
+  "death_year": 1616,
+  "countries": [
+    "es"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Miguel de Cervantes was a Spanish novelist, poet, and playwright best known for Don Quixote, which is often considered the first modern novel and one of the greatest works of fiction.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cervantes was born in Alcalá de Henares. He served as a soldier, was captured by pirates and held as a slave in Algiers for five years before being ransomed.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Don Quixote is considered the first modern novel and one of the most influential works of fiction ever written. Cervantes' blend of comedy and pathos created a new literary form.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1571,
+      "event": {
+        "en": "Fought at the Battle of Lepanto",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1575,
+      "event": {
+        "en": "Captured and enslaved in Algiers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1605,
+      "event": {
+        "en": "Published Part I of Don Quixote",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1615,
+      "event": {
+        "en": "Published Part II of Don Quixote",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Don Quixote",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1605,
+      "description": {
+        "en": "Novel about a man who loses his sanity reading chivalric romances and sets out as a knight-errant",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Too much sanity may be madness — and maddest of all: to see life as it is, and not as it should be!",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Don Quixote"
+    }
+  ],
+  "relations": []
+}

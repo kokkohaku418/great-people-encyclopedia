@@ -1,0 +1,168 @@
+{
+  "id": "genghis-khan",
+  "name": {
+    "en": "Genghis Khan",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "チンギス・カン"
+  },
+  "birth_year": 1162,
+  "death_year": 1227,
+  "countries": [
+    "mn"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Genghis Khan was the founder and first ruler of the Mongol Empire, which became the largest contiguous land empire in history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born as Temüjin in the Mongolian steppe, he grew up in harsh conditions. Through alliances and military genius, he united the Mongol tribes under his rule.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Genghis Khan's empire connected East and West through trade and communication, establishing the Pax Mongolica. His legal code, the Yassa, influenced governance across Asia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1206,
+      "event": {
+        "en": "Proclaimed Genghis Khan, uniting the Mongols",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1215,
+      "event": {
+        "en": "Conquered Beijing",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1219,
+      "event": {
+        "en": "Invaded the Khwarezmian Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1227,
+      "event": {
+        "en": "Died during campaign in China",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Yassa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1206,
+      "description": {
+        "en": "Legal code governing the Mongol Empire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The greatest happiness is to vanquish your enemies and chase them before you.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Secret History of the Mongols"
+    }
+  ],
+  "relations": []
+}

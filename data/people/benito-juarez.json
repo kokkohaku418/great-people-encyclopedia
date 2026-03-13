@@ -1,0 +1,168 @@
+{
+  "id": "benito-juarez",
+  "name": {
+    "en": "Benito Juárez",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ベニート・フアレス"
+  },
+  "birth_year": 1806,
+  "death_year": 1872,
+  "countries": [
+    "mx"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Benito Juárez was a Mexican lawyer and politician who served as President of Mexico and is regarded as the country's greatest and most beloved leader.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Juárez was born in San Pablo Guelatao, Oaxaca, of Zapotec origin. Orphaned as a child, he educated himself, studied law, and entered politics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Juárez defended Mexican sovereignty against French intervention, separated church and state, and promoted liberal reforms. He is revered as the defender of the Republic.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1847,
+      "event": {
+        "en": "Became Governor of Oaxaca",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1858,
+      "event": {
+        "en": "Became President during the Reform War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1862,
+      "event": {
+        "en": "Resisted French intervention",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1867,
+      "event": {
+        "en": "Restored the Republic after defeating Maximilian",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Reform Laws",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1859,
+      "description": {
+        "en": "Legislation separating church and state in Mexico",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Among individuals, as among nations, respect for the rights of others is peace.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Manifesto, 1867"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,52 @@
+{
+  "person": "jose-marti",
+  "same_field": [
+    "abraham-lincoln",
+    "aeschylus",
+    "aesop",
+    "ahmad-shah-durrani",
+    "akbar-the-great",
+    "albert-camus",
+    "aleksandr-blok",
+    "alexander-pushkin",
+    "alexander-the-great",
+    "alexis-de-tocqueville",
+    "alfred-the-great",
+    "allen-ginsberg",
+    "amina-of-zaria",
+    "amy-tan",
+    "andrei-platonov",
+    "anna-akhmatova",
+    "anton-chekhov",
+    "anwar-sadat",
+    "aristophanes",
+    "arthur-rimbaud"
+  ],
+  "same_country": [
+    "che-guevara",
+    "fidel-castro",
+    "italo-calvino"
+  ],
+  "same_era": [
+    "abraham-lincoln",
+    "ada-lovelace",
+    "albert-einstein",
+    "albert-schweitzer",
+    "aleksandr-blok",
+    "aleksandr-butlerov",
+    "alexander-fleming",
+    "alexander-graham-bell",
+    "alexis-de-tocqueville",
+    "alfred-kinsey",
+    "alfred-nobel",
+    "alfred-north-whitehead",
+    "alfred-russel-wallace",
+    "alfred-wegener",
+    "alfred-werner",
+    "andrei-platonov",
+    "anna-akhmatova",
+    "annie-jump-cannon",
+    "antoine-henri-becquerel",
+    "anton-chekhov"
+  ]
+}

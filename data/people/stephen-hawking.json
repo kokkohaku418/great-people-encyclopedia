@@ -1,0 +1,295 @@
+{
+  "id": "stephen-hawking",
+  "name": {
+    "en": "Stephen Hawking",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "スティーヴン・ホーキング"
+  },
+  "birth_year": 1942,
+  "death_year": 2018,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Stephen Hawking was a British theoretical physicist and cosmologist known for his groundbreaking work on black holes and general relativity. His discovery that black holes emit radiation, now called Hawking radiation, transformed the understanding of quantum gravity and made him one of the most famous scientists in history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Hawking was born in Oxford, England and studied physics at University College, Oxford before completing his Ph.D. at Cambridge. At age 21 he was diagnosed with amyotrophic lateral sclerosis (ALS), yet continued his research for over five decades despite progressive physical disability.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hawking's theoretical work on black hole thermodynamics and the information paradox stimulated decades of research in quantum gravity. His bestselling book 'A Brief History of Time' made cosmology accessible to millions and established him as an iconic figure bridging science and popular culture.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1942,
+      "event": {
+        "en": "Born in Oxford, England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1966,
+      "event": {
+        "en": "Completed Ph.D. thesis on singularities in general relativity at Cambridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1974,
+      "event": {
+        "en": "Proposed that black holes emit thermal radiation (Hawking radiation)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1979,
+      "event": {
+        "en": "Appointed Lucasian Professor of Mathematics at Cambridge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1988,
+      "event": {
+        "en": "Published 'A Brief History of Time,' which became an international bestseller",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2018,
+      "event": {
+        "en": "Died in Cambridge, England at age 76",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Particle Creation by Black Holes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1975,
+      "description": {
+        "en": "Landmark paper demonstrating that black holes emit thermal radiation due to quantum effects near the event horizon.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A Brief History of Time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1988,
+      "description": {
+        "en": "Popular science book on cosmology, the Big Bang, and black holes that sold over 25 million copies worldwide.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Large Scale Structure of Space-Time",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1973,
+      "description": {
+        "en": "Technical monograph co-authored with George Ellis on the mathematical structure of general relativity and singularity theorems.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Intelligence is the ability to adapt to change.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "However difficult life may seem, there is always something you can do and succeed at.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Cambridge Union address, 2017"
+    },
+    {
+      "text": {
+        "en": "Not only does God play dice, but He sometimes throws them where they cannot be seen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Nature of Space and Time (1996)"
+    }
+  ],
+  "relations": [
+    {
+      "person": "roger-penrose",
+      "type": "collaborator"
+    },
+    {
+      "person": "kip-thorne",
+      "type": "friend"
+    },
+    {
+      "person": "dennis-sciama",
+      "type": "mentor"
+    }
+  ]
+}

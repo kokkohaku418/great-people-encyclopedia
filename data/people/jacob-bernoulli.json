@@ -1,0 +1,168 @@
+{
+  "id": "jacob-bernoulli",
+  "name": {
+    "en": "Jacob Bernoulli",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヤコブ・ベルヌーイ"
+  },
+  "birth_year": 1655,
+  "death_year": 1705,
+  "countries": [
+    "ch"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Jacob Bernoulli was a Swiss mathematician and one of the founders of probability theory and the calculus of variations. He was the first of the prominent Bernoulli family of mathematicians.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bernoulli was born in Basel, Switzerland. Against his father's wishes for him to study theology, he pursued mathematics and astronomy, eventually becoming professor of mathematics at the University of Basel.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bernoulli's Ars Conjectandi, published posthumously, laid the foundations of probability theory. His discovery of the constant e and work on the calculus of variations influenced mathematics profoundly.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1687,
+      "event": {
+        "en": "Published early work on probability",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1690,
+      "event": {
+        "en": "Coined the term integral",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1695,
+      "event": {
+        "en": "Solved the brachistochrone problem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1705,
+      "event": {
+        "en": "Ars Conjectandi published posthumously in 1713",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Ars Conjectandi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1713,
+      "description": {
+        "en": "Foundational work in probability theory including the law of large numbers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I recognize the lion by his claw.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On reading an anonymous solution by Newton"
+    }
+  ],
+  "relations": []
+}

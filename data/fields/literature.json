@@ -1,0 +1,27 @@
+{
+  "id": "literature",
+  "name": {
+    "en": "Literature",
+    "es": "Literatura",
+    "pt": "Literatura",
+    "fr": "Littérature",
+    "de": "Literatur",
+    "zh": "文学",
+    "hi": "साहित्य",
+    "ar": "الأدب",
+    "id": "Sastra",
+    "ja": "文学"
+  },
+  "description": {
+    "en": "The art of written works including poetry, prose, drama, and other forms of creative and intellectual expression.",
+    "ja": "詩、散文、戯曲、その他の創造的・知的表現形式を含む文章芸術。",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": ""
+  }
+}

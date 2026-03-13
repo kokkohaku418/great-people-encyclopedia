@@ -1,0 +1,138 @@
+{
+  "id": "ramanuja",
+  "name": {
+    "en": "Ramanuja",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ラーマーヌジャ"
+  },
+  "birth_year": 1017,
+  "death_year": 1137,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Ramanuja was a Hindu theologian and philosopher who developed Vishishtadvaita (qualified non-dualism).",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Sriperumbudur, Tamil Nadu. Studied under Yadava Prakasha before breaking with him.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His philosophy provided the theological foundation for the Sri Vaishnava tradition and devotional Hinduism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1077,
+      "event": {
+        "en": "Became head of the Srirangam temple",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1100,
+      "event": {
+        "en": "Composed Sri Bhashya, his commentary on the Brahma Sutras",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Sri Bhashya",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1100,
+      "description": {
+        "en": "Commentary on the Brahma Sutras establishing Vishishtadvaita Vedanta",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The soul is distinct from God yet inseparable, as the body is from the soul.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Sri Bhashya paraphrase"
+    }
+  ],
+  "relations": []
+}

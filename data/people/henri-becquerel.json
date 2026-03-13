@@ -1,0 +1,208 @@
+{
+  "id": "henri-becquerel",
+  "name": {
+    "en": "Henri Becquerel",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アンリ・ベクレル"
+  },
+  "birth_year": 1852,
+  "death_year": 1908,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Henri Becquerel was a French physicist who discovered radioactivity in 1896, a finding that fundamentally changed our understanding of matter and energy. He shared the 1903 Nobel Prize in Physics with Pierre and Marie Curie for this groundbreaking work.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Paris into a distinguished family of scientists, Becquerel was the son and grandson of physicists. He studied at the École Polytechnique and the École des Ponts et Chaussées, eventually succeeding his father as professor at the Muséum National d'Histoire Naturelle.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Becquerel's discovery of spontaneous radioactivity opened an entirely new branch of physics and chemistry. His work directly inspired the Curies' research and ultimately led to nuclear physics, nuclear energy, and modern medical treatments using radiation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1896,
+      "event": {
+        "en": "Discovered radioactivity while studying the phosphorescence of uranium salts.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1896,
+      "event": {
+        "en": "Demonstrated that the radiation from uranium was not related to phosphorescence.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1900,
+      "event": {
+        "en": "Showed that the radiation from radium could be deflected by magnetic fields.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1903,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Pierre and Marie Curie.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Rays Emitted by Phosphorescence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1896,
+      "description": {
+        "en": "Initial report of the discovery of radioactivity from uranium salts.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Invisible Rays Emitted by Phosphorescent Bodies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1896,
+      "description": {
+        "en": "Follow-up paper demonstrating that the radiation was a new phenomenon distinct from phosphorescence.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The discovery was not the result of a search, but of a fortunate accident.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On the discovery of radioactivity, attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "pierre-curie",
+      "type": "colleague"
+    },
+    {
+      "person": "marie-curie",
+      "type": "colleague"
+    },
+    {
+      "person": "wilhelm-rontgen",
+      "type": "influenced_by"
+    }
+  ]
+}

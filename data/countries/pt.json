@@ -1,0 +1,19 @@
+{
+  "id": "pt",
+  "name": {
+    "en": "Portugal",
+    "es": "Portugal",
+    "pt": "Portugal",
+    "fr": "Portugal",
+    "de": "Portugal",
+    "zh": "葡萄牙",
+    "hi": "पुर्तगाल",
+    "ar": "البرتغال",
+    "id": "Portugal",
+    "ja": "ポルトガル"
+  },
+  "region": "southern-europe",
+  "description": {
+    "en": "A southwestern European country known for its Age of Discovery and maritime exploration heritage."
+  }
+}

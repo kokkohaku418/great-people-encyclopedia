@@ -1,0 +1,258 @@
+{
+  "id": "benjamin-franklin",
+  "name": {
+    "en": "Benjamin Franklin",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ベンジャミン・フランクリン"
+  },
+  "birth_year": 1706,
+  "death_year": 1790,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics",
+    "politics"
+  ],
+  "overview": {
+    "en": "Benjamin Franklin was an American polymath, statesman, and one of the Founding Fathers of the United States. As a scientist, he is best known for his experiments with electricity, including the famous kite experiment, and for inventing the lightning rod.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Franklin was born in 1706 in Boston, Massachusetts, the fifteenth of seventeen children. Largely self-educated after leaving school at age ten, he became a successful printer in Philadelphia and used his wealth to pursue scientific and civic interests.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Franklin's experiments proved that lightning is electrical in nature and led to the invention of the lightning rod, saving countless buildings from fire. His concepts of positive and negative electrical charge remain fundamental to the understanding of electricity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1706,
+      "event": {
+        "en": "Born in Boston, Massachusetts",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1729,
+      "event": {
+        "en": "Became owner of the Pennsylvania Gazette",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1749,
+      "event": {
+        "en": "Published proposals on electrical experiments",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1752,
+      "event": {
+        "en": "Conducted the famous kite experiment demonstrating the electrical nature of lightning",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1776,
+      "event": {
+        "en": "Helped draft and signed the Declaration of Independence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1790,
+      "event": {
+        "en": "Died in Philadelphia, Pennsylvania",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Experiments and Observations on Electricity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1751,
+      "description": {
+        "en": "A collection of letters and papers describing Franklin's electrical experiments, including his single-fluid theory of electricity.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Poor Richard's Almanack",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1732,
+      "description": {
+        "en": "An annual publication containing weather forecasts, household tips, and witty aphorisms that became widely popular in colonial America.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "An investment in knowledge pays the best interest.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, from Poor Richard's Almanack"
+    },
+    {
+      "text": {
+        "en": "In this world, nothing is certain except death and taxes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to Jean-Baptiste Le Roy, 1789"
+    }
+  ],
+  "relations": [
+    {
+      "person": "joseph-priestley",
+      "type": "friend"
+    },
+    {
+      "person": "alessandro-volta",
+      "type": "influenced"
+    },
+    {
+      "person": "charles-augustin-de-coulomb",
+      "type": "influenced"
+    },
+    {
+      "person": "thomas-jefferson",
+      "type": "collaborator"
+    }
+  ]
+}

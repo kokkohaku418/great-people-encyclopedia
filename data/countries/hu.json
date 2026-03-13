@@ -1,0 +1,19 @@
+{
+  "id": "hu",
+  "name": {
+    "en": "Hungary",
+    "es": "Hungría",
+    "pt": "Hungria",
+    "fr": "Hongrie",
+    "de": "Ungarn",
+    "zh": "匈牙利",
+    "hi": "हंगरी",
+    "ar": "المجر",
+    "id": "Hungaria",
+    "ja": "ハンガリー"
+  },
+  "region": "eastern-europe",
+  "description": {
+    "en": "A central European country that produced many influential physicists and mathematicians of the 20th century."
+  }
+}

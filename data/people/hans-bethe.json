@@ -1,0 +1,270 @@
+{
+  "id": "hans-bethe",
+  "name": {
+    "en": "Hans Bethe",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ハンス・ベーテ"
+  },
+  "birth_year": 1906,
+  "death_year": 2005,
+  "countries": [
+    "de",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Hans Bethe was a German-American nuclear physicist who won the Nobel Prize in Physics in 1967 for his work on stellar nucleosynthesis. He explained the nuclear reactions that power the sun and stars, and also made major contributions to quantum electrodynamics and solid-state physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bethe was born in Strasbourg, then part of the German Empire, and studied physics at the University of Frankfurt and the University of Munich. He fled Nazi Germany in 1933 and eventually settled in the United States, joining Cornell University.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bethe's theory of stellar nucleosynthesis explained the energy source of stars and became a cornerstone of astrophysics. He also played a key role in the Manhattan Project as head of the Theoretical Division and later became a prominent advocate for nuclear arms control.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1928,
+      "event": {
+        "en": "Received PhD from the University of Munich under Arnold Sommerfeld",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1935,
+      "event": {
+        "en": "Joined the faculty at Cornell University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1939,
+      "event": {
+        "en": "Published groundbreaking paper on energy production in stars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1943,
+      "event": {
+        "en": "Became head of the Theoretical Division at Los Alamos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1967,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for stellar nucleosynthesis theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Energy Production in Stars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1939,
+      "description": {
+        "en": "Identified the CNO cycle and proton-proton chain as the nuclear reactions powering stars.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Bethe Bible",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1936,
+      "description": {
+        "en": "A comprehensive three-part review of nuclear physics that became the standard reference in the field.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Lamb Shift Calculation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1947,
+      "description": {
+        "en": "Provided the first successful theoretical explanation of the Lamb shift in hydrogen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If we fight a war and win it with H-bombs, what history will remember is not the ideals we were fighting for but the methods we used to accomplish them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Bulletin of the Atomic Scientists, 1950"
+    },
+    {
+      "text": {
+        "en": "I have sometimes been asked whether I would agree that the tragedy of the scientist is that he is able to bring about great advances in our knowledge, which mankind may then use for purposes of destruction.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Nobel Lecture, 1967"
+    }
+  ],
+  "relations": [
+    {
+      "person": "j-robert-oppenheimer",
+      "type": "colleague"
+    },
+    {
+      "person": "richard-feynman",
+      "type": "mentor"
+    },
+    {
+      "person": "edward-teller",
+      "type": "colleague"
+    },
+    {
+      "person": "arnold-sommerfeld",
+      "type": "student"
+    }
+  ]
+}

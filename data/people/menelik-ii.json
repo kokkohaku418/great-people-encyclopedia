@@ -1,0 +1,153 @@
+{
+  "id": "menelik-ii",
+  "name": {
+    "en": "Menelik II",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "メネリク2世"
+  },
+  "birth_year": 1844,
+  "death_year": 1913,
+  "countries": [
+    "et"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Menelik II was Emperor of Ethiopia who preserved his nation's independence by defeating Italy at the Battle of Adwa, one of the most significant African victories against European colonialism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born Sahle Maryam in Ankober, Shewa, he was captured as a youth by Emperor Tewodros II but eventually escaped and became King of Shewa.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His victory at Adwa ensured Ethiopia remained the only African nation never colonized and inspired anti-colonial movements across Africa and the diaspora.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1889,
+      "event": {
+        "en": "Became Emperor of Ethiopia and signed the Treaty of Wuchale",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1896,
+      "event": {
+        "en": "Defeated Italy at the Battle of Adwa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1897,
+      "event": {
+        "en": "Established Addis Ababa as the permanent capital",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Treaty of Wuchale",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1889,
+      "description": {
+        "en": "Treaty with Italy whose disputed interpretation led to the First Italo-Ethiopian War",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Ethiopia stretches her hands unto God.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Psalm 68:31, frequently invoked by Menelik"
+    }
+  ],
+  "relations": []
+}

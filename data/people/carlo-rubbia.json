@@ -1,0 +1,138 @@
+{
+  "id": "carlo-rubbia",
+  "name": {
+    "en": "Carlo Rubbia",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カルロ・ルビア"
+  },
+  "birth_year": 1934,
+  "death_year": null,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Carlo Rubbia is an Italian particle physicist who led the experiments that discovered the W and Z bosons, confirming the electroweak theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Gorizia, Italy. Studied at the University of Pisa and the Scuola Normale Superiore.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The discovery of the W and Z bosons was a triumphant confirmation of the unified electroweak theory and a milestone in the Standard Model.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1983,
+      "event": {
+        "en": "Led the UA1 experiment at CERN that discovered the W and Z bosons",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1984,
+      "event": {
+        "en": "Awarded Nobel Prize in Physics with Simon van der Meer",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Experimental Observation of the Intermediate Vector Bosons W+, W− and Z⁰",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1983,
+      "description": {
+        "en": "Papers announcing discovery of the W and Z bosons",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The joy of discovery is one of the greatest joys of life.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

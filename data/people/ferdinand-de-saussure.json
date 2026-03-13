@@ -1,0 +1,138 @@
+{
+  "id": "ferdinand-de-saussure",
+  "name": {
+    "en": "Ferdinand de Saussure",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "フェルディナン・ド・ソシュール"
+  },
+  "birth_year": 1857,
+  "death_year": 1913,
+  "countries": [
+    "ch"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Ferdinand de Saussure was a Swiss linguist whose ideas on the structure of language founded modern structural linguistics and influenced the entire field of semiotics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Geneva to a prominent scientific family, he published a groundbreaking work on Indo-European vowels at age twenty-one.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His distinction between langue and parole, the concept of the sign as signifier and signified, and the synchronic approach to language study revolutionized linguistics and influenced structuralism across all humanities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1878,
+      "event": {
+        "en": "Published Memoir on the Primitive System of Vowels in Indo-European Languages at age 21",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1906,
+      "event": {
+        "en": "Began teaching the courses on general linguistics at the University of Geneva",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Course in General Linguistics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1916,
+      "description": {
+        "en": "Posthumous compilation of his lectures that founded modern structural linguistics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "In language there are only differences without positive terms.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Course in General Linguistics"
+    }
+  ],
+  "relations": []
+}

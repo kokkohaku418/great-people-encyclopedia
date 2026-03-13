@@ -1,0 +1,180 @@
+{
+  "id": "katsushika-hokusai",
+  "name": {
+    "en": "Katsushika Hokusai",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "葛飾北斎"
+  },
+  "birth_year": 1760,
+  "death_year": 1849,
+  "countries": [
+    "jp"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Katsushika Hokusai was a Japanese ukiyo-e painter and printmaker whose work profoundly influenced Western Impressionism and Art Nouveau.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Hokusai was born in Edo (Tokyo). He studied under Katsukawa Shunshō and worked under many names throughout his long career, constantly reinventing his style.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hokusai's Great Wave became one of the most recognized images in art history. His work influenced Western artists including Monet, van Gogh, and Whistler.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1779,
+      "event": {
+        "en": "Studied under Katsukawa Shunshō",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1831,
+      "event": {
+        "en": "Published Thirty-six Views of Mount Fuji",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1834,
+      "event": {
+        "en": "Published One Hundred Views of Mount Fuji",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Great Wave off Kanagawa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1831,
+      "description": {
+        "en": "Iconic woodblock print from Thirty-six Views of Mount Fuji",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Thirty-six Views of Mount Fuji",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1831,
+      "description": {
+        "en": "Series of landscape prints revolutionizing ukiyo-e",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If heaven had granted me five more years, I could have become a real painter.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed deathbed words"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bd",
+  "name": {
+    "en": "Bangladesh",
+    "es": "Bangladés",
+    "pt": "Bangladesh",
+    "fr": "Bangladesh",
+    "de": "Bangladesch",
+    "zh": "孟加拉国",
+    "hi": "बांग्लादेश",
+    "ar": "بنغلاديش",
+    "id": "Bangladesh",
+    "ja": "バングラデシュ"
+  },
+  "region": "south-asia",
+  "description": {
+    "en": "A South Asian country with a growing presence in technology and social innovation."
+  }
+}

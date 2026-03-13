@@ -1,0 +1,138 @@
+{
+  "id": "justinian-i",
+  "name": {
+    "en": "Justinian I",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ユスティニアヌス1世"
+  },
+  "birth_year": 482,
+  "death_year": 565,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Justinian I was the Byzantine emperor who reconquered much of the former Western Roman Empire and codified Roman law.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Tauresium, Illyria, to a peasant family. His uncle Justin I adopted him and he rose to become co-emperor.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Corpus Juris Civilis became the foundation of civil law in most of Europe, and Hagia Sophia remains an architectural wonder.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 527,
+      "event": {
+        "en": "Became Byzantine Emperor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 534,
+      "event": {
+        "en": "Promulgated the Corpus Juris Civilis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Corpus Juris Civilis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 534,
+      "description": {
+        "en": "Comprehensive codification of Roman law that became the basis of European civil law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Justice is the constant and perpetual wish to render to every one his due.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Institutes of Justinian"
+    }
+  ],
+  "relations": []
+}

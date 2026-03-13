@@ -1,0 +1,19 @@
+{
+  "id": "gb",
+  "name": {
+    "en": "United Kingdom",
+    "es": "Reino Unido",
+    "pt": "Reino Unido",
+    "fr": "Royaume-Uni",
+    "de": "Vereinigtes Königreich",
+    "zh": "英国",
+    "hi": "यूनाइटेड किंगडम",
+    "ar": "المملكة المتحدة",
+    "id": "Britania Raya",
+    "ja": "イギリス"
+  },
+  "region": "western-europe",
+  "description": {
+    "en": "An island nation in northwestern Europe with a profound legacy in science, literature, and global governance."
+  }
+}

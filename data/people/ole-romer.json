@@ -1,0 +1,139 @@
+{
+  "id": "ole-romer",
+  "name": {
+    "en": "Ole Rømer",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "オーレ・レーマー"
+  },
+  "birth_year": 1644,
+  "death_year": 1710,
+  "countries": [
+    "dk"
+  ],
+  "fields": [
+    "astronomy",
+    "physics"
+  ],
+  "overview": {
+    "en": "Ole Rømer made the first quantitative measurement of the speed of light by observing the moons of Jupiter.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Aarhus, Denmark. He studied at the University of Copenhagen and worked at the Paris Observatory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His measurement of the speed of light was one of the most important discoveries in the history of physics and astronomy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1676,
+      "event": {
+        "en": "Demonstrated that light has a finite speed",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1681,
+      "event": {
+        "en": "Returned to Denmark as Royal Mathematician and Astronomer",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Demonstration Concerning the Movement of Light",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1676,
+      "description": {
+        "en": "Paper presenting the first measurement of the speed of light",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Light requires time to travel from place to place.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Demonstration Concerning the Movement of Light"
+    }
+  ],
+  "relations": []
+}

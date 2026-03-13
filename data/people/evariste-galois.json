@@ -1,0 +1,168 @@
+{
+  "id": "evariste-galois",
+  "name": {
+    "en": "Évariste Galois",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エヴァリスト・ガロア"
+  },
+  "birth_year": 1811,
+  "death_year": 1832,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Évariste Galois was a French mathematician who founded group theory and Galois theory, establishing conditions under which polynomial equations can be solved. He died in a duel at age 20.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Galois was born near Paris. A brilliant but troubled student, he was twice rejected by the École Polytechnique. He became involved in republican politics during a turbulent period in French history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Galois theory, developed from his manuscripts written the night before his fatal duel, fundamentally connects field theory and group theory. It provides the definitive answer to which polynomial equations are solvable by radicals.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1829,
+      "event": {
+        "en": "Published first paper on continued fractions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1830,
+      "event": {
+        "en": "Submitted memoirs to the French Academy, lost by Cauchy and Fourier",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1831,
+      "event": {
+        "en": "Arrested for political activities",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1832,
+      "event": {
+        "en": "Wrote mathematical testament the night before fatal duel",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mémoire sur les conditions de résolubilité des équations par radicaux",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1831,
+      "description": {
+        "en": "Foundational work establishing Galois theory and group theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have not time. I have not time.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Written the night before his death, 1832"
+    }
+  ],
+  "relations": []
+}

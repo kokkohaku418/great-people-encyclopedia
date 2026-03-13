@@ -1,0 +1,139 @@
+{
+  "id": "william-the-conqueror",
+  "name": {
+    "en": "William the Conqueror",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ウィリアム征服王"
+  },
+  "birth_year": 1028,
+  "death_year": 1087,
+  "countries": [
+    "fr",
+    "gb"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "William the Conqueror was the Duke of Normandy who invaded England in 1066, fundamentally transforming English society and governance.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Falaise, Normandy, as the illegitimate son of Robert I, Duke of Normandy. He fought to secure his duchy from childhood.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Norman Conquest reshaped English language, law, culture, and social structure, linking England permanently to continental Europe.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1066,
+      "event": {
+        "en": "Won the Battle of Hastings and was crowned King of England",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1086,
+      "event": {
+        "en": "Commissioned the Domesday Book",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Domesday Book",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1086,
+      "description": {
+        "en": "Comprehensive survey of English landholdings, a remarkable administrative achievement",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "By the splendour of God I have taken possession of my realm.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, upon landing in England"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ancient",
+  "name": {
+    "en": "Ancient",
+    "es": "Antigüedad",
+    "pt": "Antiguidade",
+    "fr": "Antiquité",
+    "de": "Antike",
+    "zh": "古代",
+    "hi": "प्राचीन काल",
+    "ar": "العصور القديمة",
+    "id": "Kuno",
+    "ja": "古代"
+  },
+  "start_year": -3000,
+  "end_year": -500,
+  "description": {
+    "en": "The earliest period of recorded human civilization, spanning the rise of Mesopotamia, Egypt, the Indus Valley, and early Chinese dynasties."
+  }
+}

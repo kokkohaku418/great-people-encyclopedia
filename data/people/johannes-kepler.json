@@ -1,0 +1,286 @@
+{
+  "id": "johannes-kepler",
+  "name": {
+    "en": "Johannes Kepler",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヨハネス・ケプラー"
+  },
+  "birth_year": 1571,
+  "death_year": 1630,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics",
+    "astronomy",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Johannes Kepler was a German astronomer and mathematician best known for his three laws of planetary motion. His work provided the foundation for Newton's theory of universal gravitation and marked a pivotal advance in the Scientific Revolution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Kepler was born in 1571 in Weil der Stadt, in the Duchy of Wurttemberg. Despite a troubled childhood marked by poverty and illness, he excelled academically and studied theology and mathematics at the University of Tubingen, where he first encountered Copernican astronomy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kepler's three laws of planetary motion replaced circular orbits with ellipses and established precise mathematical relationships governing planetary movement. His work bridged Copernican astronomy and Newtonian physics, fundamentally shaping modern celestial mechanics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1571,
+      "event": {
+        "en": "Born in Weil der Stadt, Duchy of Wurttemberg",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1596,
+      "event": {
+        "en": "Published Mysterium Cosmographicum, his first major astronomical work",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1600,
+      "event": {
+        "en": "Joined Tycho Brahe as assistant in Prague",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1609,
+      "event": {
+        "en": "Published Astronomia Nova, containing his first two laws of planetary motion",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1619,
+      "event": {
+        "en": "Published Harmonices Mundi, containing his third law",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1630,
+      "event": {
+        "en": "Died in Regensburg, Bavaria",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Astronomia Nova",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1609,
+      "description": {
+        "en": "Presented the first two laws of planetary motion: that planets move in ellipses and sweep equal areas in equal times.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Harmonices Mundi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1619,
+      "description": {
+        "en": "Contained the third law of planetary motion relating orbital period to distance, and explored mathematical harmonies in nature.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Mysterium Cosmographicum",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1596,
+      "description": {
+        "en": "Kepler's first major work defending the Copernican system using geometric models of the solar system.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I measured the skies, now the shadows I measure. Sky-bound was the mind, earth-bound the body rests.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Kepler's self-composed epitaph"
+    },
+    {
+      "text": {
+        "en": "Nature uses as little as possible of anything.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "nicolaus-copernicus",
+      "type": "influenced_by"
+    },
+    {
+      "person": "tycho-brahe",
+      "type": "mentor"
+    },
+    {
+      "person": "galileo-galilei",
+      "type": "colleague"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "influenced"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kr",
+  "name": {
+    "en": "South Korea",
+    "es": "Corea del Sur",
+    "pt": "Coreia do Sul",
+    "fr": "Corée du Sud",
+    "de": "Südkorea",
+    "zh": "韩国",
+    "hi": "दक्षिण कोरिया",
+    "ar": "كوريا الجنوبية",
+    "id": "Korea Selatan",
+    "ja": "韓国"
+  },
+  "region": "east-asia",
+  "description": {
+    "en": "An East Asian country known for rapid technological advancement and scientific research."
+  }
+}

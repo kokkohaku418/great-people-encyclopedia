@@ -1,0 +1,153 @@
+{
+  "id": "al-farabi",
+  "name": {
+    "en": "Al-Farabi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アル＝ファーラービー"
+  },
+  "birth_year": 872,
+  "death_year": 950,
+  "countries": [
+    "kz"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Al-Farabi was a renowned Islamic philosopher and polymath known as the Second Teacher after Aristotle. He made major contributions to political philosophy, logic, and music theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Al-Farabi was born in Farab, in present-day Kazakhstan. He studied in Baghdad, the intellectual center of the Islamic Golden Age.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Al-Farabi's commentaries on Aristotle and Plato preserved and transmitted Greek philosophy to the medieval world. His political philosophy influenced both Islamic and European thought.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 900,
+      "event": {
+        "en": "Moved to Baghdad to study",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 940,
+      "event": {
+        "en": "Published The Virtuous City",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 942,
+      "event": {
+        "en": "Published The Book of Letters",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Virtuous City",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 940,
+      "description": {
+        "en": "Political philosophy describing the ideal state, influenced by Plato's Republic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The philosopher must also be a statesman and a legislator.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Virtuous City"
+    }
+  ],
+  "relations": []
+}

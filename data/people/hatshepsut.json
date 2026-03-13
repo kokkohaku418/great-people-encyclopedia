@@ -1,0 +1,168 @@
+{
+  "id": "hatshepsut",
+  "name": {
+    "en": "Hatshepsut",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ハトシェプスト"
+  },
+  "birth_year": -1507,
+  "death_year": -1458,
+  "countries": [
+    "eg"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Hatshepsut was one of the most successful pharaohs of ancient Egypt, ruling as regent and then pharaoh during one of Egypt's most prosperous periods.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Hatshepsut was born into the 18th dynasty royal family. She initially served as regent for her young stepson Thutmose III before declaring herself pharaoh.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Hatshepsut's reign was marked by successful trade expeditions, extensive building programs including her mortuary temple at Deir el-Bahri, and economic prosperity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -1479,
+      "event": {
+        "en": "Became regent for Thutmose III",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -1473,
+      "event": {
+        "en": "Declared herself Pharaoh",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -1470,
+      "event": {
+        "en": "Launched trade expedition to Punt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -1458,
+      "event": {
+        "en": "Died after over 20 years of rule",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mortuary Temple at Deir el-Bahri",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -1470,
+      "description": {
+        "en": "Magnificent temple considered one of the architectural wonders of ancient Egypt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Now my heart turns this way and that, as I think what the people will say.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Temple inscription"
+    }
+  ],
+  "relations": []
+}

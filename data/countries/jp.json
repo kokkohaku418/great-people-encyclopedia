@@ -1,0 +1,19 @@
+{
+  "id": "jp",
+  "name": {
+    "en": "Japan",
+    "es": "Japón",
+    "pt": "Japão",
+    "fr": "Japon",
+    "de": "Japan",
+    "zh": "日本",
+    "hi": "जापान",
+    "ar": "اليابان",
+    "id": "Jepang",
+    "ja": "日本"
+  },
+  "region": "east-asia",
+  "description": {
+    "en": "An East Asian island nation known for its technological innovation, scientific research, and cultural heritage."
+  }
+}

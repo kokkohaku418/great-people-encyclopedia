@@ -1,0 +1,228 @@
+{
+  "id": "andre-marie-ampere",
+  "name": {
+    "en": "Andre-Marie Ampere",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アンドレ=マリ・アンペール"
+  },
+  "birth_year": 1775,
+  "death_year": 1836,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Andre-Marie Ampere was a French physicist and mathematician who was one of the founders of the science of classical electromagnetism. He formulated Ampere's law and is considered the father of electrodynamics; the ampere unit of electric current is named after him.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ampere was born in 1775 in Lyon, France. A child prodigy, he was largely self-educated, reportedly mastering advanced mathematics by age twelve. His early life was marked by personal tragedy, including his father's execution during the French Revolution.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ampere's mathematical formulation of the relationship between electric currents and magnetic fields laid the foundation for electrodynamics. His work directly influenced Maxwell's electromagnetic theory and remains central to electrical engineering and physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1775,
+      "event": {
+        "en": "Born in Lyon, France",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1793,
+      "event": {
+        "en": "Father executed during the French Revolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1820,
+      "event": {
+        "en": "Heard of Oersted's discovery and rapidly developed the theory of electrodynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1826,
+      "event": {
+        "en": "Published Memoir on the Mathematical Theory of Electrodynamic Phenomena",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1836,
+      "event": {
+        "en": "Died in Marseille during an inspection tour",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Memoir on the Mathematical Theory of Electrodynamic Phenomena",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1826,
+      "description": {
+        "en": "Presented the mathematical foundations of electrodynamics, including Ampere's force law between current-carrying conductors.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Collection of Observations on Electrodynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1822,
+      "description": {
+        "en": "Compiled experimental results and theoretical analysis of the relationship between electric currents and magnetism.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Enlightened by the study of the works of the Creator, the mind of man can best be purified and strengthened.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "hans-christian-oersted",
+      "type": "influenced_by"
+    },
+    {
+      "person": "charles-augustin-de-coulomb",
+      "type": "influenced_by"
+    },
+    {
+      "person": "michael-faraday",
+      "type": "colleague"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced"
+    }
+  ]
+}

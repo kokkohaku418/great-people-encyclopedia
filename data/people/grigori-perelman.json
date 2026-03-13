@@ -1,0 +1,183 @@
+{
+  "id": "grigori-perelman",
+  "name": {
+    "en": "Grigori Perelman",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "グリゴリー・ペレルマン"
+  },
+  "birth_year": 1966,
+  "death_year": null,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Grigori Perelman is a Russian mathematician who proved the Poincaré conjecture and Thurston's geometrization conjecture, two of the most important problems in topology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Perelman was born in Leningrad. He showed exceptional talent at a young age, winning a gold medal at the 1982 International Mathematical Olympiad with a perfect score.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Perelman's proof of the Poincaré conjecture, one of the seven Millennium Prize Problems, was one of the greatest achievements in mathematics. He famously declined both the Fields Medal and the million-dollar prize.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1982,
+      "event": {
+        "en": "Won IMO gold medal with perfect score",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1994,
+      "event": {
+        "en": "Proved the soul conjecture in Riemannian geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2002,
+      "event": {
+        "en": "Posted proof of the Poincaré conjecture on arXiv",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2006,
+      "event": {
+        "en": "Declined the Fields Medal",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2010,
+      "event": {
+        "en": "Declined the Millennium Prize",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Proof of the Poincaré Conjecture",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2002,
+      "description": {
+        "en": "Proved the century-old conjecture using Ricci flow with surgery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I don't want to be on display like an animal in a zoo.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On declining awards"
+    }
+  ],
+  "relations": []
+}

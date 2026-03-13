@@ -1,0 +1,180 @@
+{
+  "id": "pierre-de-fermat",
+  "name": {
+    "en": "Pierre de Fermat",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ピエール・ド・フェルマー"
+  },
+  "birth_year": 1601,
+  "death_year": 1665,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Pierre de Fermat was a French mathematician who is considered one of the founders of modern number theory, analytic geometry, and probability theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Fermat was born in Beaumont-de-Lomagne, France. A lawyer by profession, he pursued mathematics as an amateur, communicating his results through letters to other mathematicians.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Fermat's Last Theorem, unsolved for 358 years until Andrew Wiles proved it in 1995, is one of the most famous problems in mathematics. His work co-founded probability theory with Pascal.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1629,
+      "event": {
+        "en": "Developed methods of finding tangents and areas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1637,
+      "event": {
+        "en": "Wrote his famous marginal note about Fermat's Last Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1654,
+      "event": {
+        "en": "Correspondence with Pascal founding probability theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Fermat's Last Theorem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1637,
+      "description": {
+        "en": "The conjecture that no three positive integers satisfy a^n + b^n = c^n for n > 2",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Adequality",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1629,
+      "description": {
+        "en": "Method for finding maxima and minima, precursor to calculus",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have discovered a truly marvelous proof of this, which this margin is too narrow to contain.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Marginal note in Arithmetica, 1637"
+    }
+  ],
+  "relations": []
+}

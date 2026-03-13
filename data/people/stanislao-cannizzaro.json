@@ -1,0 +1,153 @@
+{
+  "id": "stanislao-cannizzaro",
+  "name": {
+    "en": "Stanislao Cannizzaro",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "スタニスラオ・カニッツァーロ"
+  },
+  "birth_year": 1826,
+  "death_year": 1910,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Stanislao Cannizzaro was an Italian chemist who revived Avogadro's hypothesis and established a consistent system of atomic weights that unified chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cannizzaro was born in Palermo, Sicily. He studied in several Italian cities and participated in the Sicilian revolution of 1848 before fleeing to Paris, where he worked with Chevreul.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Cannizzaro's presentation at the Karlsruhe Congress of 1860 resolved confusion about atomic weights and molecular formulas, enabling Mendeleev's periodic table.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1853,
+      "event": {
+        "en": "Discovered the Cannizzaro reaction",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1858,
+      "event": {
+        "en": "Published pamphlet on atomic weights",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1860,
+      "event": {
+        "en": "Presented unified system at Karlsruhe Congress",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Sketch of a Course of Chemical Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1858,
+      "description": {
+        "en": "Pamphlet that clarified the distinction between atomic and molecular weights",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I believe one of the most important tasks of science is to bring clarity to confused ideas.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

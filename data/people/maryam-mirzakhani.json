@@ -1,0 +1,184 @@
+{
+  "id": "maryam-mirzakhani",
+  "name": {
+    "en": "Maryam Mirzakhani",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マリアム・ミルザハニ"
+  },
+  "birth_year": 1977,
+  "death_year": 2017,
+  "countries": [
+    "ir",
+    "us"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Maryam Mirzakhani was an Iranian mathematician and the first woman to win the Fields Medal. Her work focused on the geometry and dynamics of Riemann surfaces.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Mirzakhani was born in Tehran, Iran. She won gold medals at the International Mathematical Olympiad in 1994 and 1995, achieving a perfect score in 1995.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Mirzakhani's Fields Medal in 2014 broke a historic barrier. Her work on moduli spaces of Riemann surfaces and their dynamics opened new connections between topology, geometry, and dynamical systems.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1999,
+      "event": {
+        "en": "Graduated from Sharif University of Technology",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2004,
+      "event": {
+        "en": "Earned PhD from Harvard under Curtis McMullen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2008,
+      "event": {
+        "en": "Became professor at Stanford University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2014,
+      "event": {
+        "en": "Awarded the Fields Medal, the first woman to receive it",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 2017,
+      "event": {
+        "en": "Died of breast cancer at age 40",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Simple Geodesics and Weil-Petersson Volumes of Moduli Spaces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 2007,
+      "description": {
+        "en": "Groundbreaking work on counting simple closed geodesics on hyperbolic surfaces",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The beauty of mathematics only shows itself to more patient followers.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Stanford University interview"
+    }
+  ],
+  "relations": []
+}

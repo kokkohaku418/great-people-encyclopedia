@@ -1,0 +1,208 @@
+{
+  "id": "louis-de-broglie",
+  "name": {
+    "en": "Louis de Broglie",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルイ・ド・ブロイ"
+  },
+  "birth_year": 1892,
+  "death_year": 1987,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Louis de Broglie was a French physicist who proposed that particles of matter exhibit wave-like properties, a concept known as wave-particle duality. His doctoral thesis became one of the most important in the history of physics. He received the Nobel Prize in Physics in 1929.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "De Broglie was born into an aristocratic family in Dieppe, France. He initially studied history at the Sorbonne before turning to physics, inspired by his brother Maurice who was an experimental physicist.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "De Broglie's hypothesis of matter waves became a cornerstone of quantum mechanics and directly inspired Schrödinger's wave equation. His work led to the development of electron diffraction experiments and ultimately to electron microscopy. His ideas remain central to modern physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1924,
+      "event": {
+        "en": "Submitted his doctoral thesis proposing wave-particle duality of matter.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1929,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for his discovery of the wave nature of electrons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1933,
+      "event": {
+        "en": "Appointed to the chair of theoretical physics at the University of Paris.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1952,
+      "event": {
+        "en": "Awarded the first Kalinga Prize by UNESCO for popularizing science.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Recherches sur la théorie des quanta (Research on the Theory of Quanta)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1924,
+      "description": {
+        "en": "Doctoral thesis proposing that all matter has wave-like properties.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "An Introduction to the Study of Wave Mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1930,
+      "description": {
+        "en": "Textbook expanding on his wave mechanics theories.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "After long reflection in solitude and meditation, I suddenly had the idea, during the year 1923, that the discovery made by Einstein in 1905 should be generalized by extending it to all material particles and notably to electrons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Louis de Broglie, Nobel lecture, 1929"
+    }
+  ],
+  "relations": [
+    {
+      "person": "albert-einstein",
+      "type": "influenced_by"
+    },
+    {
+      "person": "erwin-schrodinger",
+      "type": "influenced"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "colleague"
+    }
+  ]
+}

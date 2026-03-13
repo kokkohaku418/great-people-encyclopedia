@@ -1,0 +1,153 @@
+{
+  "id": "mencius",
+  "name": {
+    "en": "Mencius",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "孟子"
+  },
+  "birth_year": -372,
+  "death_year": -289,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Mencius was a Chinese Confucian philosopher often described as the second sage of Confucianism. He argued that human nature is innately good and that rulers must govern benevolently.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Mencius was born in the state of Zou, near Confucius's home state of Lu. He studied under a student of Confucius's grandson and traveled among the Warring States rulers.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Mencius's arguments for innate human goodness and benevolent government became central to Confucian thought and East Asian political philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -320,
+      "event": {
+        "en": "Traveled to the state of Qi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -310,
+      "event": {
+        "en": "Served as advisor to King Xuan of Qi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -300,
+      "event": {
+        "en": "Retired from public life to teach",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mencius",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -300,
+      "description": {
+        "en": "Collection of conversations and teachings on Confucian ethics and political philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The people are the most important element in a nation; the spirits of the land come next; the sovereign counts for least.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Mencius"
+    }
+  ],
+  "relations": []
+}

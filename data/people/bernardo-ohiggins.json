@@ -1,0 +1,153 @@
+{
+  "id": "bernardo-ohiggins",
+  "name": {
+    "en": "Bernardo O'Higgins",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ベルナルド・オイギンス"
+  },
+  "birth_year": 1778,
+  "death_year": 1842,
+  "countries": [
+    "cl"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Bernardo O'Higgins was the Chilean independence leader and first Supreme Director of Chile, known as the 'Father of the Nation.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born the illegitimate son of the Irish-born Spanish colonial governor Ambrosio O'Higgins, he was educated in England where he was influenced by Francisco de Miranda's independence ideas.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He led Chile to independence from Spain and established the foundations of the Chilean state, including its first constitution and navy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1814,
+      "event": {
+        "en": "Led Chilean forces at the disastrous Battle of Rancagua",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1817,
+      "event": {
+        "en": "Returned with San Martin to defeat the Spanish at the Battle of Chacabuco",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1818,
+      "event": {
+        "en": "Proclaimed Chilean independence and became Supreme Director",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Chilean Declaration of Independence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1818,
+      "description": {
+        "en": "Document formally declaring Chile's independence from Spain",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Live with honor, or die with glory. The coward does neither.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

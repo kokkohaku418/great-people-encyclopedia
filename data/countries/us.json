@@ -1,0 +1,19 @@
+{
+  "id": "us",
+  "name": {
+    "en": "United States",
+    "es": "Estados Unidos",
+    "pt": "Estados Unidos",
+    "fr": "États-Unis",
+    "de": "Vereinigte Staaten",
+    "zh": "美国",
+    "hi": "संयुक्त राज्य",
+    "ar": "الولايات المتحدة",
+    "id": "Amerika Serikat",
+    "ja": "アメリカ合衆国"
+  },
+  "region": "north-america",
+  "description": {
+    "en": "A federal republic in North America, a global superpower known for its cultural, economic, and scientific influence."
+  }
+}

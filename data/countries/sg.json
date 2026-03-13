@@ -1,0 +1,19 @@
+{
+  "id": "sg",
+  "name": {
+    "en": "Singapore",
+    "es": "Singapur",
+    "pt": "Singapura",
+    "fr": "Singapour",
+    "de": "Singapur",
+    "zh": "新加坡",
+    "hi": "सिंगापुर",
+    "ar": "سنغافورة",
+    "id": "Singapura",
+    "ja": "シンガポール"
+  },
+  "region": "southeast-asia",
+  "description": {
+    "en": "A Southeast Asian city-state known for its advanced economy, technology hub status, and world-class research."
+  }
+}

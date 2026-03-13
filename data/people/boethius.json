@@ -1,0 +1,138 @@
+{
+  "id": "boethius",
+  "name": {
+    "en": "Boethius",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ボエティウス"
+  },
+  "birth_year": 480,
+  "death_year": 524,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Boethius wrote The Consolation of Philosophy, one of the most widely read books of the Middle Ages.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Rome to an aristocratic family. Served as consul and magister officiorum under the Ostrogothic king Theodoric.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He transmitted Greek philosophy to the medieval Latin West and wrote the most influential philosophical work of the early Middle Ages.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 510,
+      "event": {
+        "en": "Served as consul of Rome",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 524,
+      "event": {
+        "en": "Executed by Theodoric; wrote Consolation of Philosophy while imprisoned",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Consolation of Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 524,
+      "description": {
+        "en": "Dialogue between the author and Lady Philosophy on fortune, happiness, and divine providence",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "In other living creatures the ignorance of themselves is nature, but in men it is a vice.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Consolation of Philosophy"
+    }
+  ],
+  "relations": []
+}

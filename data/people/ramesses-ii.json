@@ -1,0 +1,138 @@
+{
+  "id": "ramesses-ii",
+  "name": {
+    "en": "Ramesses II",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ラムセス2世"
+  },
+  "birth_year": -1303,
+  "death_year": -1213,
+  "countries": [
+    "eg"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Ramesses II was the most powerful pharaoh of ancient Egypt, ruling for 66 years and building some of Egypt's greatest monuments.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born as the grandson of Ramesses I, founder of the 19th Dynasty. He was groomed for kingship from an early age.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His monumental building projects, military campaigns, and the first known peace treaty shaped the ancient Near East.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -1274,
+      "event": {
+        "en": "Fought the Battle of Kadesh against the Hittites",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -1258,
+      "event": {
+        "en": "Signed the Egyptian-Hittite peace treaty, the first known in history",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Abu Simbel Temples",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -1244,
+      "description": {
+        "en": "Massive rock-cut temples in Nubia commemorating his reign",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I am Ramesses, the Great King, the King of Kings.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Inscription at Abu Simbel"
+    }
+  ],
+  "relations": []
+}

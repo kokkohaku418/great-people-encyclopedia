@@ -1,0 +1,168 @@
+{
+  "id": "carl-wilhelm-scheele",
+  "name": {
+    "en": "Carl Wilhelm Scheele",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カール・ヴィルヘルム・シェーレ"
+  },
+  "birth_year": 1742,
+  "death_year": 1786,
+  "countries": [
+    "se"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Carl Wilhelm Scheele was a Swedish-German pharmaceutical chemist who discovered oxygen independently of Priestley, as well as chlorine, manganese, and several organic acids.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Scheele was born in Stralsund, then Swedish Pomerania. He was apprenticed to an apothecary at age 14 and became an accomplished experimental chemist without formal university education.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Scheele discovered more chemical elements and compounds than any chemist of his era. His independent discovery of oxygen and identification of numerous organic acids expanded chemistry enormously.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1770,
+      "event": {
+        "en": "Discovered tartaric acid",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1772,
+      "event": {
+        "en": "Discovered oxygen (published 1777)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1774,
+      "event": {
+        "en": "Discovered chlorine and manganese",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1780,
+      "event": {
+        "en": "Discovered lactic acid and other organic compounds",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Chemical Observations and Experiments on Air and Fire",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1777,
+      "description": {
+        "en": "Described the discovery of oxygen and nitrogen",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It is the truth alone that we desire to know, and what joy it is to discover it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

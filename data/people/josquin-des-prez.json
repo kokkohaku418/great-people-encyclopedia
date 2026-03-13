@@ -1,0 +1,139 @@
+{
+  "id": "josquin-des-prez",
+  "name": {
+    "en": "Josquin des Prez",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョスカン・デ・プレ"
+  },
+  "birth_year": 1450,
+  "death_year": 1521,
+  "countries": [
+    "fr",
+    "be"
+  ],
+  "fields": [
+    "art"
+  ],
+  "overview": {
+    "en": "Josquin des Prez was the greatest composer of the Renaissance, whose mastery of polyphony earned him comparison to Michelangelo.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born probably in the Vermandois region. He sang in Milan Cathedral and served at the papal chapel in Rome.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His music synthesized the Franco-Flemish tradition with Italian expressiveness, setting the standard for Renaissance sacred and secular composition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1489,
+      "event": {
+        "en": "Joined the papal chapel in Rome",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1503,
+      "event": {
+        "en": "Appointed maestro di cappella at the court of Ferrara",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Missa Pange Lingua",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1515,
+      "description": {
+        "en": "Mass considered one of the greatest achievements of Renaissance polyphony",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Josquin is the master of the notes; they must do as he wills.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Martin Luther, attributed"
+    }
+  ],
+  "relations": []
+}

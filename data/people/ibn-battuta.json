@@ -1,0 +1,168 @@
+{
+  "id": "ibn-battuta",
+  "name": {
+    "en": "Ibn Battuta",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "イブン・バットゥータ"
+  },
+  "birth_year": 1304,
+  "death_year": 1369,
+  "countries": [
+    "ma"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Ibn Battuta was a Moroccan scholar and explorer who traveled over 75,000 miles across the medieval Islamic world and beyond, more than any traveler before the Steam Age.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ibn Battuta was born in Tangier, Morocco. He set out on his first pilgrimage to Mecca at age 21 and continued traveling for nearly 30 years.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ibn Battuta's Rihla (Travels) provides an invaluable account of 14th-century civilization across Africa, the Middle East, Central Asia, Southeast Asia, and China.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1325,
+      "event": {
+        "en": "Left Tangier on pilgrimage to Mecca",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1332,
+      "event": {
+        "en": "Traveled to India and served as judge in Delhi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1345,
+      "event": {
+        "en": "Traveled to China",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1355,
+      "event": {
+        "en": "Dictated the Rihla",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Rihla (The Travels)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1355,
+      "description": {
+        "en": "Detailed account of travels across the medieval world",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Traveling — it leaves you speechless, then turns you into a storyteller.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

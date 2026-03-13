@@ -1,0 +1,139 @@
+{
+  "id": "kabir",
+  "name": {
+    "en": "Kabir",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "カビール"
+  },
+  "birth_year": 1398,
+  "death_year": 1518,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "literature",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Kabir was a mystic poet-saint whose verses transcended Hindu and Muslim boundaries.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Varanasi, likely into a Muslim weaver family. Influenced by both Hindu and Sufi traditions.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His poetry profoundly influenced the Bhakti movement and remains central to Indian spiritual literature.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1440,
+      "event": {
+        "en": "Began composing devotional poetry and songs",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1495,
+      "event": {
+        "en": "His teachings attracted both Hindu and Muslim followers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Bijak",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1500,
+      "description": {
+        "en": "Collection of Kabir's poems and songs compiled by followers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Do not go to the garden of flowers! O friend! Go not there; in your body is the garden of flowers.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Bijak"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,273 @@
+{
+  "id": "niels-bohr",
+  "name": {
+    "en": "Niels Bohr",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ニールス・ボーア"
+  },
+  "birth_year": 1885,
+  "death_year": 1962,
+  "countries": [
+    "dk"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Niels Bohr was a Danish physicist who made foundational contributions to understanding atomic structure and quantum theory. He proposed the Bohr model of the atom, which introduced quantized electron orbits. He received the Nobel Prize in Physics in 1922.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bohr was born in Copenhagen, Denmark, to a prominent academic family. He studied physics at the University of Copenhagen and completed his doctorate in 1911 before traveling to England to work with J.J. Thomson and Ernest Rutherford.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bohr's atomic model laid the groundwork for modern quantum mechanics and transformed our understanding of atomic physics. He founded the Institute for Theoretical Physics in Copenhagen, which became a world center for quantum research. His principle of complementarity remains a cornerstone of quantum interpretation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1913,
+      "event": {
+        "en": "Published the Bohr model of the atom with quantized electron orbits.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1920,
+      "event": {
+        "en": "Founded the Institute for Theoretical Physics at the University of Copenhagen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1922,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for his work on atomic structure.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1927,
+      "event": {
+        "en": "Introduced the principle of complementarity at the Solvay Conference.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1943,
+      "event": {
+        "en": "Escaped from Nazi-occupied Denmark to Sweden and later to the United States.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Constitution of Atoms and Molecules",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1913,
+      "description": {
+        "en": "Seminal paper introducing the Bohr model with quantized orbits for electrons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Quantum Postulate and the Recent Development of Atomic Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1928,
+      "description": {
+        "en": "Paper presenting the complementarity principle in quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Atomic Physics and Human Knowledge",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1958,
+      "description": {
+        "en": "Collection of essays on quantum mechanics and its philosophical implications.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "An expert is a person who has made all the mistakes that can be made in a very narrow field.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed to Niels Bohr"
+    },
+    {
+      "text": {
+        "en": "If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed to Niels Bohr"
+    }
+  ],
+  "relations": [
+    {
+      "person": "werner-heisenberg",
+      "type": "mentor"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "rival"
+    },
+    {
+      "person": "ernest-rutherford",
+      "type": "influenced_by"
+    },
+    {
+      "person": "wolfgang-pauli",
+      "type": "colleague"
+    },
+    {
+      "person": "lise-meitner",
+      "type": "colleague"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "christoph-scheiner",
+  "name": {
+    "en": "Christoph Scheiner",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クリストフ・シャイナー"
+  },
+  "birth_year": 1573,
+  "death_year": 1650,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Christoph Scheiner was a Jesuit astronomer who independently discovered sunspots and made detailed studies of solar phenomena.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Markt Wald, Swabia. He entered the Jesuit order and studied mathematics and astronomy at the University of Ingolstadt.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His systematic observations of sunspots contributed to the revolution in understanding the Sun as a changing, imperfect body.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1611,
+      "event": {
+        "en": "Independently discovered sunspots",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1630,
+      "event": {
+        "en": "Published Rosa Ursina, a comprehensive study of sunspots",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Rosa Ursina",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1630,
+      "description": {
+        "en": "Monumental work on solar observations containing over 70 illustrations of sunspot activity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The Sun itself is not without blemish.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Rosa Ursina"
+    }
+  ],
+  "relations": []
+}

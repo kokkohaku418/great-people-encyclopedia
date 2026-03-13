@@ -1,0 +1,170 @@
+{
+  "id": "saladin",
+  "name": {
+    "en": "Saladin",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "サラディン"
+  },
+  "birth_year": 1137,
+  "death_year": 1193,
+  "countries": [
+    "eg",
+    "iq",
+    "sy"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Saladin was the first sultan of Egypt and Syria who founded the Ayyubid dynasty and led the Muslim military campaign against the Crusaders.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Saladin was born in Tikrit, in present-day Iraq, into a Kurdish family. He rose through military and political ranks in Egypt before becoming its ruler.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Saladin's recapture of Jerusalem and his chivalrous conduct earned him respect from both Muslim and Christian worlds. He is remembered as a model of honor and leadership.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1171,
+      "event": {
+        "en": "Became ruler of Egypt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1174,
+      "event": {
+        "en": "Became Sultan of Egypt and Syria",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1187,
+      "event": {
+        "en": "Recaptured Jerusalem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1192,
+      "event": {
+        "en": "Negotiated peace with Richard the Lionheart",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Recapture of Jerusalem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1187,
+      "description": {
+        "en": "Retook the holy city from the Crusaders with relative mercy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I warn you against shedding blood, indulging in it and making a habit of it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

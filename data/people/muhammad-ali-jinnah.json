@@ -1,0 +1,138 @@
+{
+  "id": "muhammad-ali-jinnah",
+  "name": {
+    "en": "Muhammad Ali Jinnah",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ムハンマド・アリー・ジンナー"
+  },
+  "birth_year": 1876,
+  "death_year": 1948,
+  "countries": [
+    "pk"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Muhammad Ali Jinnah was the founder of Pakistan and its first Governor-General.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Karachi. Studied law at Lincoln's Inn in London and returned to practice in Bombay.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He led the movement for a separate Muslim state, resulting in the creation of Pakistan in 1947.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1940,
+      "event": {
+        "en": "Supported the Lahore Resolution calling for a separate Muslim state",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1947,
+      "event": {
+        "en": "Became the first Governor-General of Pakistan on August 14",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Lahore Resolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1940,
+      "description": {
+        "en": "Political resolution calling for independent Muslim states in India",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "With faith, discipline, and selfless devotion to duty, there is nothing worthwhile that you cannot achieve.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Address to the Constituent Assembly of Pakistan, 1947"
+    }
+  ],
+  "relations": []
+}

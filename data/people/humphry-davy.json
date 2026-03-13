@@ -1,0 +1,168 @@
+{
+  "id": "humphry-davy",
+  "name": {
+    "en": "Humphry Davy",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ハンフリー・デービー"
+  },
+  "birth_year": 1778,
+  "death_year": 1829,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Humphry Davy was a Cornish chemist and inventor who isolated several chemical elements using electrolysis, including sodium, potassium, calcium, and barium.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Davy was born in Penzance, Cornwall. He was apprenticed to a surgeon-apothecary and began conducting chemical experiments on his own, eventually joining the Royal Institution in London.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Davy's use of electrolysis to isolate elements revolutionized chemistry. He also invented the Davy lamp for miners and mentored Michael Faraday, shaping the future of science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1800,
+      "event": {
+        "en": "Experimented with nitrous oxide",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1807,
+      "event": {
+        "en": "Isolated potassium and sodium by electrolysis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1808,
+      "event": {
+        "en": "Isolated calcium, barium, strontium, magnesium",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1815,
+      "event": {
+        "en": "Invented the Davy safety lamp",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Elements of Chemical Philosophy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1812,
+      "description": {
+        "en": "A comprehensive survey of chemistry and electrochemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The most important of my discoveries have been suggested to me by my failures.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

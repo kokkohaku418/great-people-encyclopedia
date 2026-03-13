@@ -1,0 +1,288 @@
+{
+  "id": "richard-feynman",
+  "name": {
+    "en": "Richard Feynman",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "リチャード・ファインマン"
+  },
+  "birth_year": 1918,
+  "death_year": 1988,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Richard Feynman was an American theoretical physicist who shared the 1965 Nobel Prize in Physics for his contributions to quantum electrodynamics. He developed the path integral formulation of quantum mechanics, Feynman diagrams, and the parton model, and was renowned as an exceptional teacher and science communicator.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Feynman was born in Queens, New York City, and showed an early aptitude for mathematics and science. He earned his bachelor's degree from MIT and his PhD from Princeton University under John Archibald Wheeler.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Feynman's path integral formulation and diagrammatic techniques revolutionized quantum field theory and became standard tools in theoretical physics. His Feynman Lectures on Physics became one of the most celebrated physics textbooks, and his popular books inspired countless people to appreciate science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1942,
+      "event": {
+        "en": "Earned PhD from Princeton University under John Archibald Wheeler",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1943,
+      "event": {
+        "en": "Joined the Manhattan Project at Los Alamos",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Developed the path integral formulation and Feynman diagrams for QED",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1965,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Tomonaga and Schwinger",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1986,
+      "event": {
+        "en": "Investigated the Space Shuttle Challenger disaster on the Rogers Commission",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Feynman Diagrams",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "Invented a pictorial representation of particle interactions that became the universal language of quantum field theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Feynman Lectures on Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1964,
+      "description": {
+        "en": "A three-volume introductory physics textbook based on his legendary Caltech lectures, widely regarded as a masterpiece of science education.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Surely You're Joking, Mr. Feynman!",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1985,
+      "description": {
+        "en": "A bestselling collection of autobiographical anecdotes that captured his adventurous spirit and love of science.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I think I can safely say that nobody understands quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "The Character of Physical Law, 1965"
+    },
+    {
+      "text": {
+        "en": "What I cannot create, I do not understand.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Written on his blackboard at the time of his death, 1988"
+    },
+    {
+      "text": {
+        "en": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Caltech commencement address, 1974"
+    }
+  ],
+  "relations": [
+    {
+      "person": "julian-schwinger",
+      "type": "rival"
+    },
+    {
+      "person": "john-wheeler",
+      "type": "student"
+    },
+    {
+      "person": "hans-bethe",
+      "type": "influenced_by"
+    },
+    {
+      "person": "freeman-dyson",
+      "type": "colleague"
+    },
+    {
+      "person": "murray-gell-mann",
+      "type": "colleague"
+    }
+  ]
+}

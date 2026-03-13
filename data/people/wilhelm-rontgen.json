@@ -1,0 +1,208 @@
+{
+  "id": "wilhelm-rontgen",
+  "name": {
+    "en": "Wilhelm Röntgen",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヴィルヘルム・レントゲン"
+  },
+  "birth_year": 1845,
+  "death_year": 1923,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Wilhelm Röntgen was a German physicist who discovered X-rays in 1895, a breakthrough that revolutionized medicine and earned him the first Nobel Prize in Physics in 1901. His discovery opened entirely new fields in medical imaging and materials science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Lennep, Prussia, Röntgen studied mechanical engineering at the ETH Zurich and later earned his PhD in physics. He held professorships at several German universities, becoming known for his careful experimental work.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Röntgen's discovery of X-rays transformed medical diagnosis by enabling doctors to see inside the human body without surgery. His work also spurred the discovery of radioactivity and led to advances in crystallography, materials science, and nuclear physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1869,
+      "event": {
+        "en": "Earned his PhD from the University of Zurich.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1895,
+      "event": {
+        "en": "Discovered X-rays while experimenting with cathode rays.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1896,
+      "event": {
+        "en": "Published his findings on X-rays, including the famous image of his wife's hand.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1901,
+      "event": {
+        "en": "Awarded the first Nobel Prize in Physics for his discovery of X-rays.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On a New Kind of Rays",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1895,
+      "description": {
+        "en": "Original paper announcing the discovery of X-rays and describing their remarkable properties.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Further Observations on the Properties of X-Rays",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1897,
+      "description": {
+        "en": "Follow-up investigations characterizing the nature and behavior of X-rays.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I did not think; I investigated.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "When asked what he thought upon discovering X-rays"
+    }
+  ],
+  "relations": [
+    {
+      "person": "henri-becquerel",
+      "type": "influenced"
+    },
+    {
+      "person": "philipp-lenard",
+      "type": "colleague"
+    },
+    {
+      "person": "max-planck",
+      "type": "colleague"
+    }
+  ]
+}

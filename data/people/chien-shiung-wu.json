@@ -1,0 +1,270 @@
+{
+  "id": "chien-shiung-wu",
+  "name": {
+    "en": "Chien-Shiung Wu",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "呉健雄"
+  },
+  "birth_year": 1912,
+  "death_year": 1997,
+  "countries": [
+    "cn",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Chien-Shiung Wu was a Chinese-American experimental physicist known for conducting the Wu experiment, which proved that parity is not conserved in weak interactions. Often called the 'First Lady of Physics,' she made fundamental contributions to nuclear and particle physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Wu was born in Liuhe, Jiangsu province, China, and studied physics at National Central University in Nanjing. She moved to the United States in 1936 and earned her PhD from the University of California, Berkeley under Ernest Lawrence.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Wu's 1956 experiment demonstrating parity violation in beta decay overturned one of physics' fundamental assumptions and earned the Nobel Prize for the theorists Lee and Yang, though Wu herself was controversially excluded. She became a powerful advocate for gender equality in science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1940,
+      "event": {
+        "en": "Earned PhD from the University of California, Berkeley",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1944,
+      "event": {
+        "en": "Joined the Manhattan Project, working on uranium enrichment",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Conducted the Wu experiment proving parity violation in weak interactions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Lee and Yang awarded Nobel Prize for parity violation theory; Wu controversially excluded",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1975,
+      "event": {
+        "en": "Became the first woman president of the American Physical Society",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Wu Experiment",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1956,
+      "description": {
+        "en": "Experimentally demonstrated that parity is not conserved in weak interactions using cobalt-60 beta decay.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Beta Decay Research",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1950,
+      "description": {
+        "en": "Confirmed Enrico Fermi's theory of beta decay through precise experimental measurements.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Beta Decay",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1965,
+      "description": {
+        "en": "Authored the definitive textbook on beta decay physics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There is only one thing worse than coming home from the lab to a sink full of dirty dishes, and that is not going to the lab at all.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "It is shameful that there are so few women in science... In China there are many women in physics. There is a misconception in America that women scientists are all dowdy spinsters. This is the fault of men.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Newsweek interview, 1963"
+    }
+  ],
+  "relations": [
+    {
+      "person": "tsung-dao-lee",
+      "type": "collaborator"
+    },
+    {
+      "person": "chen-ning-yang",
+      "type": "colleague"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "influenced_by"
+    },
+    {
+      "person": "ernest-lawrence",
+      "type": "student"
+    }
+  ]
+}

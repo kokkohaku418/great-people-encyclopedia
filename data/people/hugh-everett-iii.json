@@ -1,0 +1,223 @@
+{
+  "id": "hugh-everett-iii",
+  "name": {
+    "en": "Hugh Everett III",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヒュー・エヴェレット3世"
+  },
+  "birth_year": 1930,
+  "death_year": 1982,
+  "countries": [
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Hugh Everett III was an American physicist who proposed the many-worlds interpretation of quantum mechanics, suggesting that all possible quantum outcomes are physically realized in branching parallel universes. Though initially dismissed, his interpretation has become one of the most discussed foundations of quantum theory.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Everett was born in Washington, D.C. and showed exceptional mathematical ability from a young age. He studied chemical engineering at the Catholic University of America before switching to physics at Princeton, where he developed the many-worlds interpretation under John Archibald Wheeler.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Everett's many-worlds interpretation offered a radical solution to the measurement problem in quantum mechanics by eliminating wave function collapse. Initially ignored, it gained traction from the 1970s onward and is now considered a serious contender among interpretations of quantum mechanics, especially in quantum computing and cosmology.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1930,
+      "event": {
+        "en": "Born in Washington, D.C., United States",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Published his Ph.D. thesis proposing the many-worlds interpretation of quantum mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1957,
+      "event": {
+        "en": "Left academia to work in defense research at the Pentagon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1973,
+      "event": {
+        "en": "Bryce DeWitt popularized Everett's ideas, coining the term 'many-worlds'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1982,
+      "event": {
+        "en": "Died in McLean, Virginia at age 51",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "'Relative State' Formulation of Quantum Mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1957,
+      "description": {
+        "en": "Ph.D. thesis proposing that quantum measurements result in branching of the observer's state rather than wave function collapse.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Theory of the Universal Wave Function",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1957,
+      "description": {
+        "en": "Extended version of his thesis providing the full mathematical framework for the relative state formulation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I can't resist asking: Do you believe in the existence of other worlds?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter exchange with Bryce DeWitt"
+    }
+  ],
+  "relations": [
+    {
+      "person": "john-archibald-wheeler",
+      "type": "mentor"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "rival"
+    },
+    {
+      "person": "bryce-dewitt",
+      "type": "collaborator"
+    }
+  ]
+}

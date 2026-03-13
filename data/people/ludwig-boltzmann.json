@@ -1,0 +1,269 @@
+{
+  "id": "ludwig-boltzmann",
+  "name": {
+    "en": "Ludwig Boltzmann",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルートヴィヒ・ボルツマン"
+  },
+  "birth_year": 1844,
+  "death_year": 1906,
+  "countries": [
+    "at"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Ludwig Boltzmann was an Austrian physicist who developed statistical mechanics, providing a microscopic explanation for the macroscopic laws of thermodynamics. His statistical interpretation of entropy bridged the gap between Newtonian mechanics and thermodynamics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Vienna, Austria, Boltzmann studied physics at the University of Vienna, earning his doctorate in 1866. He was deeply influenced by the work of Maxwell and became a passionate advocate for the atomic theory of matter.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Boltzmann's statistical mechanics provided the theoretical foundation for understanding thermodynamic phenomena at the molecular level. His famous equation S = k log W, relating entropy to the number of microstates, is engraved on his tombstone and remains a cornerstone of physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1866,
+      "event": {
+        "en": "Earned his doctorate from the University of Vienna.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1872,
+      "event": {
+        "en": "Published the Boltzmann equation and the H-theorem.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1877,
+      "event": {
+        "en": "Formulated the statistical definition of entropy: S = k log W.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1884,
+      "event": {
+        "en": "Derived the Stefan-Boltzmann law for blackbody radiation from thermodynamic principles.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1896,
+      "event": {
+        "en": "Published 'Lectures on Gas Theory,' his comprehensive treatise on kinetic theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Further Studies on the Thermal Equilibrium of Gas Molecules",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1872,
+      "description": {
+        "en": "Foundational paper introducing the Boltzmann equation and the H-theorem for irreversible processes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Relationship between the Second Law of Thermodynamics and Probability",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1877,
+      "description": {
+        "en": "Paper establishing the statistical interpretation of entropy with the famous S = k log W formula.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Lectures on Gas Theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1896,
+      "description": {
+        "en": "Comprehensive treatise on the kinetic theory of gases and statistical mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "If you are out to describe the truth, leave elegance to the tailor.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "Available energy is the main object at stake in the struggle for existence and the evolution of the world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Lectures on Gas Theory, 1896"
+    }
+  ],
+  "relations": [
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced_by"
+    },
+    {
+      "person": "max-planck",
+      "type": "influenced"
+    },
+    {
+      "person": "josiah-willard-gibbs",
+      "type": "colleague"
+    },
+    {
+      "person": "rudolf-clausius",
+      "type": "influenced_by"
+    }
+  ]
+}

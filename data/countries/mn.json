@@ -1,0 +1,19 @@
+{
+  "id": "mn",
+  "name": {
+    "en": "Mongolia",
+    "es": "Mongolia",
+    "pt": "Mongólia",
+    "fr": "Mongolie",
+    "de": "Mongolei",
+    "zh": "蒙古",
+    "hi": "मंगोलिया",
+    "ar": "منغوليا",
+    "id": "Mongolia",
+    "ja": "モンゴル"
+  },
+  "region": "east-asia",
+  "description": {
+    "en": "A landlocked East Asian country known for the Mongol Empire and its nomadic cultural heritage."
+  }
+}

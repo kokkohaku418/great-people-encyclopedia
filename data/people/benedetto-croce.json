@@ -1,0 +1,138 @@
+{
+  "id": "benedetto-croce",
+  "name": {
+    "en": "Benedetto Croce",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ベネデット・クローチェ"
+  },
+  "birth_year": 1866,
+  "death_year": 1952,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Benedetto Croce was an Italian idealist philosopher, historian, and prominent anti-fascist intellectual.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Pescasseroli, Abruzzo. Orphaned by an earthquake at age 17 and raised by a cousin in Rome.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His aesthetic philosophy and historicism dominated Italian intellectual life for half a century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1902,
+      "event": {
+        "en": "Published Aesthetics as Science of Expression and General Linguistic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1925,
+      "event": {
+        "en": "Published the Manifesto of the Anti-Fascist Intellectuals",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Aesthetics as Science of Expression and General Linguistic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1902,
+      "description": {
+        "en": "Major work arguing that art is intuitive expression of individual emotion",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "All history is contemporary history.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Theory and History of Historiography"
+    }
+  ],
+  "relations": []
+}

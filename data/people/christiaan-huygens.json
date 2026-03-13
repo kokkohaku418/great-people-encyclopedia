@@ -1,0 +1,248 @@
+{
+  "id": "christiaan-huygens",
+  "name": {
+    "en": "Christiaan Huygens",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クリスティアーン・ホイヘンス"
+  },
+  "birth_year": 1629,
+  "death_year": 1695,
+  "countries": [
+    "nl"
+  ],
+  "fields": [
+    "physics",
+    "astronomy",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Christiaan Huygens was a Dutch mathematician, physicist, and astronomer who was one of the leading scientists of the 17th century. He proposed the wave theory of light, invented the pendulum clock, and discovered Saturn's largest moon, Titan.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Huygens was born in 1629 in The Hague, Netherlands, into a prominent diplomatic family. His father's connections with leading intellectuals, including Rene Descartes, provided young Christiaan with an exceptional education in mathematics and natural philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Huygens's wave theory of light provided an alternative to Newton's corpuscular theory and was later vindicated by Young and Fresnel. His invention of the pendulum clock revolutionized timekeeping and his work on probability contributed to the foundations of the field.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1629,
+      "event": {
+        "en": "Born in The Hague, Netherlands",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1655,
+      "event": {
+        "en": "Discovered Titan, Saturn's largest moon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1656,
+      "event": {
+        "en": "Invented the pendulum clock",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1673,
+      "event": {
+        "en": "Published Horologium Oscillatorium on pendulum dynamics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1690,
+      "event": {
+        "en": "Published Traite de la Lumiere proposing the wave theory of light",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1695,
+      "event": {
+        "en": "Died in The Hague",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Traite de la Lumiere",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1690,
+      "description": {
+        "en": "Presented the wave theory of light using what is now known as Huygens' principle, explaining reflection and refraction.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Horologium Oscillatorium",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1673,
+      "description": {
+        "en": "A major work on pendulum dynamics and clock design, containing important results in mechanics and the theory of evolutes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The world is my country, science my religion.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "isaac-newton",
+      "type": "rival"
+    },
+    {
+      "person": "galileo-galilei",
+      "type": "influenced_by"
+    },
+    {
+      "person": "rene-descartes",
+      "type": "influenced_by"
+    },
+    {
+      "person": "thomas-young",
+      "type": "influenced"
+    },
+    {
+      "person": "augustin-jean-fresnel",
+      "type": "influenced"
+    }
+  ]
+}

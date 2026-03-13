@@ -1,0 +1,138 @@
+{
+  "id": "giambattista-vico",
+  "name": {
+    "en": "Giambattista Vico",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジャンバッティスタ・ヴィーコ"
+  },
+  "birth_year": 1668,
+  "death_year": 1744,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Giambattista Vico was an Italian philosopher who pioneered the philosophy of history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Naples. Spent most of his life as a professor of rhetoric at the University of Naples.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His cyclical theory of history and emphasis on culture and language anticipated modern social science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1725,
+      "event": {
+        "en": "Published the first edition of Scienza Nuova",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1730,
+      "event": {
+        "en": "Published the revised second edition of Scienza Nuova",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Scienza Nuova",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1725,
+      "description": {
+        "en": "Groundbreaking work on the philosophy of history and the development of civilizations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Men first feel necessity, then look for utility, next attend to comfort, still later amuse themselves with pleasure.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Scienza Nuova"
+    }
+  ],
+  "relations": []
+}

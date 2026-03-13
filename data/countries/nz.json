@@ -1,0 +1,19 @@
+{
+  "id": "nz",
+  "name": {
+    "en": "New Zealand",
+    "es": "Nueva Zelanda",
+    "pt": "Nova Zelândia",
+    "fr": "Nouvelle-Zélande",
+    "de": "Neuseeland",
+    "zh": "新西兰",
+    "hi": "न्यूज़ीलैंड",
+    "ar": "نيوزيلندا",
+    "id": "Selandia Baru",
+    "ja": "ニュージーランド"
+  },
+  "region": "oceania",
+  "description": {
+    "en": "An island nation in the southwestern Pacific known for pioneering nuclear physics research and environmental leadership."
+  }
+}

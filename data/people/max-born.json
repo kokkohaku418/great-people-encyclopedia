@@ -1,0 +1,270 @@
+{
+  "id": "max-born",
+  "name": {
+    "en": "Max Born",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "マックス・ボルン"
+  },
+  "birth_year": 1882,
+  "death_year": 1970,
+  "countries": [
+    "de",
+    "gb"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Max Born was a German-British physicist who was instrumental in the development of quantum mechanics. He is best known for his probabilistic interpretation of the wave function, known as the Born rule. He received the Nobel Prize in Physics in 1954.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born was born in Breslau, Germany (now Wroclaw, Poland), into an academic family. He studied at several German universities before completing his doctorate at the University of Göttingen, where he would later build a renowned physics department.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Born's statistical interpretation of the wave function became a fundamental pillar of quantum mechanics. His work at Göttingen created a world-leading center for theoretical physics that trained many future Nobel laureates. He also made important contributions to solid-state physics and optics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1921,
+      "event": {
+        "en": "Appointed professor of theoretical physics at the University of Göttingen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1925,
+      "event": {
+        "en": "Collaborated with Heisenberg and Jordan to develop matrix mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1926,
+      "event": {
+        "en": "Proposed the probabilistic interpretation of the wave function (Born rule).",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1933,
+      "event": {
+        "en": "Fled Nazi Germany and emigrated to Britain.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for his statistical interpretation of quantum mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Quantum Mechanics of Collisions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1926,
+      "description": {
+        "en": "Paper introducing the probabilistic interpretation of the wave function.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On Quantum Mechanics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1925,
+      "description": {
+        "en": "Co-authored with Pascual Jordan, formalizing matrix mechanics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Principles of Optics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1959,
+      "description": {
+        "en": "Comprehensive textbook on optics co-authored with Emil Wolf, still widely used.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I believe that ideas such as absolute certitude, absolute exactness, final truth, etc. are figments of the imagination which should not be admissible in any field of science.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Max Born, Nobel lecture, 1954"
+    },
+    {
+      "text": {
+        "en": "The belief that there is only one truth, and that oneself is in possession of it, is the root of all evil in the world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Max Born, My Life and My Views"
+    }
+  ],
+  "relations": [
+    {
+      "person": "werner-heisenberg",
+      "type": "mentor"
+    },
+    {
+      "person": "wolfgang-pauli",
+      "type": "mentor"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "friend"
+    },
+    {
+      "person": "j-robert-oppenheimer",
+      "type": "mentor"
+    }
+  ]
+}

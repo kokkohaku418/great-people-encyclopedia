@@ -1,0 +1,227 @@
+{
+  "id": "hendrik-lorentz",
+  "name": {
+    "en": "Hendrik Lorentz",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヘンドリック・ローレンツ"
+  },
+  "birth_year": 1853,
+  "death_year": 1928,
+  "countries": [
+    "nl"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Hendrik Lorentz was a Dutch physicist who developed the Lorentz transformation equations and the electron theory of matter. He shared the 1902 Nobel Prize in Physics and his mathematical framework became essential to Einstein's special theory of relativity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Arnhem, Netherlands, Lorentz studied at Leiden University, earning his PhD at age 22. He became professor of theoretical physics at Leiden at 24, one of the youngest professors in Europe at the time.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lorentz's transformation equations provided the mathematical foundation for special relativity, and his electron theory helped bridge classical and modern physics. He was universally respected and served as a guiding figure for an entire generation of European physicists.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1875,
+      "event": {
+        "en": "Earned his PhD from Leiden University at age 22.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1878,
+      "event": {
+        "en": "Became professor of theoretical physics at Leiden University.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1895,
+      "event": {
+        "en": "Introduced the Lorentz transformation to explain the Michelson-Morley experiment.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1899,
+      "event": {
+        "en": "Refined the Lorentz transformation, introducing the concept of local time.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1902,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Pieter Zeeman.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Attempt of a Theory of Electrical and Optical Phenomena in Moving Bodies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1895,
+      "description": {
+        "en": "Paper introducing the Lorentz transformation to reconcile electromagnetism with the principle of relativity.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Theory of Electrons",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1909,
+      "description": {
+        "en": "Comprehensive work presenting Lorentz's electron theory and its applications to electromagnetic phenomena.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I am unable to believe that the ether does not exist, but I am equally unable to believe that it has the properties which have been attributed to it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed, c. 1910"
+    }
+  ],
+  "relations": [
+    {
+      "person": "max-planck",
+      "type": "colleague"
+    },
+    {
+      "person": "henri-becquerel",
+      "type": "colleague"
+    },
+    {
+      "person": "jj-thomson",
+      "type": "colleague"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "influenced_by"
+    }
+  ]
+}

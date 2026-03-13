@@ -1,0 +1,19 @@
+{
+  "id": "br",
+  "name": {
+    "en": "Brazil",
+    "es": "Brasil",
+    "pt": "Brasil",
+    "fr": "Brésil",
+    "de": "Brasilien",
+    "zh": "巴西",
+    "hi": "ब्राज़ील",
+    "ar": "البرازيل",
+    "id": "Brasil",
+    "ja": "ブラジル"
+  },
+  "region": "south-america",
+  "description": {
+    "en": "The largest country in South America, known for its biodiversity and growing contributions to physics and aerospace research."
+  }
+}

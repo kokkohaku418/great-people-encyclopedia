@@ -1,0 +1,19 @@
+{
+  "id": "za",
+  "name": {
+    "en": "South Africa",
+    "es": "Sudáfrica",
+    "pt": "África do Sul",
+    "fr": "Afrique du Sud",
+    "de": "Südafrika",
+    "zh": "南非",
+    "hi": "दक्षिण अफ़्रीका",
+    "ar": "جنوب أفريقيا",
+    "id": "Afrika Selatan",
+    "ja": "南アフリカ"
+  },
+  "region": "sub-saharan-africa",
+  "description": {
+    "en": "A southern African country with a diverse society and notable contributions to science and medicine."
+  }
+}

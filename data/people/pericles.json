@@ -1,0 +1,168 @@
+{
+  "id": "pericles",
+  "name": {
+    "en": "Pericles",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ペリクレス"
+  },
+  "birth_year": -495,
+  "death_year": -429,
+  "countries": [
+    "gr"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Pericles was an Athenian statesman, orator, and general who led Athens during its Golden Age, promoting democracy, arts, and philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Pericles was born into an aristocratic Athenian family. He received an excellent education and entered politics, eventually becoming the most influential leader of democratic Athens.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Under Pericles' leadership, Athens experienced an unprecedented flowering of art, architecture, philosophy, and democracy. The Parthenon was built during his leadership.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -461,
+      "event": {
+        "en": "Became dominant leader of Athens",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -447,
+      "event": {
+        "en": "Began construction of the Parthenon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -443,
+      "event": {
+        "en": "Re-elected strategos repeatedly",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -429,
+      "event": {
+        "en": "Died during the plague of Athens",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Funeral Oration",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -431,
+      "description": {
+        "en": "Speech honoring Athenian war dead that defined democratic ideals",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Freedom is the sure possession of those alone who have the courage to defend it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Funeral Oration, via Thucydides"
+    }
+  ],
+  "relations": []
+}

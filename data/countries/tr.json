@@ -1,0 +1,19 @@
+{
+  "id": "tr",
+  "name": {
+    "en": "Turkey",
+    "es": "Turquía",
+    "pt": "Turquia",
+    "fr": "Turquie",
+    "de": "Türkei",
+    "zh": "土耳其",
+    "hi": "तुर्की",
+    "ar": "تركيا",
+    "id": "Turki",
+    "ja": "トルコ"
+  },
+  "region": "middle-east",
+  "description": {
+    "en": "A transcontinental country bridging Europe and Asia with a rich history spanning the Ottoman and Byzantine empires."
+  }
+}

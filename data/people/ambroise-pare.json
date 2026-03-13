@@ -1,0 +1,153 @@
+{
+  "id": "ambroise-pare",
+  "name": {
+    "en": "Ambroise Pare",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アンブロワーズ・パレ"
+  },
+  "birth_year": 1510,
+  "death_year": 1590,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Ambroise Pare was a French barber-surgeon who is considered the father of modern surgery for his revolutionary techniques in wound treatment and surgical practice.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Bourg-Hersent, he trained as a barber-surgeon in Paris and gained his surgical experience on the battlefields of the Italian Wars.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He replaced the brutal practice of cauterizing wounds with boiling oil with gentler ligature techniques and prosthetic design, transforming surgical practice.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1545,
+      "event": {
+        "en": "Published his first work on treating gunshot wounds",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1552,
+      "event": {
+        "en": "Became surgeon to King Henry II of France",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1575,
+      "event": {
+        "en": "Published his collected surgical works",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Les Oeuvres",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1575,
+      "description": {
+        "en": "Comprehensive collected works on surgery and wound treatment",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I dressed him and God healed him.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "On treating a wounded soldier"
+    }
+  ],
+  "relations": []
+}

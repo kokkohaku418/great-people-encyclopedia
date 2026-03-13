@@ -1,0 +1,153 @@
+{
+  "id": "niels-henrik-abel",
+  "name": {
+    "en": "Niels Henrik Abel",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ニールス・ヘンリック・アーベル"
+  },
+  "birth_year": 1802,
+  "death_year": 1829,
+  "countries": [
+    "no"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Niels Henrik Abel was a Norwegian mathematician who proved the impossibility of solving the general quintic equation algebraically and made groundbreaking contributions to elliptic functions.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Abel was born in Nedstrand, Norway, to a poor family. His mathematical talent was recognized by his teacher Bernt Michael Holmboe, who supported his studies.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Abel's proof of the unsolvability of the quintic equation was a landmark in algebra. His work on elliptic functions and Abelian integrals opened vast new areas of mathematics. He died of tuberculosis at 26.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1824,
+      "event": {
+        "en": "Proved impossibility of solving the general quintic",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1826,
+      "event": {
+        "en": "Published work on elliptic functions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1828,
+      "event": {
+        "en": "Published memoir on a general property of a class of transcendental functions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Proof of the Impossibility of Algebraic Solution of General Equations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1824,
+      "description": {
+        "en": "Demonstrated that no general algebraic solution exists for polynomials of degree five or higher",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "He has left mathematicians something to keep them busy for five hundred years.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Charles Hermite, on Abel"
+    }
+  ],
+  "relations": []
+}

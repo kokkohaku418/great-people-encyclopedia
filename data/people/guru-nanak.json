@@ -1,0 +1,138 @@
+{
+  "id": "guru-nanak",
+  "name": {
+    "en": "Guru Nanak",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "グル・ナーナク"
+  },
+  "birth_year": 1469,
+  "death_year": 1539,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Guru Nanak was the founder of Sikhism and the first of the ten Sikh Gurus.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Talwandi (now Nankana Sahib, Pakistan). Showed spiritual inclinations from childhood.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He founded one of the world's major religions, emphasizing equality, devotion, and honest living.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1499,
+      "event": {
+        "en": "Had a spiritual revelation and began teaching",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1520,
+      "event": {
+        "en": "Established the town of Kartarpur as a center for the Sikh community",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Japji Sahib",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1500,
+      "description": {
+        "en": "Opening prayer of the Guru Granth Sahib, the central scripture of Sikhism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There is no Hindu, there is no Muslim.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed upon emerging from the river"
+    }
+  ],
+  "relations": []
+}

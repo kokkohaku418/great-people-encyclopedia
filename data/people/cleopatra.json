@@ -1,0 +1,168 @@
+{
+  "id": "cleopatra",
+  "name": {
+    "en": "Cleopatra VII",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "クレオパトラ7世"
+  },
+  "birth_year": -69,
+  "death_year": -30,
+  "countries": [
+    "eg"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt, known for her intelligence, political acumen, and alliances with Julius Caesar and Mark Antony.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Cleopatra was born into the Ptolemaic dynasty in Alexandria. She received an extensive education and was the first Ptolemaic ruler to learn the Egyptian language.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Cleopatra was one of the most powerful rulers of her era, maintaining Egyptian independence through diplomacy and alliance. Her story has influenced art and literature for two millennia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -51,
+      "event": {
+        "en": "Became co-ruler of Egypt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -48,
+      "event": {
+        "en": "Allied with Julius Caesar",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -41,
+      "event": {
+        "en": "Allied with Mark Antony",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -30,
+      "event": {
+        "en": "Died after defeat at Actium",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Rule of Egypt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -51,
+      "description": {
+        "en": "Maintained Egyptian sovereignty through strategic alliances with Rome",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I will not be triumphed over.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Plutarch"
+    }
+  ],
+  "relations": []
+}

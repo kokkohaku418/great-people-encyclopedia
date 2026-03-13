@@ -1,0 +1,271 @@
+{
+  "id": "subrahmanyan-chandrasekhar",
+  "name": {
+    "en": "Subrahmanyan Chandrasekhar",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "スブラマニアン・チャンドラセカール"
+  },
+  "birth_year": 1910,
+  "death_year": 1995,
+  "countries": [
+    "in",
+    "us"
+  ],
+  "fields": [
+    "physics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Subrahmanyan Chandrasekhar was an Indian-American astrophysicist known for determining the mass limit for white dwarf stars, now called the Chandrasekhar limit. His work laid the foundation for the modern theory of stellar evolution. He received the Nobel Prize in Physics in 1983.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Chandrasekhar was born in Lahore, British India, into a Tamil Brahmin family. His uncle C.V. Raman was a Nobel laureate. He studied at Presidency College in Madras and derived his famous limit while traveling to England for graduate study at age 19.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Chandrasekhar limit fundamentally changed our understanding of stellar evolution, predicting that massive stars would collapse into neutron stars or black holes. His mathematical rigor set new standards in astrophysics. He made contributions across numerous areas including radiative transfer, stellar dynamics, and black hole physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1930,
+      "event": {
+        "en": "Calculated the maximum mass of a white dwarf star during his voyage to England.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1937,
+      "event": {
+        "en": "Joined the University of Chicago, where he spent the rest of his career.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1952,
+      "event": {
+        "en": "Published 'Radiative Transfer', a foundational work in the field.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1983,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for theoretical studies of stellar structure and evolution.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1995,
+      "event": {
+        "en": "Published his final work on the mathematical theory of black holes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "An Introduction to the Study of Stellar Structure",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1939,
+      "description": {
+        "en": "Comprehensive treatise on stellar physics including the Chandrasekhar limit.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Radiative Transfer",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1950,
+      "description": {
+        "en": "Foundational textbook on the theory of radiative transfer in stellar atmospheres.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The Mathematical Theory of Black Holes",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1983,
+      "description": {
+        "en": "Rigorous mathematical treatment of the physics of black holes.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The pursuit of science has often been compared to the scaling of mountains, high and not so high.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Subrahmanyan Chandrasekhar, Nobel lecture, 1983"
+    },
+    {
+      "text": {
+        "en": "I should like to be somewhat more precise in what I mean by beauty in science.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Subrahmanyan Chandrasekhar, Truth and Beauty"
+    }
+  ],
+  "relations": [
+    {
+      "person": "cv-raman",
+      "type": "influenced_by"
+    },
+    {
+      "person": "arthur-eddington",
+      "type": "rival"
+    },
+    {
+      "person": "enrico-fermi",
+      "type": "colleague"
+    },
+    {
+      "person": "ralph-fowler",
+      "type": "student"
+    }
+  ]
+}

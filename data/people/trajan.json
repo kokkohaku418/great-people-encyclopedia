@@ -1,0 +1,139 @@
+{
+  "id": "trajan",
+  "name": {
+    "en": "Trajan",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "トラヤヌス"
+  },
+  "birth_year": 53,
+  "death_year": 117,
+  "countries": [
+    "it",
+    "es"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Trajan was a Roman emperor who expanded the empire to its greatest territorial extent and was revered as the best of emperors.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Italica, Hispania. He rose through the military ranks and was adopted by Emperor Nerva as his successor.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Under Trajan, the Roman Empire reached its maximum extent, and his public works program transformed Rome.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 98,
+      "event": {
+        "en": "Became Roman Emperor",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 113,
+      "event": {
+        "en": "Completed Trajan's Column commemorating his Dacian Wars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Trajan's Column",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 113,
+      "description": {
+        "en": "Monumental column in Rome with a spiral frieze depicting the Dacian Wars",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I wish to be the kind of emperor that I would have wished for if I were a subject.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed by Cassius Dio"
+    }
+  ],
+  "relations": []
+}

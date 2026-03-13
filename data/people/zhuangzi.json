@@ -1,0 +1,138 @@
+{
+  "id": "zhuangzi",
+  "name": {
+    "en": "Zhuangzi",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "荘子"
+  },
+  "birth_year": -369,
+  "death_year": -286,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Zhuangzi was an ancient Chinese philosopher and one of the founders of Taoism. His eponymous book is one of the most important texts in Chinese philosophy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Little is known about Zhuangzi's life. He is traditionally believed to have lived in the state of Meng during the Warring States period and declined a government position.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Zhuangzi's philosophy of spontaneity, relativism, and harmony with nature profoundly influenced Chinese thought, art, poetry, and Chan/Zen Buddhism.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -320,
+      "event": {
+        "en": "Composed the inner chapters of the Zhuangzi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -300,
+      "event": {
+        "en": "Zhuangzi compiled by later followers",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Zhuangzi",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -300,
+      "description": {
+        "en": "Collection of parables and philosophical arguments on the nature of reality and freedom",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The fish trap exists because of the fish. Once you've gotten the fish you can forget the trap.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Zhuangzi"
+    }
+  ],
+  "relations": []
+}

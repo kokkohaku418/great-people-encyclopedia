@@ -1,0 +1,123 @@
+{
+  "id": "john-napier",
+  "name": {
+    "en": "John Napier",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョン・ネイピア"
+  },
+  "birth_year": 1550,
+  "death_year": 1617,
+  "countries": [
+    "gb"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "John Napier invented logarithms, one of the most useful mathematical tools for calculation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Edinburgh. Studied at the University of St Andrews.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Logarithms transformed calculation and paved the way for modern computation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1614,
+      "event": {
+        "en": "Published Mirifici Logarithmorum Canonis Descriptio",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Mirifici Logarithmorum Canonis Descriptio",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1614,
+      "description": {
+        "en": "Book introducing logarithms",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Seeing there is nothing that is so troublesome to mathematical practice than the multiplications, divisions, square and cubical extractions.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Mirifici Logarithmorum"
+    }
+  ],
+  "relations": []
+}

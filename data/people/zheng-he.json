@@ -1,0 +1,153 @@
+{
+  "id": "zheng-he",
+  "name": {
+    "en": "Zheng He",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "鄭和"
+  },
+  "birth_year": 1371,
+  "death_year": 1433,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "engineering"
+  ],
+  "overview": {
+    "en": "Zheng He was a Chinese mariner and explorer who led seven massive naval expeditions across the Indian Ocean during the Ming Dynasty.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born Ma He in Yunnan province to a Muslim family, he was captured as a boy and served in the court of the Prince of Yan, later the Yongle Emperor.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "His voyages demonstrated China's naval supremacy and established diplomatic and trade relations across Southeast Asia, India, Arabia, and East Africa.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1405,
+      "event": {
+        "en": "Led first treasure fleet voyage to Southeast Asia and India",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1407,
+      "event": {
+        "en": "Second voyage reached Calicut and Cochin",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1431,
+      "event": {
+        "en": "Led seventh and final voyage, reaching East Africa",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Charts of Zheng He's Voyages",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1430,
+      "description": {
+        "en": "Navigation charts documenting sea routes across the Indian Ocean",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We have traversed more than 100,000 li of immense water spaces and have beheld in the ocean huge waves like mountains rising in the sky.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Inscription at Changle, Fujian"
+    }
+  ],
+  "relations": []
+}

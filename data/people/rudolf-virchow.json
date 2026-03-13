@@ -1,0 +1,153 @@
+{
+  "id": "rudolf-virchow",
+  "name": {
+    "en": "Rudolf Virchow",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ルドルフ・フィルヒョウ"
+  },
+  "birth_year": 1821,
+  "death_year": 1902,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "biology"
+  ],
+  "overview": {
+    "en": "Rudolf Virchow was a German physician and pathologist known as the father of modern pathology. He proposed that all cells arise from pre-existing cells.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Virchow was born in Schivelbein, Pomerania. He studied medicine in Berlin and became professor at the University of Würzburg and later the Charité in Berlin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Virchow's principle 'omnis cellula e cellula' (every cell from a cell) completed cell theory. His cellular pathology approach transformed medicine from speculation to science.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1847,
+      "event": {
+        "en": "Founded the journal Archiv für pathologische Anatomie",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1855,
+      "event": {
+        "en": "Proposed 'omnis cellula e cellula'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1858,
+      "event": {
+        "en": "Published Die Cellularpathologie",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Die Cellularpathologie",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1858,
+      "description": {
+        "en": "Established cellular pathology as the basis of medical science",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Omnis cellula e cellula. (Every cell originates from another existing cell.)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Die Cellularpathologie"
+    }
+  ],
+  "relations": []
+}

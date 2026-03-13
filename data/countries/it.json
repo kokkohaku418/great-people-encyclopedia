@@ -1,0 +1,19 @@
+{
+  "id": "it",
+  "name": {
+    "en": "Italy",
+    "es": "Italia",
+    "pt": "Itália",
+    "fr": "Italie",
+    "de": "Italien",
+    "zh": "意大利",
+    "hi": "इटली",
+    "ar": "إيطاليا",
+    "id": "Italia",
+    "ja": "イタリア"
+  },
+  "region": "southern-europe",
+  "description": {
+    "en": "A southern European country and cradle of the Roman Empire and the Renaissance, renowned for art, science, and culture."
+  }
+}

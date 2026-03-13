@@ -1,0 +1,243 @@
+{
+  "id": "charles-augustin-de-coulomb",
+  "name": {
+    "en": "Charles-Augustin de Coulomb",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "シャルル=オーギュスタン・ド・クーロン"
+  },
+  "birth_year": 1736,
+  "death_year": 1806,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics",
+    "engineering"
+  ],
+  "overview": {
+    "en": "Charles-Augustin de Coulomb was a French military engineer and physicist who is best known for formulating Coulomb's law, which describes the electrostatic force between charged particles. His torsion balance experiments established the quantitative foundations of electrostatics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Coulomb was born in 1736 in Angouleme, France, into a family of minor nobility. He studied at the Ecole Royale du Genie de Mezieres, one of France's leading military engineering schools, and served as a military engineer in the West Indies before returning to France.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Coulomb's law became one of the fundamental laws of electromagnetism and is essential to understanding electrical interactions. His work on friction and structural mechanics also made lasting contributions to engineering, and the SI unit of electric charge is named in his honor.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1736,
+      "event": {
+        "en": "Born in Angouleme, France",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1761,
+      "event": {
+        "en": "Graduated from the Ecole Royale du Genie de Mezieres",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1773,
+      "event": {
+        "en": "Published memoirs on structural mechanics and friction",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1785,
+      "event": {
+        "en": "Published Coulomb's law describing electrostatic force",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1789,
+      "event": {
+        "en": "Retired from military service during the French Revolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1806,
+      "event": {
+        "en": "Died in Paris",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "First Memoir on Electricity and Magnetism",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1785,
+      "description": {
+        "en": "Presented the inverse-square law for electrostatic force using the torsion balance, now known as Coulomb's law.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Theory of Simple Machines",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1781,
+      "description": {
+        "en": "A treatise on friction in machines that won the Grand Prize of the French Academy of Sciences.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The force between two charges is proportional to the product of the charges and inversely proportional to the square of the distance between them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "First Memoir on Electricity and Magnetism, paraphrased"
+    }
+  ],
+  "relations": [
+    {
+      "person": "benjamin-franklin",
+      "type": "influenced_by"
+    },
+    {
+      "person": "andre-marie-ampere",
+      "type": "influenced"
+    },
+    {
+      "person": "michael-faraday",
+      "type": "influenced"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "influenced_by"
+    }
+  ]
+}

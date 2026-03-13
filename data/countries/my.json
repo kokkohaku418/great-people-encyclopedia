@@ -1,0 +1,19 @@
+{
+  "id": "my",
+  "name": {
+    "en": "Malaysia",
+    "es": "Malasia",
+    "pt": "Malásia",
+    "fr": "Malaisie",
+    "de": "Malaysia",
+    "zh": "马来西亚",
+    "hi": "मलेशिया",
+    "ar": "ماليزيا",
+    "id": "Malaysia",
+    "ja": "マレーシア"
+  },
+  "region": "southeast-asia",
+  "description": {
+    "en": "A Southeast Asian country known for its multicultural society and growing technology sector."
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "du-fu",
+  "name": {
+    "en": "Du Fu",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "杜甫"
+  },
+  "birth_year": 712,
+  "death_year": 770,
+  "countries": [
+    "cn"
+  ],
+  "fields": [
+    "literature"
+  ],
+  "overview": {
+    "en": "Du Fu was a Chinese poet of the Tang dynasty, known as the Poet-Sage. His socially conscious poetry is considered among the greatest in the Chinese literary tradition.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Du Fu was born into a scholar-official family. He spent years attempting to enter government service and later suffered greatly during the An Lushan Rebellion.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Du Fu's poetry documented the suffering of ordinary people during war and famine with unprecedented compassion and realism. He is revered as China's greatest realist poet.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 735,
+      "event": {
+        "en": "Began travels throughout China",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 755,
+      "event": {
+        "en": "Witnessed the An Lushan Rebellion",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 759,
+      "event": {
+        "en": "Moved to Chengdu and built the Thatched Cottage",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 770,
+      "event": {
+        "en": "Died while traveling",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Collected Poems",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 770,
+      "description": {
+        "en": "Approximately 1,500 poems chronicling Tang dynasty life and the impact of war",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The nation is broken, though hills and rivers remain.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Spring View"
+    }
+  ],
+  "relations": []
+}

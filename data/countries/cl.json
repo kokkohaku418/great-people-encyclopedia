@@ -1,0 +1,19 @@
+{
+  "id": "cl",
+  "name": {
+    "en": "Chile",
+    "es": "Chile",
+    "pt": "Chile",
+    "fr": "Chili",
+    "de": "Chile",
+    "zh": "智利",
+    "hi": "चिली",
+    "ar": "تشيلي",
+    "id": "Chili",
+    "ja": "チリ"
+  },
+  "region": "south-america",
+  "description": {
+    "en": "A South American country known for its astronomical observatories and contributions to literature and science."
+  }
+}

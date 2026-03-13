@@ -1,0 +1,272 @@
+{
+  "id": "ibn-al-haytham",
+  "name": {
+    "en": "Ibn al-Haytham",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "イブン・アル=ハイサム"
+  },
+  "birth_year": 965,
+  "death_year": 1040,
+  "countries": [
+    "iq",
+    "eg"
+  ],
+  "fields": [
+    "physics",
+    "mathematics",
+    "astronomy"
+  ],
+  "overview": {
+    "en": "Ibn al-Haytham, known in the West as Alhazen, was an Arab mathematician, astronomer, and physicist who is widely considered the father of modern optics. His Book of Optics fundamentally changed the understanding of light and vision.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Ibn al-Haytham was born in Basra, in present-day Iraq, around 965 AD. He received a thorough education in science and theology before moving to Cairo, Egypt, where he spent most of his productive years under the patronage of the Fatimid Caliphate.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Ibn al-Haytham's experimental method and insistence on empirical evidence anticipated the modern scientific method by centuries. His work on optics influenced European scientists including Roger Bacon, Kepler, and Descartes, and his camera obscura experiments laid groundwork for the development of photography.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 965,
+      "event": {
+        "en": "Born in Basra, present-day Iraq",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1011,
+      "event": {
+        "en": "Placed under house arrest in Cairo after failed Nile dam project",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1021,
+      "event": {
+        "en": "Completed the Book of Optics (Kitab al-Manazir)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1025,
+      "event": {
+        "en": "Wrote treatises on astronomy and mathematics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1040,
+      "event": {
+        "en": "Died in Cairo, Egypt",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Book of Optics (Kitab al-Manazir)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1021,
+      "description": {
+        "en": "A seven-volume treatise that fundamentally changed the understanding of light, vision, and optics through systematic experimentation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Doubts Concerning Ptolemy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1028,
+      "description": {
+        "en": "A critical examination of Ptolemy's astronomical and optical works, questioning established scientific authority.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Configuration of the World",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1020,
+      "description": {
+        "en": "A cosmological work describing the physical structure of the universe based on Ptolemy's astronomy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The duty of the man who investigates the writings of scientists, if learning the truth is his goal, is to make himself an enemy of all that he reads.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Book of Optics"
+    },
+    {
+      "text": {
+        "en": "The seeker after truth is not one who studies the writings of the ancients and puts his trust in them, but rather the one who suspects his faith in them and questions what he gathers from them.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Doubts Concerning Ptolemy"
+    }
+  ],
+  "relations": [
+    {
+      "person": "ptolemy",
+      "type": "influenced_by"
+    },
+    {
+      "person": "euclid",
+      "type": "influenced_by"
+    },
+    {
+      "person": "roger-bacon",
+      "type": "influenced"
+    },
+    {
+      "person": "johannes-kepler",
+      "type": "influenced"
+    }
+  ]
+}

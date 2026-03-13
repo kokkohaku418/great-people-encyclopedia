@@ -1,0 +1,208 @@
+{
+  "id": "pieter-zeeman",
+  "name": {
+    "en": "Pieter Zeeman",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ピーター・ゼーマン"
+  },
+  "birth_year": 1865,
+  "death_year": 1943,
+  "countries": [
+    "nl"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Pieter Zeeman was a Dutch physicist who discovered the splitting of spectral lines in a magnetic field, known as the Zeeman effect. This discovery provided crucial evidence for the electron theory of matter. He shared the 1902 Nobel Prize in Physics with Hendrik Lorentz.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Zeeman was born in Zonnemaire, Netherlands, a small village in Zeeland. He studied physics at the University of Leiden under Hendrik Lorentz and Heike Kamerlingh Onnes, completing his doctorate in 1893.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "The Zeeman effect was instrumental in confirming the existence of electron spin and understanding atomic structure. It became a powerful tool in spectroscopy and astrophysics for measuring magnetic fields. His work supported the classical electron theory of Lorentz and paved the way for quantum mechanics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1896,
+      "event": {
+        "en": "Discovered the splitting of spectral lines in a magnetic field (Zeeman effect).",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1900,
+      "event": {
+        "en": "Appointed professor of physics at the University of Amsterdam.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1902,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics jointly with Hendrik Lorentz.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1923,
+      "event": {
+        "en": "Became director of the newly built Zeeman Laboratory in Amsterdam.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Influence of Magnetism on the Nature of the Light Emitted by a Substance",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1897,
+      "description": {
+        "en": "Paper describing the discovery of the Zeeman effect.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Researches in Magneto-Optics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1913,
+      "description": {
+        "en": "Comprehensive account of his experimental work on the interaction of light and magnetism.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "It was in the autumn of 1896 that I conceived the idea of making an experiment to decide the question of the influence of magnetism on the nature of light.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Pieter Zeeman, Nobel lecture, 1902"
+    }
+  ],
+  "relations": [
+    {
+      "person": "hendrik-lorentz",
+      "type": "student"
+    },
+    {
+      "person": "heike-kamerlingh-onnes",
+      "type": "colleague"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "influenced"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "dmitri-mendeleev",
+  "name": {
+    "en": "Dmitri Mendeleev",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ドミトリ・メンデレーエフ"
+  },
+  "birth_year": 1834,
+  "death_year": 1907,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Dmitri Mendeleev was a Russian chemist and inventor who formulated the Periodic Law and created a farsighted version of the periodic table of elements.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Mendeleev was born in Tobolsk, Siberia, the youngest of a large family. After his father's death and the family factory burning down, his mother took him to St. Petersburg for education.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Mendeleev's periodic table organized chemistry and predicted undiscovered elements with remarkable accuracy. His framework remains the central organizing principle of chemistry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1861,
+      "event": {
+        "en": "Published organic chemistry textbook",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1869,
+      "event": {
+        "en": "Published first periodic table",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1871,
+      "event": {
+        "en": "Predicted properties of undiscovered elements",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Principles of Chemistry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1869,
+      "description": {
+        "en": "Textbook that introduced the periodic table of elements",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I saw in a dream a table where all the elements fell into place as required.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

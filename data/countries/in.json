@@ -1,0 +1,19 @@
+{
+  "id": "in",
+  "name": {
+    "en": "India",
+    "es": "India",
+    "pt": "Índia",
+    "fr": "Inde",
+    "de": "Indien",
+    "zh": "印度",
+    "hi": "भारत",
+    "ar": "الهند",
+    "id": "India",
+    "ja": "インド"
+  },
+  "region": "south-asia",
+  "description": {
+    "en": "A South Asian country with ancient traditions in mathematics, astronomy, philosophy, and a rapidly growing scientific community."
+  }
+}

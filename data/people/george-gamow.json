@@ -1,0 +1,270 @@
+{
+  "id": "george-gamow",
+  "name": {
+    "en": "George Gamow",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ジョージ・ガモフ"
+  },
+  "birth_year": 1904,
+  "death_year": 1968,
+  "countries": [
+    "ua",
+    "us"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "George Gamow was a Ukrainian-American theoretical physicist and cosmologist who proposed the Big Bang nucleosynthesis theory. He also made important contributions to nuclear physics, molecular biology, and science popularization.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Gamow was born in Odessa, then part of the Russian Empire, and studied at the University of Leningrad. He defected from the Soviet Union in 1933 and eventually settled in the United States, joining George Washington University.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Gamow's prediction of cosmic microwave background radiation and his work on Big Bang nucleosynthesis laid the foundations of modern cosmology. He was also a gifted science communicator whose popular books inspired generations of scientists.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1928,
+      "event": {
+        "en": "Developed the theory of quantum tunneling to explain alpha decay",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1934,
+      "event": {
+        "en": "Emigrated to the United States and joined George Washington University",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Published the Alpher-Bethe-Gamow paper on Big Bang nucleosynthesis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1948,
+      "event": {
+        "en": "Predicted the existence of cosmic microwave background radiation",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1954,
+      "event": {
+        "en": "Proposed that the genetic code uses triplet codons",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Alpha Decay and Quantum Tunneling",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1928,
+      "description": {
+        "en": "First successful application of quantum mechanics to nuclear physics, explaining radioactive alpha decay through quantum tunneling.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Alpher-Bethe-Gamow Paper",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1948,
+      "description": {
+        "en": "Proposed the theory of Big Bang nucleosynthesis explaining the origin of light elements in the early universe.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "One Two Three... Infinity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1947,
+      "description": {
+        "en": "A classic popular science book exploring concepts in mathematics, biology, physics, and cosmology.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There was a young fellow from Trinity / Who took the square root of infinity / But the number of digits / Gave him the fidgets / He dropped Math and took up Divinity.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "One Two Three... Infinity, 1947"
+    },
+    {
+      "text": {
+        "en": "If and when all the laws governing physical phenomena are finally discovered, and all the empirical constants occurring in these laws are finally expressed through the four independent basic constants, we will be able to say that physical science has reached its end.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Mr Tompkins in Wonderland, 1940"
+    }
+  ],
+  "relations": [
+    {
+      "person": "edward-teller",
+      "type": "collaborator"
+    },
+    {
+      "person": "niels-bohr",
+      "type": "influenced_by"
+    },
+    {
+      "person": "ralph-alpher",
+      "type": "mentor"
+    },
+    {
+      "person": "alexander-friedmann",
+      "type": "student"
+    }
+  ]
+}

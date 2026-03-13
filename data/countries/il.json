@@ -1,0 +1,19 @@
+{
+  "id": "il",
+  "name": {
+    "en": "Israel",
+    "es": "Israel",
+    "pt": "Israel",
+    "fr": "Israël",
+    "de": "Israel",
+    "zh": "以色列",
+    "hi": "इज़राइल",
+    "ar": "إسرائيل",
+    "id": "Israel",
+    "ja": "イスラエル"
+  },
+  "region": "middle-east",
+  "description": {
+    "en": "A Middle Eastern country known for its advanced technology sector and scientific research institutions."
+  }
+}

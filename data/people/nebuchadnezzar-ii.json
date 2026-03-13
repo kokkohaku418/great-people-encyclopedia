@@ -1,0 +1,138 @@
+{
+  "id": "nebuchadnezzar-ii",
+  "name": {
+    "en": "Nebuchadnezzar II",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ネブカドネザル2世"
+  },
+  "birth_year": -634,
+  "death_year": -562,
+  "countries": [
+    "iq"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Nebuchadnezzar II was the greatest king of the Neo-Babylonian Empire, rebuilding Babylon into one of the ancient world's most magnificent cities.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "He was the eldest son of Nabopolassar, founder of the Neo-Babylonian dynasty, and proved himself as a military commander early.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He transformed Babylon into a wonder of the ancient world and his conquest of Jerusalem profoundly shaped Jewish history.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": -605,
+      "event": {
+        "en": "Became king of Babylon",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": -586,
+      "event": {
+        "en": "Destroyed the Temple in Jerusalem",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Ishtar Gate",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": -575,
+      "description": {
+        "en": "Monumental gate to the city of Babylon decorated with glazed brick reliefs",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Is not this great Babylon, that I have built?",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Book of Daniel 4:30"
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,153 @@
+{
+  "id": "gamal-abdel-nasser",
+  "name": {
+    "en": "Gamal Abdel Nasser",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ガマール・アブドゥル＝ナーセル"
+  },
+  "birth_year": 1918,
+  "death_year": 1970,
+  "countries": [
+    "eg"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Gamal Abdel Nasser was the second President of Egypt and the leading figure of Arab nationalism who transformed Egypt and inspired anti-colonial movements across the Middle East.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Alexandria, he became an army officer and led the Free Officers Movement that overthrew King Farouk in 1952.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He nationalized the Suez Canal, championed pan-Arabism, and implemented land reforms that fundamentally reshaped Egyptian society.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1952,
+      "event": {
+        "en": "Led the Egyptian Revolution overthrowing King Farouk",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1956,
+      "event": {
+        "en": "Nationalized the Suez Canal, provoking the Suez Crisis",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1958,
+      "event": {
+        "en": "Formed the United Arab Republic with Syria",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "The Philosophy of the Revolution",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1955,
+      "description": {
+        "en": "Political manifesto outlining his vision for Egypt and the Arab world",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "We shall not repeat the past. We shall liquidate it.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Speech on nationalization of the Suez Canal"
+    }
+  ],
+  "relations": []
+}

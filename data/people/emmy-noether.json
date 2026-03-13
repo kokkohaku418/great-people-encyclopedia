@@ -1,0 +1,224 @@
+{
+  "id": "emmy-noether",
+  "name": {
+    "en": "Emmy Noether",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エミー・ネーター"
+  },
+  "birth_year": 1882,
+  "death_year": 1935,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics",
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Emmy Noether was a German mathematician who made groundbreaking contributions to abstract algebra and theoretical physics. Her most famous result, Noether's theorem, establishes a profound connection between symmetries and conservation laws in physics. Einstein described her as the most important woman in the history of mathematics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Noether was born in Erlangen, Germany, into a mathematical family. She overcame significant barriers to women's education, auditing courses before women were officially admitted to universities, and earned her doctorate in mathematics in 1907.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Noether's theorem became one of the most important results in theoretical physics, underpinning modern particle physics and general relativity. Her work in abstract algebra revolutionized the field and established the foundations of modern algebraic thinking. She remains an icon of achievement in the face of gender discrimination in academia.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1907,
+      "event": {
+        "en": "Earned her doctorate in mathematics from the University of Erlangen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1915,
+      "event": {
+        "en": "Invited to the University of Göttingen by David Hilbert and Felix Klein.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1918,
+      "event": {
+        "en": "Published Noether's theorem connecting symmetries and conservation laws.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1921,
+      "event": {
+        "en": "Published foundational work on ideal theory in ring theory.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1933,
+      "event": {
+        "en": "Fled Nazi Germany and joined Bryn Mawr College in the United States.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Invariante Variationsprobleme (Invariant Variation Problems)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1918,
+      "description": {
+        "en": "Paper proving Noether's theorem, linking symmetries to conservation laws.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Idealtheorie in Ringbereichen (Ideal Theory in Rings)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1921,
+      "description": {
+        "en": "Foundational paper in abstract algebra establishing the theory of ideals.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed to Emmy Noether"
+    }
+  ],
+  "relations": [
+    {
+      "person": "david-hilbert",
+      "type": "colleague"
+    },
+    {
+      "person": "albert-einstein",
+      "type": "colleague"
+    },
+    {
+      "person": "max-born",
+      "type": "colleague"
+    }
+  ]
+}

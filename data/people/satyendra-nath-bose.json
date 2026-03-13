@@ -1,0 +1,181 @@
+{
+  "id": "satyendra-nath-bose",
+  "name": {
+    "en": "Satyendra Nath Bose",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "サティエンドラ・ナート・ボース"
+  },
+  "birth_year": 1894,
+  "death_year": 1974,
+  "countries": [
+    "in"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Satyendra Nath Bose was an Indian physicist who made fundamental contributions to quantum statistics. His work on the quantum statistics of photons, later extended by Einstein, led to the concept of Bose-Einstein statistics and the prediction of the Bose-Einstein condensate. The boson particle class is named after him.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Bose was born in Calcutta, British India, and showed exceptional academic ability from an early age. He studied at Presidency College and later at the University of Calcutta, where he earned a master's degree in mixed mathematics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Bose-Einstein statistics became one of the two fundamental types of quantum statistics, governing the behavior of integer-spin particles now called bosons. His work laid the theoretical foundation for the Bose-Einstein condensate, experimentally realized in 1995. The entire class of bosons, including photons and the Higgs boson, bear his name.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1924,
+      "event": {
+        "en": "Sent his paper on photon statistics to Albert Einstein, who recognized its significance.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1924,
+      "event": {
+        "en": "Paper published with Einstein's support, establishing Bose-Einstein statistics.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1926,
+      "event": {
+        "en": "Studied in Europe, meeting Einstein, de Broglie, and Marie Curie.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1945,
+      "event": {
+        "en": "Appointed Khaira Professor of Physics at the University of Calcutta.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Planck's Law and the Hypothesis of Light Quanta",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1924,
+      "description": {
+        "en": "Paper deriving Planck's radiation law using a novel counting method for photons.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I have no intention of publishing any paper in English. I am determined that I shall write only in Bengali.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Satyendra Nath Bose, on his commitment to his mother tongue"
+    }
+  ],
+  "relations": [
+    {
+      "person": "albert-einstein",
+      "type": "collaborator"
+    },
+    {
+      "person": "louis-de-broglie",
+      "type": "colleague"
+    },
+    {
+      "person": "cv-raman",
+      "type": "colleague"
+    }
+  ]
+}

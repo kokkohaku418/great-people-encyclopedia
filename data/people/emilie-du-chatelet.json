@@ -1,0 +1,240 @@
+{
+  "id": "emilie-du-chatelet",
+  "name": {
+    "en": "Emilie du Chatelet",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "エミリー・デュ・シャトレ"
+  },
+  "birth_year": 1706,
+  "death_year": 1749,
+  "countries": [
+    "fr"
+  ],
+  "fields": [
+    "physics",
+    "mathematics",
+    "philosophy"
+  ],
+  "overview": {
+    "en": "Emilie du Chatelet was a French natural philosopher, mathematician, and physicist who made significant contributions to Newtonian mechanics. Her translation and commentary on Newton's Principia Mathematica remains the standard French translation, and she proposed the concept of kinetic energy as proportional to the square of velocity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Du Chatelet was born into a wealthy aristocratic family in Paris that encouraged her education, unusual for women of her era. She received tutoring in mathematics, literature, and science, and later studied under leading mathematicians including Pierre-Louis Maupertuis and Samuel Koenig.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Du Chatelet's French translation and commentary on Newton's Principia made his work accessible to the French-speaking scientific world and remains authoritative to this day. Her experimental demonstration that kinetic energy is proportional to the square of velocity corrected Newton and contributed to the development of the concept of energy conservation.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1706,
+      "event": {
+        "en": "Born in Paris, France",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1737,
+      "event": {
+        "en": "Published a paper on the nature of fire submitted to the French Academy of Sciences",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1740,
+      "event": {
+        "en": "Published 'Institutions de Physique,' synthesizing Leibnizian and Newtonian physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1749,
+      "event": {
+        "en": "Completed her translation of Newton's Principia Mathematica shortly before her death",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1749,
+      "event": {
+        "en": "Died in Luneville, France at age 42 from complications of childbirth",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Institutions de Physique",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1740,
+      "description": {
+        "en": "Comprehensive physics textbook synthesizing Newtonian mechanics with Leibnizian metaphysics, introducing the concept of vis viva (living force).",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Translation and Commentary on Newton's Principia Mathematica",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1749,
+      "description": {
+        "en": "French translation of Newton's masterwork with extensive commentary that remains the standard French edition.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Judge me for my own merits, or lack of them, but do not look upon me as a mere appendage to this great general or that renowned scholar.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Personal correspondence"
+    },
+    {
+      "text": {
+        "en": "If I were king, I would redress an abuse which cuts back, as it were, one half of human kind.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Preface to her translation of Bernard Mandeville"
+    }
+  ],
+  "relations": [
+    {
+      "person": "voltaire",
+      "type": "collaborator"
+    },
+    {
+      "person": "isaac-newton",
+      "type": "influenced_by"
+    },
+    {
+      "person": "gottfried-wilhelm-leibniz",
+      "type": "influenced_by"
+    }
+  ]
+}

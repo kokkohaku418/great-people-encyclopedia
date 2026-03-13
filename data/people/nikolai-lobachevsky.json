@@ -1,0 +1,153 @@
+{
+  "id": "nikolai-lobachevsky",
+  "name": {
+    "en": "Nikolai Lobachevsky",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ニコライ・ロバチェフスキー"
+  },
+  "birth_year": 1792,
+  "death_year": 1856,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "mathematics"
+  ],
+  "overview": {
+    "en": "Nikolai Lobachevsky was a Russian mathematician who independently developed non-Euclidean geometry, replacing Euclid's parallel postulate with an alternative axiom.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Lobachevsky was born in Nizhny Novgorod. He studied at Kazan University and became its rector, while pursuing his revolutionary work on geometry.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Lobachevsky's non-Euclidean geometry, initially met with skepticism, fundamentally changed the understanding of geometry and paved the way for Riemannian geometry and general relativity.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1826,
+      "event": {
+        "en": "Presented first paper on non-Euclidean geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1829,
+      "event": {
+        "en": "Published On the Principles of Geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1840,
+      "event": {
+        "en": "Published Geometrical Researches on the Theory of Parallels",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Principles of Geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1829,
+      "description": {
+        "en": "First published work systematically developing hyperbolic geometry",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "There is no branch of mathematics, however abstract, which may not some day be applied to phenomena of the real world.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": []
+}

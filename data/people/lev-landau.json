@@ -1,0 +1,269 @@
+{
+  "id": "lev-landau",
+  "name": {
+    "en": "Lev Landau",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "レフ・ランダウ"
+  },
+  "birth_year": 1908,
+  "death_year": 1968,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Lev Landau was a Soviet theoretical physicist who won the Nobel Prize in Physics in 1962 for his theory of superfluidity. He made fundamental contributions to nearly every area of theoretical physics, from condensed matter to quantum field theory and plasma physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Landau was born in Baku, Azerbaijan, then part of the Russian Empire, to a family of engineers. He was a child prodigy who entered university at age 13 and completed his studies at Leningrad State University by age 19.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Landau's work on superfluidity and phase transitions transformed condensed matter physics. His ten-volume Course of Theoretical Physics, co-authored with Evgeny Lifshitz, remains one of the most influential and widely used textbook series in physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1927,
+      "event": {
+        "en": "Graduated from Leningrad State University at age 19",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1929,
+      "event": {
+        "en": "Traveled to Europe, meeting Bohr, Heisenberg, and Pauli",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1937,
+      "event": {
+        "en": "Became head of the theoretical department at the Institute for Physical Problems in Moscow",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1941,
+      "event": {
+        "en": "Published theory of superfluidity of helium-4",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1962,
+      "event": {
+        "en": "Awarded the Nobel Prize in Physics for superfluidity theory",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Theory of Superfluidity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1941,
+      "description": {
+        "en": "Explained the superfluid behavior of liquid helium-4 using the concept of quasiparticles.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Course of Theoretical Physics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1938,
+      "description": {
+        "en": "A monumental ten-volume textbook series covering all areas of theoretical physics, co-authored with Lifshitz.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Landau Theory of Phase Transitions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1937,
+      "description": {
+        "en": "A general phenomenological theory describing continuous phase transitions using an order parameter.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "A method is more important than a discovery, since the right method will lead to new and even more important discoveries.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    },
+    {
+      "text": {
+        "en": "Cosmologists are often in error, but never in doubt.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed remark"
+    }
+  ],
+  "relations": [
+    {
+      "person": "niels-bohr",
+      "type": "influenced_by"
+    },
+    {
+      "person": "pyotr-kapitsa",
+      "type": "colleague"
+    },
+    {
+      "person": "werner-heisenberg",
+      "type": "influenced_by"
+    },
+    {
+      "person": "andrei-sakharov",
+      "type": "colleague"
+    }
+  ]
+}

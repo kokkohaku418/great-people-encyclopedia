@@ -1,0 +1,19 @@
+{
+  "id": "ph",
+  "name": {
+    "en": "Philippines",
+    "es": "Filipinas",
+    "pt": "Filipinas",
+    "fr": "Philippines",
+    "de": "Philippinen",
+    "zh": "菲律宾",
+    "hi": "फ़िलीपींस",
+    "ar": "الفلبين",
+    "id": "Filipina",
+    "ja": "フィリピン"
+  },
+  "region": "southeast-asia",
+  "description": {
+    "en": "A Southeast Asian archipelago with a diverse cultural heritage and growing contributions to science and education."
+  }
+}

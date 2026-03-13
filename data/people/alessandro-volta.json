@@ -1,0 +1,243 @@
+{
+  "id": "alessandro-volta",
+  "name": {
+    "en": "Alessandro Volta",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アレッサンドロ・ボルタ"
+  },
+  "birth_year": 1745,
+  "death_year": 1827,
+  "countries": [
+    "it"
+  ],
+  "fields": [
+    "physics",
+    "chemistry"
+  ],
+  "overview": {
+    "en": "Alessandro Volta was an Italian physicist and chemist who invented the voltaic pile, the first true electric battery, providing the first reliable source of continuous electric current. The volt, the SI unit of electric potential, is named in his honor.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Volta was born in 1745 in Como, in the Duchy of Milan. Despite his family's wish that he enter the legal profession, he developed a strong interest in electricity from a young age and was appointed professor of physics at the Royal School of Como at age 29.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Volta's invention of the electric battery in 1800 was transformative for science, enabling subsequent discoveries in electrochemistry, electromagnetism, and electrical engineering. It directly enabled the work of Humphry Davy, Faraday, and many others.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1745,
+      "event": {
+        "en": "Born in Como, Duchy of Milan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1775,
+      "event": {
+        "en": "Invented the electrophorus, a device for generating static electricity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1778,
+      "event": {
+        "en": "Discovered and isolated methane gas",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1791,
+      "event": {
+        "en": "Disputed Galvani's theory of animal electricity",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1800,
+      "event": {
+        "en": "Invented the voltaic pile, the first electric battery",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1827,
+      "event": {
+        "en": "Died in Como, Lombardy-Venetia",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Letter to Sir Joseph Banks",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1800,
+      "description": {
+        "en": "Described the voltaic pile to the President of the Royal Society, announcing the invention of the first electric battery.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Electricity Excited by the Mere Contact of Conducting Substances",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1800,
+      "description": {
+        "en": "Detailed the theory and construction of the voltaic pile based on contact electricity between dissimilar metals.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The language of experiment is more authoritative than any reasoning: facts can destroy our ratiocination—not vice versa.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "luigi-galvani",
+      "type": "rival"
+    },
+    {
+      "person": "benjamin-franklin",
+      "type": "influenced_by"
+    },
+    {
+      "person": "michael-faraday",
+      "type": "influenced"
+    },
+    {
+      "person": "andre-marie-ampere",
+      "type": "influenced"
+    }
+  ]
+}

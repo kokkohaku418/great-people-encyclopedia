@@ -1,0 +1,153 @@
+{
+  "id": "jose-de-san-martin",
+  "name": {
+    "en": "Jose de San Martin",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ホセ・デ・サン・マルティン"
+  },
+  "birth_year": 1778,
+  "death_year": 1850,
+  "countries": [
+    "ar"
+  ],
+  "fields": [
+    "politics"
+  ],
+  "overview": {
+    "en": "Jose de San Martin was an Argentine general who led the liberation of Argentina, Chile, and Peru from Spanish rule, earning the title 'Liberator of the South.'",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Yapeyu in the Viceroyalty of the Rio de la Plata, he was trained as a military officer in Spain before returning to South America to fight for independence.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "He is venerated as the national hero of Argentina, Chile, and Peru for his role in their independence from Spain.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1812,
+      "event": {
+        "en": "Returned to Argentina to join the independence movement",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1817,
+      "event": {
+        "en": "Led his army across the Andes to liberate Chile",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1821,
+      "event": {
+        "en": "Declared the independence of Peru",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Maximas para Remedios",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1825,
+      "description": {
+        "en": "Moral maxims written for his daughter",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "You shall be what you must be, or else you shall be nothing.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Letter to his daughter"
+    }
+  ],
+  "relations": []
+}

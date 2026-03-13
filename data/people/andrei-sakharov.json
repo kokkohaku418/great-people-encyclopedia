@@ -1,0 +1,269 @@
+{
+  "id": "andrei-sakharov",
+  "name": {
+    "en": "Andrei Sakharov",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "アンドレイ・サハロフ"
+  },
+  "birth_year": 1921,
+  "death_year": 1989,
+  "countries": [
+    "ru"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Andrei Sakharov was a Soviet nuclear physicist who played a key role in developing the Soviet hydrogen bomb and later became a prominent human rights activist. He was awarded the Nobel Peace Prize in 1975 for his courageous advocacy for disarmament and civil liberties.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Sakharov was born in Moscow to a family of intellectuals and studied physics at Moscow State University. During World War II he worked as an engineer, and afterwards joined the Soviet nuclear weapons program under Igor Tamm.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Sakharov's contributions to the Soviet thermonuclear weapons program were crucial to the Cold War balance of power. His later transformation into a dissident and human rights advocate made him a symbol of intellectual courage and moral integrity worldwide.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1948,
+      "event": {
+        "en": "Joined the Soviet thermonuclear weapons program",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1953,
+      "event": {
+        "en": "Contributed to the successful test of the first Soviet hydrogen bomb",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1968,
+      "event": {
+        "en": "Published 'Reflections on Progress, Peaceful Coexistence, and Intellectual Freedom'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1975,
+      "event": {
+        "en": "Awarded the Nobel Peace Prize for human rights advocacy",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1980,
+      "event": {
+        "en": "Exiled to Gorky for protesting the Soviet invasion of Afghanistan",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "Sakharov's Third Idea (Tokamak concept)",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1951,
+      "description": {
+        "en": "Co-proposed the tokamak design for controlled thermonuclear fusion using magnetic confinement.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Reflections on Progress, Peaceful Coexistence, and Intellectual Freedom",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1968,
+      "description": {
+        "en": "A landmark essay calling for nuclear disarmament, human rights, and intellectual freedom.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Baryogenesis Conditions",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1967,
+      "description": {
+        "en": "Proposed three conditions necessary to explain the matter-antimatter asymmetry of the universe.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "I am no volunteer; I was simply doing what I had to do.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Memoirs, 1990"
+    },
+    {
+      "text": {
+        "en": "A country that does not respect the rights of its own citizens will not respect the rights of its neighbors.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed"
+    }
+  ],
+  "relations": [
+    {
+      "person": "igor-tamm",
+      "type": "mentor"
+    },
+    {
+      "person": "edward-teller",
+      "type": "rival"
+    },
+    {
+      "person": "lev-landau",
+      "type": "colleague"
+    },
+    {
+      "person": "j-robert-oppenheimer",
+      "type": "colleague"
+    }
+  ]
+}

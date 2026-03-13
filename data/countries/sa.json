@@ -1,0 +1,19 @@
+{
+  "id": "sa",
+  "name": {
+    "en": "Saudi Arabia",
+    "es": "Arabia Saudita",
+    "pt": "Arábia Saudita",
+    "fr": "Arabie saoudite",
+    "de": "Saudi-Arabien",
+    "zh": "沙特阿拉伯",
+    "hi": "सऊदी अरब",
+    "ar": "المملكة العربية السعودية",
+    "id": "Arab Saudi",
+    "ja": "サウジアラビア"
+  },
+  "region": "middle-east",
+  "description": {
+    "en": "A Middle Eastern country on the Arabian Peninsula, birthplace of Islam and a major geopolitical power."
+  }
+}

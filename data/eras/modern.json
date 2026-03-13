@@ -1,0 +1,20 @@
+{
+  "id": "modern",
+  "name": {
+    "en": "Modern",
+    "es": "Moderno",
+    "pt": "Moderno",
+    "fr": "Moderne",
+    "de": "Moderne",
+    "zh": "现代",
+    "hi": "आधुनिक काल",
+    "ar": "العصر الحديث",
+    "id": "Modern",
+    "ja": "近代"
+  },
+  "start_year": 1900,
+  "end_year": 1970,
+  "description": {
+    "en": "The age of relativity, quantum mechanics, nuclear energy, two world wars, and the space race, transforming science and global politics."
+  }
+}

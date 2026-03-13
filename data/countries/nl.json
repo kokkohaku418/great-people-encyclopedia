@@ -1,0 +1,19 @@
+{
+  "id": "nl",
+  "name": {
+    "en": "Netherlands",
+    "es": "Países Bajos",
+    "pt": "Países Baixos",
+    "fr": "Pays-Bas",
+    "de": "Niederlande",
+    "zh": "荷兰",
+    "hi": "नीदरलैंड",
+    "ar": "هولندا",
+    "id": "Belanda",
+    "ja": "オランダ"
+  },
+  "region": "western-europe",
+  "description": {
+    "en": "A northwestern European country known for its contributions to optics, trade, painting, and scientific innovation."
+  }
+}

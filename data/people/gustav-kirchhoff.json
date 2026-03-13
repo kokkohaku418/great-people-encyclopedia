@@ -1,0 +1,250 @@
+{
+  "id": "gustav-kirchhoff",
+  "name": {
+    "en": "Gustav Kirchhoff",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "グスタフ・キルヒホッフ"
+  },
+  "birth_year": 1824,
+  "death_year": 1887,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics"
+  ],
+  "overview": {
+    "en": "Gustav Kirchhoff was a German physicist who formulated fundamental laws governing electrical circuits and co-founded the science of spectroscopy. His circuit laws remain essential tools in electrical engineering and physics.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Königsberg, Prussia, Kirchhoff studied at the University of Königsberg under Franz Neumann. He showed exceptional talent in mathematical physics and began his academic career at the University of Berlin.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Kirchhoff's circuit laws became foundational principles for electrical engineering. His work on spectroscopy with Robert Bunsen led to the discovery of cesium and rubidium and enabled the chemical analysis of distant stars, revolutionizing astronomy.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1845,
+      "event": {
+        "en": "Formulated Kirchhoff's circuit laws while still a student.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1859,
+      "event": {
+        "en": "Established the relationship between emission and absorption spectra (Kirchhoff's law of thermal radiation).",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1860,
+      "event": {
+        "en": "Discovered cesium with Robert Bunsen using spectroscopy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1861,
+      "event": {
+        "en": "Discovered rubidium with Robert Bunsen.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1862,
+      "event": {
+        "en": "Introduced the concept of a blackbody radiator.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Relation between the Radiating and Absorbing Powers of Different Bodies",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1859,
+      "description": {
+        "en": "Foundational paper establishing the law relating emission and absorption of thermal radiation.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Chemical Analysis by Spectral Observations",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1860,
+      "description": {
+        "en": "Landmark work with Bunsen establishing spectroscopy as a tool for chemical analysis.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Kirchhoff's Circuit Laws",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1845,
+      "description": {
+        "en": "Formulation of the current and voltage laws governing electrical circuits.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "The highest object at which the natural sciences are constrained to aim is the discovery of the ultimate and irreducible elements of which the universe is composed.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Lectures on Mathematical Physics"
+    }
+  ],
+  "relations": [
+    {
+      "person": "hermann-von-helmholtz",
+      "type": "colleague"
+    },
+    {
+      "person": "max-planck",
+      "type": "mentor"
+    },
+    {
+      "person": "ludwig-boltzmann",
+      "type": "colleague"
+    }
+  ]
+}

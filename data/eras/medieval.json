@@ -1,0 +1,20 @@
+{
+  "id": "medieval",
+  "name": {
+    "en": "Medieval",
+    "es": "Medieval",
+    "pt": "Medieval",
+    "fr": "Médiéval",
+    "de": "Mittelalter",
+    "zh": "中世纪",
+    "hi": "मध्यकाल",
+    "ar": "العصور الوسطى",
+    "id": "Abad Pertengahan",
+    "ja": "中世"
+  },
+  "start_year": 500,
+  "end_year": 1300,
+  "description": {
+    "en": "The period between the fall of Rome and the Renaissance, characterized by feudalism in Europe and the Islamic Golden Age in the Middle East."
+  }
+}

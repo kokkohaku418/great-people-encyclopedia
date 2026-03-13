@@ -1,0 +1,289 @@
+{
+  "id": "hermann-von-helmholtz",
+  "name": {
+    "en": "Hermann von Helmholtz",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": "ヘルマン・フォン・ヘルムホルツ"
+  },
+  "birth_year": 1821,
+  "death_year": 1894,
+  "countries": [
+    "de"
+  ],
+  "fields": [
+    "physics",
+    "biology"
+  ],
+  "overview": {
+    "en": "Hermann von Helmholtz was a German physicist and physician who made fundamental contributions to the conservation of energy, optics, electrodynamics, and the physiology of perception. He was one of the most versatile scientists of the 19th century.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "early_life": {
+    "en": "Born in Potsdam, Prussia, Helmholtz initially trained as a military physician due to financial constraints. His broad interests led him to study physics alongside medicine, and he quickly established himself as a leading figure in both fields.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "impact": {
+    "en": "Helmholtz's mathematical formulation of the conservation of energy was one of the most important achievements of 19th-century physics. His work on the physiology of vision and hearing bridged physics and biology, and he mentored a generation of leading physicists including Hertz and Planck.",
+    "es": "",
+    "pt": "",
+    "fr": "",
+    "de": "",
+    "zh": "",
+    "hi": "",
+    "ar": "",
+    "id": "",
+    "ja": ""
+  },
+  "timeline": [
+    {
+      "year": 1847,
+      "event": {
+        "en": "Published 'On the Conservation of Force,' establishing the mathematical basis for conservation of energy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1850,
+      "event": {
+        "en": "Measured the speed of nerve impulses for the first time.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1851,
+      "event": {
+        "en": "Invented the ophthalmoscope for examining the interior of the eye.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1856,
+      "event": {
+        "en": "Published the first volume of 'Handbook of Physiological Optics.'",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1863,
+      "event": {
+        "en": "Published 'On the Sensations of Tone,' a major work on acoustics and music perception.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "year": 1871,
+      "event": {
+        "en": "Became professor of physics at the University of Berlin.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "famous_works": [
+    {
+      "title": {
+        "en": "On the Conservation of Force",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1847,
+      "description": {
+        "en": "Seminal paper providing a mathematical formulation of the principle of conservation of energy.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Handbook of Physiological Optics",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1856,
+      "description": {
+        "en": "Comprehensive treatise on the physics and physiology of vision, a foundational text in the field.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    },
+    {
+      "title": {
+        "en": "On the Sensations of Tone",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "year": 1863,
+      "description": {
+        "en": "Major work bridging physics and physiology in the study of acoustics and musical perception.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Whoever, in the pursuit of science, seeks after immediate practical utility may rest assured that he will seek in vain.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Academic Discourse, 1862"
+    },
+    {
+      "text": {
+        "en": "All science is either physics or stamp collecting.",
+        "es": "",
+        "pt": "",
+        "fr": "",
+        "de": "",
+        "zh": "",
+        "hi": "",
+        "ar": "",
+        "id": "",
+        "ja": ""
+      },
+      "source": "Attributed (also attributed to Rutherford)"
+    }
+  ],
+  "relations": [
+    {
+      "person": "heinrich-hertz",
+      "type": "mentor"
+    },
+    {
+      "person": "max-planck",
+      "type": "mentor"
+    },
+    {
+      "person": "lord-kelvin",
+      "type": "friend"
+    },
+    {
+      "person": "james-clerk-maxwell",
+      "type": "colleague"
+    },
+    {
+      "person": "gustav-kirchhoff",
+      "type": "colleague"
+    }
+  ]
+}
