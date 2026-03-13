@@ -1,0 +1,52 @@
+{
+  "person": "orhan-pamuk",
+  "same_field": [
+    "aeschylus",
+    "aesop",
+    "albert-camus",
+    "aleksandr-blok",
+    "alexander-pushkin",
+    "allen-ginsberg",
+    "amy-tan",
+    "andrei-platonov",
+    "anna-akhmatova",
+    "anton-chekhov",
+    "aristophanes",
+    "arthur-rimbaud",
+    "banana-yoshimoto",
+    "ben-jonson",
+    "benjamin-disraeli",
+    "boris-pasternak",
+    "brothers-grimm",
+    "cao-xueqin",
+    "catullus",
+    "cesar-vallejo"
+  ],
+  "same_country": [
+    "kemal-ataturk",
+    "rumi",
+    "suleiman-the-magnificent"
+  ],
+  "same_era": [
+    "abdus-salam",
+    "ada-yonath",
+    "ahmed-zewail",
+    "ai-weiwei",
+    "alan-kay",
+    "alan-turing",
+    "albert-camus",
+    "albert-sabin",
+    "alexander-grothendieck",
+    "alexander-prokhorov",
+    "allen-ginsberg",
+    "alonzo-church",
+    "amy-tan",
+    "andre-weil",
+    "andrei-sakharov",
+    "andrew-wiles",
+    "andrey-kolmogorov",
+    "andy-warhol",
+    "anish-kapoor",
+    "ansel-adams"
+  ]
+}

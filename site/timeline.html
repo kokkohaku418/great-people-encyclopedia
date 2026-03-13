@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Timeline - Great People Encyclopedia</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, sans-serif; color: #333; background: #fff; }
+  header { padding: 20px 32px; border-bottom: 1px solid #eee; }
+  header h1 { font-size: 24px; font-weight: 700; }
+  header p { font-size: 14px; color: #666; margin-top: 4px; }
+  nav { padding: 10px 32px; font-size: 14px; }
+  nav a { color: #1a0dab; text-decoration: none; }
+  nav a:hover { text-decoration: underline; }
+  #timeline-legend { padding: 12px 32px; font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px; }
+  #timeline-container { overflow-x: auto; padding: 0 0 20px 0; }
+  #timeline-container svg { display: block; }
+  #tl-tooltip {
+    display: none;
+    position: absolute;
+    background: rgba(0,0,0,0.85);
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    line-height: 1.4;
+    pointer-events: none;
+    z-index: 1000;
+    max-width: 240px;
+  }
+  .tick line { stroke: #ddd; }
+  .domain { stroke: #bbb; }
+</style>
+</head>
+<body>
+<nav><a href="/index.html">Home</a> &gt; Timeline</nav>
+<header>
+  <h1>Historical Timeline</h1>
+  <p>1,000+ historical figures from 500 BCE to the present. Each dot is a person — hover for details, click to visit their page. Color indicates primary field.</p>
+</header>
+<div id="timeline-legend"></div>
+<div id="timeline-container"></div>
+<script src="https://unpkg.com/d3@7/dist/d3.min.js"></script>
+<script src="/assets/js/timeline.js"></script>
+</body>
+</html>

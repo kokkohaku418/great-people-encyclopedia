@@ -1,0 +1,52 @@
+{
+  "person": "sejong-the-great",
+  "same_field": [
+    "abraham-lincoln",
+    "ahmad-shah-durrani",
+    "akbar-the-great",
+    "alexander-the-great",
+    "alexis-de-tocqueville",
+    "alfred-the-great",
+    "amina-of-zaria",
+    "anwar-sadat",
+    "ashoka",
+    "augusto-sandino",
+    "augustus-caesar",
+    "aung-san",
+    "aung-san-suu-kyi",
+    "benazir-bhutto",
+    "benito-juarez",
+    "benjamin-disraeli",
+    "benjamin-franklin",
+    "bernardo-ohiggins",
+    "br-ambedkar",
+    "camillo-benso-cavour"
+  ],
+  "same_country": [
+    "nam-june-paik",
+    "park-chung-hee",
+    "syngman-rhee"
+  ],
+  "same_era": [
+    "akbar-the-great",
+    "albrecht-durer",
+    "ambroise-pare",
+    "amina-of-zaria",
+    "andreas-vesalius",
+    "artemisia-gentileschi",
+    "ben-jonson",
+    "caravaggio",
+    "christoph-scheiner",
+    "diego-velazquez",
+    "donatello",
+    "edmund-spenser",
+    "el-greco",
+    "elizabeth-i",
+    "erasmus",
+    "ferdinand-magellan",
+    "filippo-brunelleschi",
+    "francis-bacon",
+    "galileo-galilei",
+    "giordano-bruno"
+  ]
+}

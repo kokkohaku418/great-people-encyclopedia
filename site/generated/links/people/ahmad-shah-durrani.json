@@ -1,0 +1,50 @@
+{
+  "person": "ahmad-shah-durrani",
+  "same_field": [
+    "abraham-lincoln",
+    "akbar-the-great",
+    "alexander-the-great",
+    "alexis-de-tocqueville",
+    "alfred-the-great",
+    "amina-of-zaria",
+    "anwar-sadat",
+    "ashoka",
+    "augusto-sandino",
+    "augustus-caesar",
+    "aung-san",
+    "aung-san-suu-kyi",
+    "benazir-bhutto",
+    "benito-juarez",
+    "benjamin-disraeli",
+    "benjamin-franklin",
+    "bernardo-ohiggins",
+    "br-ambedkar",
+    "camillo-benso-cavour",
+    "catherine-the-great"
+  ],
+  "same_country": [
+    "rumi"
+  ],
+  "same_era": [
+    "adam-smith",
+    "adrien-marie-legendre",
+    "alessandro-volta",
+    "alexander-pushkin",
+    "alexander-von-humboldt",
+    "amedeo-avogadro",
+    "andre-marie-ampere",
+    "antoine-lavoisier",
+    "antonie-van-leeuwenhoek",
+    "antonio-vivaldi",
+    "arthur-schopenhauer",
+    "auguste-comte",
+    "augustin-jean-fresnel",
+    "augustin-louis-cauchy",
+    "baruch-spinoza",
+    "benjamin-franklin",
+    "bernardo-ohiggins",
+    "blaise-pascal",
+    "blaise-pascal-math",
+    "brothers-grimm"
+  ]
+}

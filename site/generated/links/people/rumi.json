@@ -1,0 +1,53 @@
+{
+  "person": "rumi",
+  "same_field": [
+    "adam-smith",
+    "adi-shankara",
+    "aeschylus",
+    "aesop",
+    "al-farabi",
+    "al-ghazali",
+    "albert-camus",
+    "albert-schweitzer",
+    "aleksandr-blok",
+    "alexander-pushkin",
+    "alexis-de-tocqueville",
+    "alfred-north-whitehead",
+    "allen-ginsberg",
+    "amy-tan",
+    "andrei-platonov",
+    "anna-akhmatova",
+    "anton-chekhov",
+    "aristophanes",
+    "aristotle",
+    "arthur-rimbaud"
+  ],
+  "same_country": [
+    "ahmad-shah-durrani",
+    "kemal-ataturk",
+    "orhan-pamuk",
+    "suleiman-the-magnificent"
+  ],
+  "same_era": [
+    "adi-shankara",
+    "al-farabi",
+    "al-ghazali",
+    "al-khwarizmi",
+    "alfred-the-great",
+    "averroes",
+    "avicenna",
+    "brahmagupta",
+    "charlemagne",
+    "dante-alighieri",
+    "du-fu",
+    "duns-scotus",
+    "ferdowsi",
+    "fibonacci",
+    "frederick-ii-hre",
+    "genghis-khan",
+    "giotto",
+    "harsha",
+    "hildegard-von-bingen",
+    "ibn-al-haytham"
+  ]
+}

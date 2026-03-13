@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World Map - Great People Encyclopedia</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, sans-serif; color: #333; background: #fff; }
+  nav { padding: 10px 32px; font-size: 14px; }
+  nav a { color: #1a0dab; text-decoration: none; }
+  nav a:hover { text-decoration: underline; }
+  header { padding: 16px 32px 8px; }
+  header h1 { font-size: 24px; font-weight: 700; }
+  #map-stats { font-size: 14px; color: #666; padding: 4px 32px; }
+  #map-legend { padding: 8px 32px 12px; font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px; }
+  #world-map { width: 100%; height: calc(100vh - 160px); min-height: 500px; }
+  .person-marker { background: transparent !important; border: none !important; }
+  .cluster-icon { display: flex; align-items: center; justify-content: center; border-radius: 50%; color: #fff; font-weight: 700; font-size: 13px; font-family: system-ui, sans-serif; }
+  .cluster-icon div { line-height: 1; }
+  .cluster-small { background: rgba(74, 144, 217, 0.7); width: 36px; height: 36px; }
+  .cluster-medium { background: rgba(230, 126, 34, 0.7); width: 44px; height: 44px; }
+  .cluster-large { background: rgba(192, 57, 43, 0.7); width: 52px; height: 52px; }
+</style>
+</head>
+<body>
+<nav><a href="/index.html">Home</a> &gt; World Map</nav>
+<header>
+  <h1>World Map of Historical Figures</h1>
+</header>
+<div id="map-stats"></div>
+<div id="map-legend"></div>
+<div id="world-map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="/assets/js/map.js"></script>
+</body>
+</html>

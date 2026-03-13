@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search - Great People Encyclopedia</title>
+<style>
+body { font-family: sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; }
+input[type="text"] { width: 100%; padding: 0.5rem; font-size: 1.1rem; box-sizing: border-box; }
+ul { list-style: none; padding: 0; }
+li { padding: 0.5rem 0; border-bottom: 1px solid #eee; }
+li a { font-weight: bold; text-decoration: none; }
+li a:hover { text-decoration: underline; }
+.meta { color: #666; font-size: 0.9rem; }
+.count { color: #666; margin: 0.5rem 0; }
+nav { margin-bottom: 1rem; }
+nav a { margin-right: 0.5rem; }
+</style>
+</head>
+<body>
+<nav><a href="/index.html">Home</a> &gt; Search</nav>
+<h1>Search</h1>
+<input type="text" id="q" placeholder="Search by name, field, country, or keyword..." autofocus>
+<p class="count" id="count"></p>
+<ul id="results"></ul>
+
+<script>
+let data = [];
+
+fetch('/search.json')
+  .then(r => r.json())
+  .then(d => {
+    data = d;
+    document.getElementById('count').textContent = data.length + ' people indexed.';
+    const params = new URLSearchParams(window.location.search);
+    const initial = params.get('q');
+    if (initial) {
+      document.getElementById('q').value = initial;
+      search(initial);
+    }
+  });
+
+document.getElementById('q').addEventListener('input', function() {
+  search(this.value);
+});
+
+function search(query) {
+  const q = query.toLowerCase().trim();
+  const results = document.getElementById('results');
+  const count = document.getElementById('count');
+
+  if (!q) {
+    results.innerHTML = '';
+    count.textContent = data.length + ' people indexed.';
+    return;
+  }
+
+  const matched = data.filter(p =>
+    p.name.toLowerCase().includes(q) ||
+    p.fields.join(' ').toLowerCase().includes(q) ||
+    p.countries.join(' ').toLowerCase().includes(q) ||
+    p.overview.toLowerCase().includes(q)
+  );
+
+  count.textContent = matched.length + ' result' + (matched.length !== 1 ? 's' : '') + ' found.';
+
+  results.innerHTML = matched.map(p => {
+    const life = p.birth_year
+      ? p.birth_year + (p.death_year ? ' \u2013 ' + p.death_year : ' \u2013 present')
+      : '';
+    const fields = p.fields.join(', ');
+    return '<li>'
+      + '<a href="/en/people/' + p.id + '.html">' + esc(p.name) + '</a>'
+      + '<div class="meta">' + life + (fields ? ' &middot; ' + esc(fields) : '') + '</div>'
+      + '</li>';
+  }).join('');
+}
+
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+</script>
+</body>
+</html>

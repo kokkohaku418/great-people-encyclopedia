@@ -1,0 +1,52 @@
+{
+  "person": "fela-kuti",
+  "same_field": [
+    "ai-weiwei",
+    "albrecht-durer",
+    "andy-warhol",
+    "anish-kapoor",
+    "ansel-adams",
+    "antonin-dvorak",
+    "antonio-vivaldi",
+    "aretha-franklin",
+    "artemisia-gentileschi",
+    "arthur-rubinstein",
+    "auguste-renoir",
+    "auguste-rodin",
+    "banksy",
+    "bela-bartok",
+    "billie-holiday",
+    "bob-dylan",
+    "bob-marley",
+    "caravaggio",
+    "charlie-parker",
+    "christo"
+  ],
+  "same_country": [
+    "amina-of-zaria",
+    "chinua-achebe",
+    "wole-soyinka"
+  ],
+  "same_era": [
+    "abdus-salam",
+    "ada-yonath",
+    "ahmed-zewail",
+    "ai-weiwei",
+    "alan-kay",
+    "alan-turing",
+    "albert-camus",
+    "albert-sabin",
+    "alexander-grothendieck",
+    "alexander-prokhorov",
+    "allen-ginsberg",
+    "alonzo-church",
+    "amy-tan",
+    "andre-weil",
+    "andrei-sakharov",
+    "andrew-wiles",
+    "andrey-kolmogorov",
+    "andy-warhol",
+    "anish-kapoor",
+    "ansel-adams"
+  ]
+}
