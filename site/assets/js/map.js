@@ -5,6 +5,8 @@
 (function () {
   'use strict';
 
+  var B = (document.querySelector('base') || {}).href || '/';
+
   // Country code → [lat, lng, name]
   var COORDS = {
     af: [33.93, 67.71, 'Afghanistan'], ao: [-8.84, 13.23, 'Angola'],
@@ -75,7 +77,7 @@
     maxZoom: 18
   }).addTo(map);
 
-  fetch('/search.json')
+  fetch(B + 'search.json')
     .then(function (r) { return r.json(); })
     .then(function (data) { plotPeople(data); })
     .catch(function () {
@@ -133,7 +135,7 @@
 
         var years = p.birth_year + (p.death_year ? '–' + p.death_year : '–present');
         var popupHtml = '<div style="font-family:system-ui,sans-serif;min-width:140px;">'
-          + '<strong><a href="/en/people/' + p.id + '.html" style="color:#1a0dab;">' + esc(p.name) + '</a></strong><br>'
+          + '<strong><a href="' + B + 'en/people/' + p.id + '.html" style="color:#1a0dab;">' + esc(p.name) + '</a></strong><br>'
           + '<span style="font-size:12px;color:#666;">' + years + '</span><br>'
           + '<span style="font-size:12px;color:' + color + ';">' + field + '</span>'
           + '</div>';

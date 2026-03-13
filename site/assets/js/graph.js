@@ -5,6 +5,8 @@
 (function () {
   'use strict';
 
+  var B = (document.querySelector('base') || {}).href || '/';
+
   var container = document.getElementById('relation-graph');
   if (!container) return;
 
@@ -23,7 +25,7 @@
     same_era: 'Same Era'
   };
 
-  fetch('/generated/links/people/' + personId + '.json')
+  fetch(B + 'generated/links/people/' + personId + '.json')
     .then(function (res) {
       if (!res.ok) throw new Error('No relation data');
       return res.json();
@@ -153,7 +155,7 @@
     // Click to navigate
     cy.on('tap', 'node', function (evt) {
       var id = evt.target.id();
-      window.location.href = '/en/people/' + id + '.html';
+      window.location.href = B + 'en/people/' + id + '.html';
     });
 
     // Hover cursor

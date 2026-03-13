@@ -16,6 +16,9 @@ LINKS_DIR = os.path.join(PROJECT_ROOT, 'generated', 'links', 'people')
 SITE_DIR = os.path.join(PROJECT_ROOT, 'site')
 
 LANG = 'en'
+# Base path for GitHub Pages deployment (e.g. '/great-people-encyclopedia/')
+# Set to '/' for root deployment.
+BASE_PATH = '/great-people-encyclopedia/'
 
 
 # ---------------------------------------------------------------------------
@@ -79,6 +82,7 @@ def page(title, body, breadcrumbs=None):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="{BASE_PATH}">
 <title>{esc(title)} - Great People Encyclopedia</title>
 </head>
 <body>
@@ -109,13 +113,14 @@ def person_page(title, body, breadcrumbs, person_id):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="{BASE_PATH}">
 <title>{esc(title)} - Great People Encyclopedia</title>
 </head>
 <body>
 {bc}
 {body}
 <script src="https://unpkg.com/cytoscape@3.30.4/dist/cytoscape.min.js"></script>
-<script src="/assets/js/graph.js"></script>
+<script src="assets/js/graph.js"></script>
 </body>
 </html>
 '''
@@ -125,7 +130,7 @@ def person_link(pid, people):
     """Generate an <a> tag for a person."""
     if pid in people:
         name = esc(t(people[pid]['name']))
-        return f'<a href="/en/people/{pid}.html">{name}</a>'
+        return f'<a href="en/people/{pid}.html">{name}</a>'
     return esc(pid)
 
 
@@ -236,7 +241,7 @@ def generate_person_page(person, people, fields, countries, links):
         field_links = []
         for fid in person_fields:
             fname = esc(t(fields[fid]['name'])) if fid in fields else esc(fid)
-            field_links.append(f'<a href="/en/fields/{fid}.html">{fname}</a>')
+            field_links.append(f'<a href="en/fields/{fid}.html">{fname}</a>')
         meta_items.append(f'<li><strong>Fields:</strong> {", ".join(field_links)}</li>')
 
     person_countries = person.get('countries', [])
@@ -244,7 +249,7 @@ def generate_person_page(person, people, fields, countries, links):
         country_links = []
         for cid in person_countries:
             cname = esc(t(countries[cid]['name'])) if cid in countries else esc(cid)
-            country_links.append(f'<a href="/en/countries/{cid}.html">{cname}</a>')
+            country_links.append(f'<a href="en/countries/{cid}.html">{cname}</a>')
         meta_items.append(f'<li><strong>Countries:</strong> {", ".join(country_links)}</li>')
 
     if meta_items:
@@ -259,7 +264,7 @@ def generate_person_page(person, people, fields, countries, links):
             sections.append(f'<section>\n<h2>{label}</h2>\n<ul>\n' + '\n'.join(items) + '\n</ul>\n</section>')
 
     body = f'<h1>{esc(name)}</h1>\n' + '\n\n'.join(sections)
-    breadcrumbs = [('Home', '/index.html'), ('People', '/en/people/'), (name, None)]
+    breadcrumbs = [('Home', 'index.html'), ('People', 'en/people/'), (name, None)]
     return person_page(name, body, breadcrumbs, pid)
 
 
@@ -278,7 +283,7 @@ def generate_field_page(field, people_by_field, people):
         sections.append(f'<section>\n<h2>People ({len(pids)})</h2>\n<ul>\n' + '\n'.join(items) + '\n</ul>\n</section>')
 
     body = f'<h1>{esc(name)}</h1>\n' + '\n\n'.join(sections)
-    breadcrumbs = [('Home', '/index.html'), ('Fields', '/en/fields/'), (name, None)]
+    breadcrumbs = [('Home', 'index.html'), ('Fields', 'en/fields/'), (name, None)]
     return page(name, body, breadcrumbs)
 
 
@@ -297,7 +302,7 @@ def generate_country_page(country, people_by_country, people):
         sections.append(f'<section>\n<h2>People ({len(pids)})</h2>\n<ul>\n' + '\n'.join(items) + '\n</ul>\n</section>')
 
     body = f'<h1>{esc(name)}</h1>\n' + '\n\n'.join(sections)
-    breadcrumbs = [('Home', '/index.html'), ('Countries', '/en/countries/'), (name, None)]
+    breadcrumbs = [('Home', 'index.html'), ('Countries', 'en/countries/'), (name, None)]
     return page(name, body, breadcrumbs)
 
 
@@ -319,7 +324,7 @@ def generate_era_page(era, people_by_era, people):
         sections.append(f'<section>\n<h2>People ({len(pids)})</h2>\n<ul>\n' + '\n'.join(items) + '\n</ul>\n</section>')
 
     body = f'<h1>{esc(name)}</h1>\n' + '\n\n'.join(sections)
-    breadcrumbs = [('Home', '/index.html'), ('Eras', '/en/eras/'), (name, None)]
+    breadcrumbs = [('Home', 'index.html'), ('Eras', 'en/eras/'), (name, None)]
     return page(name, body, breadcrumbs)
 
 
@@ -330,7 +335,7 @@ def generate_people_index(people):
         name = esc(t(people[pid]['name']))
         items.append(f'<li><a href="./{pid}.html">{name}</a></li>')
     body = f'<h1>People ({len(items)})</h1>\n<ul>\n' + '\n'.join(items) + '\n</ul>'
-    breadcrumbs = [('Home', '/index.html'), ('People', None)]
+    breadcrumbs = [('Home', 'index.html'), ('People', None)]
     return page(f'People ({len(items)})', body, breadcrumbs)
 
 
@@ -360,35 +365,36 @@ def generate_index(people, fields, countries, eras):
     items = []
     for fid in sorted(fields.keys()):
         name = esc(t(fields[fid]['name']))
-        items.append(f'<li><a href="/en/fields/{fid}.html">{name}</a></li>')
+        items.append(f'<li><a href="en/fields/{fid}.html">{name}</a></li>')
     sections.append(f'<section>\n<h2>Fields ({len(items)})</h2>\n<ul>\n' + '\n'.join(items) + '\n</ul>\n</section>')
 
     # Countries
     items = []
     for cid in sorted(countries.keys()):
         name = esc(t(countries[cid]['name']))
-        items.append(f'<li><a href="/en/countries/{cid}.html">{name}</a></li>')
+        items.append(f'<li><a href="en/countries/{cid}.html">{name}</a></li>')
     sections.append(f'<section>\n<h2>Countries ({len(items)})</h2>\n<ul>\n' + '\n'.join(items) + '\n</ul>\n</section>')
 
     # Eras
     items = []
     for eid, era in sorted(eras.items(), key=lambda x: x[1].get('start_year', 0)):
         name = esc(t(era['name']))
-        items.append(f'<li><a href="/en/eras/{eid}.html">{name}</a></li>')
+        items.append(f'<li><a href="en/eras/{eid}.html">{name}</a></li>')
     sections.append(f'<section>\n<h2>Eras ({len(items)})</h2>\n<ul>\n' + '\n'.join(items) + '\n</ul>\n</section>')
 
-    nav_links = '<p style="margin-bottom:16px;"><a href="/timeline.html">Timeline</a> | <a href="/map.html">World Map</a> | <a href="/search.html">Search</a> | <a href="/random.html">Random Person</a></p>'
+    nav_links = '<p style="margin-bottom:16px;"><a href="timeline.html">Timeline</a> | <a href="map.html">World Map</a> | <a href="search.html">Search</a> | <a href="random.html">Random Person</a></p>'
     body = '<h1>Great People Encyclopedia</h1>\n' + nav_links + '\n\n'.join(sections)
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="{BASE_PATH}">
 <title>Great People Encyclopedia</title>
 </head>
 <body>
 {body}
-<script src="/assets/js/filter.js"></script>
+<script src="assets/js/filter.js"></script>
 </body>
 </html>
 '''

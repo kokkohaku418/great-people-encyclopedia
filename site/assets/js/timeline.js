@@ -5,6 +5,8 @@
 (function () {
   'use strict';
 
+  var B = (document.querySelector('base') || {}).href || '/';
+
   var FIELD_COLORS = {
     physics: '#4a90d9',
     mathematics: '#9b59b6',
@@ -32,7 +34,7 @@
   tooltip.id = 'tl-tooltip';
   document.body.appendChild(tooltip);
 
-  fetch('/search.json')
+  fetch(B + 'search.json')
     .then(function (r) { return r.json(); })
     .then(function (data) { render(data); })
     .catch(function () {
@@ -135,7 +137,7 @@
         tooltip.style.display = 'none';
       })
       .on('click', function (event, d) {
-        window.location.href = '/en/people/' + d.id + '.html';
+        window.location.href = B + 'en/people/' + d.id + '.html';
       });
 
     // Lifespan lines (optional subtle line from birth to death)

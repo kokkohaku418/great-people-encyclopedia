@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="/great-people-encyclopedia/">
 <title>Search - Great People Encyclopedia</title>
 <style>
 body { font-family: sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; }
@@ -18,7 +19,7 @@ nav a { margin-right: 0.5rem; }
 </style>
 </head>
 <body>
-<nav><a href="/index.html">Home</a> &gt; Search</nav>
+<nav><a href="index.html">Home</a> &gt; Search</nav>
 <h1>Search</h1>
 <input type="text" id="q" placeholder="Search by name, field, country, or keyword..." autofocus>
 <p class="count" id="count"></p>
@@ -27,7 +28,8 @@ nav a { margin-right: 0.5rem; }
 <script>
 let data = [];
 
-fetch('/search.json')
+var B = (document.querySelector('base') || {}).href || '/';
+fetch(B + 'search.json')
   .then(r => r.json())
   .then(d => {
     data = d;
@@ -70,7 +72,7 @@ function search(query) {
       : '';
     const fields = p.fields.join(', ');
     return '<li>'
-      + '<a href="/en/people/' + p.id + '.html">' + esc(p.name) + '</a>'
+      + '<a href="' + B + 'en/people/' + p.id + '.html">' + esc(p.name) + '</a>'
       + '<div class="meta">' + life + (fields ? ' &middot; ' + esc(fields) : '') + '</div>'
       + '</li>';
   }).join('');

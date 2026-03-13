@@ -5,6 +5,8 @@
 (function () {
   'use strict';
 
+  var B = (document.querySelector('base') || {}).href || '/';
+
   var container = document.getElementById('people-filter-app');
   if (!container) return;
 
@@ -137,7 +139,7 @@
 
     var html = '';
     filtered.forEach(function (p) {
-      html += '<li><a href="/en/people/' + p.id + '.html">' + escHtml(p.name) + '</a></li>';
+      html += '<li><a href="' + B + 'en/people/' + p.id + '.html">' + escHtml(p.name) + '</a></li>';
     });
     listEl.innerHTML = html;
   }
@@ -148,7 +150,7 @@
 
   // Init
   buildUI();
-  fetch('/search.json')
+  fetch(B + 'search.json')
     .then(function (res) { return res.json(); })
     .then(function (data) {
       people = data.sort(function (a, b) { return a.name.localeCompare(b.name); });
